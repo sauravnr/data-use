@@ -1,4 +1,5 @@
 {
+<<<<<<< HEAD
   "updated_at": "2026-05-22T10:00:00Z",
   "source": "Nepal Oil Corporation (seed data)",
   "currency": "NPR",
@@ -29,4 +30,22 @@
       "lpg": 2160.0
     }
   }
+=======
+  "currency": "NPR",
+  "unit_fuel": "per liter",
+  "unit_lpg": "per cylinder",
+  "effective": "प्रेस 2082.05.15 (2025.08.31)",
+  "zones": {
+    "eastern_depots": {
+      "label": "प्रेस 2082.05.15 (2025.08.31)",
+      "petrol": 156.0,
+      "diesel": 139.0,
+      "kerosene": 139.0,
+      "lpg": 1910.0,
+      "jet_a1": 127.0
+    }
+  },
+  "source": "Nepal Oil Corporation",
+  "updated_at": "2026-05-23T08:39:41Z"
+>>>>>>> 54d41e47418134a4e954aa7cf308889efc7ea5ff
 }
