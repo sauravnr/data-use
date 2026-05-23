@@ -1,0 +1,13 @@
+{
+  "updated_at": "2026-05-22T10:00:00Z",
+  "source": "ShareSansar (seed data)",
+  "currency": "NPR",
+  "rates": {
+    "fine_gold_per_tola": 293700,
+    "fine_gold_per_10g": 251892,
+    "tejabi_gold_per_tola": 293000,
+    "tejabi_gold_per_10g": 251292,
+    "silver_per_tola": 5115,
+    "silver_per_10g": 4386
+  }
+}

@@ -1,0 +1,65 @@
+name: Scrape prices
+
+on:
+  schedule:
+    # 02:00 UTC daily ≈ 07:45 AM NPT — after morning rates publish
+    - cron: "0 2 * * *"
+    # 10:00 UTC daily ≈ 03:45 PM NPT — afternoon refresh for fuel/gold
+    - cron: "0 10 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: scrape-${{ github.ref }}
+  cancel-in-progress: false
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+          cache-dependency-path: scrapers/requirements.txt
+
+      - name: Install dependencies
+        run: pip install -r scrapers/requirements.txt
+
+      - name: Scrape gold/silver
+        run: python scrapers/gold_silver.py || true
+        working-directory: ${{ github.workspace }}
+
+      - name: Scrape fuel
+        run: python scrapers/fuel.py || true
+        working-directory: ${{ github.workspace }}
+
+      - name: Scrape vegetables
+        run: python scrapers/vegetables.py || true
+        working-directory: ${{ github.workspace }}
+
+      - name: Scrape forex
+        run: python scrapers/forex.py || true
+        working-directory: ${{ github.workspace }}
+
+      - name: Commit & push updated data
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/
+          if git diff --cached --quiet; then
+            echo "No changes — nothing to commit."
+          else
+            git commit -m "data: auto-update $(date -u +'%Y-%m-%d %H:%M UTC')"
+            git push https://x-access-token:${GITHUB_TOKEN}@github.com/${{ github.repository }}.git HEAD:main
+          fi

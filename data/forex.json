@@ -1,0 +1,30 @@
+{
+  "currency": "NPR",
+  "as_of_date": "2026-05-23",
+  "rates": [
+    { "iso3": "INR", "name_en": "Indian Rupee",        "name_ne": "भारतीय रुपैयाँ",   "country": "IN", "unit": 100, "buy": 160.00, "sell": 160.15 },
+    { "iso3": "USD", "name_en": "U.S. Dollar",         "name_ne": "अमेरिकी डलर",      "country": "US", "unit": 1,   "buy": 152.81, "sell": 153.41 },
+    { "iso3": "EUR", "name_en": "European Euro",       "name_ne": "युरो",              "country": "EU", "unit": 1,   "buy": 177.17, "sell": 177.86 },
+    { "iso3": "GBP", "name_en": "UK Pound Sterling",   "name_ne": "बेलायती पाउण्ड",   "country": "GB", "unit": 1,   "buy": 205.06, "sell": 205.87 },
+    { "iso3": "CHF", "name_en": "Swiss Franc",         "name_ne": "स्विस फ्रांक",      "country": "CH", "unit": 1,   "buy": 194.20, "sell": 194.97 },
+    { "iso3": "AUD", "name_en": "Australian Dollar",   "name_ne": "अष्ट्रेलियन डलर",   "country": "AU", "unit": 1,   "buy": 108.85, "sell": 109.27 },
+    { "iso3": "CAD", "name_en": "Canadian Dollar",     "name_ne": "क्यानेडियन डलर",    "country": "CA", "unit": 1,   "buy": 110.76, "sell": 111.19 },
+    { "iso3": "SGD", "name_en": "Singapore Dollar",    "name_ne": "सिंगापुरी डलर",     "country": "SG", "unit": 1,   "buy": 119.34, "sell": 119.81 },
+    { "iso3": "JPY", "name_en": "Japanese Yen",        "name_ne": "जापानी येन",       "country": "JP", "unit": 10,  "buy": 9.60,   "sell": 9.64   },
+    { "iso3": "CNY", "name_en": "Chinese Yuan",        "name_ne": "चिनियाँ युआन",     "country": "CN", "unit": 1,   "buy": 22.49,  "sell": 22.58  },
+    { "iso3": "SAR", "name_en": "Saudi Arabian Riyal", "name_ne": "साउदी रियाल",      "country": "SA", "unit": 1,   "buy": 40.72,  "sell": 40.88  },
+    { "iso3": "QAR", "name_en": "Qatari Riyal",        "name_ne": "कतारी रियाल",      "country": "QA", "unit": 1,   "buy": 41.94,  "sell": 42.10  },
+    { "iso3": "THB", "name_en": "Thai Baht",           "name_ne": "थाई बाहत",         "country": "TH", "unit": 1,   "buy": 4.67,   "sell": 4.69   },
+    { "iso3": "AED", "name_en": "UAE Dirham",          "name_ne": "युएई दिर्हाम",      "country": "AE", "unit": 1,   "buy": 41.61,  "sell": 41.77  },
+    { "iso3": "MYR", "name_en": "Malaysian Ringgit",   "name_ne": "मलेसियन रिंगिट",   "country": "MY", "unit": 1,   "buy": 38.51,  "sell": 38.66  },
+    { "iso3": "KRW", "name_en": "South Korean Won",    "name_ne": "कोरियन वोन",       "country": "KR", "unit": 100, "buy": 10.07,  "sell": 10.11  },
+    { "iso3": "SEK", "name_en": "Swedish Kroner",      "name_ne": "स्विडिश क्रोनर",    "country": "SE", "unit": 1,   "buy": 16.31,  "sell": 16.37  },
+    { "iso3": "DKK", "name_en": "Danish Kroner",       "name_ne": "डेनिस क्रोनर",      "country": "DK", "unit": 1,   "buy": 23.71,  "sell": 23.80  },
+    { "iso3": "HKD", "name_en": "Hong Kong Dollar",    "name_ne": "हङकङ डलर",         "country": "HK", "unit": 1,   "buy": 19.50,  "sell": 19.58  },
+    { "iso3": "KWD", "name_en": "Kuwaiti Dinar",       "name_ne": "कुवेती दिनार",      "country": "KW", "unit": 1,   "buy": 498.08, "sell": 500.03 },
+    { "iso3": "BHD", "name_en": "Bahrain Dinar",       "name_ne": "बहरेनी दिनार",     "country": "BH", "unit": 1,   "buy": 405.28, "sell": 406.87 },
+    { "iso3": "OMR", "name_en": "Omani Rial",          "name_ne": "ओमानी रियाल",      "country": "OM", "unit": 1,   "buy": 396.90, "sell": 398.46 }
+  ],
+  "source": "Nepal Rastra Bank",
+  "updated_at": "2026-05-23T00:00:09Z"
+}
