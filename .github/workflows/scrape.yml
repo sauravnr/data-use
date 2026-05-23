@@ -46,6 +46,13 @@ jobs:
         run: python scrapers/vegetables.py || true
         working-directory: ${{ github.workspace }}
 
+<<<<<<< HEAD
+      - name: Scrape forex
+        run: python scrapers/forex.py || true
+        working-directory: ${{ github.workspace }}
+
+=======
+>>>>>>> 54d41e47418134a4e954aa7cf308889efc7ea5ff
       - name: Commit & push updated data
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

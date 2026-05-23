@@ -1,4 +1,25 @@
 {
+<<<<<<< HEAD
+  "updated_at": "2026-05-22T03:00:00Z",
+  "source": "Kalimati Market (seed data)",
+  "currency": "NPR",
+  "unit_default": "per kg",
+  "count": 12,
+  "items": [
+    { "name_ne": "गोलभेडा ठूलो(भारतीय)", "name_en": "Tomato (Large, Indian)", "unit": "kg", "min": 70, "max": 80, "avg": 75 },
+    { "name_ne": "आलु रातो(लाम्चो)",     "name_en": "Potato (Red)",           "unit": "kg", "min": 25, "max": 30, "avg": 27.5 },
+    { "name_ne": "प्याज सुख्खा (भारतीय)", "name_en": "Onion (Dried)",          "unit": "kg", "min": 37, "max": 38, "avg": 37.5 },
+    { "name_ne": "गाजर (लोकल)",          "name_en": "Carrot (Local)",         "unit": "kg", "min": 50, "max": 60, "avg": 55 },
+    { "name_ne": "काउली (लोकल)",         "name_en": "Cauliflower (Local)",    "unit": "kg", "min": 30, "max": 40, "avg": 35 },
+    { "name_ne": "बन्दा (लोकल)",         "name_en": "Cabbage (Local)",        "unit": "kg", "min": 25, "max": 35, "avg": 30 },
+    { "name_ne": "खुर्सानी सुख्खा",       "name_en": "Chili (Dry)",            "unit": "kg", "min": 350, "max": 400, "avg": 375 },
+    { "name_ne": "अदुवा",                 "name_en": "Ginger",                 "unit": "kg", "min": 90, "max": 110, "avg": 100 },
+    { "name_ne": "लसुन हरियो",            "name_en": "Garlic (Green)",         "unit": "kg", "min": 220, "max": 260, "avg": 240 },
+    { "name_ne": "च्याउ (कन्य)",          "name_en": "Mushroom (Button)",      "unit": "kg", "min": 200, "max": 220, "avg": 210 },
+    { "name_ne": "स्याउ (फूजी)",          "name_en": "Apple (Fuji)",           "unit": "kg", "min": 250, "max": 325, "avg": 287.5 },
+    { "name_ne": "केरा",                  "name_en": "Banana",                 "unit": "dozen", "min": 130, "max": 160, "avg": 145 }
+  ]
+=======
   "currency": "NPR",
   "unit_default": "per kg",
   "count": 93,
@@ -750,4 +771,5 @@
   ],
   "source": "Kalimati Market",
   "updated_at": "2026-05-23T08:39:42Z"
+>>>>>>> 54d41e47418134a4e954aa7cf308889efc7ea5ff
 }

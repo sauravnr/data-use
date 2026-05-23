@@ -1,4 +1,36 @@
 {
+<<<<<<< HEAD
+  "updated_at": "2026-05-22T10:00:00Z",
+  "source": "Nepal Oil Corporation (seed data)",
+  "currency": "NPR",
+  "unit_fuel": "per liter",
+  "unit_lpg": "per cylinder",
+  "effective": "2026-05-20",
+  "zones": {
+    "kathmandu": {
+      "label": "Kathmandu, Pokhara, Dipayal",
+      "petrol": 217.0,
+      "diesel": 225.0,
+      "kerosene": 225.0,
+      "lpg": 2160.0,
+      "jet_a1": 269.0
+    },
+    "eastern_depots": {
+      "label": "Charali, Biratnagar, Mahendranagar, Birgunj, Amlekhgunj, Bhalbari, Nepalgunj, Dhangadi",
+      "petrol": 214.5,
+      "diesel": 222.5,
+      "kerosene": 222.5,
+      "lpg": 2160.0
+    },
+    "surkhet_dang": {
+      "label": "Surkhet, Dang",
+      "petrol": 216.0,
+      "diesel": 224.0,
+      "kerosene": 224.0,
+      "lpg": 2160.0
+    }
+  }
+=======
   "currency": "NPR",
   "unit_fuel": "per liter",
   "unit_lpg": "per cylinder",
@@ -15,4 +47,5 @@
   },
   "source": "Nepal Oil Corporation",
   "updated_at": "2026-05-23T08:39:41Z"
+>>>>>>> 54d41e47418134a4e954aa7cf308889efc7ea5ff
 }
