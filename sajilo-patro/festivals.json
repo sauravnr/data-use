@@ -1,0 +1,870 @@
+{
+  "version": 1,
+  "updatedAt": "2026-05-23",
+  "festivals": [
+    {
+      "bsYear": 2081,
+      "bsMonth": 1,
+      "bsDay": 1,
+      "name": "नयाँ वर्ष २०८१",
+      "type": "national",
+      "holiday": true,
+      "nameEn": "New Year 2081"
+    },
+    {
+      "bsYear": 2081,
+      "bsMonth": 1,
+      "bsDay": 5,
+      "name": "राम नवमी",
+      "type": "festival",
+      "holiday": true,
+      "nameEn": "Ram Navami"
+    },
+    {
+      "bsYear": 2081,
+      "bsMonth": 1,
+      "bsDay": 19,
+      "name": "अन्तर्राष्ट्रिय श्रमिक दिवस",
+      "type": "national",
+      "holiday": true,
+      "nameEn": "International Workers Day"
+    },
+    {
+      "bsYear": 2081,
+      "bsMonth": 2,
+      "bsDay": 10,
+      "name": "बुद्ध जयन्ती",
+      "type": "festival",
+      "holiday": true,
+      "nameEn": "Buddha Jayanti"
+    },
+    {
+      "bsYear": 2081,
+      "bsMonth": 2,
+      "bsDay": 10,
+      "name": "उभौली पर्व",
+      "type": "festival",
+      "holiday": false,
+      "nameEn": "Ubhauli Parva"
+    },
+    {
+      "bsYear": 2081,
+      "bsMonth": 2,
+      "bsDay": 15,
+      "name": "गणतन्त्र दिवस",
+      "type": "national",
+      "holiday": true,
+      "nameEn": "Republic Day"
+    },
+    {
+      "bsYear": 2081,
+      "bsMonth": 3,
+      "bsDay": 3,
+      "name": "बकर इद",
+      "type": "festival",
+      "holiday": true,
+      "nameEn": "Bakra Eid"
+    },
+    {
+      "bsYear": 2081,
+      "bsMonth": 5,
+      "bsDay": 3,
+      "name": "जनै पूर्णिमा / रक्षाबन्धन",
+      "type": "festival",
+      "holiday": true,
+      "nameEn": "Janai Purnima / Raksha Bandhan"
+    },
+    {
+      "bsYear": 2081,
+      "bsMonth": 5,
+      "bsDay": 3,
+      "name": "गाई जात्रा",
+      "type": "festival",
+      "holiday": false,
+      "nameEn": "Gai Jatra"
+    },
+    {
+      "bsYear": 2081,
+      "bsMonth": 5,
+      "bsDay": 10,
+      "name": "श्रीकृष्ण जन्माष्टमी",
+      "type": "festival",
+      "holiday": true,
+      "nameEn": "Shree Krishna Janmashtami"
+    },
+    {
+      "bsYear": 2081,
+      "bsMonth": 6,
+      "bsDay": 3,
+      "name": "संविधान दिवस",
+      "type": "national",
+      "holiday": true,
+      "nameEn": "Constitution Day"
+    },
+    {
+      "bsYear": 2081,
+      "bsMonth": 6,
+      "bsDay": 17,
+      "name": "घटस्थापना",
+      "type": "festival",
+      "holiday": true,
+      "nameEn": "Ghatasthapana"
+    },
+    {
+      "bsYear": 2081,
+      "bsMonth": 6,
+      "bsDay": 24,
+      "name": "फूलपाती",
+      "type": "festival",
+      "holiday": true,
+      "nameEn": "Fulpati"
+    },
+    {
+      "bsYear": 2081,
+      "bsMonth": 6,
+      "bsDay": 25,
+      "name": "महा अष्टमी / महानवमी",
+      "type": "festival",
+      "holiday": true,
+      "nameEn": "Maha Ashtami / Maha Navami"
+    },
+    {
+      "bsYear": 2081,
+      "bsMonth": 6,
+      "bsDay": 26,
+      "name": "विजया दशमी",
+      "type": "festival",
+      "holiday": true,
+      "nameEn": "Vijaya Dashami"
+    },
+    {
+      "bsYear": 2081,
+      "bsMonth": 7,
+      "bsDay": 15,
+      "name": "कुकुर तिहार / लक्ष्मी पूजा",
+      "type": "festival",
+      "holiday": true,
+      "nameEn": "Kukur Tihar / Laxmi Puja"
+    },
+    {
+      "bsYear": 2081,
+      "bsMonth": 7,
+      "bsDay": 17,
+      "name": "गाई पूजा / गोवर्धन पूजा / म्ह पूजा",
+      "type": "festival",
+      "holiday": true,
+      "nameEn": "Gai Puja / Govardhan Puja / Mha Puja"
+    },
+    {
+      "bsYear": 2081,
+      "bsMonth": 7,
+      "bsDay": 18,
+      "name": "भाइ टीका",
+      "type": "festival",
+      "holiday": true,
+      "nameEn": "Bhai Tika"
+    },
+    {
+      "bsYear": 2081,
+      "bsMonth": 7,
+      "bsDay": 22,
+      "name": "छठ पर्व",
+      "type": "festival",
+      "holiday": true,
+      "nameEn": "Chhath Parva"
+    },
+    {
+      "bsYear": 2081,
+      "bsMonth": 8,
+      "bsDay": 30,
+      "name": "योमरी पुन्ही / उधौली पर्व",
+      "type": "festival",
+      "holiday": false,
+      "nameEn": "Yomari Punhi / Udhauli Parva"
+    },
+    {
+      "bsYear": 2081,
+      "bsMonth": 9,
+      "bsDay": 10,
+      "name": "क्रिसमस दिवस",
+      "type": "festival",
+      "holiday": false,
+      "nameEn": "Christmas Day"
+    },
+    {
+      "bsYear": 2081,
+      "bsMonth": 9,
+      "bsDay": 15,
+      "name": "तमु ल्होसार",
+      "type": "festival",
+      "holiday": true,
+      "nameEn": "Tamu Lhosar"
+    },
+    {
+      "bsYear": 2081,
+      "bsMonth": 9,
+      "bsDay": 27,
+      "name": "पृथ्वी जयन्ती / राष्ट्रिय एकता दिवस",
+      "type": "national",
+      "holiday": true,
+      "nameEn": "Prithvi Jayanti / National Unity Day"
+    },
+    {
+      "bsYear": 2081,
+      "bsMonth": 10,
+      "bsDay": 1,
+      "name": "माघे संक्रान्ति",
+      "type": "festival",
+      "holiday": true,
+      "nameEn": "Maghe Sankranti"
+    },
+    {
+      "bsYear": 2081,
+      "bsMonth": 10,
+      "bsDay": 16,
+      "name": "शहीद दिवस",
+      "type": "national",
+      "holiday": true,
+      "nameEn": "Martyrs Day"
+    },
+    {
+      "bsYear": 2081,
+      "bsMonth": 10,
+      "bsDay": 17,
+      "name": "सोनम ल्होसार",
+      "type": "festival",
+      "holiday": true,
+      "nameEn": "Sonam Lhosar"
+    },
+    {
+      "bsYear": 2081,
+      "bsMonth": 11,
+      "bsDay": 7,
+      "name": "प्रजातन्त्र दिवस",
+      "type": "national",
+      "holiday": true,
+      "nameEn": "Democracy Day"
+    },
+    {
+      "bsYear": 2081,
+      "bsMonth": 11,
+      "bsDay": 14,
+      "name": "महा शिवरात्रि",
+      "type": "festival",
+      "holiday": true,
+      "nameEn": "Maha Shivaratri"
+    },
+    {
+      "bsYear": 2081,
+      "bsMonth": 11,
+      "bsDay": 16,
+      "name": "ग्याल्पो ल्होसार",
+      "type": "festival",
+      "holiday": true,
+      "nameEn": "Gyalpo Lhosar"
+    },
+    {
+      "bsYear": 2081,
+      "bsMonth": 11,
+      "bsDay": 24,
+      "name": "अन्तर्राष्ट्रिय नारी दिवस",
+      "type": "national",
+      "holiday": true,
+      "nameEn": "International Women’s Day"
+    },
+    {
+      "bsYear": 2081,
+      "bsMonth": 11,
+      "bsDay": 29,
+      "name": "होली (पहाडी क्षेत्र)",
+      "type": "festival",
+      "holiday": true,
+      "nameEn": "Holi (Hill Region)"
+    },
+    {
+      "bsYear": 2081,
+      "bsMonth": 12,
+      "bsDay": 1,
+      "name": "होली (तराई क्षेत्र)",
+      "type": "festival",
+      "holiday": true,
+      "nameEn": "Holi (Terai Region)"
+    },
+    {
+      "bsYear": 2082,
+      "bsMonth": 1,
+      "bsDay": 1,
+      "name": "नयाँ वर्ष २०८२",
+      "type": "national",
+      "holiday": true,
+      "nameEn": "New Year 2082"
+    },
+    {
+      "bsYear": 2082,
+      "bsMonth": 1,
+      "bsDay": 18,
+      "name": "अन्तर्राष्ट्रिय श्रमिक दिवस",
+      "type": "national",
+      "holiday": true,
+      "nameEn": "International Workers Day"
+    },
+    {
+      "bsYear": 2082,
+      "bsMonth": 1,
+      "bsDay": 29,
+      "name": "बुद्ध जयन्ती",
+      "type": "festival",
+      "holiday": true,
+      "nameEn": "Buddha Jayanti"
+    },
+    {
+      "bsYear": 2082,
+      "bsMonth": 1,
+      "bsDay": 29,
+      "name": "उभौली पर्व",
+      "type": "festival",
+      "holiday": false,
+      "nameEn": "Ubhauli Parva"
+    },
+    {
+      "bsYear": 2082,
+      "bsMonth": 2,
+      "bsDay": 15,
+      "name": "गणतन्त्र दिवस",
+      "type": "national",
+      "holiday": true,
+      "nameEn": "Republic Day"
+    },
+    {
+      "bsYear": 2082,
+      "bsMonth": 2,
+      "bsDay": 24,
+      "name": "बकर इद",
+      "type": "festival",
+      "holiday": true,
+      "nameEn": "Bakra Eid"
+    },
+    {
+      "bsYear": 2082,
+      "bsMonth": 4,
+      "bsDay": 24,
+      "name": "जनै पूर्णिमा / रक्षाबन्धन",
+      "type": "festival",
+      "holiday": true,
+      "nameEn": "Janai Purnima / Raksha Bandhan"
+    },
+    {
+      "bsYear": 2082,
+      "bsMonth": 4,
+      "bsDay": 31,
+      "name": "श्रीकृष्ण जन्माष्टमी",
+      "type": "festival",
+      "holiday": true,
+      "nameEn": "Shree Krishna Janmashtami"
+    },
+    {
+      "bsYear": 2082,
+      "bsMonth": 6,
+      "bsDay": 3,
+      "name": "संविधान दिवस",
+      "type": "national",
+      "holiday": true,
+      "nameEn": "Constitution Day"
+    },
+    {
+      "bsYear": 2082,
+      "bsMonth": 6,
+      "bsDay": 6,
+      "name": "घटस्थापना",
+      "type": "festival",
+      "holiday": true,
+      "nameEn": "Ghatasthapana"
+    },
+    {
+      "bsYear": 2082,
+      "bsMonth": 6,
+      "bsDay": 13,
+      "name": "फूलपाती",
+      "type": "festival",
+      "holiday": true,
+      "nameEn": "Fulpati"
+    },
+    {
+      "bsYear": 2082,
+      "bsMonth": 6,
+      "bsDay": 14,
+      "name": "महा अष्टमी",
+      "type": "festival",
+      "holiday": true,
+      "nameEn": "Maha Ashtami"
+    },
+    {
+      "bsYear": 2082,
+      "bsMonth": 6,
+      "bsDay": 15,
+      "name": "महानवमी",
+      "type": "festival",
+      "holiday": true,
+      "nameEn": "Maha Navami"
+    },
+    {
+      "bsYear": 2082,
+      "bsMonth": 6,
+      "bsDay": 16,
+      "name": "विजया दशमी",
+      "type": "festival",
+      "holiday": true,
+      "nameEn": "Vijaya Dashami"
+    },
+    {
+      "bsYear": 2082,
+      "bsMonth": 7,
+      "bsDay": 3,
+      "name": "कुकुर तिहार / लक्ष्मी पूजा",
+      "type": "festival",
+      "holiday": true,
+      "nameEn": "Kukur Tihar / Laxmi Puja"
+    },
+    {
+      "bsYear": 2082,
+      "bsMonth": 7,
+      "bsDay": 5,
+      "name": "गाई पूजा / गोवर्धन पूजा / म्ह पूजा",
+      "type": "festival",
+      "holiday": true,
+      "nameEn": "Gai Puja / Govardhan Puja / Mha Puja"
+    },
+    {
+      "bsYear": 2082,
+      "bsMonth": 7,
+      "bsDay": 6,
+      "name": "भाइ टीका",
+      "type": "festival",
+      "holiday": true,
+      "nameEn": "Bhai Tika"
+    },
+    {
+      "bsYear": 2082,
+      "bsMonth": 7,
+      "bsDay": 10,
+      "name": "छठ पर्व",
+      "type": "festival",
+      "holiday": true,
+      "nameEn": "Chhath Parva"
+    },
+    {
+      "bsYear": 2082,
+      "bsMonth": 8,
+      "bsDay": 18,
+      "name": "योमरी पुन्ही / उधौली पर्व",
+      "type": "festival",
+      "holiday": false,
+      "nameEn": "Yomari Punhi / Udhauli Parva"
+    },
+    {
+      "bsYear": 2082,
+      "bsMonth": 9,
+      "bsDay": 10,
+      "name": "क्रिसमस दिवस",
+      "type": "festival",
+      "holiday": false,
+      "nameEn": "Christmas Day"
+    },
+    {
+      "bsYear": 2082,
+      "bsMonth": 9,
+      "bsDay": 15,
+      "name": "तमु ल्होसार",
+      "type": "festival",
+      "holiday": true,
+      "nameEn": "Tamu Lhosar"
+    },
+    {
+      "bsYear": 2082,
+      "bsMonth": 9,
+      "bsDay": 27,
+      "name": "पृथ्वी जयन्ती / राष्ट्रिय एकता दिवस",
+      "type": "national",
+      "holiday": true,
+      "nameEn": "Prithvi Jayanti / National Unity Day"
+    },
+    {
+      "bsYear": 2082,
+      "bsMonth": 10,
+      "bsDay": 1,
+      "name": "माघे संक्रान्ति",
+      "type": "festival",
+      "holiday": true,
+      "nameEn": "Maghe Sankranti"
+    },
+    {
+      "bsYear": 2082,
+      "bsMonth": 10,
+      "bsDay": 9,
+      "name": "वसन्त पञ्चमी / सरस्वती पूजा",
+      "type": "festival",
+      "holiday": false,
+      "nameEn": "Basant Panchami / Saraswati Puja"
+    },
+    {
+      "bsYear": 2082,
+      "bsMonth": 11,
+      "bsDay": 3,
+      "name": "महा शिवरात्रि",
+      "type": "festival",
+      "holiday": true,
+      "nameEn": "Maha Shivaratri"
+    },
+    {
+      "bsYear": 2082,
+      "bsMonth": 11,
+      "bsDay": 6,
+      "name": "ग्याल्पो ल्होसार",
+      "type": "festival",
+      "holiday": true,
+      "nameEn": "Gyalpo Lhosar"
+    },
+    {
+      "bsYear": 2082,
+      "bsMonth": 11,
+      "bsDay": 7,
+      "name": "प्रजातन्त्र दिवस",
+      "type": "national",
+      "holiday": true,
+      "nameEn": "Democracy Day"
+    },
+    {
+      "bsYear": 2082,
+      "bsMonth": 11,
+      "bsDay": 18,
+      "name": "होली (पहाडी क्षेत्र)",
+      "type": "festival",
+      "holiday": true,
+      "nameEn": "Holi (Hill Region)"
+    },
+    {
+      "bsYear": 2082,
+      "bsMonth": 11,
+      "bsDay": 19,
+      "name": "होली (तराई क्षेत्र)",
+      "type": "festival",
+      "holiday": true,
+      "nameEn": "Holi (Terai Region)"
+    },
+    {
+      "bsYear": 2082,
+      "bsMonth": 11,
+      "bsDay": 24,
+      "name": "अन्तर्राष्ट्रिय नारी दिवस",
+      "type": "national",
+      "holiday": true,
+      "nameEn": "International Women’s Day"
+    },
+    {
+      "bsYear": 2082,
+      "bsMonth": 12,
+      "bsDay": 4,
+      "name": "घोडे जात्रा",
+      "type": "festival",
+      "holiday": false,
+      "nameEn": "Ghode Jatra"
+    },
+    {
+      "bsYear": 2082,
+      "bsMonth": 12,
+      "bsDay": 13,
+      "name": "राम नवमी",
+      "type": "festival",
+      "holiday": true,
+      "nameEn": "Ram Navami"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 1,
+      "bsDay": 1,
+      "name": "नयाँ वर्ष २०८३",
+      "type": "national",
+      "holiday": true,
+      "nameEn": "New Year 2083"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 1,
+      "bsDay": 18,
+      "name": "बुद्ध जयन्ती",
+      "type": "festival",
+      "holiday": true,
+      "nameEn": "Buddha Jayanti"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 1,
+      "bsDay": 18,
+      "name": "उभौली पर्व",
+      "type": "festival",
+      "holiday": false,
+      "nameEn": "Ubhauli Parva"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 2,
+      "bsDay": 15,
+      "name": "गणतन्त्र दिवस",
+      "type": "national",
+      "holiday": true,
+      "nameEn": "Republic Day"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 5,
+      "bsDay": 12,
+      "name": "जनै पूर्णिमा / रक्षाबन्धन",
+      "type": "festival",
+      "holiday": true,
+      "nameEn": "Janai Purnima / Raksha Bandhan"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 5,
+      "bsDay": 19,
+      "name": "श्रीकृष्ण जन्माष्टमी",
+      "type": "festival",
+      "holiday": true,
+      "nameEn": "Shree Krishna Janmashtami"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 6,
+      "bsDay": 3,
+      "name": "संविधान दिवस",
+      "type": "national",
+      "holiday": true,
+      "nameEn": "Constitution Day"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 6,
+      "bsDay": 25,
+      "name": "घटस्थापना",
+      "type": "festival",
+      "holiday": true,
+      "nameEn": "Ghatasthapana"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 6,
+      "bsDay": 31,
+      "name": "फूलपाती",
+      "type": "festival",
+      "holiday": true,
+      "nameEn": "Fulpati"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 7,
+      "bsDay": 1,
+      "name": "महा अष्टमी",
+      "type": "festival",
+      "holiday": true,
+      "nameEn": "Maha Ashtami"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 7,
+      "bsDay": 3,
+      "name": "महानवमी",
+      "type": "festival",
+      "holiday": true,
+      "nameEn": "Maha Navami"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 7,
+      "bsDay": 4,
+      "name": "विजया दशमी",
+      "type": "festival",
+      "holiday": true,
+      "nameEn": "Vijaya Dashami"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 7,
+      "bsDay": 22,
+      "name": "कुकुर तिहार / लक्ष्मी पूजा",
+      "type": "festival",
+      "holiday": true,
+      "nameEn": "Kukur Tihar / Laxmi Puja"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 7,
+      "bsDay": 23,
+      "name": "गाई पूजा",
+      "type": "festival",
+      "holiday": true,
+      "nameEn": "Gai Puja"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 7,
+      "bsDay": 24,
+      "name": "गोवर्धन पूजा / म्ह पूजा",
+      "type": "festival",
+      "holiday": true,
+      "nameEn": "Govardhan Puja / Mha Puja"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 7,
+      "bsDay": 25,
+      "name": "भाइ टीका",
+      "type": "festival",
+      "holiday": true,
+      "nameEn": "Bhai Tika"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 7,
+      "bsDay": 26,
+      "name": "तिहार बिदा",
+      "type": "festival",
+      "holiday": true,
+      "nameEn": "Tihar Holiday"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 7,
+      "bsDay": 29,
+      "name": "छठ पर्व",
+      "type": "festival",
+      "holiday": true,
+      "nameEn": "Chhath Parva"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 9,
+      "bsDay": 9,
+      "name": "योमरी पुन्ही / उधौली पर्व",
+      "type": "festival",
+      "holiday": false,
+      "nameEn": "Yomari Punhi / Udhauli Parva"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 9,
+      "bsDay": 10,
+      "name": "क्रिसमस दिवस",
+      "type": "festival",
+      "holiday": false,
+      "nameEn": "Christmas Day"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 9,
+      "bsDay": 15,
+      "name": "तमु ल्होसार",
+      "type": "festival",
+      "holiday": true,
+      "nameEn": "Tamu Lhosar"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 9,
+      "bsDay": 27,
+      "name": "पृथ्वी जयन्ती / राष्ट्रिय एकता दिवस",
+      "type": "national",
+      "holiday": true,
+      "nameEn": "Prithvi Jayanti / National Unity Day"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 10,
+      "bsDay": 1,
+      "name": "माघे संक्रान्ति",
+      "type": "festival",
+      "holiday": true,
+      "nameEn": "Maghe Sankranti"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 10,
+      "bsDay": 16,
+      "name": "शहीद दिवस",
+      "type": "national",
+      "holiday": true,
+      "nameEn": "Martyrs Day"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 10,
+      "bsDay": 24,
+      "name": "सोनम ल्होसार",
+      "type": "festival",
+      "holiday": true,
+      "nameEn": "Sonam Lhosar"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 11,
+      "bsDay": 7,
+      "name": "प्रजातन्त्र दिवस",
+      "type": "national",
+      "holiday": true,
+      "nameEn": "Democracy Day"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 11,
+      "bsDay": 22,
+      "name": "महा शिवरात्रि",
+      "type": "festival",
+      "holiday": true,
+      "nameEn": "Maha Shivaratri"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 11,
+      "bsDay": 24,
+      "name": "अन्तर्राष्ट्रिय नारी दिवस",
+      "type": "national",
+      "holiday": true,
+      "nameEn": "International Women’s Day"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 11,
+      "bsDay": 25,
+      "name": "ग्याल्पो ल्होसार",
+      "type": "festival",
+      "holiday": true,
+      "nameEn": "Gyalpo Lhosar"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 12,
+      "bsDay": 7,
+      "name": "होली (पहाडी क्षेत्र)",
+      "type": "festival",
+      "holiday": true,
+      "nameEn": "Holi (Hill Region)"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 12,
+      "bsDay": 8,
+      "name": "होली (तराई क्षेत्र)",
+      "type": "festival",
+      "holiday": true,
+      "nameEn": "Holi (Terai Region)"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 12,
+      "bsDay": 23,
+      "name": "घोडे जात्रा",
+      "type": "festival",
+      "holiday": false,
+      "nameEn": "Ghode Jatra"
+    }
+  ]
+}
