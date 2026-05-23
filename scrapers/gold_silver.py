@@ -1,7 +1,8 @@
 """
 Scrape gold & silver rates published daily by FENEGOSIDA.
-Primary:  fenegosida.org (often down — that's why we have fallbacks)
-Fallback: sharesansar.com/bullion (republishes FENEGOSIDA rates)
+Primary:    fenegosida.org           (often down — that's why we have fallbacks)
+Fallback 1: sharesansar.com/bullion  (republishes FENEGOSIDA rates)
+Fallback 2: hamropatro.com/gold      (mirrors FENEGOSIDA, blocks some clients)
 
 Output: data/gold_silver.json
 """
@@ -90,6 +91,31 @@ def from_sharesansar():
     return _build_payload(rates)
 
 
+# ----- Fallback 2: Hamropatro --------------------------------------------------
+def from_hamropatro():
+    """
+    Hamropatro shows rates on /gold in a simple list. The HTML structure
+    typically has labels like 'Fine Gold' / 'Tejabi Gold' / 'Silver' followed
+    by a price node. Some hosts block default UAs — fetch() uses a browser UA.
+    """
+    html = fetch("https://www.hamropatro.com/gold").text
+    soup = BeautifulSoup(html, "lxml")
+    text = soup.get_text(" ", strip=True)
+
+    def grab(label_regex):
+        m = re.search(label_regex + r"[^\d]{0,40}(\d[\d,]{2,})", text, re.IGNORECASE)
+        if not m:
+            raise ValueError(f"no match for {label_regex!r}")
+        return _to_int(m.group(1))
+
+    rates = {
+        "fine_gold_per_tola":   grab(r"fine\s*gold|hallmark"),
+        "tejabi_gold_per_tola": grab(r"tejabi"),
+        "silver_per_tola":      grab(r"silver"),
+    }
+    return _build_payload(rates)
+
+
 def _build_payload(rates: dict) -> dict:
     """Add per-10g conversions and shape the final payload."""
     out = {
@@ -111,6 +137,7 @@ def main():
     payload = run_with_fallback("gold_silver", [
         ("FENEGOSIDA",  from_fenegosida),
         ("ShareSansar", from_sharesansar),
+        ("Hamropatro",  from_hamropatro),
     ])
     write_json("gold_silver.json", payload)
 
