@@ -34,6 +34,24 @@ def now_iso():
     return datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ")
 
 
+def today_iso_date():
+    """UTC date in YYYY-MM-DD form. Used as a history key."""
+    return datetime.now(timezone.utc).strftime("%Y-%m-%d")
+
+
+def read_json_if_exists(filename, default=None):
+    """Read data/<filename> if present, else return default (a fresh copy each call)."""
+    import json as _json
+    p = DATA_DIR / filename
+    if not p.exists():
+        return default if default is not None else None
+    try:
+        with p.open("r", encoding="utf-8") as f:
+            return _json.load(f)
+    except Exception:
+        return default if default is not None else None
+
+
 def write_json(filename, payload):
     """Atomically overwrite data/<filename> with payload."""
     DATA_DIR.mkdir(parents=True, exist_ok=True)

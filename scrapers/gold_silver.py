@@ -12,7 +12,13 @@ import sys
 
 from bs4 import BeautifulSoup
 
-from common import fetch, run_with_fallback, write_json
+from common import (
+    fetch, read_json_if_exists, run_with_fallback,
+    today_iso_date, write_json,
+)
+
+HISTORY_FILE = "gold_silver_history.json"
+HISTORY_DAYS = 365  # keep rolling year
 
 # 1 tola = 11.6638 grams (the Nepali jeweller-standard)
 TOLA_GRAMS = 11.6638
@@ -133,6 +139,39 @@ def _build_payload(rates: dict) -> dict:
     return out
 
 
+def update_history(payload):
+    """Append today's snapshot to the rolling history file.
+
+    Idempotent: re-running on the same UTC day overwrites that day's entry
+    instead of duplicating it. Keeps the most recent HISTORY_DAYS entries.
+    """
+    existing = read_json_if_exists(HISTORY_FILE, default={}) or {}
+    entries = list(existing.get("entries") or [])
+
+    today = today_iso_date()
+    rates = payload.get("rates") or {}
+    today_entry = {
+        "date":        today,
+        "fine_gold":   rates.get("fine_gold_per_tola"),
+        "tejabi_gold": rates.get("tejabi_gold_per_tola"),
+        "silver":      rates.get("silver_per_tola"),
+    }
+    # Skip if we have no usable prices
+    if today_entry["fine_gold"] is None and today_entry["silver"] is None:
+        print("[history] no prices in payload, skipping", flush=True)
+        return
+
+    entries = [e for e in entries if e.get("date") != today]
+    entries.append(today_entry)
+    entries.sort(key=lambda e: e.get("date") or "")
+    entries = entries[-HISTORY_DAYS:]
+
+    write_json(HISTORY_FILE, {
+        "entries":    entries,
+        "updated_at": payload.get("updated_at"),
+    })
+
+
 def main():
     payload = run_with_fallback("gold_silver", [
         ("FENEGOSIDA",  from_fenegosida),
@@ -140,6 +179,7 @@ def main():
         ("Hamropatro",  from_hamropatro),
     ])
     write_json("gold_silver.json", payload)
+    update_history(payload)
 
 
 if __name__ == "__main__":
