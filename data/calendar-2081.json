@@ -1,6 +1,4 @@
 {
-  "version": 1,
-  "updatedAt": "2026-05-23",
   "year": 2081,
   "meta": {
     "generatedAt": "2026-05-21T13:02:43.456Z",
@@ -30,7 +28,9 @@
         "use": "Astronomical panchanga for Kathmandu sunrise"
       }
     ],
-    "note": "Panchanga values are astronomical Kathmandu-sunrise calculations, not a ritual authority. BS/AD dates use the app converter and are cross-checked against published year grids."
+    "note": "Panchanga values are astronomical Kathmandu-sunrise calculations, not a ritual authority. BS/AD dates use the app converter and are cross-checked against published year grids.",
+    "refetchedAt": "2026-05-23T16:42:39.445Z",
+    "refetchSource": "project-parva-v3-panchanga"
   },
   "months": {
     "1": {
@@ -46,10 +46,10 @@
           "sourceDate": "2024-04-13",
           "method": "ephemeris_udaya",
           "confidence": "astronomical",
-          "advisory": "For religious observance, consult local authorities/panchang.",
           "adYear": 2024,
           "adMonth": 4,
-          "adDay": 13
+          "adDay": 13,
+          "sunriseUsed": "2024-04-13T05:41:16+05:45"
         },
         "2": {
           "tithi": "षष्ठी",
@@ -61,10 +61,10 @@
           "sourceDate": "2024-04-14",
           "method": "ephemeris_udaya",
           "confidence": "astronomical",
-          "advisory": "For religious observance, consult local authorities/panchang.",
           "adYear": 2024,
           "adMonth": 4,
-          "adDay": 14
+          "adDay": 14,
+          "sunriseUsed": "2024-04-14T05:40:13+05:45"
         },
         "3": {
           "tithi": "सप्तमी",
@@ -76,10 +76,10 @@
           "sourceDate": "2024-04-15",
           "method": "ephemeris_udaya",
           "confidence": "astronomical",
-          "advisory": "For religious observance, consult local authorities/panchang.",
           "adYear": 2024,
           "adMonth": 4,
-          "adDay": 15
+          "adDay": 15,
+          "sunriseUsed": "2024-04-15T05:39:12+05:45"
         },
         "4": {
           "tithi": "अष्टमी",
@@ -91,10 +91,10 @@
           "sourceDate": "2024-04-16",
           "method": "ephemeris_udaya",
           "confidence": "astronomical",
-          "advisory": "For religious observance, consult local authorities/panchang.",
           "adYear": 2024,
           "adMonth": 4,
-          "adDay": 16
+          "adDay": 16,
+          "sunriseUsed": "2024-04-16T05:38:11+05:45"
         },
         "5": {
           "tithi": "नवमी",
@@ -106,25 +106,25 @@
           "sourceDate": "2024-04-17",
           "method": "ephemeris_udaya",
           "confidence": "astronomical",
-          "advisory": "For religious observance, consult local authorities/panchang.",
           "adYear": 2024,
           "adMonth": 4,
-          "adDay": 17
+          "adDay": 17,
+          "sunriseUsed": "2024-04-17T05:37:11+05:45"
         },
         "6": {
           "tithi": "दशमी",
           "paksha": "शुक्ल",
           "nakshatra": "आश्लेषा",
           "yoga": "गण्ड",
-          "karana": "??",
+          "karana": "गर",
           "source": "project-parva-v3-panchanga",
           "sourceDate": "2024-04-18",
           "method": "ephemeris_udaya",
           "confidence": "astronomical",
-          "advisory": "For religious observance, consult local authorities/panchang.",
           "adYear": 2024,
           "adMonth": 4,
-          "adDay": 18
+          "adDay": 18,
+          "sunriseUsed": "2024-04-18T05:36:11+05:45"
         },
         "7": {
           "tithi": "एकादशी",
@@ -136,10 +136,10 @@
           "sourceDate": "2024-04-19",
           "method": "ephemeris_udaya",
           "confidence": "astronomical",
-          "advisory": "For religious observance, consult local authorities/panchang.",
           "adYear": 2024,
           "adMonth": 4,
-          "adDay": 19
+          "adDay": 19,
+          "sunriseUsed": "2024-04-19T05:35:12+05:45"
         },
         "8": {
           "tithi": "द्वादशी",
@@ -151,10 +151,10 @@
           "sourceDate": "2024-04-20",
           "method": "ephemeris_udaya",
           "confidence": "astronomical",
-          "advisory": "For religious observance, consult local authorities/panchang.",
           "adYear": 2024,
           "adMonth": 4,
-          "adDay": 20
+          "adDay": 20,
+          "sunriseUsed": "2024-04-20T05:34:14+05:45"
         },
         "9": {
           "tithi": "त्रयोदशी",
@@ -166,25 +166,25 @@
           "sourceDate": "2024-04-21",
           "method": "ephemeris_udaya",
           "confidence": "astronomical",
-          "advisory": "For religious observance, consult local authorities/panchang.",
           "adYear": 2024,
           "adMonth": 4,
-          "adDay": 21
+          "adDay": 21,
+          "sunriseUsed": "2024-04-21T05:33:16+05:45"
         },
         "10": {
           "tithi": "चतुर्दशी",
           "paksha": "शुक्ल",
           "nakshatra": "हस्त",
           "yoga": "हर्षण",
-          "karana": "??",
+          "karana": "गर",
           "source": "project-parva-v3-panchanga",
           "sourceDate": "2024-04-22",
           "method": "ephemeris_udaya",
           "confidence": "astronomical",
-          "advisory": "For religious observance, consult local authorities/panchang.",
           "adYear": 2024,
           "adMonth": 4,
-          "adDay": 22
+          "adDay": 22,
+          "sunriseUsed": "2024-04-22T05:32:19+05:45"
         },
         "11": {
           "tithi": "पूर्णिमा",
@@ -196,10 +196,10 @@
           "sourceDate": "2024-04-23",
           "method": "ephemeris_udaya",
           "confidence": "astronomical",
-          "advisory": "For religious observance, consult local authorities/panchang.",
           "adYear": 2024,
           "adMonth": 4,
-          "adDay": 23
+          "adDay": 23,
+          "sunriseUsed": "2024-04-23T05:31:23+05:45"
         },
         "12": {
           "tithi": "पूर्णिमा",
@@ -211,10 +211,10 @@
           "sourceDate": "2024-04-24",
           "method": "ephemeris_udaya",
           "confidence": "astronomical",
-          "advisory": "For religious observance, consult local authorities/panchang.",
           "adYear": 2024,
           "adMonth": 4,
-          "adDay": 24
+          "adDay": 24,
+          "sunriseUsed": "2024-04-24T05:30:28+05:45"
         },
         "13": {
           "tithi": "प्रतिपदा",
@@ -226,25 +226,25 @@
           "sourceDate": "2024-04-25",
           "method": "ephemeris_udaya",
           "confidence": "astronomical",
-          "advisory": "For religious observance, consult local authorities/panchang.",
           "adYear": 2024,
           "adMonth": 4,
-          "adDay": 25
+          "adDay": 25,
+          "sunriseUsed": "2024-04-25T05:29:33+05:45"
         },
         "14": {
           "tithi": "द्वितीया",
           "paksha": "कृष्ण",
           "nakshatra": "अनुराधा",
-          "yoga": "??????",
-          "karana": "??",
+          "yoga": "वरीयान",
+          "karana": "गर",
           "source": "project-parva-v3-panchanga",
           "sourceDate": "2024-04-26",
           "method": "ephemeris_udaya",
           "confidence": "astronomical",
-          "advisory": "For religious observance, consult local authorities/panchang.",
           "adYear": 2024,
           "adMonth": 4,
-          "adDay": 26
+          "adDay": 26,
+          "sunriseUsed": "2024-04-26T05:28:39+05:45"
         },
         "15": {
           "tithi": "तृतीया",
@@ -256,10 +256,10 @@
           "sourceDate": "2024-04-27",
           "method": "ephemeris_udaya",
           "confidence": "astronomical",
-          "advisory": "For religious observance, consult local authorities/panchang.",
           "adYear": 2024,
           "adMonth": 4,
-          "adDay": 27
+          "adDay": 27,
+          "sunriseUsed": "2024-04-27T05:27:46+05:45"
         },
         "16": {
           "tithi": "चतुर्थी",
@@ -271,10 +271,10 @@
           "sourceDate": "2024-04-28",
           "method": "ephemeris_udaya",
           "confidence": "astronomical",
-          "advisory": "For religious observance, consult local authorities/panchang.",
           "adYear": 2024,
           "adMonth": 4,
-          "adDay": 28
+          "adDay": 28,
+          "sunriseUsed": "2024-04-28T05:26:54+05:45"
         },
         "17": {
           "tithi": "पञ्चमी",
@@ -286,10 +286,10 @@
           "sourceDate": "2024-04-29",
           "method": "ephemeris_udaya",
           "confidence": "astronomical",
-          "advisory": "For religious observance, consult local authorities/panchang.",
           "adYear": 2024,
           "adMonth": 4,
-          "adDay": 29
+          "adDay": 29,
+          "sunriseUsed": "2024-04-29T05:26:03+05:45"
         },
         "18": {
           "tithi": "षष्ठी",
@@ -301,10 +301,10 @@
           "sourceDate": "2024-04-30",
           "method": "ephemeris_udaya",
           "confidence": "astronomical",
-          "advisory": "For religious observance, consult local authorities/panchang.",
           "adYear": 2024,
           "adMonth": 4,
-          "adDay": 30
+          "adDay": 30,
+          "sunriseUsed": "2024-04-30T05:25:13+05:45"
         },
         "19": {
           "tithi": "सप्तमी",
@@ -316,10 +316,10 @@
           "sourceDate": "2024-05-01",
           "method": "ephemeris_udaya",
           "confidence": "astronomical",
-          "advisory": "For religious observance, consult local authorities/panchang.",
           "adYear": 2024,
           "adMonth": 5,
-          "adDay": 1
+          "adDay": 1,
+          "sunriseUsed": "2024-05-01T05:24:24+05:45"
         },
         "20": {
           "tithi": "नवमी",
@@ -331,10 +331,10 @@
           "sourceDate": "2024-05-02",
           "method": "ephemeris_udaya",
           "confidence": "astronomical",
-          "advisory": "For religious observance, consult local authorities/panchang.",
           "adYear": 2024,
           "adMonth": 5,
-          "adDay": 2
+          "adDay": 2,
+          "sunriseUsed": "2024-05-02T05:23:36+05:45"
         },
         "21": {
           "tithi": "दशमी",
@@ -346,10 +346,10 @@
           "sourceDate": "2024-05-03",
           "method": "ephemeris_udaya",
           "confidence": "astronomical",
-          "advisory": "For religious observance, consult local authorities/panchang.",
           "adYear": 2024,
           "adMonth": 5,
-          "adDay": 3
+          "adDay": 3,
+          "sunriseUsed": "2024-05-03T05:22:49+05:45"
         },
         "22": {
           "tithi": "एकादशी",
@@ -361,10 +361,10 @@
           "sourceDate": "2024-05-04",
           "method": "ephemeris_udaya",
           "confidence": "astronomical",
-          "advisory": "For religious observance, consult local authorities/panchang.",
           "adYear": 2024,
           "adMonth": 5,
-          "adDay": 4
+          "adDay": 4,
+          "sunriseUsed": "2024-05-04T05:22:02+05:45"
         },
         "23": {
           "tithi": "द्वादशी",
@@ -376,10 +376,10 @@
           "sourceDate": "2024-05-05",
           "method": "ephemeris_udaya",
           "confidence": "astronomical",
-          "advisory": "For religious observance, consult local authorities/panchang.",
           "adYear": 2024,
           "adMonth": 5,
-          "adDay": 5
+          "adDay": 5,
+          "sunriseUsed": "2024-05-05T05:21:17+05:45"
         },
         "24": {
           "tithi": "त्रयोदशी",
@@ -391,10 +391,10 @@
           "sourceDate": "2024-05-06",
           "method": "ephemeris_udaya",
           "confidence": "astronomical",
-          "advisory": "For religious observance, consult local authorities/panchang.",
           "adYear": 2024,
           "adMonth": 5,
-          "adDay": 6
+          "adDay": 6,
+          "sunriseUsed": "2024-05-06T05:20:33+05:45"
         },
         "25": {
           "tithi": "चतुर्दशी",
@@ -406,10 +406,10 @@
           "sourceDate": "2024-05-07",
           "method": "ephemeris_udaya",
           "confidence": "astronomical",
-          "advisory": "For religious observance, consult local authorities/panchang.",
           "adYear": 2024,
           "adMonth": 5,
-          "adDay": 7
+          "adDay": 7,
+          "sunriseUsed": "2024-05-07T05:19:50+05:45"
         },
         "26": {
           "tithi": "औँसी",
@@ -421,10 +421,10 @@
           "sourceDate": "2024-05-08",
           "method": "ephemeris_udaya",
           "confidence": "astronomical",
-          "advisory": "For religious observance, consult local authorities/panchang.",
           "adYear": 2024,
           "adMonth": 5,
-          "adDay": 8
+          "adDay": 8,
+          "sunriseUsed": "2024-05-08T05:19:08+05:45"
         },
         "27": {
           "tithi": "प्रतिपदा",
@@ -436,10 +436,10 @@
           "sourceDate": "2024-05-09",
           "method": "ephemeris_udaya",
           "confidence": "astronomical",
-          "advisory": "For religious observance, consult local authorities/panchang.",
           "adYear": 2024,
           "adMonth": 5,
-          "adDay": 9
+          "adDay": 9,
+          "sunriseUsed": "2024-05-09T05:18:28+05:45"
         },
         "28": {
           "tithi": "तृतीया",
@@ -451,10 +451,10 @@
           "sourceDate": "2024-05-10",
           "method": "ephemeris_udaya",
           "confidence": "astronomical",
-          "advisory": "For religious observance, consult local authorities/panchang.",
           "adYear": 2024,
           "adMonth": 5,
-          "adDay": 10
+          "adDay": 10,
+          "sunriseUsed": "2024-05-10T05:17:48+05:45"
         },
         "29": {
           "tithi": "चतुर्थी",
@@ -466,10 +466,10 @@
           "sourceDate": "2024-05-11",
           "method": "ephemeris_udaya",
           "confidence": "astronomical",
-          "advisory": "For religious observance, consult local authorities/panchang.",
           "adYear": 2024,
           "adMonth": 5,
-          "adDay": 11
+          "adDay": 11,
+          "sunriseUsed": "2024-05-11T05:17:10+05:45"
         },
         "30": {
           "tithi": "पञ्चमी",
@@ -481,10 +481,10 @@
           "sourceDate": "2024-05-12",
           "method": "ephemeris_udaya",
           "confidence": "astronomical",
-          "advisory": "For religious observance, consult local authorities/panchang.",
           "adYear": 2024,
           "adMonth": 5,
-          "adDay": 12
+          "adDay": 12,
+          "sunriseUsed": "2024-05-12T05:16:32+05:45"
         },
         "31": {
           "tithi": "षष्ठी",
@@ -496,10 +496,10 @@
           "sourceDate": "2024-05-13",
           "method": "ephemeris_udaya",
           "confidence": "astronomical",
-          "advisory": "For religious observance, consult local authorities/panchang.",
           "adYear": 2024,
           "adMonth": 5,
-          "adDay": 13
+          "adDay": 13,
+          "sunriseUsed": "2024-05-13T05:15:56+05:45"
         }
       }
     },
@@ -511,15 +511,15 @@
           "paksha": "शुक्ल",
           "nakshatra": "पुष्य",
           "yoga": "गण्ड",
-          "karana": "??",
+          "karana": "गर",
           "source": "project-parva-v3-panchanga",
           "sourceDate": "2024-05-14",
           "method": "ephemeris_udaya",
           "confidence": "astronomical",
-          "advisory": "For religious observance, consult local authorities/panchang.",
           "adYear": 2024,
           "adMonth": 5,
-          "adDay": 14
+          "adDay": 14,
+          "sunriseUsed": "2024-05-14T05:15:21+05:45"
         },
         "2": {
           "tithi": "अष्टमी",
@@ -531,10 +531,10 @@
           "sourceDate": "2024-05-15",
           "method": "ephemeris_udaya",
           "confidence": "astronomical",
-          "advisory": "For religious observance, consult local authorities/panchang.",
           "adYear": 2024,
           "adMonth": 5,
-          "adDay": 15
+          "adDay": 15,
+          "sunriseUsed": "2024-05-15T05:14:47+05:45"
         },
         "3": {
           "tithi": "अष्टमी",
@@ -546,10 +546,10 @@
           "sourceDate": "2024-05-16",
           "method": "ephemeris_udaya",
           "confidence": "astronomical",
-          "advisory": "For religious observance, consult local authorities/panchang.",
           "adYear": 2024,
           "adMonth": 5,
-          "adDay": 16
+          "adDay": 16,
+          "sunriseUsed": "2024-05-16T05:14:15+05:45"
         },
         "4": {
           "tithi": "नवमी",
@@ -561,25 +561,25 @@
           "sourceDate": "2024-05-17",
           "method": "ephemeris_udaya",
           "confidence": "astronomical",
-          "advisory": "For religious observance, consult local authorities/panchang.",
           "adYear": 2024,
           "adMonth": 5,
-          "adDay": 17
+          "adDay": 17,
+          "sunriseUsed": "2024-05-17T05:13:43+05:45"
         },
         "5": {
           "tithi": "दशमी",
           "paksha": "शुक्ल",
           "nakshatra": "उत्तराफाल्गुनी",
           "yoga": "हर्षण",
-          "karana": "??",
+          "karana": "गर",
           "source": "project-parva-v3-panchanga",
           "sourceDate": "2024-05-18",
           "method": "ephemeris_udaya",
           "confidence": "astronomical",
-          "advisory": "For religious observance, consult local authorities/panchang.",
           "adYear": 2024,
           "adMonth": 5,
-          "adDay": 18
+          "adDay": 18,
+          "sunriseUsed": "2024-05-18T05:13:13+05:45"
         },
         "6": {
           "tithi": "एकादशी",
@@ -591,10 +591,10 @@
           "sourceDate": "2024-05-19",
           "method": "ephemeris_udaya",
           "confidence": "astronomical",
-          "advisory": "For religious observance, consult local authorities/panchang.",
           "adYear": 2024,
           "adMonth": 5,
-          "adDay": 19
+          "adDay": 19,
+          "sunriseUsed": "2024-05-19T05:12:44+05:45"
         },
         "7": {
           "tithi": "द्वादशी",
@@ -606,10 +606,10 @@
           "sourceDate": "2024-05-20",
           "method": "ephemeris_udaya",
           "confidence": "astronomical",
-          "advisory": "For religious observance, consult local authorities/panchang.",
           "adYear": 2024,
           "adMonth": 5,
-          "adDay": 20
+          "adDay": 20,
+          "sunriseUsed": "2024-05-20T05:12:17+05:45"
         },
         "8": {
           "tithi": "त्रयोदशी",
@@ -621,25 +621,25 @@
           "sourceDate": "2024-05-21",
           "method": "ephemeris_udaya",
           "confidence": "astronomical",
-          "advisory": "For religious observance, consult local authorities/panchang.",
           "adYear": 2024,
           "adMonth": 5,
-          "adDay": 21
+          "adDay": 21,
+          "sunriseUsed": "2024-05-21T05:11:50+05:45"
         },
         "9": {
           "tithi": "चतुर्दशी",
           "paksha": "शुक्ल",
           "nakshatra": "स्वाती",
-          "yoga": "??????",
-          "karana": "??",
+          "yoga": "वरीयान",
+          "karana": "गर",
           "source": "project-parva-v3-panchanga",
           "sourceDate": "2024-05-22",
           "method": "ephemeris_udaya",
           "confidence": "astronomical",
-          "advisory": "For religious observance, consult local authorities/panchang.",
           "adYear": 2024,
           "adMonth": 5,
-          "adDay": 22
+          "adDay": 22,
+          "sunriseUsed": "2024-05-22T05:11:25+05:45"
         },
         "10": {
           "tithi": "पूर्णिमा",
@@ -651,10 +651,10 @@
           "sourceDate": "2024-05-23",
           "method": "ephemeris_udaya",
           "confidence": "astronomical",
-          "advisory": "For religious observance, consult local authorities/panchang.",
           "adYear": 2024,
           "adMonth": 5,
-          "adDay": 23
+          "adDay": 23,
+          "sunriseUsed": "2024-05-23T05:11:01+05:45"
         },
         "11": {
           "tithi": "प्रतिपदा",
@@ -666,10 +666,10 @@
           "sourceDate": "2024-05-24",
           "method": "ephemeris_udaya",
           "confidence": "astronomical",
-          "advisory": "For religious observance, consult local authorities/panchang.",
           "adYear": 2024,
           "adMonth": 5,
-          "adDay": 24
+          "adDay": 24,
+          "sunriseUsed": "2024-05-24T05:10:39+05:45"
         },
         "12": {
           "tithi": "द्वितीया",
@@ -681,10 +681,10 @@
           "sourceDate": "2024-05-25",
           "method": "ephemeris_udaya",
           "confidence": "astronomical",
-          "advisory": "For religious observance, consult local authorities/panchang.",
           "adYear": 2024,
           "adMonth": 5,
-          "adDay": 25
+          "adDay": 25,
+          "sunriseUsed": "2024-05-25T05:10:18+05:45"
         },
         "13": {
           "tithi": "तृतीया",
@@ -696,10 +696,10 @@
           "sourceDate": "2024-05-26",
           "method": "ephemeris_udaya",
           "confidence": "astronomical",
-          "advisory": "For religious observance, consult local authorities/panchang.",
           "adYear": 2024,
           "adMonth": 5,
-          "adDay": 26
+          "adDay": 26,
+          "sunriseUsed": "2024-05-26T05:09:58+05:45"
         },
         "14": {
           "tithi": "चतुर्थी",
@@ -711,10 +711,10 @@
           "sourceDate": "2024-05-27",
           "method": "ephemeris_udaya",
           "confidence": "astronomical",
-          "advisory": "For religious observance, consult local authorities/panchang.",
           "adYear": 2024,
           "adMonth": 5,
-          "adDay": 27
+          "adDay": 27,
+          "sunriseUsed": "2024-05-27T05:09:39+05:45"
         },
         "15": {
           "tithi": "पञ्चमी",
@@ -726,10 +726,10 @@
           "sourceDate": "2024-05-28",
           "method": "ephemeris_udaya",
           "confidence": "astronomical",
-          "advisory": "For religious observance, consult local authorities/panchang.",
           "adYear": 2024,
           "adMonth": 5,
-          "adDay": 28
+          "adDay": 28,
+          "sunriseUsed": "2024-05-28T05:09:22+05:45"
         },
         "16": {
           "tithi": "षष्ठी",
@@ -741,10 +741,10 @@
           "sourceDate": "2024-05-29",
           "method": "ephemeris_udaya",
           "confidence": "astronomical",
-          "advisory": "For religious observance, consult local authorities/panchang.",
           "adYear": 2024,
           "adMonth": 5,
-          "adDay": 29
+          "adDay": 29,
+          "sunriseUsed": "2024-05-29T05:09:06+05:45"
         },
         "17": {
           "tithi": "सप्तमी",
@@ -756,40 +756,40 @@
           "sourceDate": "2024-05-30",
           "method": "ephemeris_udaya",
           "confidence": "astronomical",
-          "advisory": "For religious observance, consult local authorities/panchang.",
           "adYear": 2024,
           "adMonth": 5,
-          "adDay": 30
+          "adDay": 30,
+          "sunriseUsed": "2024-05-30T05:08:52+05:45"
         },
         "18": {
           "tithi": "अष्टमी",
           "paksha": "कृष्ण",
           "nakshatra": "शतभिषा",
-          "yoga": "????????",
+          "yoga": "विष्कम्भ",
           "karana": "कौलव",
           "source": "project-parva-v3-panchanga",
           "sourceDate": "2024-05-31",
           "method": "ephemeris_udaya",
           "confidence": "astronomical",
-          "advisory": "For religious observance, consult local authorities/panchang.",
           "adYear": 2024,
           "adMonth": 5,
-          "adDay": 31
+          "adDay": 31,
+          "sunriseUsed": "2024-05-31T05:08:38+05:45"
         },
         "19": {
           "tithi": "नवमी",
           "paksha": "कृष्ण",
           "nakshatra": "उत्तराभाद्रपद",
           "yoga": "प्रीति",
-          "karana": "??",
+          "karana": "गर",
           "source": "project-parva-v3-panchanga",
           "sourceDate": "2024-06-01",
           "method": "ephemeris_udaya",
           "confidence": "astronomical",
-          "advisory": "For religious observance, consult local authorities/panchang.",
           "adYear": 2024,
           "adMonth": 6,
-          "adDay": 1
+          "adDay": 1,
+          "sunriseUsed": "2024-06-01T05:08:27+05:45"
         },
         "20": {
           "tithi": "दशमी",
@@ -801,10 +801,10 @@
           "sourceDate": "2024-06-02",
           "method": "ephemeris_udaya",
           "confidence": "astronomical",
-          "advisory": "For religious observance, consult local authorities/panchang.",
           "adYear": 2024,
           "adMonth": 6,
-          "adDay": 2
+          "adDay": 2,
+          "sunriseUsed": "2024-06-02T05:08:16+05:45"
         },
         "21": {
           "tithi": "द्वादशी",
@@ -816,25 +816,25 @@
           "sourceDate": "2024-06-03",
           "method": "ephemeris_udaya",
           "confidence": "astronomical",
-          "advisory": "For religious observance, consult local authorities/panchang.",
           "adYear": 2024,
           "adMonth": 6,
-          "adDay": 3
+          "adDay": 3,
+          "sunriseUsed": "2024-06-03T05:08:07+05:45"
         },
         "22": {
           "tithi": "त्रयोदशी",
           "paksha": "कृष्ण",
           "nakshatra": "भरणी",
           "yoga": "शोभन",
-          "karana": "??",
+          "karana": "गर",
           "source": "project-parva-v3-panchanga",
           "sourceDate": "2024-06-04",
           "method": "ephemeris_udaya",
           "confidence": "astronomical",
-          "advisory": "For religious observance, consult local authorities/panchang.",
           "adYear": 2024,
           "adMonth": 6,
-          "adDay": 4
+          "adDay": 4,
+          "sunriseUsed": "2024-06-04T05:07:59+05:45"
         },
         "23": {
           "tithi": "चतुर्दशी",
@@ -846,10 +846,10 @@
           "sourceDate": "2024-06-05",
           "method": "ephemeris_udaya",
           "confidence": "astronomical",
-          "advisory": "For religious observance, consult local authorities/panchang.",
           "adYear": 2024,
           "adMonth": 6,
-          "adDay": 5
+          "adDay": 5,
+          "sunriseUsed": "2024-06-05T05:07:53+05:45"
         },
         "24": {
           "tithi": "औँसी",
@@ -861,10 +861,10 @@
           "sourceDate": "2024-06-06",
           "method": "ephemeris_udaya",
           "confidence": "astronomical",
-          "advisory": "For religious observance, consult local authorities/panchang.",
           "adYear": 2024,
           "adMonth": 6,
-          "adDay": 6
+          "adDay": 6,
+          "sunriseUsed": "2024-06-06T05:07:47+05:45"
         },
         "25": {
           "tithi": "प्रतिपदा",
@@ -876,10 +876,10 @@
           "sourceDate": "2024-06-07",
           "method": "ephemeris_udaya",
           "confidence": "astronomical",
-          "advisory": "For religious observance, consult local authorities/panchang.",
           "adYear": 2024,
           "adMonth": 6,
-          "adDay": 7
+          "adDay": 7,
+          "sunriseUsed": "2024-06-07T05:07:43+05:45"
         },
         "26": {
           "tithi": "द्वितीया",
@@ -891,25 +891,25 @@
           "sourceDate": "2024-06-08",
           "method": "ephemeris_udaya",
           "confidence": "astronomical",
-          "advisory": "For religious observance, consult local authorities/panchang.",
           "adYear": 2024,
           "adMonth": 6,
-          "adDay": 8
+          "adDay": 8,
+          "sunriseUsed": "2024-06-08T05:07:41+05:45"
         },
         "27": {
           "tithi": "तृतीया",
           "paksha": "शुक्ल",
           "nakshatra": "पुनर्वसु",
           "yoga": "वृद्धि",
-          "karana": "??",
+          "karana": "गर",
           "source": "project-parva-v3-panchanga",
           "sourceDate": "2024-06-09",
           "method": "ephemeris_udaya",
           "confidence": "astronomical",
-          "advisory": "For religious observance, consult local authorities/panchang.",
           "adYear": 2024,
           "adMonth": 6,
-          "adDay": 9
+          "adDay": 9,
+          "sunriseUsed": "2024-06-09T05:07:40+05:45"
         },
         "28": {
           "tithi": "चतुर्थी",
@@ -921,10 +921,10 @@
           "sourceDate": "2024-06-10",
           "method": "ephemeris_udaya",
           "confidence": "astronomical",
-          "advisory": "For religious observance, consult local authorities/panchang.",
           "adYear": 2024,
           "adMonth": 6,
-          "adDay": 10
+          "adDay": 10,
+          "sunriseUsed": "2024-06-10T05:07:39+05:45"
         },
         "29": {
           "tithi": "पञ्चमी",
@@ -936,10 +936,10 @@
           "sourceDate": "2024-06-11",
           "method": "ephemeris_udaya",
           "confidence": "astronomical",
-          "advisory": "For religious observance, consult local authorities/panchang.",
           "adYear": 2024,
           "adMonth": 6,
-          "adDay": 11
+          "adDay": 11,
+          "sunriseUsed": "2024-06-11T05:07:41+05:45"
         },
         "30": {
           "tithi": "षष्ठी",
@@ -951,25 +951,25 @@
           "sourceDate": "2024-06-12",
           "method": "ephemeris_udaya",
           "confidence": "astronomical",
-          "advisory": "For religious observance, consult local authorities/panchang.",
           "adYear": 2024,
           "adMonth": 6,
-          "adDay": 12
+          "adDay": 12,
+          "sunriseUsed": "2024-06-12T05:07:43+05:45"
         },
         "31": {
           "tithi": "सप्तमी",
           "paksha": "शुक्ल",
           "nakshatra": "पूर्वाफाल्गुनी",
           "yoga": "वज्र",
-          "karana": "??",
+          "karana": "गर",
           "source": "project-parva-v3-panchanga",
           "sourceDate": "2024-06-13",
           "method": "ephemeris_udaya",
           "confidence": "astronomical",
-          "advisory": "For religious observance, consult local authorities/panchang.",
           "adYear": 2024,
           "adMonth": 6,
-          "adDay": 13
+          "adDay": 13,
+          "sunriseUsed": "2024-06-13T05:07:47+05:45"
         },
         "32": {
           "tithi": "अष्टमी",
@@ -981,10 +981,10 @@
           "sourceDate": "2024-06-14",
           "method": "ephemeris_udaya",
           "confidence": "astronomical",
-          "advisory": "For religious observance, consult local authorities/panchang.",
           "adYear": 2024,
           "adMonth": 6,
-          "adDay": 14
+          "adDay": 14,
+          "sunriseUsed": "2024-06-14T05:07:51+05:45"
         }
       }
     },
@@ -1001,25 +1001,25 @@
           "sourceDate": "2024-06-15",
           "method": "ephemeris_udaya",
           "confidence": "astronomical",
-          "advisory": "For religious observance, consult local authorities/panchang.",
           "adYear": 2024,
           "adMonth": 6,
-          "adDay": 15
+          "adDay": 15,
+          "sunriseUsed": "2024-06-15T05:07:57+05:45"
         },
         "2": {
           "tithi": "दशमी",
           "paksha": "शुक्ल",
           "nakshatra": "हस्त",
-          "yoga": "??????",
+          "yoga": "वरीयान",
           "karana": "तैतिल",
           "source": "project-parva-v3-panchanga",
           "sourceDate": "2024-06-16",
           "method": "ephemeris_udaya",
           "confidence": "astronomical",
-          "advisory": "For religious observance, consult local authorities/panchang.",
           "adYear": 2024,
           "adMonth": 6,
-          "adDay": 16
+          "adDay": 16,
+          "sunriseUsed": "2024-06-16T05:08:04+05:45"
         },
         "3": {
           "tithi": "एकादशी",
@@ -1031,10 +1031,10 @@
           "sourceDate": "2024-06-17",
           "method": "ephemeris_udaya",
           "confidence": "astronomical",
-          "advisory": "For religious observance, consult local authorities/panchang.",
           "adYear": 2024,
           "adMonth": 6,
-          "adDay": 17
+          "adDay": 17,
+          "sunriseUsed": "2024-06-17T05:08:13+05:45"
         },
         "4": {
           "tithi": "एकादशी",
@@ -1046,10 +1046,10 @@
           "sourceDate": "2024-06-18",
           "method": "ephemeris_udaya",
           "confidence": "astronomical",
-          "advisory": "For religious observance, consult local authorities/panchang.",
           "adYear": 2024,
           "adMonth": 6,
-          "adDay": 18
+          "adDay": 18,
+          "sunriseUsed": "2024-06-18T05:08:22+05:45"
         },
         "5": {
           "tithi": "द्वादशी",
@@ -1061,10 +1061,10 @@
           "sourceDate": "2024-06-19",
           "method": "ephemeris_udaya",
           "confidence": "astronomical",
-          "advisory": "For religious observance, consult local authorities/panchang.",
           "adYear": 2024,
           "adMonth": 6,
-          "adDay": 19
+          "adDay": 19,
+          "sunriseUsed": "2024-06-19T05:08:32+05:45"
         },
         "6": {
           "tithi": "त्रयोदशी",
@@ -1076,10 +1076,10 @@
           "sourceDate": "2024-06-20",
           "method": "ephemeris_udaya",
           "confidence": "astronomical",
-          "advisory": "For religious observance, consult local authorities/panchang.",
           "adYear": 2024,
           "adMonth": 6,
-          "adDay": 20
+          "adDay": 20,
+          "sunriseUsed": "2024-06-20T05:08:44+05:45"
         },
         "7": {
           "tithi": "चतुर्दशी",
@@ -1091,10 +1091,10 @@
           "sourceDate": "2024-06-21",
           "method": "ephemeris_udaya",
           "confidence": "astronomical",
-          "advisory": "For religious observance, consult local authorities/panchang.",
           "adYear": 2024,
           "adMonth": 6,
-          "adDay": 21
+          "adDay": 21,
+          "sunriseUsed": "2024-06-21T05:08:57+05:45"
         },
         "8": {
           "tithi": "पूर्णिमा",
@@ -1106,10 +1106,10 @@
           "sourceDate": "2024-06-22",
           "method": "ephemeris_udaya",
           "confidence": "astronomical",
-          "advisory": "For religious observance, consult local authorities/panchang.",
           "adYear": 2024,
           "adMonth": 6,
-          "adDay": 22
+          "adDay": 22,
+          "sunriseUsed": "2024-06-22T05:09:10+05:45"
         },
         "9": {
           "tithi": "प्रतिपदा",
@@ -1121,10 +1121,10 @@
           "sourceDate": "2024-06-23",
           "method": "ephemeris_udaya",
           "confidence": "astronomical",
-          "advisory": "For religious observance, consult local authorities/panchang.",
           "adYear": 2024,
           "adMonth": 6,
-          "adDay": 23
+          "adDay": 23,
+          "sunriseUsed": "2024-06-23T05:09:25+05:45"
         },
         "10": {
           "tithi": "तृतीया",
@@ -1136,10 +1136,10 @@
           "sourceDate": "2024-06-24",
           "method": "ephemeris_udaya",
           "confidence": "astronomical",
-          "advisory": "For religious observance, consult local authorities/panchang.",
           "adYear": 2024,
           "adMonth": 6,
-          "adDay": 24
+          "adDay": 24,
+          "sunriseUsed": "2024-06-24T05:09:40+05:45"
         },
         "11": {
           "tithi": "चतुर्थी",
@@ -1151,40 +1151,40 @@
           "sourceDate": "2024-06-25",
           "method": "ephemeris_udaya",
           "confidence": "astronomical",
-          "advisory": "For religious observance, consult local authorities/panchang.",
           "adYear": 2024,
           "adMonth": 6,
-          "adDay": 25
+          "adDay": 25,
+          "sunriseUsed": "2024-06-25T05:09:57+05:45"
         },
         "12": {
           "tithi": "पञ्चमी",
           "paksha": "कृष्ण",
           "nakshatra": "धनिष्ठा",
-          "yoga": "????????",
+          "yoga": "विष्कम्भ",
           "karana": "कौलव",
           "source": "project-parva-v3-panchanga",
           "sourceDate": "2024-06-26",
           "method": "ephemeris_udaya",
           "confidence": "astronomical",
-          "advisory": "For religious observance, consult local authorities/panchang.",
           "adYear": 2024,
           "adMonth": 6,
-          "adDay": 26
+          "adDay": 26,
+          "sunriseUsed": "2024-06-26T05:10:15+05:45"
         },
         "13": {
           "tithi": "षष्ठी",
           "paksha": "कृष्ण",
           "nakshatra": "शतभिषा",
           "yoga": "आयुष्मान",
-          "karana": "??",
+          "karana": "गर",
           "source": "project-parva-v3-panchanga",
           "sourceDate": "2024-06-27",
           "method": "ephemeris_udaya",
           "confidence": "astronomical",
-          "advisory": "For religious observance, consult local authorities/panchang.",
           "adYear": 2024,
           "adMonth": 6,
-          "adDay": 27
+          "adDay": 27,
+          "sunriseUsed": "2024-06-27T05:10:33+05:45"
         },
         "14": {
           "tithi": "सप्तमी",
@@ -1196,10 +1196,10 @@
           "sourceDate": "2024-06-28",
           "method": "ephemeris_udaya",
           "confidence": "astronomical",
-          "advisory": "For religious observance, consult local authorities/panchang.",
           "adYear": 2024,
           "adMonth": 6,
-          "adDay": 28
+          "adDay": 28,
+          "sunriseUsed": "2024-06-28T05:10:52+05:45"
         },
         "15": {
           "tithi": "अष्टमी",
@@ -1211,25 +1211,25 @@
           "sourceDate": "2024-06-29",
           "method": "ephemeris_udaya",
           "confidence": "astronomical",
-          "advisory": "For religious observance, consult local authorities/panchang.",
           "adYear": 2024,
           "adMonth": 6,
-          "adDay": 29
+          "adDay": 29,
+          "sunriseUsed": "2024-06-29T05:11:13+05:45"
         },
         "16": {
           "tithi": "नवमी",
           "paksha": "कृष्ण",
           "nakshatra": "रेवती",
           "yoga": "अतिगण्ड",
-          "karana": "??",
+          "karana": "गर",
           "source": "project-parva-v3-panchanga",
           "sourceDate": "2024-06-30",
           "method": "ephemeris_udaya",
           "confidence": "astronomical",
-          "advisory": "For religious observance, consult local authorities/panchang.",
           "adYear": 2024,
           "adMonth": 6,
-          "adDay": 30
+          "adDay": 30,
+          "sunriseUsed": "2024-06-30T05:11:34+05:45"
         },
         "17": {
           "tithi": "दशमी",
@@ -1241,10 +1241,10 @@
           "sourceDate": "2024-07-01",
           "method": "ephemeris_udaya",
           "confidence": "astronomical",
-          "advisory": "For religious observance, consult local authorities/panchang.",
           "adYear": 2024,
           "adMonth": 7,
-          "adDay": 1
+          "adDay": 1,
+          "sunriseUsed": "2024-07-01T05:11:56+05:45"
         },
         "18": {
           "tithi": "एकादशी",
@@ -1256,10 +1256,10 @@
           "sourceDate": "2024-07-02",
           "method": "ephemeris_udaya",
           "confidence": "astronomical",
-          "advisory": "For religious observance, consult local authorities/panchang.",
           "adYear": 2024,
           "adMonth": 7,
-          "adDay": 2
+          "adDay": 2,
+          "sunriseUsed": "2024-07-02T05:12:18+05:45"
         },
         "19": {
           "tithi": "द्वादशी",
@@ -1271,10 +1271,10 @@
           "sourceDate": "2024-07-03",
           "method": "ephemeris_udaya",
           "confidence": "astronomical",
-          "advisory": "For religious observance, consult local authorities/panchang.",
           "adYear": 2024,
           "adMonth": 7,
-          "adDay": 3
+          "adDay": 3,
+          "sunriseUsed": "2024-07-03T05:12:42+05:45"
         },
         "20": {
           "tithi": "त्रयोदशी",
@@ -1286,10 +1286,10 @@
           "sourceDate": "2024-07-04",
           "method": "ephemeris_udaya",
           "confidence": "astronomical",
-          "advisory": "For religious observance, consult local authorities/panchang.",
           "adYear": 2024,
           "adMonth": 7,
-          "adDay": 4
+          "adDay": 4,
+          "sunriseUsed": "2024-07-04T05:13:06+05:45"
         },
         "21": {
           "tithi": "औँसी",
@@ -1301,10 +1301,10 @@
           "sourceDate": "2024-07-05",
           "method": "ephemeris_udaya",
           "confidence": "astronomical",
-          "advisory": "For religious observance, consult local authorities/panchang.",
           "adYear": 2024,
           "adMonth": 7,
-          "adDay": 5
+          "adDay": 5,
+          "sunriseUsed": "2024-07-05T05:13:31+05:45"
         },
         "22": {
           "tithi": "प्रतिपदा",
@@ -1316,10 +1316,10 @@
           "sourceDate": "2024-07-06",
           "method": "ephemeris_udaya",
           "confidence": "astronomical",
-          "advisory": "For religious observance, consult local authorities/panchang.",
           "adYear": 2024,
           "adMonth": 7,
-          "adDay": 6
+          "adDay": 6,
+          "sunriseUsed": "2024-07-06T05:13:56+05:45"
         },
         "23": {
           "tithi": "द्वितीया",
@@ -1331,10 +1331,10 @@
           "sourceDate": "2024-07-07",
           "method": "ephemeris_udaya",
           "confidence": "astronomical",
-          "advisory": "For religious observance, consult local authorities/panchang.",
           "adYear": 2024,
           "adMonth": 7,
-          "adDay": 7
+          "adDay": 7,
+          "sunriseUsed": "2024-07-07T05:14:23+05:45"
         },
         "24": {
           "tithi": "द्वितीया",
@@ -1346,25 +1346,25 @@
           "sourceDate": "2024-07-08",
           "method": "ephemeris_udaya",
           "confidence": "astronomical",
-          "advisory": "For religious observance, consult local authorities/panchang.",
           "adYear": 2024,
           "adMonth": 7,
-          "adDay": 8
+          "adDay": 8,
+          "sunriseUsed": "2024-07-08T05:14:49+05:45"
         },
         "25": {
           "tithi": "तृतीया",
           "paksha": "शुक्ल",
           "nakshatra": "आश्लेषा",
           "yoga": "सिद्धि",
-          "karana": "??",
+          "karana": "गर",
           "source": "project-parva-v3-panchanga",
           "sourceDate": "2024-07-09",
           "method": "ephemeris_udaya",
           "confidence": "astronomical",
-          "advisory": "For religious observance, consult local authorities/panchang.",
           "adYear": 2024,
           "adMonth": 7,
-          "adDay": 9
+          "adDay": 9,
+          "sunriseUsed": "2024-07-09T05:15:17+05:45"
         },
         "26": {
           "tithi": "चतुर्थी",
@@ -1376,25 +1376,25 @@
           "sourceDate": "2024-07-10",
           "method": "ephemeris_udaya",
           "confidence": "astronomical",
-          "advisory": "For religious observance, consult local authorities/panchang.",
           "adYear": 2024,
           "adMonth": 7,
-          "adDay": 10
+          "adDay": 10,
+          "sunriseUsed": "2024-07-10T05:15:44+05:45"
         },
         "27": {
           "tithi": "पञ्चमी",
           "paksha": "शुक्ल",
           "nakshatra": "पूर्वाफाल्गुनी",
-          "yoga": "??????",
+          "yoga": "वरीयान",
           "karana": "बालव",
           "source": "project-parva-v3-panchanga",
           "sourceDate": "2024-07-11",
           "method": "ephemeris_udaya",
           "confidence": "astronomical",
-          "advisory": "For religious observance, consult local authorities/panchang.",
           "adYear": 2024,
           "adMonth": 7,
-          "adDay": 11
+          "adDay": 11,
+          "sunriseUsed": "2024-07-11T05:16:13+05:45"
         },
         "28": {
           "tithi": "षष्ठी",
@@ -1406,10 +1406,10 @@
           "sourceDate": "2024-07-12",
           "method": "ephemeris_udaya",
           "confidence": "astronomical",
-          "advisory": "For religious observance, consult local authorities/panchang.",
           "adYear": 2024,
           "adMonth": 7,
-          "adDay": 12
+          "adDay": 12,
+          "sunriseUsed": "2024-07-12T05:16:41+05:45"
         },
         "29": {
           "tithi": "सप्तमी",
@@ -1421,10 +1421,10 @@
           "sourceDate": "2024-07-13",
           "method": "ephemeris_udaya",
           "confidence": "astronomical",
-          "advisory": "For religious observance, consult local authorities/panchang.",
           "adYear": 2024,
           "adMonth": 7,
-          "adDay": 13
+          "adDay": 13,
+          "sunriseUsed": "2024-07-13T05:17:10+05:45"
         },
         "30": {
           "tithi": "अष्टमी",
@@ -1436,10 +1436,10 @@
           "sourceDate": "2024-07-14",
           "method": "ephemeris_udaya",
           "confidence": "astronomical",
-          "advisory": "For religious observance, consult local authorities/panchang.",
           "adYear": 2024,
           "adMonth": 7,
-          "adDay": 14
+          "adDay": 14,
+          "sunriseUsed": "2024-07-14T05:17:40+05:45"
         },
         "31": {
           "tithi": "नवमी",
@@ -1451,10 +1451,10 @@
           "sourceDate": "2024-07-15",
           "method": "ephemeris_udaya",
           "confidence": "astronomical",
-          "advisory": "For religious observance, consult local authorities/panchang.",
           "adYear": 2024,
           "adMonth": 7,
-          "adDay": 15
+          "adDay": 15,
+          "sunriseUsed": "2024-07-15T05:18:10+05:45"
         }
       }
     },
@@ -1471,10 +1471,10 @@
           "sourceDate": "2024-07-16",
           "method": "ephemeris_udaya",
           "confidence": "astronomical",
-          "advisory": "For religious observance, consult local authorities/panchang.",
           "adYear": 2024,
           "adMonth": 7,
-          "adDay": 16
+          "adDay": 16,
+          "sunriseUsed": "2024-07-16T05:18:40+05:45"
         },
         "2": {
           "tithi": "एकादशी",
@@ -1486,10 +1486,10 @@
           "sourceDate": "2024-07-17",
           "method": "ephemeris_udaya",
           "confidence": "astronomical",
-          "advisory": "For religious observance, consult local authorities/panchang.",
           "adYear": 2024,
           "adMonth": 7,
-          "adDay": 17
+          "adDay": 17,
+          "sunriseUsed": "2024-07-17T05:19:10+05:45"
         },
         "3": {
           "tithi": "द्वादशी",
@@ -1501,10 +1501,10 @@
           "sourceDate": "2024-07-18",
           "method": "ephemeris_udaya",
           "confidence": "astronomical",
-          "advisory": "For religious observance, consult local authorities/panchang.",
           "adYear": 2024,
           "adMonth": 7,
-          "adDay": 18
+          "adDay": 18,
+          "sunriseUsed": "2024-07-18T05:19:41+05:45"
         },
         "4": {
           "tithi": "त्रयोदशी",
@@ -1516,40 +1516,40 @@
           "sourceDate": "2024-07-19",
           "method": "ephemeris_udaya",
           "confidence": "astronomical",
-          "advisory": "For religious observance, consult local authorities/panchang.",
           "adYear": 2024,
           "adMonth": 7,
-          "adDay": 19
+          "adDay": 19,
+          "sunriseUsed": "2024-07-19T05:20:12+05:45"
         },
         "5": {
           "tithi": "चतुर्दशी",
           "paksha": "शुक्ल",
           "nakshatra": "पूर्वाषाढा",
           "yoga": "वैधृति",
-          "karana": "??",
+          "karana": "गर",
           "source": "project-parva-v3-panchanga",
           "sourceDate": "2024-07-20",
           "method": "ephemeris_udaya",
           "confidence": "astronomical",
-          "advisory": "For religious observance, consult local authorities/panchang.",
           "adYear": 2024,
           "adMonth": 7,
-          "adDay": 20
+          "adDay": 20,
+          "sunriseUsed": "2024-07-20T05:20:43+05:45"
         },
         "6": {
           "tithi": "पूर्णिमा",
           "paksha": "शुक्ल",
           "nakshatra": "उत्तराषाढा",
-          "yoga": "????????",
+          "yoga": "विष्कम्भ",
           "karana": "बव",
           "source": "project-parva-v3-panchanga",
           "sourceDate": "2024-07-21",
           "method": "ephemeris_udaya",
           "confidence": "astronomical",
-          "advisory": "For religious observance, consult local authorities/panchang.",
           "adYear": 2024,
           "adMonth": 7,
-          "adDay": 21
+          "adDay": 21,
+          "sunriseUsed": "2024-07-21T05:21:15+05:45"
         },
         "7": {
           "tithi": "प्रतिपदा",
@@ -1561,25 +1561,25 @@
           "sourceDate": "2024-07-22",
           "method": "ephemeris_udaya",
           "confidence": "astronomical",
-          "advisory": "For religious observance, consult local authorities/panchang.",
           "adYear": 2024,
           "adMonth": 7,
-          "adDay": 22
+          "adDay": 22,
+          "sunriseUsed": "2024-07-22T05:21:47+05:45"
         },
         "8": {
           "tithi": "द्वितीया",
           "paksha": "कृष्ण",
           "nakshatra": "धनिष्ठा",
           "yoga": "आयुष्मान",
-          "karana": "??",
+          "karana": "गर",
           "source": "project-parva-v3-panchanga",
           "sourceDate": "2024-07-23",
           "method": "ephemeris_udaya",
           "confidence": "astronomical",
-          "advisory": "For religious observance, consult local authorities/panchang.",
           "adYear": 2024,
           "adMonth": 7,
-          "adDay": 23
+          "adDay": 23,
+          "sunriseUsed": "2024-07-23T05:22:18+05:45"
         },
         "9": {
           "tithi": "तृतीया",
@@ -1591,10 +1591,10 @@
           "sourceDate": "2024-07-24",
           "method": "ephemeris_udaya",
           "confidence": "astronomical",
-          "advisory": "For religious observance, consult local authorities/panchang.",
           "adYear": 2024,
           "adMonth": 7,
-          "adDay": 24
+          "adDay": 24,
+          "sunriseUsed": "2024-07-24T05:22:50+05:45"
         },
         "10": {
           "tithi": "पञ्चमी",
@@ -1606,25 +1606,25 @@
           "sourceDate": "2024-07-25",
           "method": "ephemeris_udaya",
           "confidence": "astronomical",
-          "advisory": "For religious observance, consult local authorities/panchang.",
           "adYear": 2024,
           "adMonth": 7,
-          "adDay": 25
+          "adDay": 25,
+          "sunriseUsed": "2024-07-25T05:23:22+05:45"
         },
         "11": {
           "tithi": "षष्ठी",
           "paksha": "कृष्ण",
           "nakshatra": "उत्तराभाद्रपद",
           "yoga": "सुकर्म",
-          "karana": "??",
+          "karana": "गर",
           "source": "project-parva-v3-panchanga",
           "sourceDate": "2024-07-26",
           "method": "ephemeris_udaya",
           "confidence": "astronomical",
-          "advisory": "For religious observance, consult local authorities/panchang.",
           "adYear": 2024,
           "adMonth": 7,
-          "adDay": 26
+          "adDay": 26,
+          "sunriseUsed": "2024-07-26T05:23:54+05:45"
         },
         "12": {
           "tithi": "सप्तमी",
@@ -1636,10 +1636,10 @@
           "sourceDate": "2024-07-27",
           "method": "ephemeris_udaya",
           "confidence": "astronomical",
-          "advisory": "For religious observance, consult local authorities/panchang.",
           "adYear": 2024,
           "adMonth": 7,
-          "adDay": 27
+          "adDay": 27,
+          "sunriseUsed": "2024-07-27T05:24:27+05:45"
         },
         "13": {
           "tithi": "अष्टमी",
@@ -1651,10 +1651,10 @@
           "sourceDate": "2024-07-28",
           "method": "ephemeris_udaya",
           "confidence": "astronomical",
-          "advisory": "For religious observance, consult local authorities/panchang.",
           "adYear": 2024,
           "adMonth": 7,
-          "adDay": 28
+          "adDay": 28,
+          "sunriseUsed": "2024-07-28T05:24:59+05:45"
         },
         "14": {
           "tithi": "नवमी",
@@ -1666,10 +1666,10 @@
           "sourceDate": "2024-07-29",
           "method": "ephemeris_udaya",
           "confidence": "astronomical",
-          "advisory": "For religious observance, consult local authorities/panchang.",
           "adYear": 2024,
           "adMonth": 7,
-          "adDay": 29
+          "adDay": 29,
+          "sunriseUsed": "2024-07-29T05:25:32+05:45"
         },
         "15": {
           "tithi": "दशमी",
@@ -1681,10 +1681,10 @@
           "sourceDate": "2024-07-30",
           "method": "ephemeris_udaya",
           "confidence": "astronomical",
-          "advisory": "For religious observance, consult local authorities/panchang.",
           "adYear": 2024,
           "adMonth": 7,
-          "adDay": 30
+          "adDay": 30,
+          "sunriseUsed": "2024-07-30T05:26:04+05:45"
         },
         "16": {
           "tithi": "एकादशी",
@@ -1696,10 +1696,10 @@
           "sourceDate": "2024-07-31",
           "method": "ephemeris_udaya",
           "confidence": "astronomical",
-          "advisory": "For religious observance, consult local authorities/panchang.",
           "adYear": 2024,
           "adMonth": 7,
-          "adDay": 31
+          "adDay": 31,
+          "sunriseUsed": "2024-07-31T05:26:36+05:45"
         },
         "17": {
           "tithi": "द्वादशी",
@@ -1711,10 +1711,10 @@
           "sourceDate": "2024-08-01",
           "method": "ephemeris_udaya",
           "confidence": "astronomical",
-          "advisory": "For religious observance, consult local authorities/panchang.",
           "adYear": 2024,
           "adMonth": 8,
-          "adDay": 1
+          "adDay": 1,
+          "sunriseUsed": "2024-08-01T05:27:09+05:45"
         },
         "18": {
           "tithi": "त्रयोदशी",
@@ -1726,10 +1726,10 @@
           "sourceDate": "2024-08-02",
           "method": "ephemeris_udaya",
           "confidence": "astronomical",
-          "advisory": "For religious observance, consult local authorities/panchang.",
           "adYear": 2024,
           "adMonth": 8,
-          "adDay": 2
+          "adDay": 2,
+          "sunriseUsed": "2024-08-02T05:27:41+05:45"
         },
         "19": {
           "tithi": "चतुर्दशी",
@@ -1741,10 +1741,10 @@
           "sourceDate": "2024-08-03",
           "method": "ephemeris_udaya",
           "confidence": "astronomical",
-          "advisory": "For religious observance, consult local authorities/panchang.",
           "adYear": 2024,
           "adMonth": 8,
-          "adDay": 3
+          "adDay": 3,
+          "sunriseUsed": "2024-08-03T05:28:14+05:45"
         },
         "20": {
           "tithi": "औँसी",
@@ -1756,10 +1756,10 @@
           "sourceDate": "2024-08-04",
           "method": "ephemeris_udaya",
           "confidence": "astronomical",
-          "advisory": "For religious observance, consult local authorities/panchang.",
           "adYear": 2024,
           "adMonth": 8,
-          "adDay": 4
+          "adDay": 4,
+          "sunriseUsed": "2024-08-04T05:28:46+05:45"
         },
         "21": {
           "tithi": "प्रतिपदा",
@@ -1771,25 +1771,25 @@
           "sourceDate": "2024-08-05",
           "method": "ephemeris_udaya",
           "confidence": "astronomical",
-          "advisory": "For religious observance, consult local authorities/panchang.",
           "adYear": 2024,
           "adMonth": 8,
-          "adDay": 5
+          "adDay": 5,
+          "sunriseUsed": "2024-08-05T05:29:18+05:45"
         },
         "22": {
           "tithi": "द्वितीया",
           "paksha": "शुक्ल",
           "nakshatra": "मघा",
-          "yoga": "??????",
+          "yoga": "वरीयान",
           "karana": "बालव",
           "source": "project-parva-v3-panchanga",
           "sourceDate": "2024-08-06",
           "method": "ephemeris_udaya",
           "confidence": "astronomical",
-          "advisory": "For religious observance, consult local authorities/panchang.",
           "adYear": 2024,
           "adMonth": 8,
-          "adDay": 6
+          "adDay": 6,
+          "sunriseUsed": "2024-08-06T05:29:51+05:45"
         },
         "23": {
           "tithi": "तृतीया",
@@ -1801,10 +1801,10 @@
           "sourceDate": "2024-08-07",
           "method": "ephemeris_udaya",
           "confidence": "astronomical",
-          "advisory": "For religious observance, consult local authorities/panchang.",
           "adYear": 2024,
           "adMonth": 8,
-          "adDay": 7
+          "adDay": 7,
+          "sunriseUsed": "2024-08-07T05:30:23+05:45"
         },
         "24": {
           "tithi": "चतुर्थी",
@@ -1816,10 +1816,10 @@
           "sourceDate": "2024-08-08",
           "method": "ephemeris_udaya",
           "confidence": "astronomical",
-          "advisory": "For religious observance, consult local authorities/panchang.",
           "adYear": 2024,
           "adMonth": 8,
-          "adDay": 8
+          "adDay": 8,
+          "sunriseUsed": "2024-08-08T05:30:55+05:45"
         },
         "25": {
           "tithi": "पञ्चमी",
@@ -1831,10 +1831,10 @@
           "sourceDate": "2024-08-09",
           "method": "ephemeris_udaya",
           "confidence": "astronomical",
-          "advisory": "For religious observance, consult local authorities/panchang.",
           "adYear": 2024,
           "adMonth": 8,
-          "adDay": 9
+          "adDay": 9,
+          "sunriseUsed": "2024-08-09T05:31:26+05:45"
         },
         "26": {
           "tithi": "षष्ठी",
@@ -1846,10 +1846,10 @@
           "sourceDate": "2024-08-10",
           "method": "ephemeris_udaya",
           "confidence": "astronomical",
-          "advisory": "For religious observance, consult local authorities/panchang.",
           "adYear": 2024,
           "adMonth": 8,
-          "adDay": 10
+          "adDay": 10,
+          "sunriseUsed": "2024-08-10T05:31:58+05:45"
         },
         "27": {
           "tithi": "षष्ठी",
@@ -1861,10 +1861,10 @@
           "sourceDate": "2024-08-11",
           "method": "ephemeris_udaya",
           "confidence": "astronomical",
-          "advisory": "For religious observance, consult local authorities/panchang.",
           "adYear": 2024,
           "adMonth": 8,
-          "adDay": 11
+          "adDay": 11,
+          "sunriseUsed": "2024-08-11T05:32:29+05:45"
         },
         "28": {
           "tithi": "सप्तमी",
@@ -1876,10 +1876,10 @@
           "sourceDate": "2024-08-12",
           "method": "ephemeris_udaya",
           "confidence": "astronomical",
-          "advisory": "For religious observance, consult local authorities/panchang.",
           "adYear": 2024,
           "adMonth": 8,
-          "adDay": 12
+          "adDay": 12,
+          "sunriseUsed": "2024-08-12T05:33:01+05:45"
         },
         "29": {
           "tithi": "अष्टमी",
@@ -1891,10 +1891,10 @@
           "sourceDate": "2024-08-13",
           "method": "ephemeris_udaya",
           "confidence": "astronomical",
-          "advisory": "For religious observance, consult local authorities/panchang.",
           "adYear": 2024,
           "adMonth": 8,
-          "adDay": 13
+          "adDay": 13,
+          "sunriseUsed": "2024-08-13T05:33:32+05:45"
         },
         "30": {
           "tithi": "नवमी",
@@ -1906,40 +1906,40 @@
           "sourceDate": "2024-08-14",
           "method": "ephemeris_udaya",
           "confidence": "astronomical",
-          "advisory": "For religious observance, consult local authorities/panchang.",
           "adYear": 2024,
           "adMonth": 8,
-          "adDay": 14
+          "adDay": 14,
+          "sunriseUsed": "2024-08-14T05:34:03+05:45"
         },
         "31": {
           "tithi": "दशमी",
           "paksha": "शुक्ल",
           "nakshatra": "ज्येष्ठा",
           "yoga": "वैधृति",
-          "karana": "??",
+          "karana": "गर",
           "source": "project-parva-v3-panchanga",
           "sourceDate": "2024-08-15",
           "method": "ephemeris_udaya",
           "confidence": "astronomical",
-          "advisory": "For religious observance, consult local authorities/panchang.",
           "adYear": 2024,
           "adMonth": 8,
-          "adDay": 15
+          "adDay": 15,
+          "sunriseUsed": "2024-08-15T05:34:34+05:45"
         },
         "32": {
           "tithi": "एकादशी",
           "paksha": "शुक्ल",
           "nakshatra": "मूल",
-          "yoga": "????????",
+          "yoga": "विष्कम्भ",
           "karana": "विष्टि",
           "source": "project-parva-v3-panchanga",
           "sourceDate": "2024-08-16",
           "method": "ephemeris_udaya",
           "confidence": "astronomical",
-          "advisory": "For religious observance, consult local authorities/panchang.",
           "adYear": 2024,
           "adMonth": 8,
-          "adDay": 16
+          "adDay": 16,
+          "sunriseUsed": "2024-08-16T05:35:04+05:45"
         }
       }
     },
@@ -1956,10 +1956,10 @@
           "sourceDate": "2024-08-17",
           "method": "ephemeris_udaya",
           "confidence": "astronomical",
-          "advisory": "For religious observance, consult local authorities/panchang.",
           "adYear": 2024,
           "adMonth": 8,
-          "adDay": 17
+          "adDay": 17,
+          "sunriseUsed": "2024-08-17T05:35:35+05:45"
         },
         "2": {
           "tithi": "त्रयोदशी",
@@ -1971,10 +1971,10 @@
           "sourceDate": "2024-08-18",
           "method": "ephemeris_udaya",
           "confidence": "astronomical",
-          "advisory": "For religious observance, consult local authorities/panchang.",
           "adYear": 2024,
           "adMonth": 8,
-          "adDay": 18
+          "adDay": 18,
+          "sunriseUsed": "2024-08-18T05:36:05+05:45"
         },
         "3": {
           "tithi": "पूर्णिमा",
@@ -1986,10 +1986,10 @@
           "sourceDate": "2024-08-19",
           "method": "ephemeris_udaya",
           "confidence": "astronomical",
-          "advisory": "For religious observance, consult local authorities/panchang.",
           "adYear": 2024,
           "adMonth": 8,
-          "adDay": 19
+          "adDay": 19,
+          "sunriseUsed": "2024-08-19T05:36:35+05:45"
         },
         "4": {
           "tithi": "प्रतिपदा",
@@ -2001,10 +2001,10 @@
           "sourceDate": "2024-08-20",
           "method": "ephemeris_udaya",
           "confidence": "astronomical",
-          "advisory": "For religious observance, consult local authorities/panchang.",
           "adYear": 2024,
           "adMonth": 8,
-          "adDay": 20
+          "adDay": 20,
+          "sunriseUsed": "2024-08-20T05:37:05+05:45"
         },
         "5": {
           "tithi": "द्वितीया",
@@ -2016,10 +2016,10 @@
           "sourceDate": "2024-08-21",
           "method": "ephemeris_udaya",
           "confidence": "astronomical",
-          "advisory": "For religious observance, consult local authorities/panchang.",
           "adYear": 2024,
           "adMonth": 8,
-          "adDay": 21
+          "adDay": 21,
+          "sunriseUsed": "2024-08-21T05:37:34+05:45"
         },
         "6": {
           "tithi": "तृतीया",
@@ -2031,10 +2031,10 @@
           "sourceDate": "2024-08-22",
           "method": "ephemeris_udaya",
           "confidence": "astronomical",
-          "advisory": "For religious observance, consult local authorities/panchang.",
           "adYear": 2024,
           "adMonth": 8,
-          "adDay": 22
+          "adDay": 22,
+          "sunriseUsed": "2024-08-22T05:38:04+05:45"
         },
         "7": {
           "tithi": "चतुर्थी",
@@ -2046,10 +2046,10 @@
           "sourceDate": "2024-08-23",
           "method": "ephemeris_udaya",
           "confidence": "astronomical",
-          "advisory": "For religious observance, consult local authorities/panchang.",
           "adYear": 2024,
           "adMonth": 8,
-          "adDay": 23
+          "adDay": 23,
+          "sunriseUsed": "2024-08-23T05:38:33+05:45"
         },
         "8": {
           "tithi": "पञ्चमी",
@@ -2061,10 +2061,10 @@
           "sourceDate": "2024-08-24",
           "method": "ephemeris_udaya",
           "confidence": "astronomical",
-          "advisory": "For religious observance, consult local authorities/panchang.",
           "adYear": 2024,
           "adMonth": 8,
-          "adDay": 24
+          "adDay": 24,
+          "sunriseUsed": "2024-08-24T05:39:02+05:45"
         },
         "9": {
           "tithi": "षष्ठी",
@@ -2076,10 +2076,10 @@
           "sourceDate": "2024-08-25",
           "method": "ephemeris_udaya",
           "confidence": "astronomical",
-          "advisory": "For religious observance, consult local authorities/panchang.",
           "adYear": 2024,
           "adMonth": 8,
-          "adDay": 25
+          "adDay": 25,
+          "sunriseUsed": "2024-08-25T05:39:31+05:45"
         },
         "10": {
           "tithi": "अष्टमी",
@@ -2091,10 +2091,10 @@
           "sourceDate": "2024-08-26",
           "method": "ephemeris_udaya",
           "confidence": "astronomical",
-          "advisory": "For religious observance, consult local authorities/panchang.",
           "adYear": 2024,
           "adMonth": 8,
-          "adDay": 26
+          "adDay": 26,
+          "sunriseUsed": "2024-08-26T05:40:00+05:45"
         },
         "11": {
           "tithi": "नवमी",
@@ -2106,10 +2106,10 @@
           "sourceDate": "2024-08-27",
           "method": "ephemeris_udaya",
           "confidence": "astronomical",
-          "advisory": "For religious observance, consult local authorities/panchang.",
           "adYear": 2024,
           "adMonth": 8,
-          "adDay": 27
+          "adDay": 27,
+          "sunriseUsed": "2024-08-27T05:40:29+05:45"
         },
         "12": {
           "tithi": "दशमी",
@@ -2121,10 +2121,10 @@
           "sourceDate": "2024-08-28",
           "method": "ephemeris_udaya",
           "confidence": "astronomical",
-          "advisory": "For religious observance, consult local authorities/panchang.",
           "adYear": 2024,
           "adMonth": 8,
-          "adDay": 28
+          "adDay": 28,
+          "sunriseUsed": "2024-08-28T05:40:58+05:45"
         },
         "13": {
           "tithi": "एकादशी",
@@ -2136,10 +2136,10 @@
           "sourceDate": "2024-08-29",
           "method": "ephemeris_udaya",
           "confidence": "astronomical",
-          "advisory": "For religious observance, consult local authorities/panchang.",
           "adYear": 2024,
           "adMonth": 8,
-          "adDay": 29
+          "adDay": 29,
+          "sunriseUsed": "2024-08-29T05:41:26+05:45"
         },
         "14": {
           "tithi": "द्वादशी",
@@ -2151,25 +2151,25 @@
           "sourceDate": "2024-08-30",
           "method": "ephemeris_udaya",
           "confidence": "astronomical",
-          "advisory": "For religious observance, consult local authorities/panchang.",
           "adYear": 2024,
           "adMonth": 8,
-          "adDay": 30
+          "adDay": 30,
+          "sunriseUsed": "2024-08-30T05:41:55+05:45"
         },
         "15": {
           "tithi": "त्रयोदशी",
           "paksha": "कृष्ण",
           "nakshatra": "पुष्य",
-          "yoga": "??????",
-          "karana": "??",
+          "yoga": "वरीयान",
+          "karana": "गर",
           "source": "project-parva-v3-panchanga",
           "sourceDate": "2024-08-31",
           "method": "ephemeris_udaya",
           "confidence": "astronomical",
-          "advisory": "For religious observance, consult local authorities/panchang.",
           "adYear": 2024,
           "adMonth": 8,
-          "adDay": 31
+          "adDay": 31,
+          "sunriseUsed": "2024-08-31T05:42:23+05:45"
         },
         "16": {
           "tithi": "चतुर्दशी",
@@ -2181,10 +2181,10 @@
           "sourceDate": "2024-09-01",
           "method": "ephemeris_udaya",
           "confidence": "astronomical",
-          "advisory": "For religious observance, consult local authorities/panchang.",
           "adYear": 2024,
           "adMonth": 9,
-          "adDay": 1
+          "adDay": 1,
+          "sunriseUsed": "2024-09-01T05:42:51+05:45"
         },
         "17": {
           "tithi": "औँसी",
@@ -2196,10 +2196,10 @@
           "sourceDate": "2024-09-02",
           "method": "ephemeris_udaya",
           "confidence": "astronomical",
-          "advisory": "For religious observance, consult local authorities/panchang.",
           "adYear": 2024,
           "adMonth": 9,
-          "adDay": 2
+          "adDay": 2,
+          "sunriseUsed": "2024-09-02T05:43:19+05:45"
         },
         "18": {
           "tithi": "औँसी",
@@ -2211,10 +2211,10 @@
           "sourceDate": "2024-09-03",
           "method": "ephemeris_udaya",
           "confidence": "astronomical",
-          "advisory": "For religious observance, consult local authorities/panchang.",
           "adYear": 2024,
           "adMonth": 9,
-          "adDay": 3
+          "adDay": 3,
+          "sunriseUsed": "2024-09-03T05:43:47+05:45"
         },
         "19": {
           "tithi": "प्रतिपदा",
@@ -2226,10 +2226,10 @@
           "sourceDate": "2024-09-04",
           "method": "ephemeris_udaya",
           "confidence": "astronomical",
-          "advisory": "For religious observance, consult local authorities/panchang.",
           "adYear": 2024,
           "adMonth": 9,
-          "adDay": 4
+          "adDay": 4,
+          "sunriseUsed": "2024-09-04T05:44:15+05:45"
         },
         "20": {
           "tithi": "द्वितीया",
@@ -2241,25 +2241,25 @@
           "sourceDate": "2024-09-05",
           "method": "ephemeris_udaya",
           "confidence": "astronomical",
-          "advisory": "For religious observance, consult local authorities/panchang.",
           "adYear": 2024,
           "adMonth": 9,
-          "adDay": 5
+          "adDay": 5,
+          "sunriseUsed": "2024-09-05T05:44:43+05:45"
         },
         "21": {
           "tithi": "तृतीया",
           "paksha": "शुक्ल",
           "nakshatra": "हस्त",
           "yoga": "शुक्ल",
-          "karana": "??",
+          "karana": "गर",
           "source": "project-parva-v3-panchanga",
           "sourceDate": "2024-09-06",
           "method": "ephemeris_udaya",
           "confidence": "astronomical",
-          "advisory": "For religious observance, consult local authorities/panchang.",
           "adYear": 2024,
           "adMonth": 9,
-          "adDay": 6
+          "adDay": 6,
+          "sunriseUsed": "2024-09-06T05:45:10+05:45"
         },
         "22": {
           "tithi": "चतुर्थी",
@@ -2271,10 +2271,10 @@
           "sourceDate": "2024-09-07",
           "method": "ephemeris_udaya",
           "confidence": "astronomical",
-          "advisory": "For religious observance, consult local authorities/panchang.",
           "adYear": 2024,
           "adMonth": 9,
-          "adDay": 7
+          "adDay": 7,
+          "sunriseUsed": "2024-09-07T05:45:38+05:45"
         },
         "23": {
           "tithi": "पञ्चमी",
@@ -2286,10 +2286,10 @@
           "sourceDate": "2024-09-08",
           "method": "ephemeris_udaya",
           "confidence": "astronomical",
-          "advisory": "For religious observance, consult local authorities/panchang.",
           "adYear": 2024,
           "adMonth": 9,
-          "adDay": 8
+          "adDay": 8,
+          "sunriseUsed": "2024-09-08T05:46:05+05:45"
         },
         "24": {
           "tithi": "षष्ठी",
@@ -2301,25 +2301,25 @@
           "sourceDate": "2024-09-09",
           "method": "ephemeris_udaya",
           "confidence": "astronomical",
-          "advisory": "For religious observance, consult local authorities/panchang.",
           "adYear": 2024,
           "adMonth": 9,
-          "adDay": 9
+          "adDay": 9,
+          "sunriseUsed": "2024-09-09T05:46:33+05:45"
         },
         "25": {
           "tithi": "सप्तमी",
           "paksha": "शुक्ल",
           "nakshatra": "अनुराधा",
-          "yoga": "????????",
-          "karana": "??",
+          "yoga": "विष्कम्भ",
+          "karana": "गर",
           "source": "project-parva-v3-panchanga",
           "sourceDate": "2024-09-10",
           "method": "ephemeris_udaya",
           "confidence": "astronomical",
-          "advisory": "For religious observance, consult local authorities/panchang.",
           "adYear": 2024,
           "adMonth": 9,
-          "adDay": 10
+          "adDay": 10,
+          "sunriseUsed": "2024-09-10T05:47:00+05:45"
         },
         "26": {
           "tithi": "अष्टमी",
@@ -2331,10 +2331,10 @@
           "sourceDate": "2024-09-11",
           "method": "ephemeris_udaya",
           "confidence": "astronomical",
-          "advisory": "For religious observance, consult local authorities/panchang.",
           "adYear": 2024,
           "adMonth": 9,
-          "adDay": 11
+          "adDay": 11,
+          "sunriseUsed": "2024-09-11T05:47:27+05:45"
         },
         "27": {
           "tithi": "नवमी",
@@ -2346,10 +2346,10 @@
           "sourceDate": "2024-09-12",
           "method": "ephemeris_udaya",
           "confidence": "astronomical",
-          "advisory": "For religious observance, consult local authorities/panchang.",
           "adYear": 2024,
           "adMonth": 9,
-          "adDay": 12
+          "adDay": 12,
+          "sunriseUsed": "2024-09-12T05:47:55+05:45"
         },
         "28": {
           "tithi": "दशमी",
@@ -2361,10 +2361,10 @@
           "sourceDate": "2024-09-13",
           "method": "ephemeris_udaya",
           "confidence": "astronomical",
-          "advisory": "For religious observance, consult local authorities/panchang.",
           "adYear": 2024,
           "adMonth": 9,
-          "adDay": 13
+          "adDay": 13,
+          "sunriseUsed": "2024-09-13T05:48:22+05:45"
         },
         "29": {
           "tithi": "एकादशी",
@@ -2376,10 +2376,10 @@
           "sourceDate": "2024-09-14",
           "method": "ephemeris_udaya",
           "confidence": "astronomical",
-          "advisory": "For religious observance, consult local authorities/panchang.",
           "adYear": 2024,
           "adMonth": 9,
-          "adDay": 14
+          "adDay": 14,
+          "sunriseUsed": "2024-09-14T05:48:49+05:45"
         },
         "30": {
           "tithi": "द्वादशी",
@@ -2391,10 +2391,10 @@
           "sourceDate": "2024-09-15",
           "method": "ephemeris_udaya",
           "confidence": "astronomical",
-          "advisory": "For religious observance, consult local authorities/panchang.",
           "adYear": 2024,
           "adMonth": 9,
-          "adDay": 15
+          "adDay": 15,
+          "sunriseUsed": "2024-09-15T05:49:16+05:45"
         },
         "31": {
           "tithi": "त्रयोदशी",
@@ -2406,10 +2406,10 @@
           "sourceDate": "2024-09-16",
           "method": "ephemeris_udaya",
           "confidence": "astronomical",
-          "advisory": "For religious observance, consult local authorities/panchang.",
           "adYear": 2024,
           "adMonth": 9,
-          "adDay": 16
+          "adDay": 16,
+          "sunriseUsed": "2024-09-16T05:49:44+05:45"
         }
       }
     },
@@ -2426,10 +2426,10 @@
           "sourceDate": "2024-09-17",
           "method": "ephemeris_udaya",
           "confidence": "astronomical",
-          "advisory": "For religious observance, consult local authorities/panchang.",
           "adYear": 2024,
           "adMonth": 9,
-          "adDay": 17
+          "adDay": 17,
+          "sunriseUsed": "2024-09-17T05:50:11+05:45"
         },
         "2": {
           "tithi": "पूर्णिमा",
@@ -2441,10 +2441,10 @@
           "sourceDate": "2024-09-18",
           "method": "ephemeris_udaya",
           "confidence": "astronomical",
-          "advisory": "For religious observance, consult local authorities/panchang.",
           "adYear": 2024,
           "adMonth": 9,
-          "adDay": 18
+          "adDay": 18,
+          "sunriseUsed": "2024-09-18T05:50:38+05:45"
         },
         "3": {
           "tithi": "द्वितीया",
@@ -2456,10 +2456,10 @@
           "sourceDate": "2024-09-19",
           "method": "ephemeris_udaya",
           "confidence": "astronomical",
-          "advisory": "For religious observance, consult local authorities/panchang.",
           "adYear": 2024,
           "adMonth": 9,
-          "adDay": 19
+          "adDay": 19,
+          "sunriseUsed": "2024-09-19T05:51:06+05:45"
         },
         "4": {
           "tithi": "तृतीया",
@@ -2471,10 +2471,10 @@
           "sourceDate": "2024-09-20",
           "method": "ephemeris_udaya",
           "confidence": "astronomical",
-          "advisory": "For religious observance, consult local authorities/panchang.",
           "adYear": 2024,
           "adMonth": 9,
-          "adDay": 20
+          "adDay": 20,
+          "sunriseUsed": "2024-09-20T05:51:33+05:45"
         },
         "5": {
           "tithi": "चतुर्थी",
@@ -2486,10 +2486,10 @@
           "sourceDate": "2024-09-21",
           "method": "ephemeris_udaya",
           "confidence": "astronomical",
-          "advisory": "For religious observance, consult local authorities/panchang.",
           "adYear": 2024,
           "adMonth": 9,
-          "adDay": 21
+          "adDay": 21,
+          "sunriseUsed": "2024-09-21T05:52:01+05:45"
         },
         "6": {
           "tithi": "पञ्चमी",
@@ -2501,10 +2501,10 @@
           "sourceDate": "2024-09-22",
           "method": "ephemeris_udaya",
           "confidence": "astronomical",
-          "advisory": "For religious observance, consult local authorities/panchang.",
           "adYear": 2024,
           "adMonth": 9,
-          "adDay": 22
+          "adDay": 22,
+          "sunriseUsed": "2024-09-22T05:52:29+05:45"
         },
         "7": {
           "tithi": "षष्ठी",
@@ -2516,10 +2516,10 @@
           "sourceDate": "2024-09-23",
           "method": "ephemeris_udaya",
           "confidence": "astronomical",
-          "advisory": "For religious observance, consult local authorities/panchang.",
           "adYear": 2024,
           "adMonth": 9,
-          "adDay": 23
+          "adDay": 23,
+          "sunriseUsed": "2024-09-23T05:52:57+05:45"
         },
         "8": {
           "tithi": "सप्तमी",
@@ -2531,40 +2531,40 @@
           "sourceDate": "2024-09-24",
           "method": "ephemeris_udaya",
           "confidence": "astronomical",
-          "advisory": "For religious observance, consult local authorities/panchang.",
           "adYear": 2024,
           "adMonth": 9,
-          "adDay": 24
+          "adDay": 24,
+          "sunriseUsed": "2024-09-24T05:53:25+05:45"
         },
         "9": {
           "tithi": "अष्टमी",
           "paksha": "कृष्ण",
           "nakshatra": "आर्द्रा",
-          "yoga": "??????",
+          "yoga": "वरीयान",
           "karana": "कौलव",
           "source": "project-parva-v3-panchanga",
           "sourceDate": "2024-09-25",
           "method": "ephemeris_udaya",
           "confidence": "astronomical",
-          "advisory": "For religious observance, consult local authorities/panchang.",
           "adYear": 2024,
           "adMonth": 9,
-          "adDay": 25
+          "adDay": 25,
+          "sunriseUsed": "2024-09-25T05:53:53+05:45"
         },
         "10": {
           "tithi": "नवमी",
           "paksha": "कृष्ण",
           "nakshatra": "पुनर्वसु",
           "yoga": "परिघ",
-          "karana": "??",
+          "karana": "गर",
           "source": "project-parva-v3-panchanga",
           "sourceDate": "2024-09-26",
           "method": "ephemeris_udaya",
           "confidence": "astronomical",
-          "advisory": "For religious observance, consult local authorities/panchang.",
           "adYear": 2024,
           "adMonth": 9,
-          "adDay": 26
+          "adDay": 26,
+          "sunriseUsed": "2024-09-26T05:54:21+05:45"
         },
         "11": {
           "tithi": "दशमी",
@@ -2576,10 +2576,10 @@
           "sourceDate": "2024-09-27",
           "method": "ephemeris_udaya",
           "confidence": "astronomical",
-          "advisory": "For religious observance, consult local authorities/panchang.",
           "adYear": 2024,
           "adMonth": 9,
-          "adDay": 27
+          "adDay": 27,
+          "sunriseUsed": "2024-09-27T05:54:50+05:45"
         },
         "12": {
           "tithi": "एकादशी",
@@ -2591,10 +2591,10 @@
           "sourceDate": "2024-09-28",
           "method": "ephemeris_udaya",
           "confidence": "astronomical",
-          "advisory": "For religious observance, consult local authorities/panchang.",
           "adYear": 2024,
           "adMonth": 9,
-          "adDay": 28
+          "adDay": 28,
+          "sunriseUsed": "2024-09-28T05:55:19+05:45"
         },
         "13": {
           "tithi": "द्वादशी",
@@ -2606,25 +2606,25 @@
           "sourceDate": "2024-09-29",
           "method": "ephemeris_udaya",
           "confidence": "astronomical",
-          "advisory": "For religious observance, consult local authorities/panchang.",
           "adYear": 2024,
           "adMonth": 9,
-          "adDay": 29
+          "adDay": 29,
+          "sunriseUsed": "2024-09-29T05:55:48+05:45"
         },
         "14": {
           "tithi": "त्रयोदशी",
           "paksha": "कृष्ण",
           "nakshatra": "मघा",
           "yoga": "शुभ",
-          "karana": "??",
+          "karana": "गर",
           "source": "project-parva-v3-panchanga",
           "sourceDate": "2024-09-30",
           "method": "ephemeris_udaya",
           "confidence": "astronomical",
-          "advisory": "For religious observance, consult local authorities/panchang.",
           "adYear": 2024,
           "adMonth": 9,
-          "adDay": 30
+          "adDay": 30,
+          "sunriseUsed": "2024-09-30T05:56:17+05:45"
         },
         "15": {
           "tithi": "चतुर्दशी",
@@ -2636,10 +2636,10 @@
           "sourceDate": "2024-10-01",
           "method": "ephemeris_udaya",
           "confidence": "astronomical",
-          "advisory": "For religious observance, consult local authorities/panchang.",
           "adYear": 2024,
           "adMonth": 10,
-          "adDay": 1
+          "adDay": 1,
+          "sunriseUsed": "2024-10-01T05:56:47+05:45"
         },
         "16": {
           "tithi": "औँसी",
@@ -2651,10 +2651,10 @@
           "sourceDate": "2024-10-02",
           "method": "ephemeris_udaya",
           "confidence": "astronomical",
-          "advisory": "For religious observance, consult local authorities/panchang.",
           "adYear": 2024,
           "adMonth": 10,
-          "adDay": 2
+          "adDay": 2,
+          "sunriseUsed": "2024-10-02T05:57:17+05:45"
         },
         "17": {
           "tithi": "प्रतिपदा",
@@ -2666,10 +2666,10 @@
           "sourceDate": "2024-10-03",
           "method": "ephemeris_udaya",
           "confidence": "astronomical",
-          "advisory": "For religious observance, consult local authorities/panchang.",
           "adYear": 2024,
           "adMonth": 10,
-          "adDay": 3
+          "adDay": 3,
+          "sunriseUsed": "2024-10-03T05:57:47+05:45"
         },
         "18": {
           "tithi": "द्वितीया",
@@ -2681,40 +2681,40 @@
           "sourceDate": "2024-10-04",
           "method": "ephemeris_udaya",
           "confidence": "astronomical",
-          "advisory": "For religious observance, consult local authorities/panchang.",
           "adYear": 2024,
           "adMonth": 10,
-          "adDay": 4
+          "adDay": 4,
+          "sunriseUsed": "2024-10-04T05:58:17+05:45"
         },
         "19": {
           "tithi": "तृतीया",
           "paksha": "शुक्ल",
           "nakshatra": "स्वाती",
-          "yoga": "????????",
+          "yoga": "विष्कम्भ",
           "karana": "तैतिल",
           "source": "project-parva-v3-panchanga",
           "sourceDate": "2024-10-05",
           "method": "ephemeris_udaya",
           "confidence": "astronomical",
-          "advisory": "For religious observance, consult local authorities/panchang.",
           "adYear": 2024,
           "adMonth": 10,
-          "adDay": 5
+          "adDay": 5,
+          "sunriseUsed": "2024-10-05T05:58:48+05:45"
         },
         "20": {
           "tithi": "तृतीया",
           "paksha": "शुक्ल",
           "nakshatra": "विशाखा",
-          "yoga": "????????",
-          "karana": "??",
+          "yoga": "विष्कम्भ",
+          "karana": "गर",
           "source": "project-parva-v3-panchanga",
           "sourceDate": "2024-10-06",
           "method": "ephemeris_udaya",
           "confidence": "astronomical",
-          "advisory": "For religious observance, consult local authorities/panchang.",
           "adYear": 2024,
           "adMonth": 10,
-          "adDay": 6
+          "adDay": 6,
+          "sunriseUsed": "2024-10-06T05:59:19+05:45"
         },
         "21": {
           "tithi": "चतुर्थी",
@@ -2726,10 +2726,10 @@
           "sourceDate": "2024-10-07",
           "method": "ephemeris_udaya",
           "confidence": "astronomical",
-          "advisory": "For religious observance, consult local authorities/panchang.",
           "adYear": 2024,
           "adMonth": 10,
-          "adDay": 7
+          "adDay": 7,
+          "sunriseUsed": "2024-10-07T05:59:50+05:45"
         },
         "22": {
           "tithi": "पञ्चमी",
@@ -2741,10 +2741,10 @@
           "sourceDate": "2024-10-08",
           "method": "ephemeris_udaya",
           "confidence": "astronomical",
-          "advisory": "For religious observance, consult local authorities/panchang.",
           "adYear": 2024,
           "adMonth": 10,
-          "adDay": 8
+          "adDay": 8,
+          "sunriseUsed": "2024-10-08T06:00:21+05:45"
         },
         "23": {
           "tithi": "षष्ठी",
@@ -2756,10 +2756,10 @@
           "sourceDate": "2024-10-09",
           "method": "ephemeris_udaya",
           "confidence": "astronomical",
-          "advisory": "For religious observance, consult local authorities/panchang.",
           "adYear": 2024,
           "adMonth": 10,
-          "adDay": 9
+          "adDay": 9,
+          "sunriseUsed": "2024-10-09T06:00:53+05:45"
         },
         "24": {
           "tithi": "सप्तमी",
@@ -2771,10 +2771,10 @@
           "sourceDate": "2024-10-10",
           "method": "ephemeris_udaya",
           "confidence": "astronomical",
-          "advisory": "For religious observance, consult local authorities/panchang.",
           "adYear": 2024,
           "adMonth": 10,
-          "adDay": 10
+          "adDay": 10,
+          "sunriseUsed": "2024-10-10T06:01:25+05:45"
         },
         "25": {
           "tithi": "अष्टमी",
@@ -2786,10 +2786,10 @@
           "sourceDate": "2024-10-11",
           "method": "ephemeris_udaya",
           "confidence": "astronomical",
-          "advisory": "For religious observance, consult local authorities/panchang.",
           "adYear": 2024,
           "adMonth": 10,
-          "adDay": 11
+          "adDay": 11,
+          "sunriseUsed": "2024-10-11T06:01:58+05:45"
         },
         "26": {
           "tithi": "नवमी",
@@ -2801,25 +2801,25 @@
           "sourceDate": "2024-10-12",
           "method": "ephemeris_udaya",
           "confidence": "astronomical",
-          "advisory": "For religious observance, consult local authorities/panchang.",
           "adYear": 2024,
           "adMonth": 10,
-          "adDay": 12
+          "adDay": 12,
+          "sunriseUsed": "2024-10-12T06:02:31+05:45"
         },
         "27": {
           "tithi": "दशमी",
           "paksha": "शुक्ल",
           "nakshatra": "धनिष्ठा",
           "yoga": "शूल",
-          "karana": "??",
+          "karana": "गर",
           "source": "project-parva-v3-panchanga",
           "sourceDate": "2024-10-13",
           "method": "ephemeris_udaya",
           "confidence": "astronomical",
-          "advisory": "For religious observance, consult local authorities/panchang.",
           "adYear": 2024,
           "adMonth": 10,
-          "adDay": 13
+          "adDay": 13,
+          "sunriseUsed": "2024-10-13T06:03:04+05:45"
         },
         "28": {
           "tithi": "एकादशी",
@@ -2831,10 +2831,10 @@
           "sourceDate": "2024-10-14",
           "method": "ephemeris_udaya",
           "confidence": "astronomical",
-          "advisory": "For religious observance, consult local authorities/panchang.",
           "adYear": 2024,
           "adMonth": 10,
-          "adDay": 14
+          "adDay": 14,
+          "sunriseUsed": "2024-10-14T06:03:38+05:45"
         },
         "29": {
           "tithi": "त्रयोदशी",
@@ -2846,25 +2846,25 @@
           "sourceDate": "2024-10-15",
           "method": "ephemeris_udaya",
           "confidence": "astronomical",
-          "advisory": "For religious observance, consult local authorities/panchang.",
           "adYear": 2024,
           "adMonth": 10,
-          "adDay": 15
+          "adDay": 15,
+          "sunriseUsed": "2024-10-15T06:04:11+05:45"
         },
         "30": {
           "tithi": "चतुर्दशी",
           "paksha": "शुक्ल",
           "nakshatra": "उत्तराभाद्रपद",
           "yoga": "ध्रुव",
-          "karana": "??",
+          "karana": "गर",
           "source": "project-parva-v3-panchanga",
           "sourceDate": "2024-10-16",
           "method": "ephemeris_udaya",
           "confidence": "astronomical",
-          "advisory": "For religious observance, consult local authorities/panchang.",
           "adYear": 2024,
           "adMonth": 10,
-          "adDay": 16
+          "adDay": 16,
+          "sunriseUsed": "2024-10-16T06:04:46+05:45"
         }
       }
     },
@@ -2881,10 +2881,10 @@
           "sourceDate": "2024-10-17",
           "method": "ephemeris_udaya",
           "confidence": "astronomical",
-          "advisory": "For religious observance, consult local authorities/panchang.",
           "adYear": 2024,
           "adMonth": 10,
-          "adDay": 17
+          "adDay": 17,
+          "sunriseUsed": "2024-10-17T06:05:20+05:45"
         },
         "2": {
           "tithi": "प्रतिपदा",
@@ -2896,25 +2896,25 @@
           "sourceDate": "2024-10-18",
           "method": "ephemeris_udaya",
           "confidence": "astronomical",
-          "advisory": "For religious observance, consult local authorities/panchang.",
           "adYear": 2024,
           "adMonth": 10,
-          "adDay": 18
+          "adDay": 18,
+          "sunriseUsed": "2024-10-18T06:05:56+05:45"
         },
         "3": {
           "tithi": "द्वितीया",
           "paksha": "कृष्ण",
           "nakshatra": "भरणी",
           "yoga": "सिद्धि",
-          "karana": "??",
+          "karana": "गर",
           "source": "project-parva-v3-panchanga",
           "sourceDate": "2024-10-19",
           "method": "ephemeris_udaya",
           "confidence": "astronomical",
-          "advisory": "For religious observance, consult local authorities/panchang.",
           "adYear": 2024,
           "adMonth": 10,
-          "adDay": 19
+          "adDay": 19,
+          "sunriseUsed": "2024-10-19T06:06:31+05:45"
         },
         "4": {
           "tithi": "तृतीया",
@@ -2926,40 +2926,40 @@
           "sourceDate": "2024-10-20",
           "method": "ephemeris_udaya",
           "confidence": "astronomical",
-          "advisory": "For religious observance, consult local authorities/panchang.",
           "adYear": 2024,
           "adMonth": 10,
-          "adDay": 20
+          "adDay": 20,
+          "sunriseUsed": "2024-10-20T06:07:07+05:45"
         },
         "5": {
           "tithi": "पञ्चमी",
           "paksha": "कृष्ण",
           "nakshatra": "रोहिणी",
-          "yoga": "??????",
+          "yoga": "वरीयान",
           "karana": "कौलव",
           "source": "project-parva-v3-panchanga",
           "sourceDate": "2024-10-21",
           "method": "ephemeris_udaya",
           "confidence": "astronomical",
-          "advisory": "For religious observance, consult local authorities/panchang.",
           "adYear": 2024,
           "adMonth": 10,
-          "adDay": 21
+          "adDay": 21,
+          "sunriseUsed": "2024-10-21T06:07:44+05:45"
         },
         "6": {
           "tithi": "षष्ठी",
           "paksha": "कृष्ण",
           "nakshatra": "आर्द्रा",
           "yoga": "परिघ",
-          "karana": "??",
+          "karana": "गर",
           "source": "project-parva-v3-panchanga",
           "sourceDate": "2024-10-22",
           "method": "ephemeris_udaya",
           "confidence": "astronomical",
-          "advisory": "For religious observance, consult local authorities/panchang.",
           "adYear": 2024,
           "adMonth": 10,
-          "adDay": 22
+          "adDay": 22,
+          "sunriseUsed": "2024-10-22T06:08:20+05:45"
         },
         "7": {
           "tithi": "सप्तमी",
@@ -2971,10 +2971,10 @@
           "sourceDate": "2024-10-23",
           "method": "ephemeris_udaya",
           "confidence": "astronomical",
-          "advisory": "For religious observance, consult local authorities/panchang.",
           "adYear": 2024,
           "adMonth": 10,
-          "adDay": 23
+          "adDay": 23,
+          "sunriseUsed": "2024-10-23T06:08:58+05:45"
         },
         "8": {
           "tithi": "अष्टमी",
@@ -2986,10 +2986,10 @@
           "sourceDate": "2024-10-24",
           "method": "ephemeris_udaya",
           "confidence": "astronomical",
-          "advisory": "For religious observance, consult local authorities/panchang.",
           "adYear": 2024,
           "adMonth": 10,
-          "adDay": 24
+          "adDay": 24,
+          "sunriseUsed": "2024-10-24T06:09:35+05:45"
         },
         "9": {
           "tithi": "नवमी",
@@ -3001,10 +3001,10 @@
           "sourceDate": "2024-10-25",
           "method": "ephemeris_udaya",
           "confidence": "astronomical",
-          "advisory": "For religious observance, consult local authorities/panchang.",
           "adYear": 2024,
           "adMonth": 10,
-          "adDay": 25
+          "adDay": 25,
+          "sunriseUsed": "2024-10-25T06:10:14+05:45"
         },
         "10": {
           "tithi": "दशमी",
@@ -3016,10 +3016,10 @@
           "sourceDate": "2024-10-26",
           "method": "ephemeris_udaya",
           "confidence": "astronomical",
-          "advisory": "For religious observance, consult local authorities/panchang.",
           "adYear": 2024,
           "adMonth": 10,
-          "adDay": 26
+          "adDay": 26,
+          "sunriseUsed": "2024-10-26T06:10:52+05:45"
         },
         "11": {
           "tithi": "एकादशी",
@@ -3031,10 +3031,10 @@
           "sourceDate": "2024-10-27",
           "method": "ephemeris_udaya",
           "confidence": "astronomical",
-          "advisory": "For religious observance, consult local authorities/panchang.",
           "adYear": 2024,
           "adMonth": 10,
-          "adDay": 27
+          "adDay": 27,
+          "sunriseUsed": "2024-10-27T06:11:32+05:45"
         },
         "12": {
           "tithi": "एकादशी",
@@ -3046,10 +3046,10 @@
           "sourceDate": "2024-10-28",
           "method": "ephemeris_udaya",
           "confidence": "astronomical",
-          "advisory": "For religious observance, consult local authorities/panchang.",
           "adYear": 2024,
           "adMonth": 10,
-          "adDay": 28
+          "adDay": 28,
+          "sunriseUsed": "2024-10-28T06:12:11+05:45"
         },
         "13": {
           "tithi": "द्वादशी",
@@ -3061,10 +3061,10 @@
           "sourceDate": "2024-10-29",
           "method": "ephemeris_udaya",
           "confidence": "astronomical",
-          "advisory": "For religious observance, consult local authorities/panchang.",
           "adYear": 2024,
           "adMonth": 10,
-          "adDay": 29
+          "adDay": 29,
+          "sunriseUsed": "2024-10-29T06:12:51+05:45"
         },
         "14": {
           "tithi": "त्रयोदशी",
@@ -3076,25 +3076,25 @@
           "sourceDate": "2024-10-30",
           "method": "ephemeris_udaya",
           "confidence": "astronomical",
-          "advisory": "For religious observance, consult local authorities/panchang.",
           "adYear": 2024,
           "adMonth": 10,
-          "adDay": 30
+          "adDay": 30,
+          "sunriseUsed": "2024-10-30T06:13:32+05:45"
         },
         "15": {
           "tithi": "चतुर्दशी",
           "paksha": "कृष्ण",
           "nakshatra": "चित्रा",
-          "yoga": "????????",
+          "yoga": "विष्कम्भ",
           "karana": "शकुनि",
           "source": "project-parva-v3-panchanga",
           "sourceDate": "2024-10-31",
           "method": "ephemeris_udaya",
           "confidence": "astronomical",
-          "advisory": "For religious observance, consult local authorities/panchang.",
           "adYear": 2024,
           "adMonth": 10,
-          "adDay": 31
+          "adDay": 31,
+          "sunriseUsed": "2024-10-31T06:14:13+05:45"
         },
         "16": {
           "tithi": "औँसी",
@@ -3106,10 +3106,10 @@
           "sourceDate": "2024-11-01",
           "method": "ephemeris_udaya",
           "confidence": "astronomical",
-          "advisory": "For religious observance, consult local authorities/panchang.",
           "adYear": 2024,
           "adMonth": 11,
-          "adDay": 1
+          "adDay": 1,
+          "sunriseUsed": "2024-11-01T06:14:54+05:45"
         },
         "17": {
           "tithi": "प्रतिपदा",
@@ -3121,10 +3121,10 @@
           "sourceDate": "2024-11-02",
           "method": "ephemeris_udaya",
           "confidence": "astronomical",
-          "advisory": "For religious observance, consult local authorities/panchang.",
           "adYear": 2024,
           "adMonth": 11,
-          "adDay": 2
+          "adDay": 2,
+          "sunriseUsed": "2024-11-02T06:15:36+05:45"
         },
         "18": {
           "tithi": "द्वितीया",
@@ -3136,10 +3136,10 @@
           "sourceDate": "2024-11-03",
           "method": "ephemeris_udaya",
           "confidence": "astronomical",
-          "advisory": "For religious observance, consult local authorities/panchang.",
           "adYear": 2024,
           "adMonth": 11,
-          "adDay": 3
+          "adDay": 3,
+          "sunriseUsed": "2024-11-03T06:16:18+05:45"
         },
         "19": {
           "tithi": "तृतीया",
@@ -3151,10 +3151,10 @@
           "sourceDate": "2024-11-04",
           "method": "ephemeris_udaya",
           "confidence": "astronomical",
-          "advisory": "For religious observance, consult local authorities/panchang.",
           "adYear": 2024,
           "adMonth": 11,
-          "adDay": 4
+          "adDay": 4,
+          "sunriseUsed": "2024-11-04T06:17:00+05:45"
         },
         "20": {
           "tithi": "चतुर्थी",
@@ -3166,10 +3166,10 @@
           "sourceDate": "2024-11-05",
           "method": "ephemeris_udaya",
           "confidence": "astronomical",
-          "advisory": "For religious observance, consult local authorities/panchang.",
           "adYear": 2024,
           "adMonth": 11,
-          "adDay": 5
+          "adDay": 5,
+          "sunriseUsed": "2024-11-05T06:17:43+05:45"
         },
         "21": {
           "tithi": "पञ्चमी",
@@ -3181,10 +3181,10 @@
           "sourceDate": "2024-11-06",
           "method": "ephemeris_udaya",
           "confidence": "astronomical",
-          "advisory": "For religious observance, consult local authorities/panchang.",
           "adYear": 2024,
           "adMonth": 11,
-          "adDay": 6
+          "adDay": 6,
+          "sunriseUsed": "2024-11-06T06:18:27+05:45"
         },
         "22": {
           "tithi": "षष्ठी",
@@ -3196,25 +3196,25 @@
           "sourceDate": "2024-11-07",
           "method": "ephemeris_udaya",
           "confidence": "astronomical",
-          "advisory": "For religious observance, consult local authorities/panchang.",
           "adYear": 2024,
           "adMonth": 11,
-          "adDay": 7
+          "adDay": 7,
+          "sunriseUsed": "2024-11-07T06:19:10+05:45"
         },
         "23": {
           "tithi": "सप्तमी",
           "paksha": "शुक्ल",
           "nakshatra": "उत्तराषाढा",
           "yoga": "शूल",
-          "karana": "??",
+          "karana": "गर",
           "source": "project-parva-v3-panchanga",
           "sourceDate": "2024-11-08",
           "method": "ephemeris_udaya",
           "confidence": "astronomical",
-          "advisory": "For religious observance, consult local authorities/panchang.",
           "adYear": 2024,
           "adMonth": 11,
-          "adDay": 8
+          "adDay": 8,
+          "sunriseUsed": "2024-11-08T06:19:54+05:45"
         },
         "24": {
           "tithi": "अष्टमी",
@@ -3226,10 +3226,10 @@
           "sourceDate": "2024-11-09",
           "method": "ephemeris_udaya",
           "confidence": "astronomical",
-          "advisory": "For religious observance, consult local authorities/panchang.",
           "adYear": 2024,
           "adMonth": 11,
-          "adDay": 9
+          "adDay": 9,
+          "sunriseUsed": "2024-11-09T06:20:38+05:45"
         },
         "25": {
           "tithi": "नवमी",
@@ -3241,10 +3241,10 @@
           "sourceDate": "2024-11-10",
           "method": "ephemeris_udaya",
           "confidence": "astronomical",
-          "advisory": "For religious observance, consult local authorities/panchang.",
           "adYear": 2024,
           "adMonth": 11,
-          "adDay": 10
+          "adDay": 10,
+          "sunriseUsed": "2024-11-10T06:21:23+05:45"
         },
         "26": {
           "tithi": "दशमी",
@@ -3256,10 +3256,10 @@
           "sourceDate": "2024-11-11",
           "method": "ephemeris_udaya",
           "confidence": "astronomical",
-          "advisory": "For religious observance, consult local authorities/panchang.",
           "adYear": 2024,
           "adMonth": 11,
-          "adDay": 11
+          "adDay": 11,
+          "sunriseUsed": "2024-11-11T06:22:08+05:45"
         },
         "27": {
           "tithi": "एकादशी",
@@ -3271,10 +3271,10 @@
           "sourceDate": "2024-11-12",
           "method": "ephemeris_udaya",
           "confidence": "astronomical",
-          "advisory": "For religious observance, consult local authorities/panchang.",
           "adYear": 2024,
           "adMonth": 11,
-          "adDay": 12
+          "adDay": 12,
+          "sunriseUsed": "2024-11-12T06:22:53+05:45"
         },
         "28": {
           "tithi": "द्वादशी",
@@ -3286,10 +3286,10 @@
           "sourceDate": "2024-11-13",
           "method": "ephemeris_udaya",
           "confidence": "astronomical",
-          "advisory": "For religious observance, consult local authorities/panchang.",
           "adYear": 2024,
           "adMonth": 11,
-          "adDay": 13
+          "adDay": 13,
+          "sunriseUsed": "2024-11-13T06:23:38+05:45"
         },
         "29": {
           "tithi": "त्रयोदशी",
@@ -3301,10 +3301,10 @@
           "sourceDate": "2024-11-14",
           "method": "ephemeris_udaya",
           "confidence": "astronomical",
-          "advisory": "For religious observance, consult local authorities/panchang.",
           "adYear": 2024,
           "adMonth": 11,
-          "adDay": 14
+          "adDay": 14,
+          "sunriseUsed": "2024-11-14T06:24:24+05:45"
         },
         "30": {
           "tithi": "चतुर्दशी",
@@ -3316,10 +3316,10 @@
           "sourceDate": "2024-11-15",
           "method": "ephemeris_udaya",
           "confidence": "astronomical",
-          "advisory": "For religious observance, consult local authorities/panchang.",
           "adYear": 2024,
           "adMonth": 11,
-          "adDay": 15
+          "adDay": 15,
+          "sunriseUsed": "2024-11-15T06:25:09+05:45"
         }
       }
     },
@@ -3336,10 +3336,10 @@
           "sourceDate": "2024-11-16",
           "method": "ephemeris_udaya",
           "confidence": "astronomical",
-          "advisory": "For religious observance, consult local authorities/panchang.",
           "adYear": 2024,
           "adMonth": 11,
-          "adDay": 16
+          "adDay": 16,
+          "sunriseUsed": "2024-11-16T06:25:55+05:45"
         },
         "2": {
           "tithi": "द्वितीया",
@@ -3351,10 +3351,10 @@
           "sourceDate": "2024-11-17",
           "method": "ephemeris_udaya",
           "confidence": "astronomical",
-          "advisory": "For religious observance, consult local authorities/panchang.",
           "adYear": 2024,
           "adMonth": 11,
-          "adDay": 17
+          "adDay": 17,
+          "sunriseUsed": "2024-11-17T06:26:41+05:45"
         },
         "3": {
           "tithi": "तृतीया",
@@ -3366,10 +3366,10 @@
           "sourceDate": "2024-11-18",
           "method": "ephemeris_udaya",
           "confidence": "astronomical",
-          "advisory": "For religious observance, consult local authorities/panchang.",
           "adYear": 2024,
           "adMonth": 11,
-          "adDay": 18
+          "adDay": 18,
+          "sunriseUsed": "2024-11-18T06:27:28+05:45"
         },
         "4": {
           "tithi": "चतुर्थी",
@@ -3381,10 +3381,10 @@
           "sourceDate": "2024-11-19",
           "method": "ephemeris_udaya",
           "confidence": "astronomical",
-          "advisory": "For religious observance, consult local authorities/panchang.",
           "adYear": 2024,
           "adMonth": 11,
-          "adDay": 19
+          "adDay": 19,
+          "sunriseUsed": "2024-11-19T06:28:14+05:45"
         },
         "5": {
           "tithi": "पञ्चमी",
@@ -3396,10 +3396,10 @@
           "sourceDate": "2024-11-20",
           "method": "ephemeris_udaya",
           "confidence": "astronomical",
-          "advisory": "For religious observance, consult local authorities/panchang.",
           "adYear": 2024,
           "adMonth": 11,
-          "adDay": 20
+          "adDay": 20,
+          "sunriseUsed": "2024-11-20T06:29:00+05:45"
         },
         "6": {
           "tithi": "षष्ठी",
@@ -3411,10 +3411,10 @@
           "sourceDate": "2024-11-21",
           "method": "ephemeris_udaya",
           "confidence": "astronomical",
-          "advisory": "For religious observance, consult local authorities/panchang.",
           "adYear": 2024,
           "adMonth": 11,
-          "adDay": 21
+          "adDay": 21,
+          "sunriseUsed": "2024-11-21T06:29:47+05:45"
         },
         "7": {
           "tithi": "सप्तमी",
@@ -3426,10 +3426,10 @@
           "sourceDate": "2024-11-22",
           "method": "ephemeris_udaya",
           "confidence": "astronomical",
-          "advisory": "For religious observance, consult local authorities/panchang.",
           "adYear": 2024,
           "adMonth": 11,
-          "adDay": 22
+          "adDay": 22,
+          "sunriseUsed": "2024-11-22T06:30:34+05:45"
         },
         "8": {
           "tithi": "अष्टमी",
@@ -3441,10 +3441,10 @@
           "sourceDate": "2024-11-23",
           "method": "ephemeris_udaya",
           "confidence": "astronomical",
-          "advisory": "For religious observance, consult local authorities/panchang.",
           "adYear": 2024,
           "adMonth": 11,
-          "adDay": 23
+          "adDay": 23,
+          "sunriseUsed": "2024-11-23T06:31:20+05:45"
         },
         "9": {
           "tithi": "नवमी",
@@ -3456,25 +3456,25 @@
           "sourceDate": "2024-11-24",
           "method": "ephemeris_udaya",
           "confidence": "astronomical",
-          "advisory": "For religious observance, consult local authorities/panchang.",
           "adYear": 2024,
           "adMonth": 11,
-          "adDay": 24
+          "adDay": 24,
+          "sunriseUsed": "2024-11-24T06:32:07+05:45"
         },
         "10": {
           "tithi": "दशमी",
           "paksha": "कृष्ण",
           "nakshatra": "उत्तराफाल्गुनी",
-          "yoga": "????????",
+          "yoga": "विष्कम्भ",
           "karana": "वणिज",
           "source": "project-parva-v3-panchanga",
           "sourceDate": "2024-11-25",
           "method": "ephemeris_udaya",
           "confidence": "astronomical",
-          "advisory": "For religious observance, consult local authorities/panchang.",
           "adYear": 2024,
           "adMonth": 11,
-          "adDay": 25
+          "adDay": 25,
+          "sunriseUsed": "2024-11-25T06:32:53+05:45"
         },
         "11": {
           "tithi": "एकादशी",
@@ -3486,10 +3486,10 @@
           "sourceDate": "2024-11-26",
           "method": "ephemeris_udaya",
           "confidence": "astronomical",
-          "advisory": "For religious observance, consult local authorities/panchang.",
           "adYear": 2024,
           "adMonth": 11,
-          "adDay": 26
+          "adDay": 26,
+          "sunriseUsed": "2024-11-26T06:33:40+05:45"
         },
         "12": {
           "tithi": "द्वादशी",
@@ -3501,10 +3501,10 @@
           "sourceDate": "2024-11-27",
           "method": "ephemeris_udaya",
           "confidence": "astronomical",
-          "advisory": "For religious observance, consult local authorities/panchang.",
           "adYear": 2024,
           "adMonth": 11,
-          "adDay": 27
+          "adDay": 27,
+          "sunriseUsed": "2024-11-27T06:34:26+05:45"
         },
         "13": {
           "tithi": "द्वादशी",
@@ -3516,10 +3516,10 @@
           "sourceDate": "2024-11-28",
           "method": "ephemeris_udaya",
           "confidence": "astronomical",
-          "advisory": "For religious observance, consult local authorities/panchang.",
           "adYear": 2024,
           "adMonth": 11,
-          "adDay": 28
+          "adDay": 28,
+          "sunriseUsed": "2024-11-28T06:35:12+05:45"
         },
         "14": {
           "tithi": "त्रयोदशी",
@@ -3531,10 +3531,10 @@
           "sourceDate": "2024-11-29",
           "method": "ephemeris_udaya",
           "confidence": "astronomical",
-          "advisory": "For religious observance, consult local authorities/panchang.",
           "adYear": 2024,
           "adMonth": 11,
-          "adDay": 29
+          "adDay": 29,
+          "sunriseUsed": "2024-11-29T06:35:58+05:45"
         },
         "15": {
           "tithi": "चतुर्दशी",
@@ -3546,10 +3546,10 @@
           "sourceDate": "2024-11-30",
           "method": "ephemeris_udaya",
           "confidence": "astronomical",
-          "advisory": "For religious observance, consult local authorities/panchang.",
           "adYear": 2024,
           "adMonth": 11,
-          "adDay": 30
+          "adDay": 30,
+          "sunriseUsed": "2024-11-30T06:36:44+05:45"
         },
         "16": {
           "tithi": "औँसी",
@@ -3561,10 +3561,10 @@
           "sourceDate": "2024-12-01",
           "method": "ephemeris_udaya",
           "confidence": "astronomical",
-          "advisory": "For religious observance, consult local authorities/panchang.",
           "adYear": 2024,
           "adMonth": 12,
-          "adDay": 1
+          "adDay": 1,
+          "sunriseUsed": "2024-12-01T06:37:29+05:45"
         },
         "17": {
           "tithi": "प्रतिपदा",
@@ -3576,10 +3576,10 @@
           "sourceDate": "2024-12-02",
           "method": "ephemeris_udaya",
           "confidence": "astronomical",
-          "advisory": "For religious observance, consult local authorities/panchang.",
           "adYear": 2024,
           "adMonth": 12,
-          "adDay": 2
+          "adDay": 2,
+          "sunriseUsed": "2024-12-02T06:38:14+05:45"
         },
         "18": {
           "tithi": "द्वितीया",
@@ -3591,25 +3591,25 @@
           "sourceDate": "2024-12-03",
           "method": "ephemeris_udaya",
           "confidence": "astronomical",
-          "advisory": "For religious observance, consult local authorities/panchang.",
           "adYear": 2024,
           "adMonth": 12,
-          "adDay": 3
+          "adDay": 3,
+          "sunriseUsed": "2024-12-03T06:38:59+05:45"
         },
         "19": {
           "tithi": "तृतीया",
           "paksha": "शुक्ल",
           "nakshatra": "पूर्वाषाढा",
           "yoga": "गण्ड",
-          "karana": "??",
+          "karana": "गर",
           "source": "project-parva-v3-panchanga",
           "sourceDate": "2024-12-04",
           "method": "ephemeris_udaya",
           "confidence": "astronomical",
-          "advisory": "For religious observance, consult local authorities/panchang.",
           "adYear": 2024,
           "adMonth": 12,
-          "adDay": 4
+          "adDay": 4,
+          "sunriseUsed": "2024-12-04T06:39:43+05:45"
         },
         "20": {
           "tithi": "चतुर्थी",
@@ -3621,10 +3621,10 @@
           "sourceDate": "2024-12-05",
           "method": "ephemeris_udaya",
           "confidence": "astronomical",
-          "advisory": "For religious observance, consult local authorities/panchang.",
           "adYear": 2024,
           "adMonth": 12,
-          "adDay": 5
+          "adDay": 5,
+          "sunriseUsed": "2024-12-05T06:40:27+05:45"
         },
         "21": {
           "tithi": "पञ्चमी",
@@ -3636,10 +3636,10 @@
           "sourceDate": "2024-12-06",
           "method": "ephemeris_udaya",
           "confidence": "astronomical",
-          "advisory": "For religious observance, consult local authorities/panchang.",
           "adYear": 2024,
           "adMonth": 12,
-          "adDay": 6
+          "adDay": 6,
+          "sunriseUsed": "2024-12-06T06:41:10+05:45"
         },
         "22": {
           "tithi": "षष्ठी",
@@ -3651,10 +3651,10 @@
           "sourceDate": "2024-12-07",
           "method": "ephemeris_udaya",
           "confidence": "astronomical",
-          "advisory": "For religious observance, consult local authorities/panchang.",
           "adYear": 2024,
           "adMonth": 12,
-          "adDay": 7
+          "adDay": 7,
+          "sunriseUsed": "2024-12-07T06:41:53+05:45"
         },
         "23": {
           "tithi": "सप्तमी",
@@ -3666,10 +3666,10 @@
           "sourceDate": "2024-12-08",
           "method": "ephemeris_udaya",
           "confidence": "astronomical",
-          "advisory": "For religious observance, consult local authorities/panchang.",
           "adYear": 2024,
           "adMonth": 12,
-          "adDay": 8
+          "adDay": 8,
+          "sunriseUsed": "2024-12-08T06:42:35+05:45"
         },
         "24": {
           "tithi": "अष्टमी",
@@ -3681,10 +3681,10 @@
           "sourceDate": "2024-12-09",
           "method": "ephemeris_udaya",
           "confidence": "astronomical",
-          "advisory": "For religious observance, consult local authorities/panchang.",
           "adYear": 2024,
           "adMonth": 12,
-          "adDay": 9
+          "adDay": 9,
+          "sunriseUsed": "2024-12-09T06:43:17+05:45"
         },
         "25": {
           "tithi": "दशमी",
@@ -3696,25 +3696,25 @@
           "sourceDate": "2024-12-10",
           "method": "ephemeris_udaya",
           "confidence": "astronomical",
-          "advisory": "For religious observance, consult local authorities/panchang.",
           "adYear": 2024,
           "adMonth": 12,
-          "adDay": 10
+          "adDay": 10,
+          "sunriseUsed": "2024-12-10T06:43:58+05:45"
         },
         "26": {
           "tithi": "एकादशी",
           "paksha": "शुक्ल",
           "nakshatra": "रेवती",
-          "yoga": "??????",
+          "yoga": "वरीयान",
           "karana": "वणिज",
           "source": "project-parva-v3-panchanga",
           "sourceDate": "2024-12-11",
           "method": "ephemeris_udaya",
           "confidence": "astronomical",
-          "advisory": "For religious observance, consult local authorities/panchang.",
           "adYear": 2024,
           "adMonth": 12,
-          "adDay": 11
+          "adDay": 11,
+          "sunriseUsed": "2024-12-11T06:44:38+05:45"
         },
         "27": {
           "tithi": "द्वादशी",
@@ -3726,10 +3726,10 @@
           "sourceDate": "2024-12-12",
           "method": "ephemeris_udaya",
           "confidence": "astronomical",
-          "advisory": "For religious observance, consult local authorities/panchang.",
           "adYear": 2024,
           "adMonth": 12,
-          "adDay": 12
+          "adDay": 12,
+          "sunriseUsed": "2024-12-12T06:45:17+05:45"
         },
         "28": {
           "tithi": "त्रयोदशी",
@@ -3741,10 +3741,10 @@
           "sourceDate": "2024-12-13",
           "method": "ephemeris_udaya",
           "confidence": "astronomical",
-          "advisory": "For religious observance, consult local authorities/panchang.",
           "adYear": 2024,
           "adMonth": 12,
-          "adDay": 13
+          "adDay": 13,
+          "sunriseUsed": "2024-12-13T06:45:55+05:45"
         },
         "29": {
           "tithi": "चतुर्दशी",
@@ -3756,10 +3756,10 @@
           "sourceDate": "2024-12-14",
           "method": "ephemeris_udaya",
           "confidence": "astronomical",
-          "advisory": "For religious observance, consult local authorities/panchang.",
           "adYear": 2024,
           "adMonth": 12,
-          "adDay": 14
+          "adDay": 14,
+          "sunriseUsed": "2024-12-14T06:46:33+05:45"
         },
         "30": {
           "tithi": "पूर्णिमा",
@@ -3771,10 +3771,10 @@
           "sourceDate": "2024-12-15",
           "method": "ephemeris_udaya",
           "confidence": "astronomical",
-          "advisory": "For religious observance, consult local authorities/panchang.",
           "adYear": 2024,
           "adMonth": 12,
-          "adDay": 15
+          "adDay": 15,
+          "sunriseUsed": "2024-12-15T06:47:10+05:45"
         }
       }
     },
@@ -3791,25 +3791,25 @@
           "sourceDate": "2024-12-16",
           "method": "ephemeris_udaya",
           "confidence": "astronomical",
-          "advisory": "For religious observance, consult local authorities/panchang.",
           "adYear": 2024,
           "adMonth": 12,
-          "adDay": 16
+          "adDay": 16,
+          "sunriseUsed": "2024-12-16T06:47:46+05:45"
         },
         "2": {
           "tithi": "द्वितीया",
           "paksha": "कृष्ण",
           "nakshatra": "पुनर्वसु",
           "yoga": "ब्रह्म",
-          "karana": "??",
+          "karana": "गर",
           "source": "project-parva-v3-panchanga",
           "sourceDate": "2024-12-17",
           "method": "ephemeris_udaya",
           "confidence": "astronomical",
-          "advisory": "For religious observance, consult local authorities/panchang.",
           "adYear": 2024,
           "adMonth": 12,
-          "adDay": 17
+          "adDay": 17,
+          "sunriseUsed": "2024-12-17T06:48:21+05:45"
         },
         "3": {
           "tithi": "तृतीया",
@@ -3821,10 +3821,10 @@
           "sourceDate": "2024-12-18",
           "method": "ephemeris_udaya",
           "confidence": "astronomical",
-          "advisory": "For religious observance, consult local authorities/panchang.",
           "adYear": 2024,
           "adMonth": 12,
-          "adDay": 18
+          "adDay": 18,
+          "sunriseUsed": "2024-12-18T06:48:54+05:45"
         },
         "4": {
           "tithi": "चतुर्थी",
@@ -3836,25 +3836,25 @@
           "sourceDate": "2024-12-19",
           "method": "ephemeris_udaya",
           "confidence": "astronomical",
-          "advisory": "For religious observance, consult local authorities/panchang.",
           "adYear": 2024,
           "adMonth": 12,
-          "adDay": 19
+          "adDay": 19,
+          "sunriseUsed": "2024-12-19T06:49:27+05:45"
         },
         "5": {
           "tithi": "पञ्चमी",
           "paksha": "कृष्ण",
           "nakshatra": "मघा",
-          "yoga": "????????",
+          "yoga": "विष्कम्भ",
           "karana": "तैतिल",
           "source": "project-parva-v3-panchanga",
           "sourceDate": "2024-12-20",
           "method": "ephemeris_udaya",
           "confidence": "astronomical",
-          "advisory": "For religious observance, consult local authorities/panchang.",
           "adYear": 2024,
           "adMonth": 12,
-          "adDay": 20
+          "adDay": 20,
+          "sunriseUsed": "2024-12-20T06:49:59+05:45"
         },
         "6": {
           "tithi": "षष्ठी",
@@ -3866,10 +3866,10 @@
           "sourceDate": "2024-12-21",
           "method": "ephemeris_udaya",
           "confidence": "astronomical",
-          "advisory": "For religious observance, consult local authorities/panchang.",
           "adYear": 2024,
           "adMonth": 12,
-          "adDay": 21
+          "adDay": 21,
+          "sunriseUsed": "2024-12-21T06:50:30+05:45"
         },
         "7": {
           "tithi": "सप्तमी",
@@ -3881,10 +3881,10 @@
           "sourceDate": "2024-12-22",
           "method": "ephemeris_udaya",
           "confidence": "astronomical",
-          "advisory": "For religious observance, consult local authorities/panchang.",
           "adYear": 2024,
           "adMonth": 12,
-          "adDay": 22
+          "adDay": 22,
+          "sunriseUsed": "2024-12-22T06:51:00+05:45"
         },
         "8": {
           "tithi": "अष्टमी",
@@ -3896,25 +3896,25 @@
           "sourceDate": "2024-12-23",
           "method": "ephemeris_udaya",
           "confidence": "astronomical",
-          "advisory": "For religious observance, consult local authorities/panchang.",
           "adYear": 2024,
           "adMonth": 12,
-          "adDay": 23
+          "adDay": 23,
+          "sunriseUsed": "2024-12-23T06:51:28+05:45"
         },
         "9": {
           "tithi": "नवमी",
           "paksha": "कृष्ण",
           "nakshatra": "हस्त",
           "yoga": "शोभन",
-          "karana": "??",
+          "karana": "गर",
           "source": "project-parva-v3-panchanga",
           "sourceDate": "2024-12-24",
           "method": "ephemeris_udaya",
           "confidence": "astronomical",
-          "advisory": "For religious observance, consult local authorities/panchang.",
           "adYear": 2024,
           "adMonth": 12,
-          "adDay": 24
+          "adDay": 24,
+          "sunriseUsed": "2024-12-24T06:51:55+05:45"
         },
         "10": {
           "tithi": "दशमी",
@@ -3926,10 +3926,10 @@
           "sourceDate": "2024-12-25",
           "method": "ephemeris_udaya",
           "confidence": "astronomical",
-          "advisory": "For religious observance, consult local authorities/panchang.",
           "adYear": 2024,
           "adMonth": 12,
-          "adDay": 25
+          "adDay": 25,
+          "sunriseUsed": "2024-12-25T06:52:21+05:45"
         },
         "11": {
           "tithi": "एकादशी",
@@ -3941,10 +3941,10 @@
           "sourceDate": "2024-12-26",
           "method": "ephemeris_udaya",
           "confidence": "astronomical",
-          "advisory": "For religious observance, consult local authorities/panchang.",
           "adYear": 2024,
           "adMonth": 12,
-          "adDay": 26
+          "adDay": 26,
+          "sunriseUsed": "2024-12-26T06:52:46+05:45"
         },
         "12": {
           "tithi": "द्वादशी",
@@ -3956,25 +3956,25 @@
           "sourceDate": "2024-12-27",
           "method": "ephemeris_udaya",
           "confidence": "astronomical",
-          "advisory": "For religious observance, consult local authorities/panchang.",
           "adYear": 2024,
           "adMonth": 12,
-          "adDay": 27
+          "adDay": 27,
+          "sunriseUsed": "2024-12-27T06:53:10+05:45"
         },
         "13": {
           "tithi": "त्रयोदशी",
           "paksha": "कृष्ण",
           "nakshatra": "अनुराधा",
           "yoga": "शूल",
-          "karana": "??",
+          "karana": "गर",
           "source": "project-parva-v3-panchanga",
           "sourceDate": "2024-12-28",
           "method": "ephemeris_udaya",
           "confidence": "astronomical",
-          "advisory": "For religious observance, consult local authorities/panchang.",
           "adYear": 2024,
           "adMonth": 12,
-          "adDay": 28
+          "adDay": 28,
+          "sunriseUsed": "2024-12-28T06:53:32+05:45"
         },
         "14": {
           "tithi": "चतुर्दशी",
@@ -3986,10 +3986,10 @@
           "sourceDate": "2024-12-29",
           "method": "ephemeris_udaya",
           "confidence": "astronomical",
-          "advisory": "For religious observance, consult local authorities/panchang.",
           "adYear": 2024,
           "adMonth": 12,
-          "adDay": 29
+          "adDay": 29,
+          "sunriseUsed": "2024-12-29T06:53:53+05:45"
         },
         "15": {
           "tithi": "औँसी",
@@ -4001,10 +4001,10 @@
           "sourceDate": "2024-12-30",
           "method": "ephemeris_udaya",
           "confidence": "astronomical",
-          "advisory": "For religious observance, consult local authorities/panchang.",
           "adYear": 2024,
           "adMonth": 12,
-          "adDay": 30
+          "adDay": 30,
+          "sunriseUsed": "2024-12-30T06:54:12+05:45"
         },
         "16": {
           "tithi": "प्रतिपदा",
@@ -4016,10 +4016,10 @@
           "sourceDate": "2024-12-31",
           "method": "ephemeris_udaya",
           "confidence": "astronomical",
-          "advisory": "For religious observance, consult local authorities/panchang.",
           "adYear": 2024,
           "adMonth": 12,
-          "adDay": 31
+          "adDay": 31,
+          "sunriseUsed": "2024-12-31T06:54:30+05:45"
         },
         "17": {
           "tithi": "द्वितीया",
@@ -4031,10 +4031,10 @@
           "sourceDate": "2025-01-01",
           "method": "ephemeris_udaya",
           "confidence": "astronomical",
-          "advisory": "For religious observance, consult local authorities/panchang.",
           "adYear": 2025,
           "adMonth": 1,
-          "adDay": 1
+          "adDay": 1,
+          "sunriseUsed": "2025-01-01T06:54:47+05:45"
         },
         "18": {
           "tithi": "तृतीया",
@@ -4046,10 +4046,10 @@
           "sourceDate": "2025-01-02",
           "method": "ephemeris_udaya",
           "confidence": "astronomical",
-          "advisory": "For religious observance, consult local authorities/panchang.",
           "adYear": 2025,
           "adMonth": 1,
-          "adDay": 2
+          "adDay": 2,
+          "sunriseUsed": "2025-01-02T06:55:02+05:45"
         },
         "19": {
           "tithi": "चतुर्थी",
@@ -4061,10 +4061,10 @@
           "sourceDate": "2025-01-03",
           "method": "ephemeris_udaya",
           "confidence": "astronomical",
-          "advisory": "For religious observance, consult local authorities/panchang.",
           "adYear": 2025,
           "adMonth": 1,
-          "adDay": 3
+          "adDay": 3,
+          "sunriseUsed": "2025-01-03T06:55:16+05:45"
         },
         "20": {
           "tithi": "पञ्चमी",
@@ -4076,10 +4076,10 @@
           "sourceDate": "2025-01-04",
           "method": "ephemeris_udaya",
           "confidence": "astronomical",
-          "advisory": "For religious observance, consult local authorities/panchang.",
           "adYear": 2025,
           "adMonth": 1,
-          "adDay": 4
+          "adDay": 4,
+          "sunriseUsed": "2025-01-04T06:55:28+05:45"
         },
         "21": {
           "tithi": "षष्ठी",
@@ -4091,25 +4091,25 @@
           "sourceDate": "2025-01-05",
           "method": "ephemeris_udaya",
           "confidence": "astronomical",
-          "advisory": "For religious observance, consult local authorities/panchang.",
           "adYear": 2025,
           "adMonth": 1,
-          "adDay": 5
+          "adDay": 5,
+          "sunriseUsed": "2025-01-05T06:55:39+05:45"
         },
         "22": {
           "tithi": "सप्तमी",
           "paksha": "शुक्ल",
           "nakshatra": "उत्तराभाद्रपद",
           "yoga": "परिघ",
-          "karana": "??",
+          "karana": "गर",
           "source": "project-parva-v3-panchanga",
           "sourceDate": "2025-01-06",
           "method": "ephemeris_udaya",
           "confidence": "astronomical",
-          "advisory": "For religious observance, consult local authorities/panchang.",
           "adYear": 2025,
           "adMonth": 1,
-          "adDay": 6
+          "adDay": 6,
+          "sunriseUsed": "2025-01-06T06:55:48+05:45"
         },
         "23": {
           "tithi": "अष्टमी",
@@ -4121,10 +4121,10 @@
           "sourceDate": "2025-01-07",
           "method": "ephemeris_udaya",
           "confidence": "astronomical",
-          "advisory": "For religious observance, consult local authorities/panchang.",
           "adYear": 2025,
           "adMonth": 1,
-          "adDay": 7
+          "adDay": 7,
+          "sunriseUsed": "2025-01-07T06:55:55+05:45"
         },
         "24": {
           "tithi": "नवमी",
@@ -4136,25 +4136,25 @@
           "sourceDate": "2025-01-08",
           "method": "ephemeris_udaya",
           "confidence": "astronomical",
-          "advisory": "For religious observance, consult local authorities/panchang.",
           "adYear": 2025,
           "adMonth": 1,
-          "adDay": 8
+          "adDay": 8,
+          "sunriseUsed": "2025-01-08T06:56:01+05:45"
         },
         "25": {
           "tithi": "दशमी",
           "paksha": "शुक्ल",
           "nakshatra": "भरणी",
           "yoga": "साध्य",
-          "karana": "??",
+          "karana": "गर",
           "source": "project-parva-v3-panchanga",
           "sourceDate": "2025-01-09",
           "method": "ephemeris_udaya",
           "confidence": "astronomical",
-          "advisory": "For religious observance, consult local authorities/panchang.",
           "adYear": 2025,
           "adMonth": 1,
-          "adDay": 9
+          "adDay": 9,
+          "sunriseUsed": "2025-01-09T06:56:06+05:45"
         },
         "26": {
           "tithi": "एकादशी",
@@ -4166,10 +4166,10 @@
           "sourceDate": "2025-01-10",
           "method": "ephemeris_udaya",
           "confidence": "astronomical",
-          "advisory": "For religious observance, consult local authorities/panchang.",
           "adYear": 2025,
           "adMonth": 1,
-          "adDay": 10
+          "adDay": 10,
+          "sunriseUsed": "2025-01-10T06:56:09+05:45"
         },
         "27": {
           "tithi": "द्वादशी",
@@ -4181,25 +4181,25 @@
           "sourceDate": "2025-01-11",
           "method": "ephemeris_udaya",
           "confidence": "astronomical",
-          "advisory": "For religious observance, consult local authorities/panchang.",
           "adYear": 2025,
           "adMonth": 1,
-          "adDay": 11
+          "adDay": 11,
+          "sunriseUsed": "2025-01-11T06:56:10+05:45"
         },
         "28": {
           "tithi": "चतुर्दशी",
           "paksha": "शुक्ल",
           "nakshatra": "मृगशिरा",
           "yoga": "ब्रह्म",
-          "karana": "??",
+          "karana": "गर",
           "source": "project-parva-v3-panchanga",
           "sourceDate": "2025-01-12",
           "method": "ephemeris_udaya",
           "confidence": "astronomical",
-          "advisory": "For religious observance, consult local authorities/panchang.",
           "adYear": 2025,
           "adMonth": 1,
-          "adDay": 12
+          "adDay": 12,
+          "sunriseUsed": "2025-01-12T06:56:10+05:45"
         },
         "29": {
           "tithi": "पूर्णिमा",
@@ -4211,10 +4211,10 @@
           "sourceDate": "2025-01-13",
           "method": "ephemeris_udaya",
           "confidence": "astronomical",
-          "advisory": "For religious observance, consult local authorities/panchang.",
           "adYear": 2025,
           "adMonth": 1,
-          "adDay": 13
+          "adDay": 13,
+          "sunriseUsed": "2025-01-13T06:56:08+05:45"
         }
       }
     },
@@ -4225,16 +4225,16 @@
           "tithi": "प्रतिपदा",
           "paksha": "कृष्ण",
           "nakshatra": "पुनर्वसु",
-          "yoga": "????????",
+          "yoga": "विष्कम्भ",
           "karana": "बालव",
           "source": "project-parva-v3-panchanga",
           "sourceDate": "2025-01-14",
           "method": "ephemeris_udaya",
           "confidence": "astronomical",
-          "advisory": "For religious observance, consult local authorities/panchang.",
           "adYear": 2025,
           "adMonth": 1,
-          "adDay": 14
+          "adDay": 14,
+          "sunriseUsed": "2025-01-14T06:56:04+05:45"
         },
         "2": {
           "tithi": "द्वितीया",
@@ -4246,10 +4246,10 @@
           "sourceDate": "2025-01-15",
           "method": "ephemeris_udaya",
           "confidence": "astronomical",
-          "advisory": "For religious observance, consult local authorities/panchang.",
           "adYear": 2025,
           "adMonth": 1,
-          "adDay": 15
+          "adDay": 15,
+          "sunriseUsed": "2025-01-15T06:55:59+05:45"
         },
         "3": {
           "tithi": "तृतीया",
@@ -4261,10 +4261,10 @@
           "sourceDate": "2025-01-16",
           "method": "ephemeris_udaya",
           "confidence": "astronomical",
-          "advisory": "For religious observance, consult local authorities/panchang.",
           "adYear": 2025,
           "adMonth": 1,
-          "adDay": 16
+          "adDay": 16,
+          "sunriseUsed": "2025-01-16T06:55:53+05:45"
         },
         "4": {
           "tithi": "चतुर्थी",
@@ -4276,10 +4276,10 @@
           "sourceDate": "2025-01-17",
           "method": "ephemeris_udaya",
           "confidence": "astronomical",
-          "advisory": "For religious observance, consult local authorities/panchang.",
           "adYear": 2025,
           "adMonth": 1,
-          "adDay": 17
+          "adDay": 17,
+          "sunriseUsed": "2025-01-17T06:55:44+05:45"
         },
         "5": {
           "tithi": "पञ्चमी",
@@ -4291,10 +4291,10 @@
           "sourceDate": "2025-01-18",
           "method": "ephemeris_udaya",
           "confidence": "astronomical",
-          "advisory": "For religious observance, consult local authorities/panchang.",
           "adYear": 2025,
           "adMonth": 1,
-          "adDay": 18
+          "adDay": 18,
+          "sunriseUsed": "2025-01-18T06:55:35+05:45"
         },
         "6": {
           "tithi": "पञ्चमी",
@@ -4306,10 +4306,10 @@
           "sourceDate": "2025-01-19",
           "method": "ephemeris_udaya",
           "confidence": "astronomical",
-          "advisory": "For religious observance, consult local authorities/panchang.",
           "adYear": 2025,
           "adMonth": 1,
-          "adDay": 19
+          "adDay": 19,
+          "sunriseUsed": "2025-01-19T06:55:23+05:45"
         },
         "7": {
           "tithi": "षष्ठी",
@@ -4321,10 +4321,10 @@
           "sourceDate": "2025-01-20",
           "method": "ephemeris_udaya",
           "confidence": "astronomical",
-          "advisory": "For religious observance, consult local authorities/panchang.",
           "adYear": 2025,
           "adMonth": 1,
-          "adDay": 20
+          "adDay": 20,
+          "sunriseUsed": "2025-01-20T06:55:10+05:45"
         },
         "8": {
           "tithi": "सप्तमी",
@@ -4336,10 +4336,10 @@
           "sourceDate": "2025-01-21",
           "method": "ephemeris_udaya",
           "confidence": "astronomical",
-          "advisory": "For religious observance, consult local authorities/panchang.",
           "adYear": 2025,
           "adMonth": 1,
-          "adDay": 21
+          "adDay": 21,
+          "sunriseUsed": "2025-01-21T06:54:56+05:45"
         },
         "9": {
           "tithi": "अष्टमी",
@@ -4351,25 +4351,25 @@
           "sourceDate": "2025-01-22",
           "method": "ephemeris_udaya",
           "confidence": "astronomical",
-          "advisory": "For religious observance, consult local authorities/panchang.",
           "adYear": 2025,
           "adMonth": 1,
-          "adDay": 22
+          "adDay": 22,
+          "sunriseUsed": "2025-01-22T06:54:40+05:45"
         },
         "10": {
           "tithi": "नवमी",
           "paksha": "कृष्ण",
           "nakshatra": "विशाखा",
           "yoga": "गण्ड",
-          "karana": "??",
+          "karana": "गर",
           "source": "project-parva-v3-panchanga",
           "sourceDate": "2025-01-23",
           "method": "ephemeris_udaya",
           "confidence": "astronomical",
-          "advisory": "For religious observance, consult local authorities/panchang.",
           "adYear": 2025,
           "adMonth": 1,
-          "adDay": 23
+          "adDay": 23,
+          "sunriseUsed": "2025-01-23T06:54:23+05:45"
         },
         "11": {
           "tithi": "दशमी",
@@ -4381,10 +4381,10 @@
           "sourceDate": "2025-01-24",
           "method": "ephemeris_udaya",
           "confidence": "astronomical",
-          "advisory": "For religious observance, consult local authorities/panchang.",
           "adYear": 2025,
           "adMonth": 1,
-          "adDay": 24
+          "adDay": 24,
+          "sunriseUsed": "2025-01-24T06:54:04+05:45"
         },
         "12": {
           "tithi": "एकादशी",
@@ -4396,10 +4396,10 @@
           "sourceDate": "2025-01-25",
           "method": "ephemeris_udaya",
           "confidence": "astronomical",
-          "advisory": "For religious observance, consult local authorities/panchang.",
           "adYear": 2025,
           "adMonth": 1,
-          "adDay": 25
+          "adDay": 25,
+          "sunriseUsed": "2025-01-25T06:53:43+05:45"
         },
         "13": {
           "tithi": "द्वादशी",
@@ -4411,25 +4411,25 @@
           "sourceDate": "2025-01-26",
           "method": "ephemeris_udaya",
           "confidence": "astronomical",
-          "advisory": "For religious observance, consult local authorities/panchang.",
           "adYear": 2025,
           "adMonth": 1,
-          "adDay": 26
+          "adDay": 26,
+          "sunriseUsed": "2025-01-26T06:53:21+05:45"
         },
         "14": {
           "tithi": "त्रयोदशी",
           "paksha": "कृष्ण",
           "nakshatra": "मूल",
           "yoga": "हर्षण",
-          "karana": "??",
+          "karana": "गर",
           "source": "project-parva-v3-panchanga",
           "sourceDate": "2025-01-27",
           "method": "ephemeris_udaya",
           "confidence": "astronomical",
-          "advisory": "For religious observance, consult local authorities/panchang.",
           "adYear": 2025,
           "adMonth": 1,
-          "adDay": 27
+          "adDay": 27,
+          "sunriseUsed": "2025-01-27T06:52:58+05:45"
         },
         "15": {
           "tithi": "चतुर्दशी",
@@ -4441,10 +4441,10 @@
           "sourceDate": "2025-01-28",
           "method": "ephemeris_udaya",
           "confidence": "astronomical",
-          "advisory": "For religious observance, consult local authorities/panchang.",
           "adYear": 2025,
           "adMonth": 1,
-          "adDay": 28
+          "adDay": 28,
+          "sunriseUsed": "2025-01-28T06:52:33+05:45"
         },
         "16": {
           "tithi": "औँसी",
@@ -4456,10 +4456,10 @@
           "sourceDate": "2025-01-29",
           "method": "ephemeris_udaya",
           "confidence": "astronomical",
-          "advisory": "For religious observance, consult local authorities/panchang.",
           "adYear": 2025,
           "adMonth": 1,
-          "adDay": 29
+          "adDay": 29,
+          "sunriseUsed": "2025-01-29T06:52:07+05:45"
         },
         "17": {
           "tithi": "प्रतिपदा",
@@ -4471,40 +4471,40 @@
           "sourceDate": "2025-01-30",
           "method": "ephemeris_udaya",
           "confidence": "astronomical",
-          "advisory": "For religious observance, consult local authorities/panchang.",
           "adYear": 2025,
           "adMonth": 1,
-          "adDay": 30
+          "adDay": 30,
+          "sunriseUsed": "2025-01-30T06:51:39+05:45"
         },
         "18": {
           "tithi": "द्वितीया",
           "paksha": "शुक्ल",
           "nakshatra": "शतभिषा",
-          "yoga": "??????",
+          "yoga": "वरीयान",
           "karana": "कौलव",
           "source": "project-parva-v3-panchanga",
           "sourceDate": "2025-01-31",
           "method": "ephemeris_udaya",
           "confidence": "astronomical",
-          "advisory": "For religious observance, consult local authorities/panchang.",
           "adYear": 2025,
           "adMonth": 1,
-          "adDay": 31
+          "adDay": 31,
+          "sunriseUsed": "2025-01-31T06:51:10+05:45"
         },
         "19": {
           "tithi": "तृतीया",
           "paksha": "शुक्ल",
           "nakshatra": "पूर्वाभाद्रपद",
           "yoga": "परिघ",
-          "karana": "??",
+          "karana": "गर",
           "source": "project-parva-v3-panchanga",
           "sourceDate": "2025-02-01",
           "method": "ephemeris_udaya",
           "confidence": "astronomical",
-          "advisory": "For religious observance, consult local authorities/panchang.",
           "adYear": 2025,
           "adMonth": 2,
-          "adDay": 1
+          "adDay": 1,
+          "sunriseUsed": "2025-02-01T06:50:39+05:45"
         },
         "20": {
           "tithi": "चतुर्थी",
@@ -4516,10 +4516,10 @@
           "sourceDate": "2025-02-02",
           "method": "ephemeris_udaya",
           "confidence": "astronomical",
-          "advisory": "For religious observance, consult local authorities/panchang.",
           "adYear": 2025,
           "adMonth": 2,
-          "adDay": 2
+          "adDay": 2,
+          "sunriseUsed": "2025-02-02T06:50:07+05:45"
         },
         "21": {
           "tithi": "पञ्चमी",
@@ -4531,25 +4531,25 @@
           "sourceDate": "2025-02-03",
           "method": "ephemeris_udaya",
           "confidence": "astronomical",
-          "advisory": "For religious observance, consult local authorities/panchang.",
           "adYear": 2025,
           "adMonth": 2,
-          "adDay": 3
+          "adDay": 3,
+          "sunriseUsed": "2025-02-03T06:49:34+05:45"
         },
         "22": {
           "tithi": "सप्तमी",
           "paksha": "शुक्ल",
           "nakshatra": "अश्विनी",
           "yoga": "शुभ",
-          "karana": "??",
+          "karana": "गर",
           "source": "project-parva-v3-panchanga",
           "sourceDate": "2025-02-04",
           "method": "ephemeris_udaya",
           "confidence": "astronomical",
-          "advisory": "For religious observance, consult local authorities/panchang.",
           "adYear": 2025,
           "adMonth": 2,
-          "adDay": 4
+          "adDay": 4,
+          "sunriseUsed": "2025-02-04T06:48:59+05:45"
         },
         "23": {
           "tithi": "अष्टमी",
@@ -4561,10 +4561,10 @@
           "sourceDate": "2025-02-05",
           "method": "ephemeris_udaya",
           "confidence": "astronomical",
-          "advisory": "For religious observance, consult local authorities/panchang.",
           "adYear": 2025,
           "adMonth": 2,
-          "adDay": 5
+          "adDay": 5,
+          "sunriseUsed": "2025-02-05T06:48:23+05:45"
         },
         "24": {
           "tithi": "नवमी",
@@ -4576,10 +4576,10 @@
           "sourceDate": "2025-02-06",
           "method": "ephemeris_udaya",
           "confidence": "astronomical",
-          "advisory": "For religious observance, consult local authorities/panchang.",
           "adYear": 2025,
           "adMonth": 2,
-          "adDay": 6
+          "adDay": 6,
+          "sunriseUsed": "2025-02-06T06:47:46+05:45"
         },
         "25": {
           "tithi": "दशमी",
@@ -4591,10 +4591,10 @@
           "sourceDate": "2025-02-07",
           "method": "ephemeris_udaya",
           "confidence": "astronomical",
-          "advisory": "For religious observance, consult local authorities/panchang.",
           "adYear": 2025,
           "adMonth": 2,
-          "adDay": 7
+          "adDay": 7,
+          "sunriseUsed": "2025-02-07T06:47:07+05:45"
         },
         "26": {
           "tithi": "एकादशी",
@@ -4606,25 +4606,25 @@
           "sourceDate": "2025-02-08",
           "method": "ephemeris_udaya",
           "confidence": "astronomical",
-          "advisory": "For religious observance, consult local authorities/panchang.",
           "adYear": 2025,
           "adMonth": 2,
-          "adDay": 8
+          "adDay": 8,
+          "sunriseUsed": "2025-02-08T06:46:27+05:45"
         },
         "27": {
           "tithi": "द्वादशी",
           "paksha": "शुक्ल",
           "nakshatra": "आर्द्रा",
-          "yoga": "????????",
+          "yoga": "विष्कम्भ",
           "karana": "बव",
           "source": "project-parva-v3-panchanga",
           "sourceDate": "2025-02-09",
           "method": "ephemeris_udaya",
           "confidence": "astronomical",
-          "advisory": "For religious observance, consult local authorities/panchang.",
           "adYear": 2025,
           "adMonth": 2,
-          "adDay": 9
+          "adDay": 9,
+          "sunriseUsed": "2025-02-09T06:45:46+05:45"
         },
         "28": {
           "tithi": "त्रयोदशी",
@@ -4636,25 +4636,25 @@
           "sourceDate": "2025-02-10",
           "method": "ephemeris_udaya",
           "confidence": "astronomical",
-          "advisory": "For religious observance, consult local authorities/panchang.",
           "adYear": 2025,
           "adMonth": 2,
-          "adDay": 10
+          "adDay": 10,
+          "sunriseUsed": "2025-02-10T06:45:04+05:45"
         },
         "29": {
           "tithi": "चतुर्दशी",
           "paksha": "शुक्ल",
           "nakshatra": "पुष्य",
           "yoga": "आयुष्मान",
-          "karana": "??",
+          "karana": "गर",
           "source": "project-parva-v3-panchanga",
           "sourceDate": "2025-02-11",
           "method": "ephemeris_udaya",
           "confidence": "astronomical",
-          "advisory": "For religious observance, consult local authorities/panchang.",
           "adYear": 2025,
           "adMonth": 2,
-          "adDay": 11
+          "adDay": 11,
+          "sunriseUsed": "2025-02-11T06:44:21+05:45"
         },
         "30": {
           "tithi": "पूर्णिमा",
@@ -4666,10 +4666,10 @@
           "sourceDate": "2025-02-12",
           "method": "ephemeris_udaya",
           "confidence": "astronomical",
-          "advisory": "For religious observance, consult local authorities/panchang.",
           "adYear": 2025,
           "adMonth": 2,
-          "adDay": 12
+          "adDay": 12,
+          "sunriseUsed": "2025-02-12T06:43:36+05:45"
         }
       }
     },
@@ -4686,10 +4686,10 @@
           "sourceDate": "2025-02-13",
           "method": "ephemeris_udaya",
           "confidence": "astronomical",
-          "advisory": "For religious observance, consult local authorities/panchang.",
           "adYear": 2025,
           "adMonth": 2,
-          "adDay": 13
+          "adDay": 13,
+          "sunriseUsed": "2025-02-13T06:42:50+05:45"
         },
         "2": {
           "tithi": "द्वितीया",
@@ -4701,10 +4701,10 @@
           "sourceDate": "2025-02-14",
           "method": "ephemeris_udaya",
           "confidence": "astronomical",
-          "advisory": "For religious observance, consult local authorities/panchang.",
           "adYear": 2025,
           "adMonth": 2,
-          "adDay": 14
+          "adDay": 14,
+          "sunriseUsed": "2025-02-14T06:42:03+05:45"
         },
         "3": {
           "tithi": "तृतीया",
@@ -4716,10 +4716,10 @@
           "sourceDate": "2025-02-15",
           "method": "ephemeris_udaya",
           "confidence": "astronomical",
-          "advisory": "For religious observance, consult local authorities/panchang.",
           "adYear": 2025,
           "adMonth": 2,
-          "adDay": 15
+          "adDay": 15,
+          "sunriseUsed": "2025-02-15T06:41:16+05:45"
         },
         "4": {
           "tithi": "चतुर्थी",
@@ -4731,10 +4731,10 @@
           "sourceDate": "2025-02-16",
           "method": "ephemeris_udaya",
           "confidence": "astronomical",
-          "advisory": "For religious observance, consult local authorities/panchang.",
           "adYear": 2025,
           "adMonth": 2,
-          "adDay": 16
+          "adDay": 16,
+          "sunriseUsed": "2025-02-16T06:40:27+05:45"
         },
         "5": {
           "tithi": "पञ्चमी",
@@ -4746,25 +4746,25 @@
           "sourceDate": "2025-02-17",
           "method": "ephemeris_udaya",
           "confidence": "astronomical",
-          "advisory": "For religious observance, consult local authorities/panchang.",
           "adYear": 2025,
           "adMonth": 2,
-          "adDay": 17
+          "adDay": 17,
+          "sunriseUsed": "2025-02-17T06:39:37+05:45"
         },
         "6": {
           "tithi": "षष्ठी",
           "paksha": "कृष्ण",
           "nakshatra": "चित्रा",
           "yoga": "गण्ड",
-          "karana": "??",
+          "karana": "गर",
           "source": "project-parva-v3-panchanga",
           "sourceDate": "2025-02-18",
           "method": "ephemeris_udaya",
           "confidence": "astronomical",
-          "advisory": "For religious observance, consult local authorities/panchang.",
           "adYear": 2025,
           "adMonth": 2,
-          "adDay": 18
+          "adDay": 18,
+          "sunriseUsed": "2025-02-18T06:38:46+05:45"
         },
         "7": {
           "tithi": "षष्ठी",
@@ -4776,10 +4776,10 @@
           "sourceDate": "2025-02-19",
           "method": "ephemeris_udaya",
           "confidence": "astronomical",
-          "advisory": "For religious observance, consult local authorities/panchang.",
           "adYear": 2025,
           "adMonth": 2,
-          "adDay": 19
+          "adDay": 19,
+          "sunriseUsed": "2025-02-19T06:37:54+05:45"
         },
         "8": {
           "tithi": "सप्तमी",
@@ -4791,10 +4791,10 @@
           "sourceDate": "2025-02-20",
           "method": "ephemeris_udaya",
           "confidence": "astronomical",
-          "advisory": "For religious observance, consult local authorities/panchang.",
           "adYear": 2025,
           "adMonth": 2,
-          "adDay": 20
+          "adDay": 20,
+          "sunriseUsed": "2025-02-20T06:37:01+05:45"
         },
         "9": {
           "tithi": "अष्टमी",
@@ -4806,25 +4806,25 @@
           "sourceDate": "2025-02-21",
           "method": "ephemeris_udaya",
           "confidence": "astronomical",
-          "advisory": "For religious observance, consult local authorities/panchang.",
           "adYear": 2025,
           "adMonth": 2,
-          "adDay": 21
+          "adDay": 21,
+          "sunriseUsed": "2025-02-21T06:36:08+05:45"
         },
         "10": {
           "tithi": "नवमी",
           "paksha": "कृष्ण",
           "nakshatra": "ज्येष्ठा",
           "yoga": "हर्षण",
-          "karana": "??",
+          "karana": "गर",
           "source": "project-parva-v3-panchanga",
           "sourceDate": "2025-02-22",
           "method": "ephemeris_udaya",
           "confidence": "astronomical",
-          "advisory": "For religious observance, consult local authorities/panchang.",
           "adYear": 2025,
           "adMonth": 2,
-          "adDay": 22
+          "adDay": 22,
+          "sunriseUsed": "2025-02-22T06:35:13+05:45"
         },
         "11": {
           "tithi": "दशमी",
@@ -4836,10 +4836,10 @@
           "sourceDate": "2025-02-23",
           "method": "ephemeris_udaya",
           "confidence": "astronomical",
-          "advisory": "For religious observance, consult local authorities/panchang.",
           "adYear": 2025,
           "adMonth": 2,
-          "adDay": 23
+          "adDay": 23,
+          "sunriseUsed": "2025-02-23T06:34:18+05:45"
         },
         "12": {
           "tithi": "एकादशी",
@@ -4851,10 +4851,10 @@
           "sourceDate": "2025-02-24",
           "method": "ephemeris_udaya",
           "confidence": "astronomical",
-          "advisory": "For religious observance, consult local authorities/panchang.",
           "adYear": 2025,
           "adMonth": 2,
-          "adDay": 24
+          "adDay": 24,
+          "sunriseUsed": "2025-02-24T06:33:22+05:45"
         },
         "13": {
           "tithi": "द्वादशी",
@@ -4866,10 +4866,10 @@
           "sourceDate": "2025-02-25",
           "method": "ephemeris_udaya",
           "confidence": "astronomical",
-          "advisory": "For religious observance, consult local authorities/panchang.",
           "adYear": 2025,
           "adMonth": 2,
-          "adDay": 25
+          "adDay": 25,
+          "sunriseUsed": "2025-02-25T06:32:25+05:45"
         },
         "14": {
           "tithi": "त्रयोदशी",
@@ -4881,10 +4881,10 @@
           "sourceDate": "2025-02-26",
           "method": "ephemeris_udaya",
           "confidence": "astronomical",
-          "advisory": "For religious observance, consult local authorities/panchang.",
           "adYear": 2025,
           "adMonth": 2,
-          "adDay": 26
+          "adDay": 26,
+          "sunriseUsed": "2025-02-26T06:31:27+05:45"
         },
         "15": {
           "tithi": "चतुर्दशी",
@@ -4896,10 +4896,10 @@
           "sourceDate": "2025-02-27",
           "method": "ephemeris_udaya",
           "confidence": "astronomical",
-          "advisory": "For religious observance, consult local authorities/panchang.",
           "adYear": 2025,
           "adMonth": 2,
-          "adDay": 27
+          "adDay": 27,
+          "sunriseUsed": "2025-02-27T06:30:29+05:45"
         },
         "16": {
           "tithi": "औँसी",
@@ -4911,10 +4911,10 @@
           "sourceDate": "2025-02-28",
           "method": "ephemeris_udaya",
           "confidence": "astronomical",
-          "advisory": "For religious observance, consult local authorities/panchang.",
           "adYear": 2025,
           "adMonth": 2,
-          "adDay": 28
+          "adDay": 28,
+          "sunriseUsed": "2025-02-28T06:29:29+05:45"
         },
         "17": {
           "tithi": "द्वितीया",
@@ -4926,10 +4926,10 @@
           "sourceDate": "2025-03-01",
           "method": "ephemeris_udaya",
           "confidence": "astronomical",
-          "advisory": "For religious observance, consult local authorities/panchang.",
           "adYear": 2025,
           "adMonth": 3,
-          "adDay": 1
+          "adDay": 1,
+          "sunriseUsed": "2025-03-01T06:28:30+05:45"
         },
         "18": {
           "tithi": "तृतीया",
@@ -4941,10 +4941,10 @@
           "sourceDate": "2025-03-02",
           "method": "ephemeris_udaya",
           "confidence": "astronomical",
-          "advisory": "For religious observance, consult local authorities/panchang.",
           "adYear": 2025,
           "adMonth": 3,
-          "adDay": 2
+          "adDay": 2,
+          "sunriseUsed": "2025-03-02T06:27:29+05:45"
         },
         "19": {
           "tithi": "चतुर्थी",
@@ -4956,10 +4956,10 @@
           "sourceDate": "2025-03-03",
           "method": "ephemeris_udaya",
           "confidence": "astronomical",
-          "advisory": "For religious observance, consult local authorities/panchang.",
           "adYear": 2025,
           "adMonth": 3,
-          "adDay": 3
+          "adDay": 3,
+          "sunriseUsed": "2025-03-03T06:26:28+05:45"
         },
         "20": {
           "tithi": "पञ्चमी",
@@ -4971,10 +4971,10 @@
           "sourceDate": "2025-03-04",
           "method": "ephemeris_udaya",
           "confidence": "astronomical",
-          "advisory": "For religious observance, consult local authorities/panchang.",
           "adYear": 2025,
           "adMonth": 3,
-          "adDay": 4
+          "adDay": 4,
+          "sunriseUsed": "2025-03-04T06:25:26+05:45"
         },
         "21": {
           "tithi": "षष्ठी",
@@ -4986,25 +4986,25 @@
           "sourceDate": "2025-03-05",
           "method": "ephemeris_udaya",
           "confidence": "astronomical",
-          "advisory": "For religious observance, consult local authorities/panchang.",
           "adYear": 2025,
           "adMonth": 3,
-          "adDay": 5
+          "adDay": 5,
+          "sunriseUsed": "2025-03-05T06:24:24+05:45"
         },
         "22": {
           "tithi": "सप्तमी",
           "paksha": "शुक्ल",
           "nakshatra": "रोहिणी",
-          "yoga": "????????",
+          "yoga": "विष्कम्भ",
           "karana": "वणिज",
           "source": "project-parva-v3-panchanga",
           "sourceDate": "2025-03-06",
           "method": "ephemeris_udaya",
           "confidence": "astronomical",
-          "advisory": "For religious observance, consult local authorities/panchang.",
           "adYear": 2025,
           "adMonth": 3,
-          "adDay": 6
+          "adDay": 6,
+          "sunriseUsed": "2025-03-06T06:23:21+05:45"
         },
         "23": {
           "tithi": "अष्टमी",
@@ -5016,10 +5016,10 @@
           "sourceDate": "2025-03-07",
           "method": "ephemeris_udaya",
           "confidence": "astronomical",
-          "advisory": "For religious observance, consult local authorities/panchang.",
           "adYear": 2025,
           "adMonth": 3,
-          "adDay": 7
+          "adDay": 7,
+          "sunriseUsed": "2025-03-07T06:22:18+05:45"
         },
         "24": {
           "tithi": "नवमी",
@@ -5031,25 +5031,25 @@
           "sourceDate": "2025-03-08",
           "method": "ephemeris_udaya",
           "confidence": "astronomical",
-          "advisory": "For religious observance, consult local authorities/panchang.",
           "adYear": 2025,
           "adMonth": 3,
-          "adDay": 8
+          "adDay": 8,
+          "sunriseUsed": "2025-03-08T06:21:14+05:45"
         },
         "25": {
           "tithi": "दशमी",
           "paksha": "शुक्ल",
           "nakshatra": "पुनर्वसु",
           "yoga": "सौभाग्य",
-          "karana": "??",
+          "karana": "गर",
           "source": "project-parva-v3-panchanga",
           "sourceDate": "2025-03-09",
           "method": "ephemeris_udaya",
           "confidence": "astronomical",
-          "advisory": "For religious observance, consult local authorities/panchang.",
           "adYear": 2025,
           "adMonth": 3,
-          "adDay": 9
+          "adDay": 9,
+          "sunriseUsed": "2025-03-09T06:20:10+05:45"
         },
         "26": {
           "tithi": "एकादशी",
@@ -5061,10 +5061,10 @@
           "sourceDate": "2025-03-10",
           "method": "ephemeris_udaya",
           "confidence": "astronomical",
-          "advisory": "For religious observance, consult local authorities/panchang.",
           "adYear": 2025,
           "adMonth": 3,
-          "adDay": 10
+          "adDay": 10,
+          "sunriseUsed": "2025-03-10T06:19:05+05:45"
         },
         "27": {
           "tithi": "द्वादशी",
@@ -5076,10 +5076,10 @@
           "sourceDate": "2025-03-11",
           "method": "ephemeris_udaya",
           "confidence": "astronomical",
-          "advisory": "For religious observance, consult local authorities/panchang.",
           "adYear": 2025,
           "adMonth": 3,
-          "adDay": 11
+          "adDay": 11,
+          "sunriseUsed": "2025-03-11T06:18:00+05:45"
         },
         "28": {
           "tithi": "त्रयोदशी",
@@ -5091,10 +5091,10 @@
           "sourceDate": "2025-03-12",
           "method": "ephemeris_udaya",
           "confidence": "astronomical",
-          "advisory": "For religious observance, consult local authorities/panchang.",
           "adYear": 2025,
           "adMonth": 3,
-          "adDay": 12
+          "adDay": 12,
+          "sunriseUsed": "2025-03-12T06:16:54+05:45"
         },
         "29": {
           "tithi": "चतुर्दशी",
@@ -5106,10 +5106,10 @@
           "sourceDate": "2025-03-13",
           "method": "ephemeris_udaya",
           "confidence": "astronomical",
-          "advisory": "For religious observance, consult local authorities/panchang.",
           "adYear": 2025,
           "adMonth": 3,
-          "adDay": 13
+          "adDay": 13,
+          "sunriseUsed": "2025-03-13T06:15:48+05:45"
         }
       }
     },
@@ -5126,10 +5126,10 @@
           "sourceDate": "2025-03-14",
           "method": "ephemeris_udaya",
           "confidence": "astronomical",
-          "advisory": "For religious observance, consult local authorities/panchang.",
           "adYear": 2025,
           "adMonth": 3,
-          "adDay": 14
+          "adDay": 14,
+          "sunriseUsed": "2025-03-14T06:14:42+05:45"
         },
         "2": {
           "tithi": "प्रतिपदा",
@@ -5141,25 +5141,25 @@
           "sourceDate": "2025-03-15",
           "method": "ephemeris_udaya",
           "confidence": "astronomical",
-          "advisory": "For religious observance, consult local authorities/panchang.",
           "adYear": 2025,
           "adMonth": 3,
-          "adDay": 15
+          "adDay": 15,
+          "sunriseUsed": "2025-03-15T06:13:36+05:45"
         },
         "3": {
           "tithi": "द्वितीया",
           "paksha": "कृष्ण",
           "nakshatra": "हस्त",
           "yoga": "वृद्धि",
-          "karana": "??",
+          "karana": "गर",
           "source": "project-parva-v3-panchanga",
           "sourceDate": "2025-03-16",
           "method": "ephemeris_udaya",
           "confidence": "astronomical",
-          "advisory": "For religious observance, consult local authorities/panchang.",
           "adYear": 2025,
           "adMonth": 3,
-          "adDay": 16
+          "adDay": 16,
+          "sunriseUsed": "2025-03-16T06:12:29+05:45"
         },
         "4": {
           "tithi": "तृतीया",
@@ -5171,10 +5171,10 @@
           "sourceDate": "2025-03-17",
           "method": "ephemeris_udaya",
           "confidence": "astronomical",
-          "advisory": "For religious observance, consult local authorities/panchang.",
           "adYear": 2025,
           "adMonth": 3,
-          "adDay": 17
+          "adDay": 17,
+          "sunriseUsed": "2025-03-17T06:11:22+05:45"
         },
         "5": {
           "tithi": "चतुर्थी",
@@ -5186,10 +5186,10 @@
           "sourceDate": "2025-03-18",
           "method": "ephemeris_udaya",
           "confidence": "astronomical",
-          "advisory": "For religious observance, consult local authorities/panchang.",
           "adYear": 2025,
           "adMonth": 3,
-          "adDay": 18
+          "adDay": 18,
+          "sunriseUsed": "2025-03-18T06:10:15+05:45"
         },
         "6": {
           "tithi": "पञ्चमी",
@@ -5201,25 +5201,25 @@
           "sourceDate": "2025-03-19",
           "method": "ephemeris_udaya",
           "confidence": "astronomical",
-          "advisory": "For religious observance, consult local authorities/panchang.",
           "adYear": 2025,
           "adMonth": 3,
-          "adDay": 19
+          "adDay": 19,
+          "sunriseUsed": "2025-03-19T06:09:07+05:45"
         },
         "7": {
           "tithi": "षष्ठी",
           "paksha": "कृष्ण",
           "nakshatra": "अनुराधा",
           "yoga": "वज्र",
-          "karana": "??",
+          "karana": "गर",
           "source": "project-parva-v3-panchanga",
           "sourceDate": "2025-03-20",
           "method": "ephemeris_udaya",
           "confidence": "astronomical",
-          "advisory": "For religious observance, consult local authorities/panchang.",
           "adYear": 2025,
           "adMonth": 3,
-          "adDay": 20
+          "adDay": 20,
+          "sunriseUsed": "2025-03-20T06:08:00+05:45"
         },
         "8": {
           "tithi": "सप्तमी",
@@ -5231,10 +5231,10 @@
           "sourceDate": "2025-03-21",
           "method": "ephemeris_udaya",
           "confidence": "astronomical",
-          "advisory": "For religious observance, consult local authorities/panchang.",
           "adYear": 2025,
           "adMonth": 3,
-          "adDay": 21
+          "adDay": 21,
+          "sunriseUsed": "2025-03-21T06:06:52+05:45"
         },
         "9": {
           "tithi": "अष्टमी",
@@ -5246,25 +5246,25 @@
           "sourceDate": "2025-03-22",
           "method": "ephemeris_udaya",
           "confidence": "astronomical",
-          "advisory": "For religious observance, consult local authorities/panchang.",
           "adYear": 2025,
           "adMonth": 3,
-          "adDay": 22
+          "adDay": 22,
+          "sunriseUsed": "2025-03-22T06:05:45+05:45"
         },
         "10": {
           "tithi": "नवमी",
           "paksha": "कृष्ण",
           "nakshatra": "पूर्वाषाढा",
-          "yoga": "??????",
+          "yoga": "वरीयान",
           "karana": "तैतिल",
           "source": "project-parva-v3-panchanga",
           "sourceDate": "2025-03-23",
           "method": "ephemeris_udaya",
           "confidence": "astronomical",
-          "advisory": "For religious observance, consult local authorities/panchang.",
           "adYear": 2025,
           "adMonth": 3,
-          "adDay": 23
+          "adDay": 23,
+          "sunriseUsed": "2025-03-23T06:04:37+05:45"
         },
         "11": {
           "tithi": "दशमी",
@@ -5276,10 +5276,10 @@
           "sourceDate": "2025-03-24",
           "method": "ephemeris_udaya",
           "confidence": "astronomical",
-          "advisory": "For religious observance, consult local authorities/panchang.",
           "adYear": 2025,
           "adMonth": 3,
-          "adDay": 24
+          "adDay": 24,
+          "sunriseUsed": "2025-03-24T06:03:29+05:45"
         },
         "12": {
           "tithi": "एकादशी",
@@ -5291,10 +5291,10 @@
           "sourceDate": "2025-03-25",
           "method": "ephemeris_udaya",
           "confidence": "astronomical",
-          "advisory": "For religious observance, consult local authorities/panchang.",
           "adYear": 2025,
           "adMonth": 3,
-          "adDay": 25
+          "adDay": 25,
+          "sunriseUsed": "2025-03-25T06:02:22+05:45"
         },
         "13": {
           "tithi": "द्वादशी",
@@ -5306,25 +5306,25 @@
           "sourceDate": "2025-03-26",
           "method": "ephemeris_udaya",
           "confidence": "astronomical",
-          "advisory": "For religious observance, consult local authorities/panchang.",
           "adYear": 2025,
           "adMonth": 3,
-          "adDay": 26
+          "adDay": 26,
+          "sunriseUsed": "2025-03-26T06:01:14+05:45"
         },
         "14": {
           "tithi": "त्रयोदशी",
           "paksha": "कृष्ण",
           "nakshatra": "शतभिषा",
           "yoga": "साध्य",
-          "karana": "??",
+          "karana": "गर",
           "source": "project-parva-v3-panchanga",
           "sourceDate": "2025-03-27",
           "method": "ephemeris_udaya",
           "confidence": "astronomical",
-          "advisory": "For religious observance, consult local authorities/panchang.",
           "adYear": 2025,
           "adMonth": 3,
-          "adDay": 27
+          "adDay": 27,
+          "sunriseUsed": "2025-03-27T06:00:06+05:45"
         },
         "15": {
           "tithi": "चतुर्दशी",
@@ -5336,10 +5336,10 @@
           "sourceDate": "2025-03-28",
           "method": "ephemeris_udaya",
           "confidence": "astronomical",
-          "advisory": "For religious observance, consult local authorities/panchang.",
           "adYear": 2025,
           "adMonth": 3,
-          "adDay": 28
+          "adDay": 28,
+          "sunriseUsed": "2025-03-28T05:58:59+05:45"
         },
         "16": {
           "tithi": "औँसी",
@@ -5351,10 +5351,10 @@
           "sourceDate": "2025-03-29",
           "method": "ephemeris_udaya",
           "confidence": "astronomical",
-          "advisory": "For religious observance, consult local authorities/panchang.",
           "adYear": 2025,
           "adMonth": 3,
-          "adDay": 29
+          "adDay": 29,
+          "sunriseUsed": "2025-03-29T05:57:51+05:45"
         },
         "17": {
           "tithi": "प्रतिपदा",
@@ -5366,10 +5366,10 @@
           "sourceDate": "2025-03-30",
           "method": "ephemeris_udaya",
           "confidence": "astronomical",
-          "advisory": "For religious observance, consult local authorities/panchang.",
           "adYear": 2025,
           "adMonth": 3,
-          "adDay": 30
+          "adDay": 30,
+          "sunriseUsed": "2025-03-30T05:56:44+05:45"
         },
         "18": {
           "tithi": "द्वितीया",
@@ -5381,25 +5381,25 @@
           "sourceDate": "2025-03-31",
           "method": "ephemeris_udaya",
           "confidence": "astronomical",
-          "advisory": "For religious observance, consult local authorities/panchang.",
           "adYear": 2025,
           "adMonth": 3,
-          "adDay": 31
+          "adDay": 31,
+          "sunriseUsed": "2025-03-31T05:55:37+05:45"
         },
         "19": {
           "tithi": "तृतीया",
           "paksha": "शुक्ल",
           "nakshatra": "भरणी",
-          "yoga": "????????",
-          "karana": "??",
+          "yoga": "विष्कम्भ",
+          "karana": "गर",
           "source": "project-parva-v3-panchanga",
           "sourceDate": "2025-04-01",
           "method": "ephemeris_udaya",
           "confidence": "astronomical",
-          "advisory": "For religious observance, consult local authorities/panchang.",
           "adYear": 2025,
           "adMonth": 4,
-          "adDay": 1
+          "adDay": 1,
+          "sunriseUsed": "2025-04-01T05:54:30+05:45"
         },
         "20": {
           "tithi": "पञ्चमी",
@@ -5411,10 +5411,10 @@
           "sourceDate": "2025-04-02",
           "method": "ephemeris_udaya",
           "confidence": "astronomical",
-          "advisory": "For religious observance, consult local authorities/panchang.",
           "adYear": 2025,
           "adMonth": 4,
-          "adDay": 2
+          "adDay": 2,
+          "sunriseUsed": "2025-04-02T05:53:23+05:45"
         },
         "21": {
           "tithi": "षष्ठी",
@@ -5426,25 +5426,25 @@
           "sourceDate": "2025-04-03",
           "method": "ephemeris_udaya",
           "confidence": "astronomical",
-          "advisory": "For religious observance, consult local authorities/panchang.",
           "adYear": 2025,
           "adMonth": 4,
-          "adDay": 3
+          "adDay": 3,
+          "sunriseUsed": "2025-04-03T05:52:17+05:45"
         },
         "22": {
           "tithi": "सप्तमी",
           "paksha": "शुक्ल",
           "nakshatra": "मृगशिरा",
           "yoga": "शोभन",
-          "karana": "??",
+          "karana": "गर",
           "source": "project-parva-v3-panchanga",
           "sourceDate": "2025-04-04",
           "method": "ephemeris_udaya",
           "confidence": "astronomical",
-          "advisory": "For religious observance, consult local authorities/panchang.",
           "adYear": 2025,
           "adMonth": 4,
-          "adDay": 4
+          "adDay": 4,
+          "sunriseUsed": "2025-04-04T05:51:10+05:45"
         },
         "23": {
           "tithi": "अष्टमी",
@@ -5456,10 +5456,10 @@
           "sourceDate": "2025-04-05",
           "method": "ephemeris_udaya",
           "confidence": "astronomical",
-          "advisory": "For religious observance, consult local authorities/panchang.",
           "adYear": 2025,
           "adMonth": 4,
-          "adDay": 5
+          "adDay": 5,
+          "sunriseUsed": "2025-04-05T05:50:04+05:45"
         },
         "24": {
           "tithi": "नवमी",
@@ -5471,10 +5471,10 @@
           "sourceDate": "2025-04-06",
           "method": "ephemeris_udaya",
           "confidence": "astronomical",
-          "advisory": "For religious observance, consult local authorities/panchang.",
           "adYear": 2025,
           "adMonth": 4,
-          "adDay": 6
+          "adDay": 6,
+          "sunriseUsed": "2025-04-06T05:48:59+05:45"
         },
         "25": {
           "tithi": "दशमी",
@@ -5486,10 +5486,10 @@
           "sourceDate": "2025-04-07",
           "method": "ephemeris_udaya",
           "confidence": "astronomical",
-          "advisory": "For religious observance, consult local authorities/panchang.",
           "adYear": 2025,
           "adMonth": 4,
-          "adDay": 7
+          "adDay": 7,
+          "sunriseUsed": "2025-04-07T05:47:53+05:45"
         },
         "26": {
           "tithi": "एकादशी",
@@ -5501,10 +5501,10 @@
           "sourceDate": "2025-04-08",
           "method": "ephemeris_udaya",
           "confidence": "astronomical",
-          "advisory": "For religious observance, consult local authorities/panchang.",
           "adYear": 2025,
           "adMonth": 4,
-          "adDay": 8
+          "adDay": 8,
+          "sunriseUsed": "2025-04-08T05:46:48+05:45"
         },
         "27": {
           "tithi": "द्वादशी",
@@ -5516,10 +5516,10 @@
           "sourceDate": "2025-04-09",
           "method": "ephemeris_udaya",
           "confidence": "astronomical",
-          "advisory": "For religious observance, consult local authorities/panchang.",
           "adYear": 2025,
           "adMonth": 4,
-          "adDay": 9
+          "adDay": 9,
+          "sunriseUsed": "2025-04-09T05:45:44+05:45"
         },
         "28": {
           "tithi": "त्रयोदशी",
@@ -5531,25 +5531,25 @@
           "sourceDate": "2025-04-10",
           "method": "ephemeris_udaya",
           "confidence": "astronomical",
-          "advisory": "For religious observance, consult local authorities/panchang.",
           "adYear": 2025,
           "adMonth": 4,
-          "adDay": 10
+          "adDay": 10,
+          "sunriseUsed": "2025-04-10T05:44:40+05:45"
         },
         "29": {
           "tithi": "चतुर्दशी",
           "paksha": "शुक्ल",
           "nakshatra": "उत्तराफाल्गुनी",
           "yoga": "ध्रुव",
-          "karana": "??",
+          "karana": "गर",
           "source": "project-parva-v3-panchanga",
           "sourceDate": "2025-04-11",
           "method": "ephemeris_udaya",
           "confidence": "astronomical",
-          "advisory": "For religious observance, consult local authorities/panchang.",
           "adYear": 2025,
           "adMonth": 4,
-          "adDay": 11
+          "adDay": 11,
+          "sunriseUsed": "2025-04-11T05:43:36+05:45"
         },
         "30": {
           "tithi": "पूर्णिमा",
@@ -5561,10 +5561,10 @@
           "sourceDate": "2025-04-12",
           "method": "ephemeris_udaya",
           "confidence": "astronomical",
-          "advisory": "For religious observance, consult local authorities/panchang.",
           "adYear": 2025,
           "adMonth": 4,
-          "adDay": 12
+          "adDay": 12,
+          "sunriseUsed": "2025-04-12T05:42:33+05:45"
         },
         "31": {
           "tithi": "पूर्णिमा",
@@ -5576,12 +5576,14 @@
           "sourceDate": "2025-04-13",
           "method": "ephemeris_udaya",
           "confidence": "astronomical",
-          "advisory": "For religious observance, consult local authorities/panchang.",
           "adYear": 2025,
           "adMonth": 4,
-          "adDay": 13
+          "adDay": 13,
+          "sunriseUsed": "2025-04-13T05:41:30+05:45"
         }
       }
     }
-  }
+  },
+  "version": 2,
+  "updatedAt": "2026-05-23"
 }
