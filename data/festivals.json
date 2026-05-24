@@ -1,5 +1,5 @@
 {
-  "version": 2,
+  "version": 3,
   "updatedAt": "2026-05-23",
   "festivals": [
     {
@@ -78,10 +78,10 @@
       "bsYear": 2081,
       "bsMonth": 5,
       "bsDay": 3,
-      "name": "गाई जात्रा",
+      "name": "गाई जात्रा (काठमाडौं उपत्यका)",
       "type": "festival",
-      "holiday": false,
-      "nameEn": "Gai Jatra"
+      "holiday": true,
+      "nameEn": "Gai Jatra (Kathmandu Valley)"
     },
     {
       "bsYear": 2081,
@@ -582,10 +582,10 @@
       "bsYear": 2082,
       "bsMonth": 12,
       "bsDay": 4,
-      "name": "घोडे जात्रा",
+      "name": "घोडे जात्रा (काठमाडौं उपत्यका)",
       "type": "festival",
-      "holiday": false,
-      "nameEn": "Ghode Jatra"
+      "holiday": true,
+      "nameEn": "Ghode Jatra (Kathmandu Valley)"
     },
     {
       "bsYear": 2082,
@@ -888,10 +888,10 @@
       "bsYear": 2083,
       "bsMonth": 12,
       "bsDay": 23,
-      "name": "घोडे जात्रा",
+      "name": "घोडे जात्रा (काठमाडौं उपत्यका)",
       "type": "festival",
-      "holiday": false,
-      "nameEn": "Ghode Jatra"
+      "holiday": true,
+      "nameEn": "Ghode Jatra (Kathmandu Valley)"
     }
   ]
 }
