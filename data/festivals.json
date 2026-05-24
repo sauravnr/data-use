@@ -1,5 +1,5 @@
 {
-  "version": 1,
+  "version": 2,
   "updatedAt": "2026-05-23",
   "festivals": [
     {
@@ -291,6 +291,15 @@
       "nameEn": "Holi (Terai Region)"
     },
     {
+      "bsYear": 2081,
+      "bsMonth": 12,
+      "bsDay": 16,
+      "name": "घोडे जात्रा (काठमाडौं उपत्यका)",
+      "type": "festival",
+      "holiday": true,
+      "nameEn": "Ghode Jatra (Kathmandu Valley)"
+    },
+    {
       "bsYear": 2082,
       "bsMonth": 1,
       "bsDay": 1,
@@ -361,6 +370,15 @@
       "type": "festival",
       "holiday": true,
       "nameEn": "Shree Krishna Janmashtami"
+    },
+    {
+      "bsYear": 2082,
+      "bsMonth": 5,
+      "bsDay": 21,
+      "name": "ईन्द्र जात्रा (काठमाडौं उपत्यका)",
+      "type": "festival",
+      "holiday": true,
+      "nameEn": "Indra Jatra (Kathmandu Valley)"
     },
     {
       "bsYear": 2082,
@@ -622,6 +640,15 @@
       "type": "festival",
       "holiday": true,
       "nameEn": "Janai Purnima / Raksha Bandhan"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 5,
+      "bsDay": 13,
+      "name": "गाई जात्रा / साँपारू (काठमाडौं उपत्यका + नेवार समुदाय)",
+      "type": "festival",
+      "holiday": true,
+      "nameEn": "Gai Jatra / Saparu (Kathmandu Valley + Newar community)"
     },
     {
       "bsYear": 2083,
