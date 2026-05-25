@@ -1,5 +1,5 @@
 {
-  "version": 1,
+  "version": 2,
   "updatedAt": "2026-05-25",
   "stations": [
     {
@@ -9,6 +9,7 @@
       "frequency": "100 MHz",
       "tags": ["news", "national"],
       "stream": "https://stream1.radionepal.gov.np/live/",
+      "logo": null,
       "codec": "mp3"
     },
     {
@@ -18,6 +19,7 @@
       "frequency": "103 MHz",
       "tags": ["news"],
       "stream": "https://stream.live.vc.bbcmedia.co.uk/bbc_nepali_radio",
+      "logo": "https://static.files.bbci.co.uk/ws/simorgh-assets/public/nepali/images/icons/icon-128x128.png",
       "codec": "mp3"
     },
     {
@@ -27,6 +29,7 @@
       "frequency": "96.1 MHz",
       "tags": ["news", "music"],
       "stream": "https://radio-broadcast.ekantipur.com/stream",
+      "logo": "https://radio-jcss-cdn.ekantipur.com/images/kfm_logo.png",
       "codec": "mp3"
     },
     {
@@ -36,6 +39,7 @@
       "frequency": "90 MHz",
       "tags": ["news", "variety"],
       "stream": "https://stream.zeno.fm/wtuvp08xq1duv",
+      "logo": null,
       "codec": "mp3"
     },
     {
@@ -45,6 +49,7 @@
       "frequency": "91.2 MHz",
       "tags": ["music"],
       "stream": "https://usa15.fastcast4u.com/proxy/hitsfm912?mp=/1",
+      "logo": null,
       "codec": "mp3"
     },
     {
@@ -54,6 +59,7 @@
       "frequency": "92.4 MHz",
       "tags": ["music", "news"],
       "stream": "http://streaming.softnep.net:8037/;",
+      "logo": null,
       "codec": "mp3"
     },
     {
@@ -63,6 +69,7 @@
       "frequency": "102.4 MHz",
       "tags": ["music", "entertainment"],
       "stream": "https://stream.zeno.fm/fvrx47wpg0quv",
+      "logo": null,
       "codec": "mp3"
     },
     {
@@ -72,6 +79,7 @@
       "frequency": "95.2 MHz",
       "tags": ["regional"],
       "stream": "http://kalika-stream.softnep.com:7740/;",
+      "logo": "https://www.kalikanews.com/themes/kalikanews/images/favicon.png",
       "codec": "mp3"
     },
     {
@@ -81,6 +89,7 @@
       "frequency": "104 MHz",
       "tags": ["music"],
       "stream": "https://live.itech.host/himalayaradio",
+      "logo": null,
       "codec": "mp3"
     },
     {
@@ -90,6 +99,7 @@
       "frequency": "90.3 MHz",
       "tags": ["music"],
       "stream": "https://streaming.softnep.net:10944/;stream.nsv&type=mp3",
+      "logo": "https://www.kool903.com/themes/kool903/images/logo.png?v=1.1",
       "codec": "mp3"
     },
     {
@@ -99,6 +109,7 @@
       "frequency": "FM",
       "tags": ["news"],
       "stream": "http://live.itech.host:1110/;",
+      "logo": "https://www.nayafm.com.np/style/icon2.png",
       "codec": "mp3"
     },
     {
@@ -108,6 +119,7 @@
       "frequency": "93.2 MHz",
       "tags": ["music", "regional"],
       "stream": "http://216.55.141.189:8653/stream",
+      "logo": null,
       "codec": "mp3"
     },
     {
@@ -117,6 +129,7 @@
       "frequency": "FM",
       "tags": ["news", "talk"],
       "stream": "https://streaming.softnep.net:10996/;stream.nsv&type=mp3",
+      "logo": "https://www.cinkhabar.com/themes/cinkhabar/images/favicon.png",
       "codec": "aac"
     },
     {
@@ -126,6 +139,7 @@
       "frequency": "FM",
       "tags": ["music"],
       "stream": "https://eu1.fastcast4u.com/proxy/radiosag?mp=/stream/1/",
+      "logo": null,
       "codec": "mp3"
     },
     {
@@ -133,8 +147,9 @@
       "name": "Jayaprithvi FM",
       "nepali": "जयपृथ्वी एफएम",
       "frequency": "FM",
-      "tags": ["regional"],
+      "tags": ["regional", "classical"],
       "stream": "https://streaming.softnep.net:10824/",
+      "logo": "https://cdn-profiles.tunein.com/s343823/images/logod.jpg",
       "codec": "mp3"
     },
     {
@@ -144,6 +159,7 @@
       "frequency": "88.25 MHz",
       "tags": ["regional"],
       "stream": "https://radio11.plathong.net/7136/;stream.mp3",
+      "logo": null,
       "codec": "mp3"
     },
     {
@@ -153,6 +169,7 @@
       "frequency": "FM",
       "tags": ["news", "regional"],
       "stream": "https://streaming.softnep.net:10988/;stream.nsv&type=mp3",
+      "logo": null,
       "codec": "mp3"
     },
     {
@@ -162,7 +179,48 @@
       "frequency": "FM",
       "tags": ["music", "diaspora"],
       "stream": "https://listen-ssvcbfbs.sharp-stream.com/ssvcbfbs3.aac",
+      "logo": "https://radio.bfbs.com/icons/icon-512x512.png",
       "codec": "aac"
+    },
+    {
+      "id": "khozee-radio",
+      "name": "Khozee Radio",
+      "nepali": "खोजी रेडियो",
+      "frequency": "Online",
+      "tags": ["music", "talk"],
+      "stream": "http://216.55.141.189:8060/stream/1/",
+      "logo": null,
+      "codec": "aac"
+    },
+    {
+      "id": "hand-of-jesus-nepali",
+      "name": "Hand of Jesus Nepali",
+      "nepali": "ह्यान्ड अफ जिसस नेपाली",
+      "frequency": "Online",
+      "tags": ["religious", "talk"],
+      "stream": "https://dc1.serverse.com/proxy/hojnepali/stream",
+      "logo": null,
+      "codec": "mp3"
+    },
+    {
+      "id": "nbc-fm-narwee",
+      "name": "NBC FM 90.1 Narwee",
+      "nepali": "एनबीसी एफएम ९०.१",
+      "frequency": "90.1 MHz",
+      "tags": ["diaspora", "community"],
+      "stream": "https://studio.901nbcfm.com.au:8902/newstream",
+      "logo": "https://i.ibb.co/L683p7B/147954-d2e590e6ccda4d25a7213e2565ed7274-mv2.png",
+      "codec": "mp3"
+    },
+    {
+      "id": "abdulbasit",
+      "name": "Quran - Abdulbasit",
+      "nepali": "कुरान - अब्दुलबासित",
+      "frequency": "Online",
+      "tags": ["religious"],
+      "stream": "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3",
+      "logo": null,
+      "codec": "mp3"
     }
   ]
 }
