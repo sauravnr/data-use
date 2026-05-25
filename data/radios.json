@@ -1,0 +1,168 @@
+{
+  "version": 1,
+  "updatedAt": "2026-05-25",
+  "stations": [
+    {
+      "id": "radio-nepal",
+      "name": "Radio Nepal",
+      "nepali": "रेडियो नेपाल",
+      "frequency": "100 MHz",
+      "tags": ["news", "national"],
+      "stream": "https://stream1.radionepal.gov.np/live/",
+      "codec": "mp3"
+    },
+    {
+      "id": "bbc-nepali",
+      "name": "BBC Nepali",
+      "nepali": "बीबीसी नेपाली",
+      "frequency": "103 MHz",
+      "tags": ["news"],
+      "stream": "https://stream.live.vc.bbcmedia.co.uk/bbc_nepali_radio",
+      "codec": "mp3"
+    },
+    {
+      "id": "kantipur-fm",
+      "name": "Kantipur FM",
+      "nepali": "कान्तिपुर एफएम",
+      "frequency": "96.1 MHz",
+      "tags": ["news", "music"],
+      "stream": "https://radio-broadcast.ekantipur.com/stream",
+      "codec": "mp3"
+    },
+    {
+      "id": "ujyaalo-90",
+      "name": "Ujyaalo 90 Network",
+      "nepali": "उज्यालो ९० नेटवर्क",
+      "frequency": "90 MHz",
+      "tags": ["news", "variety"],
+      "stream": "https://stream.zeno.fm/wtuvp08xq1duv",
+      "codec": "mp3"
+    },
+    {
+      "id": "hits-fm",
+      "name": "Hits FM",
+      "nepali": "हिट्स एफएम",
+      "frequency": "91.2 MHz",
+      "tags": ["music"],
+      "stream": "https://usa15.fastcast4u.com/proxy/hitsfm912?mp=/1",
+      "codec": "mp3"
+    },
+    {
+      "id": "capital-fm",
+      "name": "Capital FM",
+      "nepali": "क्यापिटल एफएम",
+      "frequency": "92.4 MHz",
+      "tags": ["music", "news"],
+      "stream": "http://streaming.softnep.net:8037/;",
+      "codec": "mp3"
+    },
+    {
+      "id": "radio-audio",
+      "name": "Radio Audio",
+      "nepali": "रेडियो अडियो",
+      "frequency": "102.4 MHz",
+      "tags": ["music", "entertainment"],
+      "stream": "https://stream.zeno.fm/fvrx47wpg0quv",
+      "codec": "mp3"
+    },
+    {
+      "id": "kalika-fm",
+      "name": "Kalika FM",
+      "nepali": "कालिका एफएम",
+      "frequency": "95.2 MHz",
+      "tags": ["regional"],
+      "stream": "http://kalika-stream.softnep.com:7740/;",
+      "codec": "mp3"
+    },
+    {
+      "id": "radio-himalaya",
+      "name": "Radio Himalaya",
+      "nepali": "रेडियो हिमालय",
+      "frequency": "104 MHz",
+      "tags": ["music"],
+      "stream": "https://live.itech.host/himalayaradio",
+      "codec": "mp3"
+    },
+    {
+      "id": "kool-fm",
+      "name": "KOOL FM",
+      "nepali": "कुल एफएम",
+      "frequency": "90.3 MHz",
+      "tags": ["music"],
+      "stream": "https://streaming.softnep.net:10944/;stream.nsv&type=mp3",
+      "codec": "mp3"
+    },
+    {
+      "id": "naya-radio",
+      "name": "Naya Radio",
+      "nepali": "नयाँ रेडियो",
+      "frequency": "FM",
+      "tags": ["news"],
+      "stream": "http://live.itech.host:1110/;",
+      "codec": "mp3"
+    },
+    {
+      "id": "swadesh-fm",
+      "name": "Swadesh FM",
+      "nepali": "स्वदेश एफएम",
+      "frequency": "93.2 MHz",
+      "tags": ["music", "regional"],
+      "stream": "http://216.55.141.189:8653/stream",
+      "codec": "mp3"
+    },
+    {
+      "id": "cin-khabar",
+      "name": "CIN Khabar",
+      "nepali": "सीआईएन खबर",
+      "frequency": "FM",
+      "tags": ["news", "talk"],
+      "stream": "https://streaming.softnep.net:10996/;stream.nsv&type=mp3",
+      "codec": "aac"
+    },
+    {
+      "id": "radio-sagar",
+      "name": "Radio Sagar",
+      "nepali": "रेडियो सागर",
+      "frequency": "FM",
+      "tags": ["music"],
+      "stream": "https://eu1.fastcast4u.com/proxy/radiosag?mp=/stream/1/",
+      "codec": "mp3"
+    },
+    {
+      "id": "jayaprithvi-fm",
+      "name": "Jayaprithvi FM",
+      "nepali": "जयपृथ्वी एफएम",
+      "frequency": "FM",
+      "tags": ["regional"],
+      "stream": "https://streaming.softnep.net:10824/",
+      "codec": "mp3"
+    },
+    {
+      "id": "napho-radio",
+      "name": "Napho Radio FM",
+      "nepali": "नफो रेडियो एफएम",
+      "frequency": "88.25 MHz",
+      "tags": ["regional"],
+      "stream": "https://radio11.plathong.net/7136/;stream.mp3",
+      "codec": "mp3"
+    },
+    {
+      "id": "thaha-sanchar",
+      "name": "Radio Thaha Sanchar",
+      "nepali": "रेडियो थाहा सञ्चार",
+      "frequency": "FM",
+      "tags": ["news", "regional"],
+      "stream": "https://streaming.softnep.net:10988/;stream.nsv&type=mp3",
+      "codec": "mp3"
+    },
+    {
+      "id": "bfbs-gurkha",
+      "name": "BFBS Gurkha Radio",
+      "nepali": "बीएफबीएस गोर्खा रेडियो",
+      "frequency": "FM",
+      "tags": ["music", "diaspora"],
+      "stream": "https://listen-ssvcbfbs.sharp-stream.com/ssvcbfbs3.aac",
+      "codec": "aac"
+    }
+  ]
+}
