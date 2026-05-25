@@ -1,5 +1,5 @@
 {
-  "version": 2,
+  "version": 3,
   "updatedAt": "2026-05-25",
   "stations": [
     {
@@ -10,6 +10,7 @@
       "tags": ["news", "national"],
       "stream": "https://stream1.radionepal.gov.np/live/",
       "logo": null,
+      "website": "radionepal.gov.np",
       "codec": "mp3"
     },
     {
@@ -20,6 +21,7 @@
       "tags": ["news"],
       "stream": "https://stream.live.vc.bbcmedia.co.uk/bbc_nepali_radio",
       "logo": "https://static.files.bbci.co.uk/ws/simorgh-assets/public/nepali/images/icons/icon-128x128.png",
+      "website": "bbc.com",
       "codec": "mp3"
     },
     {
@@ -30,6 +32,7 @@
       "tags": ["news", "music"],
       "stream": "https://radio-broadcast.ekantipur.com/stream",
       "logo": "https://radio-jcss-cdn.ekantipur.com/images/kfm_logo.png",
+      "website": "ekantipur.com",
       "codec": "mp3"
     },
     {
@@ -40,6 +43,7 @@
       "tags": ["news", "variety"],
       "stream": "https://stream.zeno.fm/wtuvp08xq1duv",
       "logo": null,
+      "website": "ujyaaloonline.com",
       "codec": "mp3"
     },
     {
@@ -50,6 +54,7 @@
       "tags": ["music"],
       "stream": "https://usa15.fastcast4u.com/proxy/hitsfm912?mp=/1",
       "logo": null,
+      "website": "hitsfm.com.np",
       "codec": "mp3"
     },
     {
@@ -60,6 +65,7 @@
       "tags": ["music", "news"],
       "stream": "http://streaming.softnep.net:8037/;",
       "logo": null,
+      "website": "capitalfm.com.np",
       "codec": "mp3"
     },
     {
@@ -70,6 +76,7 @@
       "tags": ["music", "entertainment"],
       "stream": "https://stream.zeno.fm/fvrx47wpg0quv",
       "logo": null,
+      "website": "radioaudio.com.np",
       "codec": "mp3"
     },
     {
@@ -80,6 +87,7 @@
       "tags": ["regional"],
       "stream": "http://kalika-stream.softnep.com:7740/;",
       "logo": "https://www.kalikanews.com/themes/kalikanews/images/favicon.png",
+      "website": "kalikanews.com",
       "codec": "mp3"
     },
     {
@@ -90,6 +98,7 @@
       "tags": ["music"],
       "stream": "https://live.itech.host/himalayaradio",
       "logo": null,
+      "website": "radiohimalaya.com.np",
       "codec": "mp3"
     },
     {
@@ -100,6 +109,7 @@
       "tags": ["music"],
       "stream": "https://streaming.softnep.net:10944/;stream.nsv&type=mp3",
       "logo": "https://www.kool903.com/themes/kool903/images/logo.png?v=1.1",
+      "website": "kool903.com",
       "codec": "mp3"
     },
     {
@@ -110,6 +120,7 @@
       "tags": ["news"],
       "stream": "http://live.itech.host:1110/;",
       "logo": "https://www.nayafm.com.np/style/icon2.png",
+      "website": "nayafm.com.np",
       "codec": "mp3"
     },
     {
@@ -120,6 +131,7 @@
       "tags": ["music", "regional"],
       "stream": "http://216.55.141.189:8653/stream",
       "logo": null,
+      "website": "swadeshfm.com.np",
       "codec": "mp3"
     },
     {
@@ -130,6 +142,7 @@
       "tags": ["news", "talk"],
       "stream": "https://streaming.softnep.net:10996/;stream.nsv&type=mp3",
       "logo": "https://www.cinkhabar.com/themes/cinkhabar/images/favicon.png",
+      "website": "cinkhabar.com",
       "codec": "aac"
     },
     {
@@ -140,6 +153,7 @@
       "tags": ["music"],
       "stream": "https://eu1.fastcast4u.com/proxy/radiosag?mp=/stream/1/",
       "logo": null,
+      "website": "radiosagar.com.np",
       "codec": "mp3"
     },
     {
@@ -150,6 +164,7 @@
       "tags": ["regional", "classical"],
       "stream": "https://streaming.softnep.net:10824/",
       "logo": "https://cdn-profiles.tunein.com/s343823/images/logod.jpg",
+      "website": "jayaprithvifm.com.np",
       "codec": "mp3"
     },
     {
@@ -160,6 +175,7 @@
       "tags": ["regional"],
       "stream": "https://radio11.plathong.net/7136/;stream.mp3",
       "logo": null,
+      "website": "naphoradio.com",
       "codec": "mp3"
     },
     {
@@ -170,6 +186,7 @@
       "tags": ["news", "regional"],
       "stream": "https://streaming.softnep.net:10988/;stream.nsv&type=mp3",
       "logo": null,
+      "website": "thahasanchar.com",
       "codec": "mp3"
     },
     {
@@ -180,6 +197,7 @@
       "tags": ["music", "diaspora"],
       "stream": "https://listen-ssvcbfbs.sharp-stream.com/ssvcbfbs3.aac",
       "logo": "https://radio.bfbs.com/icons/icon-512x512.png",
+      "website": "bfbs.com",
       "codec": "aac"
     },
     {
@@ -190,6 +208,7 @@
       "tags": ["music", "talk"],
       "stream": "http://216.55.141.189:8060/stream/1/",
       "logo": null,
+      "website": "khozeeradio.com",
       "codec": "aac"
     },
     {
@@ -200,6 +219,7 @@
       "tags": ["religious", "talk"],
       "stream": "https://dc1.serverse.com/proxy/hojnepali/stream",
       "logo": null,
+      "website": "handofjesus.org",
       "codec": "mp3"
     },
     {
@@ -210,6 +230,7 @@
       "tags": ["diaspora", "community"],
       "stream": "https://studio.901nbcfm.com.au:8902/newstream",
       "logo": "https://i.ibb.co/L683p7B/147954-d2e590e6ccda4d25a7213e2565ed7274-mv2.png",
+      "website": "901nbcfm.com.au",
       "codec": "mp3"
     },
     {
@@ -220,6 +241,7 @@
       "tags": ["religious"],
       "stream": "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3",
       "logo": null,
+      "website": "mp3islam.com",
       "codec": "mp3"
     }
   ]
