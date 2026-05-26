@@ -1,6 +1,6 @@
 {
-  "version": 1,
-  "updatedAt": "2026-05-25",
+  "version": 2,
+  "updatedAt": "2026-05-26",
   "_note": "Image URLs are placeholders (placehold.co). Replace with real CDN-hosted images. See docs/FESTIVAL-IMAGES.md.",
   "festivals": {
     "dashain": {
@@ -221,6 +221,175 @@
       },
       "sources": [
         { "label": "Wikipedia", "url": "https://en.wikipedia.org/wiki/Gai_Jatra" }
+      ]
+    },
+
+    "ram-navami": {
+      "slug": "ram-navami",
+      "thumbnail": "https://placehold.co/600x360/D32F2F/FFFFFF.png?text=Ram+Navami&font=montserrat",
+      "hero": "https://placehold.co/1200x600/D32F2F/FFFFFF.png?text=Ram+Navami&font=montserrat",
+      "description": {
+        "ne": "राम नवमी भगवान रामको जन्मोत्सव हो, जुन चैत्र शुक्ल नवमीका दिन मनाइन्छ। भक्तजनहरू व्रत राख्छन्, राम मन्दिर जान्छन् र रामायण पाठ गर्छन्।",
+        "en": "Ram Navami marks the birth of Lord Rama on the ninth day of the bright fortnight of Chaitra. Devotees fast, visit Ram temples and read the Ramayana."
+      },
+      "sources": [
+        { "label": "Wikipedia", "url": "https://en.wikipedia.org/wiki/Rama_Navami" }
+      ]
+    },
+
+    "workers-day": {
+      "slug": "workers-day",
+      "thumbnail": "https://placehold.co/600x360/D32F2F/FFFFFF.png?text=Workers+Day&font=montserrat",
+      "hero": "https://placehold.co/1200x600/D32F2F/FFFFFF.png?text=Workers+Day&font=montserrat",
+      "description": {
+        "ne": "अन्तर्राष्ट्रिय श्रमिक दिवस मे १ का दिन विश्वभरि श्रमिकहरूको सम्मानमा मनाइन्छ। नेपालमा यो सार्वजनिक बिदा हो र श्रमिकका अधिकार र हकहितका लागि भएका संघर्षको स्मरण गरिन्छ।",
+        "en": "International Workers' Day (Labour Day) is observed worldwide on May 1 to honor workers. In Nepal it is a public holiday commemorating the labor movement's struggle for workers' rights."
+      },
+      "sources": [
+        { "label": "Wikipedia", "url": "https://en.wikipedia.org/wiki/International_Workers%27_Day" }
+      ]
+    },
+
+    "ubhauli-parva": {
+      "slug": "ubhauli-parva",
+      "thumbnail": "https://placehold.co/600x360/E8930A/FFFFFF.png?text=Ubhauli&font=montserrat",
+      "hero": "https://placehold.co/1200x600/E8930A/FFFFFF.png?text=Ubhauli&font=montserrat",
+      "description": {
+        "ne": "उभौली पर्व किरात समुदायको प्रमुख चाड हो, जुन बैशाख पूर्णिमामा मनाइन्छ। यो प्रकृति र खेतीको पूजा हो — जाडोपछि बाली उभो (माथि) सर्ने सङ्केत मानिन्छ। साकेला नाच यस पर्वको मुख्य आकर्षण हो।",
+        "en": "Ubhauli Parva, a major festival of the Kirat community, is celebrated on Baisakh Purnima. It honors nature and farming — marking when crops move 'up' (ubho) after winter. The Sakela dance is central to the celebration."
+      },
+      "sources": [
+        { "label": "Wikipedia", "url": "https://en.wikipedia.org/wiki/Udhauli_and_Ubhauli" }
+      ]
+    },
+
+    "yomari-punhi": {
+      "slug": "yomari-punhi",
+      "thumbnail": "https://placehold.co/600x360/E8930A/FFFFFF.png?text=Yomari+Punhi&font=montserrat",
+      "hero": "https://placehold.co/1200x600/E8930A/FFFFFF.png?text=Yomari+Punhi&font=montserrat",
+      "description": {
+        "ne": "योमरी पुन्ही नेवार समुदायले मंसिर पूर्णिमामा मनाउने चाड हो, जुन किरातहरूका लागि उधौली पर्व पनि हो। चामलको पीठोबाट बनेको योमरी (मिठो भित्री भएको रोटी) यस दिनको मुख्य परिकार हो र अन्न पाकेको खुशीयाली व्यक्त गर्न खाइन्छ।",
+        "en": "Yomari Punhi is a Newar festival on the full moon of Mangsir, also observed by the Kirat community as Udhauli Parva. The signature dish is yomari — a steamed rice-flour pastry with sweet filling — eaten to celebrate the harvest."
+      },
+      "sources": [
+        { "label": "Wikipedia", "url": "https://en.wikipedia.org/wiki/Yomari_Punhi" }
+      ]
+    },
+
+    "tamu-lhosar": {
+      "slug": "tamu-lhosar",
+      "thumbnail": "https://placehold.co/600x360/D32F2F/FFFFFF.png?text=Tamu+Lhosar&font=montserrat",
+      "hero": "https://placehold.co/1200x600/D32F2F/FFFFFF.png?text=Tamu+Lhosar&font=montserrat",
+      "description": {
+        "ne": "तमु ल्होसार गुरुङ समुदायको नयाँ वर्ष हो, जुन पुस १५ मा मनाइन्छ। पारम्परिक पहिरन लगाएर ल्होसार खेल्ने, नाच्ने र पारम्परिक मीठा परिकार खाने चलन छ।",
+        "en": "Tamu Lhosar is the Gurung community's New Year, celebrated on Poush 15. Communities gather in traditional dress, dance, and share traditional sweets and feasts."
+      },
+      "sources": [
+        { "label": "Wikipedia", "url": "https://en.wikipedia.org/wiki/Tamu_Lhosar" }
+      ]
+    },
+
+    "sonam-lhosar": {
+      "slug": "sonam-lhosar",
+      "thumbnail": "https://placehold.co/600x360/D32F2F/FFFFFF.png?text=Sonam+Lhosar&font=montserrat",
+      "hero": "https://placehold.co/1200x600/D32F2F/FFFFFF.png?text=Sonam+Lhosar&font=montserrat",
+      "description": {
+        "ne": "सोनम ल्होसार तामाङ समुदायको नयाँ वर्ष हो, जुन माघ शुक्ल प्रतिपदामा मनाइन्छ। दम्फु नाच, परम्परागत भोज र समुदायको भेलासँगै नयाँ वर्षको स्वागत गरिन्छ।",
+        "en": "Sonam Lhosar is the Tamang community's New Year, celebrated on the first day of the bright fortnight of Magh. Celebrations feature Damphu dance, traditional feasts and community gatherings."
+      },
+      "sources": [
+        { "label": "Wikipedia", "url": "https://en.wikipedia.org/wiki/Sonam_Lhosar" }
+      ]
+    },
+
+    "gyalpo-lhosar": {
+      "slug": "gyalpo-lhosar",
+      "thumbnail": "https://placehold.co/600x360/D32F2F/FFFFFF.png?text=Gyalpo+Lhosar&font=montserrat",
+      "hero": "https://placehold.co/1200x600/D32F2F/FFFFFF.png?text=Gyalpo+Lhosar&font=montserrat",
+      "description": {
+        "ne": "ग्याल्पो ल्होसार शेर्पा, भोटे र हिमाली बौद्ध समुदायहरूको नयाँ वर्ष हो। तिब्बती लुनार पात्रोअनुसार फागुनमा मनाइने यो चाडमा गुम्बामा पूजा, परम्परागत नाच र पारिवारिक भोज हुन्छ।",
+        "en": "Gyalpo Lhosar is the New Year of the Sherpa, Bhote and Himalayan Buddhist communities. Following the Tibetan lunar calendar (around Falgun), it is observed with monastery prayers, traditional dances and family feasts."
+      },
+      "sources": [
+        { "label": "Wikipedia", "url": "https://en.wikipedia.org/wiki/Losar" }
+      ]
+    },
+
+    "prithvi-jayanti": {
+      "slug": "prithvi-jayanti",
+      "thumbnail": "https://placehold.co/600x360/D32F2F/FFFFFF.png?text=Prithvi+Jayanti&font=montserrat",
+      "hero": "https://placehold.co/1200x600/D32F2F/FFFFFF.png?text=Prithvi+Jayanti&font=montserrat",
+      "description": {
+        "ne": "पृथ्वी जयन्ती राष्ट्रिय एकता दिवसका रूपमा पुस २७ मा मनाइन्छ — आधुनिक नेपालका एकीकरणकर्ता राजा पृथ्वीनारायण शाहको जन्म दिवस। एकीकरण अभियानको स्मरणमा विभिन्न सरकारी कार्यक्रम हुन्छन्।",
+        "en": "Prithvi Jayanti, observed as National Unity Day on Poush 27, marks the birth anniversary of King Prithvi Narayan Shah, the unifier of modern Nepal. State functions commemorate the unification campaign."
+      },
+      "sources": [
+        { "label": "Wikipedia", "url": "https://en.wikipedia.org/wiki/Prithvi_Narayan_Shah" }
+      ]
+    },
+
+    "martyrs-day": {
+      "slug": "martyrs-day",
+      "thumbnail": "https://placehold.co/600x360/D32F2F/FFFFFF.png?text=Martyrs+Day&font=montserrat",
+      "hero": "https://placehold.co/1200x600/D32F2F/FFFFFF.png?text=Martyrs+Day&font=montserrat",
+      "description": {
+        "ne": "शहीद दिवस माघ १६ मा मनाइन्छ — यस दिन नेपालका लागि आफ्नो जीवन उत्सर्ग गर्ने चार महान् शहीदहरू — धर्मभक्त माथेमा, शुक्रराज शास्त्री, गंगालाल श्रेष्ठ र दशरथ चन्दको स्मरण गरिन्छ।",
+        "en": "Martyrs' Day on Magh 16 honors Nepal's four great martyrs — Dharma Bhakta Mathema, Shukraraj Shastri, Gangalal Shrestha and Dasharath Chand — who gave their lives in the struggle for democracy."
+      },
+      "sources": [
+        { "label": "Wikipedia", "url": "https://en.wikipedia.org/wiki/Martyrs%27_Day_(Nepal)" }
+      ]
+    },
+
+    "democracy-day": {
+      "slug": "democracy-day",
+      "thumbnail": "https://placehold.co/600x360/D32F2F/FFFFFF.png?text=Democracy+Day&font=montserrat",
+      "hero": "https://placehold.co/1200x600/D32F2F/FFFFFF.png?text=Democracy+Day&font=montserrat",
+      "description": {
+        "ne": "प्रजातन्त्र दिवस फागुन ७ मा मनाइन्छ — २००७ सालको प्रजातन्त्र प्राप्तिको स्मरणमा। यस दिन राणा शासनको अन्त्य भएको थियो र नेपालमा प्रजातन्त्रको स्थापना भएको थियो।",
+        "en": "Democracy Day on Falgun 7 commemorates the establishment of democracy in Nepal in 2007 BS (1951 AD), marking the end of 104 years of Rana rule."
+      },
+      "sources": [
+        { "label": "Wikipedia", "url": "https://en.wikipedia.org/wiki/Democracy_Day_(Nepal)" }
+      ]
+    },
+
+    "womens-day": {
+      "slug": "womens-day",
+      "thumbnail": "https://placehold.co/600x360/D32F2F/FFFFFF.png?text=Women%27s+Day&font=montserrat",
+      "hero": "https://placehold.co/1200x600/D32F2F/FFFFFF.png?text=Women%27s+Day&font=montserrat",
+      "description": {
+        "ne": "अन्तर्राष्ट्रिय नारी दिवस मार्च ८ मा विश्वभरि महिलाहरूको सम्मान, अधिकार र समानताका लागि मनाइन्छ। नेपालमा यो दिन महिलाहरूको लागि सार्वजनिक बिदा हो।",
+        "en": "International Women's Day, observed worldwide on March 8, honors women's achievements and the struggle for gender equality. In Nepal it is a public holiday for women."
+      },
+      "sources": [
+        { "label": "Wikipedia", "url": "https://en.wikipedia.org/wiki/International_Women%27s_Day" }
+      ]
+    },
+
+    "ghode-jatra": {
+      "slug": "ghode-jatra",
+      "thumbnail": "https://placehold.co/600x360/D32F2F/FFFFFF.png?text=Ghode+Jatra&font=montserrat",
+      "hero": "https://placehold.co/1200x600/D32F2F/FFFFFF.png?text=Ghode+Jatra&font=montserrat",
+      "description": {
+        "ne": "घोडे जात्रा काठमाडौंको प्रमुख चाड हो, जुन चैत्रको कृष्ण पक्षको औंसीमा मनाइन्छ। टुँडिखेलमा नेपाली सेनाद्वारा घोडादौड र विभिन्न कौशल प्रदर्शन गरिन्छ। यो परम्परा गुरकाण्ड नामक राक्षसमाथिको विजयसँग जोडिएको छ।",
+        "en": "Ghode Jatra, Kathmandu's horse-racing festival, is observed on the new moon of Chaitra. The Nepal Army stages a horse parade and acrobatics at Tundikhel. Tradition links the festival to victory over the demon Gurkanda."
+      },
+      "sources": [
+        { "label": "Wikipedia", "url": "https://en.wikipedia.org/wiki/Ghode_Jatra" }
+      ]
+    },
+
+    "basant-panchami": {
+      "slug": "basant-panchami",
+      "thumbnail": "https://placehold.co/600x360/E8930A/FFFFFF.png?text=Basant+Panchami&font=montserrat",
+      "hero": "https://placehold.co/1200x600/E8930A/FFFFFF.png?text=Basant+Panchami&font=montserrat",
+      "description": {
+        "ne": "वसन्त पञ्चमी माघ शुक्ल पञ्चमीमा मनाइन्छ — सरस्वती पूजाको दिन। यो विद्या, सङ्गीत र कलाकी देवी सरस्वतीको पूजा गर्ने चाड हो। बालबालिकालाई पहिलोपटक अक्षर लेखाउने (विद्यारम्भ) यसै दिन गराइन्छ।",
+        "en": "Basant Panchami, on the fifth day of the bright fortnight of Magh, is dedicated to Saraswati — goddess of knowledge, music and art. Children are traditionally introduced to writing on this day (Vidyarambha)."
+      },
+      "sources": [
+        { "label": "Wikipedia", "url": "https://en.wikipedia.org/wiki/Vasant_Panchami" }
       ]
     }
   }
