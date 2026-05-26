@@ -1,0 +1,227 @@
+{
+  "version": 1,
+  "updatedAt": "2026-05-25",
+  "_note": "Image URLs are placeholders (placehold.co). Replace with real CDN-hosted images. See docs/FESTIVAL-IMAGES.md.",
+  "festivals": {
+    "dashain": {
+      "slug": "dashain",
+      "thumbnail": "https://placehold.co/600x360/D32F2F/FFFFFF.png?text=Dashain&font=montserrat",
+      "hero": "https://placehold.co/1200x600/D32F2F/FFFFFF.png?text=Dashain&font=montserrat",
+      "description": {
+        "ne": "दशैं नेपालको सबैभन्दा ठूलो र महत्त्वपूर्ण चाड हो। यो असत्यमाथि सत्यको विजयको प्रतीक हो। दश दिनसम्म मनाइने यो चाडमा घटस्थापना, फूलपाती, महाअष्टमी, महानवमी र विजया दशमी (टीका) मुख्य दिनहरू हुन्। टीकाको दिन घरका मूली र हजुरबा हजुरआमाले कान्छाहरूलाई रातो टीका, जमरा र आशीर्वाद दिने प्रचलन छ।",
+        "en": "Dashain is the longest and most important festival in Nepal. It celebrates the victory of good over evil. Across ten days — Ghatasthapana, Fulpati, Maha Ashtami, Maha Navami and Vijaya Dashami (Tika) — families gather, elders bless juniors with red tika, jamara and gifts."
+      },
+      "sources": [
+        { "label": "Wikipedia", "url": "https://en.wikipedia.org/wiki/Dashain" }
+      ]
+    },
+
+    "tihar": {
+      "slug": "tihar",
+      "thumbnail": "https://placehold.co/600x360/E8930A/FFFFFF.png?text=Tihar&font=montserrat",
+      "hero": "https://placehold.co/1200x600/E8930A/FFFFFF.png?text=Tihar&font=montserrat",
+      "description": {
+        "ne": "तिहार पाँच दिनसम्म मनाइने उज्यालोको चाड हो। कागतिहार, कुकुर तिहार, गाई तिहार र लक्ष्मीपूजा, गोवर्धन पूजा र म्ह पूजा, अनि अन्तिममा भाइ टीका। दिदी-बहिनीले दाजुभाइलाई सप्तरंगी टीका लगाई दीर्घायुको कामना गर्ने यो चाड प्रेम र सम्बन्धको प्रतीक हो।",
+        "en": "Tihar (Deepawali) is Nepal's five-day festival of lights. Each day worships a different being — crows, dogs, cows, the goddess Lakshmi, the self, and finally brothers (Bhai Tika), when sisters mark brothers with a seven-color tika for long life."
+      },
+      "sources": [
+        { "label": "Wikipedia", "url": "https://en.wikipedia.org/wiki/Tihar_(festival)" }
+      ]
+    },
+
+    "holi": {
+      "slug": "holi",
+      "thumbnail": "https://placehold.co/600x360/E8930A/FFFFFF.png?text=Holi&font=montserrat",
+      "hero": "https://placehold.co/1200x600/E8930A/FFFFFF.png?text=Holi&font=montserrat",
+      "description": {
+        "ne": "होली रङहरूको चाड हो। फागुन शुक्ल पूर्णिमाका दिन मनाइने यो चाड बसन्तको स्वागत र असत्यमाथि सत्यको विजयको प्रतीक हो। पहाडी क्षेत्रमा फागुन पूर्णिमामा र तराईमा त्यसको भोलिपल्ट मनाइन्छ।",
+        "en": "Holi, the festival of colors, marks the arrival of spring and the triumph of good over evil. Celebrated on the full moon of Falgun in the hills and the following day in the Terai, friends and family spray colors and water on each other."
+      },
+      "sources": [
+        { "label": "Wikipedia", "url": "https://en.wikipedia.org/wiki/Holi" }
+      ]
+    },
+
+    "buddha-jayanti": {
+      "slug": "buddha-jayanti",
+      "thumbnail": "https://placehold.co/600x360/E8930A/FFFFFF.png?text=Buddha+Jayanti&font=montserrat",
+      "hero": "https://placehold.co/1200x600/E8930A/FFFFFF.png?text=Buddha+Jayanti&font=montserrat",
+      "description": {
+        "ne": "गौतम बुद्धको जन्म, ज्ञान प्राप्ति र महापरिनिर्वाण — तीनै घटना बैशाख पूर्णिमामा मनाइन्छ। नेपालको लुम्बिनीमा जन्मेका भगवान बुद्धको स्मरणमा बौद्ध विहारमा पूजा, दान र शान्तिको कामना गरिन्छ।",
+        "en": "Buddha Jayanti commemorates the birth, enlightenment and parinirvana of Gautama Buddha, all believed to have occurred on the full moon of Baisakh. Born in Lumbini, Nepal, the day is observed with prayers, offerings and acts of compassion at monasteries."
+      },
+      "sources": [
+        { "label": "Wikipedia", "url": "https://en.wikipedia.org/wiki/Buddha_Jayanti" }
+      ]
+    },
+
+    "maha-shivaratri": {
+      "slug": "maha-shivaratri",
+      "thumbnail": "https://placehold.co/600x360/D32F2F/FFFFFF.png?text=Maha+Shivaratri&font=montserrat",
+      "hero": "https://placehold.co/1200x600/D32F2F/FFFFFF.png?text=Maha+Shivaratri&font=montserrat",
+      "description": {
+        "ne": "महाशिवरात्रि भगवान शिवको महान् रात्रि हो। फागुन कृष्ण चतुर्दशीका दिन भक्तजनहरू पशुपतिनाथमा भेला हुन्छन्। व्रत, जागरण र शिवको स्तुति यस दिनको मुख्य परम्परा हो।",
+        "en": "Maha Shivaratri, the 'Great Night of Shiva', falls on the 14th night of the dark fortnight of Falgun. Devotees throng Pashupatinath, observe fasts and stay awake through the night chanting hymns to Lord Shiva."
+      },
+      "sources": [
+        { "label": "Wikipedia", "url": "https://en.wikipedia.org/wiki/Maha_Shivaratri" }
+      ]
+    },
+
+    "bakra-eid": {
+      "slug": "bakra-eid",
+      "thumbnail": "https://placehold.co/600x360/D32F2F/FFFFFF.png?text=Bakra+Eid&font=montserrat",
+      "hero": "https://placehold.co/1200x600/D32F2F/FFFFFF.png?text=Bakra+Eid&font=montserrat",
+      "description": {
+        "ne": "बकर इद (इद-उल-अजहा) इस्लाम धर्मको प्रमुख चाड हो। यो हजरत इब्राहिमको त्यागको स्मरणमा मनाइन्छ। यस दिन मुस्लिम समुदायले प्रार्थना, कुर्बानी र दानको परम्परा अपनाउँछन्।",
+        "en": "Bakra Eid (Eid al-Adha) is the Islamic 'Festival of Sacrifice', commemorating Prophet Ibrahim's willingness to sacrifice his son. Muslims observe it with prayers, ritual sacrifice (qurbani) and charity to the poor."
+      },
+      "sources": [
+        { "label": "Wikipedia", "url": "https://en.wikipedia.org/wiki/Eid_al-Adha" }
+      ]
+    },
+
+    "christmas": {
+      "slug": "christmas",
+      "thumbnail": "https://placehold.co/600x360/E8930A/FFFFFF.png?text=Christmas&font=montserrat",
+      "hero": "https://placehold.co/1200x600/E8930A/FFFFFF.png?text=Christmas&font=montserrat",
+      "description": {
+        "ne": "क्रिसमस ईसाई धर्मावलम्बीहरूले येशू ख्रीष्टको जन्मको स्मरणमा डिसेम्बर २५ मा मनाउने चाड हो। बाइबल पाठ, गीत, उपहार आदानप्रदान र पारिवारिक भेला यस दिनको मुख्य विशेषता हुन्।",
+        "en": "Christmas, observed on December 25, celebrates the birth of Jesus Christ. Christians attend services, sing carols, exchange gifts and gather with family."
+      },
+      "sources": [
+        { "label": "Wikipedia", "url": "https://en.wikipedia.org/wiki/Christmas" }
+      ]
+    },
+
+    "janai-purnima": {
+      "slug": "janai-purnima",
+      "thumbnail": "https://placehold.co/600x360/D32F2F/FFFFFF.png?text=Janai+Purnima&font=montserrat",
+      "hero": "https://placehold.co/1200x600/D32F2F/FFFFFF.png?text=Janai+Purnima&font=montserrat",
+      "description": {
+        "ne": "जनै पूर्णिमामा हिन्दू पुरुषहरू पवित्र धागो (जनै) फेर्छन् भने रक्षाबन्धनमा बहिनीहरूले दाजुभाइको हातमा डोरो बाँधेर रक्षाको कामना गर्छन्। श्रावण पूर्णिमाका दिन मनाइने यो चाड क्वाटी खाने परम्परासँग पनि जोडिएको छ।",
+        "en": "On Janai Purnima, Hindu men change their sacred thread (janai); sisters tie a protective thread (rakhi) on their brothers' wrists. Celebrated on the full moon of Shrawan, families also share a nine-bean soup called kwati."
+      },
+      "sources": [
+        { "label": "Wikipedia", "url": "https://en.wikipedia.org/wiki/Janai_Purnima" }
+      ]
+    },
+
+    "krishna-janmashtami": {
+      "slug": "krishna-janmashtami",
+      "thumbnail": "https://placehold.co/600x360/E8930A/FFFFFF.png?text=Krishna+Janmashtami&font=montserrat",
+      "hero": "https://placehold.co/1200x600/E8930A/FFFFFF.png?text=Krishna+Janmashtami&font=montserrat",
+      "description": {
+        "ne": "श्रीकृष्ण जन्माष्टमी भगवान कृष्णको जन्मोत्सव हो। भाद्र कृष्ण अष्टमीको मध्यरातमा कृष्ण मन्दिरमा भजन, कीर्तन र व्रत बस्ने परम्परा छ।",
+        "en": "Krishna Janmashtami marks the birth of Lord Krishna on the eighth day of the dark fortnight of Bhadra. Devotees fast, sing bhajans and gather at Krishna temples at midnight."
+      },
+      "sources": [
+        { "label": "Wikipedia", "url": "https://en.wikipedia.org/wiki/Krishna_Janmashtami" }
+      ]
+    },
+
+    "republic-day": {
+      "slug": "republic-day",
+      "thumbnail": "https://placehold.co/600x360/D32F2F/FFFFFF.png?text=Republic+Day&font=montserrat",
+      "hero": "https://placehold.co/1200x600/D32F2F/FFFFFF.png?text=Republic+Day&font=montserrat",
+      "description": {
+        "ne": "जेठ १५, २०६५ मा नेपाललाई संघीय लोकतान्त्रिक गणतन्त्र घोषणा गरिएको थियो। यस ऐतिहासिक दिनको स्मरणमा हरेक वर्ष गणतन्त्र दिवस मनाइन्छ।",
+        "en": "On Jestha 15, 2065 BS (May 28, 2008), Nepal was declared a Federal Democratic Republic, ending the centuries-old monarchy. Republic Day commemorates this transition with state functions and public holiday."
+      },
+      "sources": [
+        { "label": "Wikipedia", "url": "https://en.wikipedia.org/wiki/Republic_Day_(Nepal)" }
+      ]
+    },
+
+    "constitution-day": {
+      "slug": "constitution-day",
+      "thumbnail": "https://placehold.co/600x360/D32F2F/FFFFFF.png?text=Constitution+Day&font=montserrat",
+      "hero": "https://placehold.co/1200x600/D32F2F/FFFFFF.png?text=Constitution+Day&font=montserrat",
+      "description": {
+        "ne": "असोज ३, २०७२ मा नेपालको संविधान जारी भएको थियो। यस ऐतिहासिक दिनको स्मरणमा हरेक वर्ष संविधान दिवस मनाइन्छ।",
+        "en": "Constitution Day commemorates the promulgation of Nepal's constitution on Ashwin 3, 2072 BS (September 20, 2015), marking Nepal's transition to a federal democratic republic with a new constitution."
+      },
+      "sources": [
+        { "label": "Wikipedia", "url": "https://en.wikipedia.org/wiki/Constitution_of_Nepal" }
+      ]
+    },
+
+    "maghe-sankranti": {
+      "slug": "maghe-sankranti",
+      "thumbnail": "https://placehold.co/600x360/E8930A/FFFFFF.png?text=Maghe+Sankranti&font=montserrat",
+      "hero": "https://placehold.co/1200x600/E8930A/FFFFFF.png?text=Maghe+Sankranti&font=montserrat",
+      "description": {
+        "ne": "माघे संक्रान्ति माघ १ गते मनाइने चाड हो, जब सूर्य उत्तरायण हुन्छ। तरुल, चाकु, घिउ, तिल र सख्खर खाने परम्परा छ। थारू समुदायले यसलाई माघी पर्वका रूपमा भव्य रूपमा मनाउँछन्।",
+        "en": "Maghe Sankranti marks the sun's transition into Capricorn on Magh 1. People eat traditional foods like tarul (yam), chaku (molasses), ghee, sesame and gur. The Tharu community celebrates it grandly as Maghi."
+      },
+      "sources": [
+        { "label": "Wikipedia", "url": "https://en.wikipedia.org/wiki/Maghe_Sankranti" }
+      ]
+    },
+
+    "nepali-new-year": {
+      "slug": "nepali-new-year",
+      "thumbnail": "https://placehold.co/600x360/D32F2F/FFFFFF.png?text=Nepali+New+Year&font=montserrat",
+      "hero": "https://placehold.co/1200x600/D32F2F/FFFFFF.png?text=Nepali+New+Year&font=montserrat",
+      "description": {
+        "ne": "बैशाख १ गते नेपाली नयाँ वर्षको शुरुवात हो। बिक्रम सम्वतको नयाँ वर्ष देशभर हर्षोल्लासका साथ मनाइन्छ। भक्तपुरको बिस्केट जात्रा यसको मुख्य आकर्षण हो।",
+        "en": "Baisakh 1 marks the start of the Bikram Sambat new year, celebrated nationwide. Bhaktapur's Bisket Jatra is the most famous traditional observance of the new year."
+      },
+      "sources": [
+        { "label": "Wikipedia", "url": "https://en.wikipedia.org/wiki/Nepali_New_Year" }
+      ]
+    },
+
+    "chhath": {
+      "slug": "chhath",
+      "thumbnail": "https://placehold.co/600x360/E8930A/FFFFFF.png?text=Chhath&font=montserrat",
+      "hero": "https://placehold.co/1200x600/E8930A/FFFFFF.png?text=Chhath&font=montserrat",
+      "description": {
+        "ne": "छठ पर्व सूर्य भगवानको पूजा हो, मुख्यतः मधेस र मिथिला क्षेत्रमा भव्य रूपमा मनाइन्छ। चार दिनसम्म चल्ने यो पर्वमा नदी वा तलाउमा गएर अस्ताउँदो र उदाउँदो सूर्यलाई अर्घ्य दिइन्छ।",
+        "en": "Chhath Parva worships the Sun god, observed especially in the Madhes and Mithila regions. Over four days, devotees offer arghya (water offerings) to the setting and rising sun at rivers and ponds."
+      },
+      "sources": [
+        { "label": "Wikipedia", "url": "https://en.wikipedia.org/wiki/Chhath" }
+      ]
+    },
+
+    "ghatasthapana": {
+      "slug": "ghatasthapana",
+      "thumbnail": "https://placehold.co/600x360/D32F2F/FFFFFF.png?text=Ghatasthapana&font=montserrat",
+      "hero": "https://placehold.co/1200x600/D32F2F/FFFFFF.png?text=Ghatasthapana&font=montserrat",
+      "description": {
+        "ne": "घटस्थापना दशैंको पहिलो दिन हो। पवित्र कलश राखेर जौ रोपिन्छ — यो जमरा दशमीको दिन टीकामा प्रयोग हुन्छ। नौ दिनसम्मको शक्ति पूजाको शुरुआत यसैबाट हुन्छ।",
+        "en": "Ghatasthapana is the first day of Dashain. A sacred kalash is placed and barley seeds (jamara) are sown — these golden shoots are used during the Tika on Vijaya Dashami. It marks the start of nine days of Durga worship."
+      },
+      "sources": [
+        { "label": "Wikipedia", "url": "https://en.wikipedia.org/wiki/Dashain" }
+      ]
+    },
+
+    "indra-jatra": {
+      "slug": "indra-jatra",
+      "thumbnail": "https://placehold.co/600x360/D32F2F/FFFFFF.png?text=Indra+Jatra&font=montserrat",
+      "hero": "https://placehold.co/1200x600/D32F2F/FFFFFF.png?text=Indra+Jatra&font=montserrat",
+      "description": {
+        "ne": "ईन्द्र जात्रा काठमाडौंको नेवार समुदायको प्रमुख चाड हो। यस दिन जीवित देवी कुमारीको रथयात्रा हुन्छ। आठ दिनसम्म लाखे, सावा भक्कु, र विभिन्न नाचको प्रदर्शन गरिन्छ।",
+        "en": "Indra Jatra is a major Newar festival in Kathmandu. The living goddess Kumari is paraded in a chariot through the old city. Eight days of masked dances (Lakhe, Sawa Bhakku) and rituals fill the streets of Hanuman Dhoka."
+      },
+      "sources": [
+        { "label": "Wikipedia", "url": "https://en.wikipedia.org/wiki/Indra_Jatra" }
+      ]
+    },
+
+    "gai-jatra": {
+      "slug": "gai-jatra",
+      "thumbnail": "https://placehold.co/600x360/E8930A/FFFFFF.png?text=Gai+Jatra&font=montserrat",
+      "hero": "https://placehold.co/1200x600/E8930A/FFFFFF.png?text=Gai+Jatra&font=montserrat",
+      "description": {
+        "ne": "गाई जात्रा वर्षभरि बितेका आफन्तको स्मरणमा गरिने नेवार समुदायको परम्परागत चाड हो। बालबालिकालाई गाईको रूपमा सजाएर सहर परिक्रमा गरिन्छ। यो हाँसो, व्यंग्य र मनोरञ्जनको पनि चाड हो।",
+        "en": "Gai Jatra, a Newar festival, commemorates loved ones lost during the past year. Children are dressed as cows and paraded through the city. The festival also has a tradition of satire, comedy and street performance."
+      },
+      "sources": [
+        { "label": "Wikipedia", "url": "https://en.wikipedia.org/wiki/Gai_Jatra" }
+      ]
+    }
+  }
+}

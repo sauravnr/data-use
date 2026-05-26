@@ -1,6 +1,6 @@
 {
-  "version": 3,
-  "updatedAt": "2026-05-23",
+  "version": 4,
+  "updatedAt": "2026-05-26",
   "festivals": [
     {
       "bsYear": 2081,
@@ -622,6 +622,15 @@
       "type": "festival",
       "holiday": false,
       "nameEn": "Ubhauli Parva"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 2,
+      "bsDay": 14,
+      "name": "बकर इद",
+      "type": "festival",
+      "holiday": true,
+      "nameEn": "Bakra Eid"
     },
     {
       "bsYear": 2083,
