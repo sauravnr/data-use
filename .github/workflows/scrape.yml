@@ -67,6 +67,10 @@ jobs:
         timeout-minutes: 2
         run: python scrapers/metar.py || true
 
+      - name: Scrape daily rashifal
+        timeout-minutes: 2
+        run: python scrapers/rashifal.py || true
+
       - name: Commit & push updated data
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
