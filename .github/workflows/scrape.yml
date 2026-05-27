@@ -13,9 +13,12 @@ on:
 permissions:
   contents: write
 
+# When two schedules collide (e.g. 10:00 UTC fires both the afternoon-refresh
+# cron and the every-2-hours cron), only run the newest. Avoids the push race
+# where the older run's commit is overwritten and reported as a failure.
 concurrency:
   group: scrape-${{ github.ref }}
-  cancel-in-progress: false
+  cancel-in-progress: true
 
 jobs:
   scrape:
@@ -36,40 +39,58 @@ jobs:
       - name: Install dependencies
         run: pip install -r scrapers/requirements.txt
 
+      # Each scraper gets its own short timeout so one slow upstream can't eat
+      # the whole 10-min job budget. `|| true` still ensures one scraper's
+      # failure doesn't fail the job — but timeout-minutes ensures the runner
+      # doesn't sit waiting on a hung HTTP request for the rest of the budget.
       - name: Scrape gold/silver
+        timeout-minutes: 2
         run: python scrapers/gold_silver.py || true
-        working-directory: ${{ github.workspace }}
 
       - name: Scrape fuel
+        timeout-minutes: 2
         run: python scrapers/fuel.py || true
-        working-directory: ${{ github.workspace }}
 
       - name: Scrape vegetables
+        timeout-minutes: 2
         run: python scrapers/vegetables.py || true
-        working-directory: ${{ github.workspace }}
 
       - name: Scrape forex
+        timeout-minutes: 2
         run: python scrapers/forex.py || true
-        working-directory: ${{ github.workspace }}
 
       - name: Scrape DHM weather
+        timeout-minutes: 2
         run: python scrapers/dhm.py || true
-        working-directory: ${{ github.workspace }}
 
       - name: Scrape METAR (Nepal airports)
+        timeout-minutes: 2
         run: python scrapers/metar.py || true
-        working-directory: ${{ github.workspace }}
 
       - name: Commit & push updated data
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
+          set -e
           git config user.name  "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add data/
           if git diff --cached --quiet; then
             echo "No changes — nothing to commit."
-          else
-            git commit -m "data: auto-update $(date -u +'%Y-%m-%d %H:%M UTC')"
-            git push https://x-access-token:${GITHUB_TOKEN}@github.com/${{ github.repository }}.git HEAD:main
+            exit 0
           fi
+          git commit -m "data: auto-update $(date -u +'%Y-%m-%d %H:%M UTC')"
+          # Rebase on top of latest origin/main before push so that if another
+          # job (or a manual commit) landed during our scrape, we don't lose
+          # to a non-fast-forward push rejection. Retry the push once on
+          # transient failure.
+          for attempt in 1 2 3; do
+            git pull --rebase origin main || true
+            if git push "https://x-access-token:${GITHUB_TOKEN}@github.com/${{ github.repository }}.git" HEAD:main; then
+              exit 0
+            fi
+            echo "Push attempt $attempt failed, retrying..."
+            sleep 5
+          done
+          echo "Push failed after 3 attempts."
+          exit 1
