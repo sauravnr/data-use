@@ -56,6 +56,10 @@ jobs:
         run: python scrapers/dhm.py || true
         working-directory: ${{ github.workspace }}
 
+      - name: Scrape METAR (Nepal airports)
+        run: python scrapers/metar.py || true
+        working-directory: ${{ github.workspace }}
+
       - name: Commit & push updated data
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
