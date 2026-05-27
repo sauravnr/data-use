@@ -6,6 +6,8 @@ on:
     - cron: "0 2 * * *"
     # 10:00 UTC daily ≈ 03:45 PM NPT — afternoon refresh for fuel/gold
     - cron: "0 10 * * *"
+    # Every 2 hours — DHM AWOS stations update hourly; we keep weather fresh
+    - cron: "0 */2 * * *"
   workflow_dispatch:
 
 permissions:
@@ -48,6 +50,10 @@ jobs:
 
       - name: Scrape forex
         run: python scrapers/forex.py || true
+        working-directory: ${{ github.workspace }}
+
+      - name: Scrape DHM weather
+        run: python scrapers/dhm.py || true
         working-directory: ${{ github.workspace }}
 
       - name: Commit & push updated data
