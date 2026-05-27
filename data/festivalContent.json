@@ -1,11 +1,12 @@
 {
-  "version": 3,
+  "version": 4,
   "updatedAt": "2026-05-27",
-  "_note": "Image URLs are placeholders (placehold.co). Replace with real CDN-hosted images. See docs/FESTIVAL-IMAGES.md. Single image field — used for both 16:9 hero on FestivalDetailScreen and center-cropped thumbnails everywhere else.",
+  "_note": "Image URLs are placeholders (placehold.co). thumbnail is REQUIRED (square, 400x400 final, used everywhere as thumb). hero is OPTIONAL (16:9, 1600x900 final, shown on FestivalDetailScreen — omit the key entirely for festivals where you don't want a hero). See docs/FESTIVAL-IMAGES.md.",
   "festivals": {
     "dashain": {
       "slug": "dashain",
-      "image": "https://placehold.co/1200x600/D32F2F/FFFFFF.png?text=Dashain&font=montserrat",
+      "thumbnail": "https://placehold.co/600x600/D32F2F/FFFFFF.png?text=Dashain&font=montserrat",
+      "hero": "https://placehold.co/1600x900/D32F2F/FFFFFF.png?text=Dashain&font=montserrat",
       "description": {
         "ne": "दशैं नेपालको सबैभन्दा ठूलो र महत्त्वपूर्ण चाड हो। यो असत्यमाथि सत्यको विजयको प्रतीक हो। दश दिनसम्म मनाइने यो चाडमा घटस्थापना, फूलपाती, महाअष्टमी, महानवमी र विजया दशमी (टीका) मुख्य दिनहरू हुन्। टीकाको दिन घरका मूली र हजुरबा हजुरआमाले कान्छाहरूलाई रातो टीका, जमरा र आशीर्वाद दिने प्रचलन छ।",
         "en": "Dashain is the longest and most important festival in Nepal. It celebrates the victory of good over evil. Across ten days — Ghatasthapana, Fulpati, Maha Ashtami, Maha Navami and Vijaya Dashami (Tika) — families gather, elders bless juniors with red tika, jamara and gifts."
@@ -19,7 +20,8 @@
     },
     "tihar": {
       "slug": "tihar",
-      "image": "https://placehold.co/1200x600/E8930A/FFFFFF.png?text=Tihar&font=montserrat",
+      "thumbnail": "https://placehold.co/600x600/E8930A/FFFFFF.png?text=Tihar&font=montserrat",
+      "hero": "https://placehold.co/1600x900/E8930A/FFFFFF.png?text=Tihar&font=montserrat",
       "description": {
         "ne": "तिहार पाँच दिनसम्म मनाइने उज्यालोको चाड हो। कागतिहार, कुकुर तिहार, गाई तिहार र लक्ष्मीपूजा, गोवर्धन पूजा र म्ह पूजा, अनि अन्तिममा भाइ टीका। दिदी-बहिनीले दाजुभाइलाई सप्तरंगी टीका लगाई दीर्घायुको कामना गर्ने यो चाड प्रेम र सम्बन्धको प्रतीक हो।",
         "en": "Tihar (Deepawali) is Nepal's five-day festival of lights. Each day worships a different being — crows, dogs, cows, the goddess Lakshmi, the self, and finally brothers (Bhai Tika), when sisters mark brothers with a seven-color tika for long life."
@@ -33,7 +35,8 @@
     },
     "holi": {
       "slug": "holi",
-      "image": "https://placehold.co/1200x600/E8930A/FFFFFF.png?text=Holi&font=montserrat",
+      "thumbnail": "https://placehold.co/600x600/E8930A/FFFFFF.png?text=Holi&font=montserrat",
+      "hero": "https://placehold.co/1600x900/E8930A/FFFFFF.png?text=Holi&font=montserrat",
       "description": {
         "ne": "होली रङहरूको चाड हो। फागुन शुक्ल पूर्णिमाका दिन मनाइने यो चाड बसन्तको स्वागत र असत्यमाथि सत्यको विजयको प्रतीक हो। पहाडी क्षेत्रमा फागुन पूर्णिमामा र तराईमा त्यसको भोलिपल्ट मनाइन्छ।",
         "en": "Holi, the festival of colors, marks the arrival of spring and the triumph of good over evil. Celebrated on the full moon of Falgun in the hills and the following day in the Terai, friends and family spray colors and water on each other."
@@ -47,7 +50,8 @@
     },
     "buddha-jayanti": {
       "slug": "buddha-jayanti",
-      "image": "https://placehold.co/1200x600/E8930A/FFFFFF.png?text=Buddha+Jayanti&font=montserrat",
+      "thumbnail": "https://placehold.co/600x600/E8930A/FFFFFF.png?text=Buddha+Jayanti&font=montserrat",
+      "hero": "https://placehold.co/1600x900/E8930A/FFFFFF.png?text=Buddha+Jayanti&font=montserrat",
       "description": {
         "ne": "गौतम बुद्धको जन्म, ज्ञान प्राप्ति र महापरिनिर्वाण — तीनै घटना बैशाख पूर्णिमामा मनाइन्छ। नेपालको लुम्बिनीमा जन्मेका भगवान बुद्धको स्मरणमा बौद्ध विहारमा पूजा, दान र शान्तिको कामना गरिन्छ।",
         "en": "Buddha Jayanti commemorates the birth, enlightenment and parinirvana of Gautama Buddha, all believed to have occurred on the full moon of Baisakh. Born in Lumbini, Nepal, the day is observed with prayers, offerings and acts of compassion at monasteries."
@@ -61,7 +65,8 @@
     },
     "maha-shivaratri": {
       "slug": "maha-shivaratri",
-      "image": "https://placehold.co/1200x600/D32F2F/FFFFFF.png?text=Maha+Shivaratri&font=montserrat",
+      "thumbnail": "https://placehold.co/600x600/D32F2F/FFFFFF.png?text=Maha+Shivaratri&font=montserrat",
+      "hero": "https://placehold.co/1600x900/D32F2F/FFFFFF.png?text=Maha+Shivaratri&font=montserrat",
       "description": {
         "ne": "महाशिवरात्रि भगवान शिवको महान् रात्रि हो। फागुन कृष्ण चतुर्दशीका दिन भक्तजनहरू पशुपतिनाथमा भेला हुन्छन्। व्रत, जागरण र शिवको स्तुति यस दिनको मुख्य परम्परा हो।",
         "en": "Maha Shivaratri, the 'Great Night of Shiva', falls on the 14th night of the dark fortnight of Falgun. Devotees throng Pashupatinath, observe fasts and stay awake through the night chanting hymns to Lord Shiva."
@@ -75,7 +80,8 @@
     },
     "bakra-eid": {
       "slug": "bakra-eid",
-      "image": "https://placehold.co/1200x600/D32F2F/FFFFFF.png?text=Bakra+Eid&font=montserrat",
+      "thumbnail": "https://placehold.co/600x600/D32F2F/FFFFFF.png?text=Bakra+Eid&font=montserrat",
+      "hero": "https://placehold.co/1600x900/D32F2F/FFFFFF.png?text=Bakra+Eid&font=montserrat",
       "description": {
         "ne": "बकर इद (इद-उल-अजहा) इस्लाम धर्मको प्रमुख चाड हो। यो हजरत इब्राहिमको त्यागको स्मरणमा मनाइन्छ। यस दिन मुस्लिम समुदायले प्रार्थना, कुर्बानी र दानको परम्परा अपनाउँछन्।",
         "en": "Bakra Eid (Eid al-Adha) is the Islamic 'Festival of Sacrifice', commemorating Prophet Ibrahim's willingness to sacrifice his son. Muslims observe it with prayers, ritual sacrifice (qurbani) and charity to the poor."
@@ -89,7 +95,8 @@
     },
     "christmas": {
       "slug": "christmas",
-      "image": "https://placehold.co/1200x600/E8930A/FFFFFF.png?text=Christmas&font=montserrat",
+      "thumbnail": "https://placehold.co/600x600/E8930A/FFFFFF.png?text=Christmas&font=montserrat",
+      "hero": "https://placehold.co/1600x900/E8930A/FFFFFF.png?text=Christmas&font=montserrat",
       "description": {
         "ne": "क्रिसमस ईसाई धर्मावलम्बीहरूले येशू ख्रीष्टको जन्मको स्मरणमा डिसेम्बर २५ मा मनाउने चाड हो। बाइबल पाठ, गीत, उपहार आदानप्रदान र पारिवारिक भेला यस दिनको मुख्य विशेषता हुन्।",
         "en": "Christmas, observed on December 25, celebrates the birth of Jesus Christ. Christians attend services, sing carols, exchange gifts and gather with family."
@@ -103,7 +110,8 @@
     },
     "janai-purnima": {
       "slug": "janai-purnima",
-      "image": "https://placehold.co/1200x600/D32F2F/FFFFFF.png?text=Janai+Purnima&font=montserrat",
+      "thumbnail": "https://placehold.co/600x600/D32F2F/FFFFFF.png?text=Janai+Purnima&font=montserrat",
+      "hero": "https://placehold.co/1600x900/D32F2F/FFFFFF.png?text=Janai+Purnima&font=montserrat",
       "description": {
         "ne": "जनै पूर्णिमामा हिन्दू पुरुषहरू पवित्र धागो (जनै) फेर्छन् भने रक्षाबन्धनमा बहिनीहरूले दाजुभाइको हातमा डोरो बाँधेर रक्षाको कामना गर्छन्। श्रावण पूर्णिमाका दिन मनाइने यो चाड क्वाटी खाने परम्परासँग पनि जोडिएको छ।",
         "en": "On Janai Purnima, Hindu men change their sacred thread (janai); sisters tie a protective thread (rakhi) on their brothers' wrists. Celebrated on the full moon of Shrawan, families also share a nine-bean soup called kwati."
@@ -117,7 +125,8 @@
     },
     "krishna-janmashtami": {
       "slug": "krishna-janmashtami",
-      "image": "https://placehold.co/1200x600/E8930A/FFFFFF.png?text=Krishna+Janmashtami&font=montserrat",
+      "thumbnail": "https://placehold.co/600x600/E8930A/FFFFFF.png?text=Krishna+Janmashtami&font=montserrat",
+      "hero": "https://placehold.co/1600x900/E8930A/FFFFFF.png?text=Krishna+Janmashtami&font=montserrat",
       "description": {
         "ne": "श्रीकृष्ण जन्माष्टमी भगवान कृष्णको जन्मोत्सव हो। भाद्र कृष्ण अष्टमीको मध्यरातमा कृष्ण मन्दिरमा भजन, कीर्तन र व्रत बस्ने परम्परा छ।",
         "en": "Krishna Janmashtami marks the birth of Lord Krishna on the eighth day of the dark fortnight of Bhadra. Devotees fast, sing bhajans and gather at Krishna temples at midnight."
@@ -131,7 +140,8 @@
     },
     "republic-day": {
       "slug": "republic-day",
-      "image": "https://placehold.co/1200x600/D32F2F/FFFFFF.png?text=Republic+Day&font=montserrat",
+      "thumbnail": "https://placehold.co/600x600/D32F2F/FFFFFF.png?text=Republic+Day&font=montserrat",
+      "hero": "https://placehold.co/1600x900/D32F2F/FFFFFF.png?text=Republic+Day&font=montserrat",
       "description": {
         "ne": "जेठ १५, २०६५ मा नेपाललाई संघीय लोकतान्त्रिक गणतन्त्र घोषणा गरिएको थियो। यस ऐतिहासिक दिनको स्मरणमा हरेक वर्ष गणतन्त्र दिवस मनाइन्छ।",
         "en": "On Jestha 15, 2065 BS (May 28, 2008), Nepal was declared a Federal Democratic Republic, ending the centuries-old monarchy. Republic Day commemorates this transition with state functions and public holiday."
@@ -145,7 +155,8 @@
     },
     "constitution-day": {
       "slug": "constitution-day",
-      "image": "https://placehold.co/1200x600/D32F2F/FFFFFF.png?text=Constitution+Day&font=montserrat",
+      "thumbnail": "https://placehold.co/600x600/D32F2F/FFFFFF.png?text=Constitution+Day&font=montserrat",
+      "hero": "https://placehold.co/1600x900/D32F2F/FFFFFF.png?text=Constitution+Day&font=montserrat",
       "description": {
         "ne": "असोज ३, २०७२ मा नेपालको संविधान जारी भएको थियो। यस ऐतिहासिक दिनको स्मरणमा हरेक वर्ष संविधान दिवस मनाइन्छ।",
         "en": "Constitution Day commemorates the promulgation of Nepal's constitution on Ashwin 3, 2072 BS (September 20, 2015), marking Nepal's transition to a federal democratic republic with a new constitution."
@@ -159,7 +170,8 @@
     },
     "maghe-sankranti": {
       "slug": "maghe-sankranti",
-      "image": "https://placehold.co/1200x600/E8930A/FFFFFF.png?text=Maghe+Sankranti&font=montserrat",
+      "thumbnail": "https://placehold.co/600x600/E8930A/FFFFFF.png?text=Maghe+Sankranti&font=montserrat",
+      "hero": "https://placehold.co/1600x900/E8930A/FFFFFF.png?text=Maghe+Sankranti&font=montserrat",
       "description": {
         "ne": "माघे संक्रान्ति माघ १ गते मनाइने चाड हो, जब सूर्य उत्तरायण हुन्छ। तरुल, चाकु, घिउ, तिल र सख्खर खाने परम्परा छ। थारू समुदायले यसलाई माघी पर्वका रूपमा भव्य रूपमा मनाउँछन्।",
         "en": "Maghe Sankranti marks the sun's transition into Capricorn on Magh 1. People eat traditional foods like tarul (yam), chaku (molasses), ghee, sesame and gur. The Tharu community celebrates it grandly as Maghi."
@@ -173,7 +185,8 @@
     },
     "nepali-new-year": {
       "slug": "nepali-new-year",
-      "image": "https://placehold.co/1200x600/D32F2F/FFFFFF.png?text=Nepali+New+Year&font=montserrat",
+      "thumbnail": "https://placehold.co/600x600/D32F2F/FFFFFF.png?text=Nepali+New+Year&font=montserrat",
+      "hero": "https://placehold.co/1600x900/D32F2F/FFFFFF.png?text=Nepali+New+Year&font=montserrat",
       "description": {
         "ne": "बैशाख १ गते नेपाली नयाँ वर्षको शुरुवात हो। बिक्रम सम्वतको नयाँ वर्ष देशभर हर्षोल्लासका साथ मनाइन्छ। भक्तपुरको बिस्केट जात्रा यसको मुख्य आकर्षण हो।",
         "en": "Baisakh 1 marks the start of the Bikram Sambat new year, celebrated nationwide. Bhaktapur's Bisket Jatra is the most famous traditional observance of the new year."
@@ -187,7 +200,8 @@
     },
     "chhath": {
       "slug": "chhath",
-      "image": "https://placehold.co/1200x600/E8930A/FFFFFF.png?text=Chhath&font=montserrat",
+      "thumbnail": "https://placehold.co/600x600/E8930A/FFFFFF.png?text=Chhath&font=montserrat",
+      "hero": "https://placehold.co/1600x900/E8930A/FFFFFF.png?text=Chhath&font=montserrat",
       "description": {
         "ne": "छठ पर्व सूर्य भगवानको पूजा हो, मुख्यतः मधेस र मिथिला क्षेत्रमा भव्य रूपमा मनाइन्छ। चार दिनसम्म चल्ने यो पर्वमा नदी वा तलाउमा गएर अस्ताउँदो र उदाउँदो सूर्यलाई अर्घ्य दिइन्छ।",
         "en": "Chhath Parva worships the Sun god, observed especially in the Madhes and Mithila regions. Over four days, devotees offer arghya (water offerings) to the setting and rising sun at rivers and ponds."
@@ -201,7 +215,8 @@
     },
     "ghatasthapana": {
       "slug": "ghatasthapana",
-      "image": "https://placehold.co/1200x600/D32F2F/FFFFFF.png?text=Ghatasthapana&font=montserrat",
+      "thumbnail": "https://placehold.co/600x600/D32F2F/FFFFFF.png?text=Ghatasthapana&font=montserrat",
+      "hero": "https://placehold.co/1600x900/D32F2F/FFFFFF.png?text=Ghatasthapana&font=montserrat",
       "description": {
         "ne": "घटस्थापना दशैंको पहिलो दिन हो। पवित्र कलश राखेर जौ रोपिन्छ — यो जमरा दशमीको दिन टीकामा प्रयोग हुन्छ। नौ दिनसम्मको शक्ति पूजाको शुरुआत यसैबाट हुन्छ।",
         "en": "Ghatasthapana is the first day of Dashain. A sacred kalash is placed and barley seeds (jamara) are sown — these golden shoots are used during the Tika on Vijaya Dashami. It marks the start of nine days of Durga worship."
@@ -215,7 +230,8 @@
     },
     "indra-jatra": {
       "slug": "indra-jatra",
-      "image": "https://placehold.co/1200x600/D32F2F/FFFFFF.png?text=Indra+Jatra&font=montserrat",
+      "thumbnail": "https://placehold.co/600x600/D32F2F/FFFFFF.png?text=Indra+Jatra&font=montserrat",
+      "hero": "https://placehold.co/1600x900/D32F2F/FFFFFF.png?text=Indra+Jatra&font=montserrat",
       "description": {
         "ne": "ईन्द्र जात्रा काठमाडौंको नेवार समुदायको प्रमुख चाड हो। यस दिन जीवित देवी कुमारीको रथयात्रा हुन्छ। आठ दिनसम्म लाखे, सावा भक्कु, र विभिन्न नाचको प्रदर्शन गरिन्छ।",
         "en": "Indra Jatra is a major Newar festival in Kathmandu. The living goddess Kumari is paraded in a chariot through the old city. Eight days of masked dances (Lakhe, Sawa Bhakku) and rituals fill the streets of Hanuman Dhoka."
@@ -229,7 +245,8 @@
     },
     "gai-jatra": {
       "slug": "gai-jatra",
-      "image": "https://placehold.co/1200x600/E8930A/FFFFFF.png?text=Gai+Jatra&font=montserrat",
+      "thumbnail": "https://placehold.co/600x600/E8930A/FFFFFF.png?text=Gai+Jatra&font=montserrat",
+      "hero": "https://placehold.co/1600x900/E8930A/FFFFFF.png?text=Gai+Jatra&font=montserrat",
       "description": {
         "ne": "गाई जात्रा वर्षभरि बितेका आफन्तको स्मरणमा गरिने नेवार समुदायको परम्परागत चाड हो। बालबालिकालाई गाईको रूपमा सजाएर सहर परिक्रमा गरिन्छ। यो हाँसो, व्यंग्य र मनोरञ्जनको पनि चाड हो।",
         "en": "Gai Jatra, a Newar festival, commemorates loved ones lost during the past year. Children are dressed as cows and paraded through the city. The festival also has a tradition of satire, comedy and street performance."
@@ -243,7 +260,8 @@
     },
     "ram-navami": {
       "slug": "ram-navami",
-      "image": "https://placehold.co/1200x600/D32F2F/FFFFFF.png?text=Ram+Navami&font=montserrat",
+      "thumbnail": "https://placehold.co/600x600/D32F2F/FFFFFF.png?text=Ram+Navami&font=montserrat",
+      "hero": "https://placehold.co/1600x900/D32F2F/FFFFFF.png?text=Ram+Navami&font=montserrat",
       "description": {
         "ne": "राम नवमी भगवान रामको जन्मोत्सव हो, जुन चैत्र शुक्ल नवमीका दिन मनाइन्छ। भक्तजनहरू व्रत राख्छन्, राम मन्दिर जान्छन् र रामायण पाठ गर्छन्।",
         "en": "Ram Navami marks the birth of Lord Rama on the ninth day of the bright fortnight of Chaitra. Devotees fast, visit Ram temples and read the Ramayana."
@@ -257,7 +275,8 @@
     },
     "workers-day": {
       "slug": "workers-day",
-      "image": "https://placehold.co/1200x600/D32F2F/FFFFFF.png?text=Workers+Day&font=montserrat",
+      "thumbnail": "https://placehold.co/600x600/D32F2F/FFFFFF.png?text=Workers+Day&font=montserrat",
+      "hero": "https://placehold.co/1600x900/D32F2F/FFFFFF.png?text=Workers+Day&font=montserrat",
       "description": {
         "ne": "अन्तर्राष्ट्रिय श्रमिक दिवस मे १ का दिन विश्वभरि श्रमिकहरूको सम्मानमा मनाइन्छ। नेपालमा यो सार्वजनिक बिदा हो र श्रमिकका अधिकार र हकहितका लागि भएका संघर्षको स्मरण गरिन्छ।",
         "en": "International Workers' Day (Labour Day) is observed worldwide on May 1 to honor workers. In Nepal it is a public holiday commemorating the labor movement's struggle for workers' rights."
@@ -271,7 +290,8 @@
     },
     "ubhauli-parva": {
       "slug": "ubhauli-parva",
-      "image": "https://placehold.co/1200x600/E8930A/FFFFFF.png?text=Ubhauli&font=montserrat",
+      "thumbnail": "https://placehold.co/600x600/E8930A/FFFFFF.png?text=Ubhauli+Parva&font=montserrat",
+      "hero": "https://placehold.co/1600x900/E8930A/FFFFFF.png?text=Ubhauli+Parva&font=montserrat",
       "description": {
         "ne": "उभौली पर्व किरात समुदायको प्रमुख चाड हो, जुन बैशाख पूर्णिमामा मनाइन्छ। यो प्रकृति र खेतीको पूजा हो — जाडोपछि बाली उभो (माथि) सर्ने सङ्केत मानिन्छ। साकेला नाच यस पर्वको मुख्य आकर्षण हो।",
         "en": "Ubhauli Parva, a major festival of the Kirat community, is celebrated on Baisakh Purnima. It honors nature and farming — marking when crops move 'up' (ubho) after winter. The Sakela dance is central to the celebration."
@@ -285,7 +305,8 @@
     },
     "yomari-punhi": {
       "slug": "yomari-punhi",
-      "image": "https://placehold.co/1200x600/E8930A/FFFFFF.png?text=Yomari+Punhi&font=montserrat",
+      "thumbnail": "https://placehold.co/600x600/E8930A/FFFFFF.png?text=Yomari+Punhi&font=montserrat",
+      "hero": "https://placehold.co/1600x900/E8930A/FFFFFF.png?text=Yomari+Punhi&font=montserrat",
       "description": {
         "ne": "योमरी पुन्ही नेवार समुदायले मंसिर पूर्णिमामा मनाउने चाड हो, जुन किरातहरूका लागि उधौली पर्व पनि हो। चामलको पीठोबाट बनेको योमरी (मिठो भित्री भएको रोटी) यस दिनको मुख्य परिकार हो र अन्न पाकेको खुशीयाली व्यक्त गर्न खाइन्छ।",
         "en": "Yomari Punhi is a Newar festival on the full moon of Mangsir, also observed by the Kirat community as Udhauli Parva. The signature dish is yomari — a steamed rice-flour pastry with sweet filling — eaten to celebrate the harvest."
@@ -299,7 +320,8 @@
     },
     "tamu-lhosar": {
       "slug": "tamu-lhosar",
-      "image": "https://placehold.co/1200x600/D32F2F/FFFFFF.png?text=Tamu+Lhosar&font=montserrat",
+      "thumbnail": "https://placehold.co/600x600/D32F2F/FFFFFF.png?text=Tamu+Lhosar&font=montserrat",
+      "hero": "https://placehold.co/1600x900/D32F2F/FFFFFF.png?text=Tamu+Lhosar&font=montserrat",
       "description": {
         "ne": "तमु ल्होसार गुरुङ समुदायको नयाँ वर्ष हो, जुन पुस १५ मा मनाइन्छ। पारम्परिक पहिरन लगाएर ल्होसार खेल्ने, नाच्ने र पारम्परिक मीठा परिकार खाने चलन छ।",
         "en": "Tamu Lhosar is the Gurung community's New Year, celebrated on Poush 15. Communities gather in traditional dress, dance, and share traditional sweets and feasts."
@@ -313,7 +335,8 @@
     },
     "sonam-lhosar": {
       "slug": "sonam-lhosar",
-      "image": "https://placehold.co/1200x600/D32F2F/FFFFFF.png?text=Sonam+Lhosar&font=montserrat",
+      "thumbnail": "https://placehold.co/600x600/D32F2F/FFFFFF.png?text=Sonam+Lhosar&font=montserrat",
+      "hero": "https://placehold.co/1600x900/D32F2F/FFFFFF.png?text=Sonam+Lhosar&font=montserrat",
       "description": {
         "ne": "सोनम ल्होसार तामाङ समुदायको नयाँ वर्ष हो, जुन माघ शुक्ल प्रतिपदामा मनाइन्छ। दम्फु नाच, परम्परागत भोज र समुदायको भेलासँगै नयाँ वर्षको स्वागत गरिन्छ।",
         "en": "Sonam Lhosar is the Tamang community's New Year, celebrated on the first day of the bright fortnight of Magh. Celebrations feature Damphu dance, traditional feasts and community gatherings."
@@ -327,7 +350,8 @@
     },
     "gyalpo-lhosar": {
       "slug": "gyalpo-lhosar",
-      "image": "https://placehold.co/1200x600/D32F2F/FFFFFF.png?text=Gyalpo+Lhosar&font=montserrat",
+      "thumbnail": "https://placehold.co/600x600/D32F2F/FFFFFF.png?text=Gyalpo+Lhosar&font=montserrat",
+      "hero": "https://placehold.co/1600x900/D32F2F/FFFFFF.png?text=Gyalpo+Lhosar&font=montserrat",
       "description": {
         "ne": "ग्याल्पो ल्होसार शेर्पा, भोटे र हिमाली बौद्ध समुदायहरूको नयाँ वर्ष हो। तिब्बती लुनार पात्रोअनुसार फागुनमा मनाइने यो चाडमा गुम्बामा पूजा, परम्परागत नाच र पारिवारिक भोज हुन्छ।",
         "en": "Gyalpo Lhosar is the New Year of the Sherpa, Bhote and Himalayan Buddhist communities. Following the Tibetan lunar calendar (around Falgun), it is observed with monastery prayers, traditional dances and family feasts."
@@ -341,7 +365,8 @@
     },
     "prithvi-jayanti": {
       "slug": "prithvi-jayanti",
-      "image": "https://placehold.co/1200x600/D32F2F/FFFFFF.png?text=Prithvi+Jayanti&font=montserrat",
+      "thumbnail": "https://placehold.co/600x600/D32F2F/FFFFFF.png?text=Prithvi+Jayanti&font=montserrat",
+      "hero": "https://placehold.co/1600x900/D32F2F/FFFFFF.png?text=Prithvi+Jayanti&font=montserrat",
       "description": {
         "ne": "पृथ्वी जयन्ती राष्ट्रिय एकता दिवसका रूपमा पुस २७ मा मनाइन्छ — आधुनिक नेपालका एकीकरणकर्ता राजा पृथ्वीनारायण शाहको जन्म दिवस। एकीकरण अभियानको स्मरणमा विभिन्न सरकारी कार्यक्रम हुन्छन्।",
         "en": "Prithvi Jayanti, observed as National Unity Day on Poush 27, marks the birth anniversary of King Prithvi Narayan Shah, the unifier of modern Nepal. State functions commemorate the unification campaign."
@@ -355,7 +380,8 @@
     },
     "martyrs-day": {
       "slug": "martyrs-day",
-      "image": "https://placehold.co/1200x600/D32F2F/FFFFFF.png?text=Martyrs+Day&font=montserrat",
+      "thumbnail": "https://placehold.co/600x600/D32F2F/FFFFFF.png?text=Martyrs+Day&font=montserrat",
+      "hero": "https://placehold.co/1600x900/D32F2F/FFFFFF.png?text=Martyrs+Day&font=montserrat",
       "description": {
         "ne": "शहीद दिवस माघ १६ मा मनाइन्छ — यस दिन नेपालका लागि आफ्नो जीवन उत्सर्ग गर्ने चार महान् शहीदहरू — धर्मभक्त माथेमा, शुक्रराज शास्त्री, गंगालाल श्रेष्ठ र दशरथ चन्दको स्मरण गरिन्छ।",
         "en": "Martyrs' Day on Magh 16 honors Nepal's four great martyrs — Dharma Bhakta Mathema, Shukraraj Shastri, Gangalal Shrestha and Dasharath Chand — who gave their lives in the struggle for democracy."
@@ -369,7 +395,8 @@
     },
     "democracy-day": {
       "slug": "democracy-day",
-      "image": "https://placehold.co/1200x600/D32F2F/FFFFFF.png?text=Democracy+Day&font=montserrat",
+      "thumbnail": "https://placehold.co/600x600/D32F2F/FFFFFF.png?text=Democracy+Day&font=montserrat",
+      "hero": "https://placehold.co/1600x900/D32F2F/FFFFFF.png?text=Democracy+Day&font=montserrat",
       "description": {
         "ne": "प्रजातन्त्र दिवस फागुन ७ मा मनाइन्छ — २००७ सालको प्रजातन्त्र प्राप्तिको स्मरणमा। यस दिन राणा शासनको अन्त्य भएको थियो र नेपालमा प्रजातन्त्रको स्थापना भएको थियो।",
         "en": "Democracy Day on Falgun 7 commemorates the establishment of democracy in Nepal in 2007 BS (1951 AD), marking the end of 104 years of Rana rule."
@@ -383,7 +410,8 @@
     },
     "womens-day": {
       "slug": "womens-day",
-      "image": "https://placehold.co/1200x600/D32F2F/FFFFFF.png?text=Women%27s+Day&font=montserrat",
+      "thumbnail": "https://placehold.co/600x600/D32F2F/FFFFFF.png?text=Womens+Day&font=montserrat",
+      "hero": "https://placehold.co/1600x900/D32F2F/FFFFFF.png?text=Womens+Day&font=montserrat",
       "description": {
         "ne": "अन्तर्राष्ट्रिय नारी दिवस मार्च ८ मा विश्वभरि महिलाहरूको सम्मान, अधिकार र समानताका लागि मनाइन्छ। नेपालमा यो दिन महिलाहरूको लागि सार्वजनिक बिदा हो।",
         "en": "International Women's Day, observed worldwide on March 8, honors women's achievements and the struggle for gender equality. In Nepal it is a public holiday for women."
@@ -397,7 +425,8 @@
     },
     "ghode-jatra": {
       "slug": "ghode-jatra",
-      "image": "https://placehold.co/1200x600/D32F2F/FFFFFF.png?text=Ghode+Jatra&font=montserrat",
+      "thumbnail": "https://placehold.co/600x600/D32F2F/FFFFFF.png?text=Ghode+Jatra&font=montserrat",
+      "hero": "https://placehold.co/1600x900/D32F2F/FFFFFF.png?text=Ghode+Jatra&font=montserrat",
       "description": {
         "ne": "घोडे जात्रा काठमाडौंको प्रमुख चाड हो, जुन चैत्रको कृष्ण पक्षको औंसीमा मनाइन्छ। टुँडिखेलमा नेपाली सेनाद्वारा घोडादौड र विभिन्न कौशल प्रदर्शन गरिन्छ। यो परम्परा गुरकाण्ड नामक राक्षसमाथिको विजयसँग जोडिएको छ।",
         "en": "Ghode Jatra, Kathmandu's horse-racing festival, is observed on the new moon of Chaitra. The Nepal Army stages a horse parade and acrobatics at Tundikhel. Tradition links the festival to victory over the demon Gurkanda."
@@ -411,7 +440,8 @@
     },
     "basant-panchami": {
       "slug": "basant-panchami",
-      "image": "https://placehold.co/1200x600/E8930A/FFFFFF.png?text=Basant+Panchami&font=montserrat",
+      "thumbnail": "https://placehold.co/600x600/E8930A/FFFFFF.png?text=Basant+Panchami&font=montserrat",
+      "hero": "https://placehold.co/1600x900/E8930A/FFFFFF.png?text=Basant+Panchami&font=montserrat",
       "description": {
         "ne": "वसन्त पञ्चमी माघ शुक्ल पञ्चमीमा मनाइन्छ — सरस्वती पूजाको दिन। यो विद्या, सङ्गीत र कलाकी देवी सरस्वतीको पूजा गर्ने चाड हो। बालबालिकालाई पहिलोपटक अक्षर लेखाउने (विद्यारम्भ) यसै दिन गराइन्छ।",
         "en": "Basant Panchami, on the fifth day of the bright fortnight of Magh, is dedicated to Saraswati — goddess of knowledge, music and art. Children are traditionally introduced to writing on this day (Vidyarambha)."
