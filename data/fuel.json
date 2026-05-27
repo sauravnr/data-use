@@ -2,17 +2,42 @@
   "currency": "NPR",
   "unit_fuel": "per liter",
   "unit_lpg": "per cylinder",
-  "effective": "प्रेस 2082.05.15 (2025.08.31)",
+  "effective": "2026-05-27 10:30:05.000000",
   "zones": {
-    "eastern_depots": {
-      "label": "प्रेस 2082.05.15 (2025.08.31)",
-      "petrol": 156.0,
-      "diesel": 139.0,
-      "kerosene": 139.0,
-      "lpg": 1910.0,
-      "jet_a1": 127.0
+    "kathmandu": {
+      "label": "Kathmandu / Pokhara / Dipayal",
+      "cities": [
+        "Kathmandu, Pokhara, Dipayal"
+      ],
+      "petrol": 217.0,
+      "diesel": 225.0,
+      "kerosene": 225.0,
+      "jet_a1": 269.0,
+      "lpg": 2160.0
+    },
+    "terai": {
+      "label": "Terai (Biratnagar / Charali / Birgunj)",
+      "cities": [
+        "Charali, Biratnagar, Mahendranagar (Dhanusa), Birgunj, Amlekhjung, Bhalbari, Nepalgung, Dhangadi"
+      ],
+      "petrol": 214.5,
+      "diesel": 222.5,
+      "kerosene": 222.5,
+      "jet_a1": 269.0,
+      "lpg": 2160.0
+    },
+    "surkhet": {
+      "label": "Surkhet / Dang / Nepalgunj",
+      "cities": [
+        "Surkhet, Dang"
+      ],
+      "petrol": 216.0,
+      "diesel": 224.0,
+      "kerosene": 224.0,
+      "jet_a1": 269.0,
+      "lpg": 2160.0
     }
   },
-  "source": "Nepal Oil Corporation",
-  "updated_at": "2026-05-27T09:01:44Z"
+  "source": "NepaliPatro NOC API",
+  "updated_at": "2026-05-27T09:25:32Z"
 }
