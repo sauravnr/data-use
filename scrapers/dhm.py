@@ -112,6 +112,38 @@ def fetch_manual_observations():
     }
 
 
+def fetch_bulletin():
+    """
+    Meteorologist-written bilingual forecast text. Has:
+      • analysis_*   : 1-2 sentence synoptic situation
+      • np_text_1/en_text_1 : detailed forecast for today (province-wise)
+      • np_text_2/en_text_2 : same for tomorrow
+      • special       : any special warning text (often '')
+    Returns None on failure — bulletin is non-critical.
+    """
+    try:
+        r = fetch(f"{BASE}/country-forecast")
+        b = r.json() or {}
+    except Exception as exc:
+        print(f"[dhm] bulletin fetch failed: {exc}", flush=True)
+        return None
+
+    user = b.get("user") or {}
+    return {
+        "id":             b.get("id"),
+        "issue_date":     b.get("issue_date"),
+        "updated_at":     b.get("update_at"),
+        "meteorologist":  user.get("name"),
+        "analysis_np":    (b.get("analysis_np") or "").strip(),
+        "analysis_en":    (b.get("analysis_en") or "").strip(),
+        "today_np":       (b.get("np_text_1") or "").strip(),
+        "today_en":       (b.get("en_text_1") or "").strip(),
+        "tomorrow_np":    (b.get("np_text_2") or "").strip(),
+        "tomorrow_en":    (b.get("en_text_2") or "").strip(),
+        "special":        (b.get("special")    or "").strip(),
+    }
+
+
 def fetch_city_reading(city_id, lat, lon):
     """Nearest AWOS station + current reading + sunrise/sunset for one city."""
     r = fetch(f"{BASE}/sunrise-sunset?lat={lat}&lng={lon}")
@@ -148,6 +180,12 @@ def main():
     manual = fetch_manual_observations()
     print(f"[dhm]   got {len(manual['stations'])} station summaries", flush=True)
 
+    print("[dhm] fetching meteorologist bulletin...", flush=True)
+    bulletin = fetch_bulletin()
+    if bulletin:
+        print(f"[dhm]   bulletin by {bulletin.get('meteorologist')}, "
+              f"updated {bulletin.get('updated_at')}", flush=True)
+
     print(f"[dhm] fetching {len(APP_CITIES)} per-city readings (parallel)...", flush=True)
     city_readings = {}
     failures = 0
@@ -173,11 +211,12 @@ def main():
         raise RuntimeError("DHM returned no usable data")
 
     payload = {
-        "source":       "DHM Nepal",
-        "updated_at":   now_iso(),
-        "issue_date":   manual["issue_date"],
-        "observations": manual["stations"],
+        "source":        "DHM Nepal",
+        "updated_at":    now_iso(),
+        "issue_date":    manual["issue_date"],
+        "observations":  manual["stations"],
         "city_readings": city_readings,
+        "bulletin":      bulletin,
     }
     write_json("dhm.json", payload)
 
