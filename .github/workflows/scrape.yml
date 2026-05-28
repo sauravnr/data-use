@@ -71,6 +71,10 @@ jobs:
         timeout-minutes: 2
         run: python scrapers/rashifal.py || true
 
+      - name: Scrape share issues (upcoming + current)
+        timeout-minutes: 2
+        run: python scrapers/issues.py || true
+
       - name: Commit & push updated data
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
