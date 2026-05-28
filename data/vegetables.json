@@ -336,7 +336,7 @@
       "name_en": "Mushroom",
       "unit": "के.जी.",
       "min": 800.0,
-      "max": 0.0,
+      "max": 1000.0,
       "avg": 900.0
     },
     {
@@ -709,5 +709,5 @@
     }
   ],
   "source": "Kalimati Market",
-  "updated_at": "2026-05-28T09:07:02Z"
+  "updated_at": "2026-05-28T11:08:49Z"
 }
