@@ -1,6 +1,6 @@
 {
   "source": "NOAA AviationWeather.gov / METAR",
-  "updated_at": "2026-05-31T20:21:59Z",
+  "updated_at": "2026-05-31T22:18:34Z",
   "stations": {
     "VNKT": {
       "icao": "VNKT",
@@ -8,17 +8,17 @@
       "lat": 27.697,
       "lon": 85.359,
       "elev_m": 1334.0,
-      "observed_at": "2026-05-31T20:00:00.000Z",
-      "temp_c": 19.0,
-      "dewpoint_c": 17.0,
-      "wind_dir_deg": 50.0,
+      "observed_at": "2026-05-31T22:00:00.000Z",
+      "temp_c": 18.0,
+      "dewpoint_c": 18.0,
+      "wind_dir_deg": 140.0,
       "wind_speed_kmh": 5.6,
       "wind_gust_kmh": null,
       "visibility_km": 7.0,
-      "pressure_hpa": 1017.0,
+      "pressure_hpa": 1016.0,
       "weather": null,
       "flight_category": "MVFR",
-      "raw": "METAR VNKT 312000Z 05003KT 7000 FEW015 19/17 Q1017 NOSIG"
+      "raw": "METAR VNKT 312200Z 14003KT 7000 FEW015 18/18 Q1016 NOSIG"
     }
   }
 }
