@@ -3,11 +3,11 @@
   "rates": {
     "fine_gold_per_tola": 311300,
     "fine_gold_per_10g": 266894,
-    "silver_per_tola": 5405,
-    "silver_per_10g": 4634,
+    "silver_per_tola": 5370,
+    "silver_per_10g": 4604,
     "tejabi_gold_per_tola": 310600,
     "tejabi_gold_per_10g": 266294
   },
   "source": "ShareSansar",
-  "updated_at": "2026-06-03T03:09:24Z"
+  "updated_at": "2026-06-03T05:34:09Z"
 }
