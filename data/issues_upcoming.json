@@ -2,6 +2,16 @@
   "categories": {
     "ipo": [
       {
+        "symbol": "MEPDL",
+        "company": "Mount Everest Power Development Limited",
+        "units": "1427600",
+        "price": "100",
+        "openingDate": "2026-06-17",
+        "closingDate": "2026-06-22",
+        "status": "Coming Soon",
+        "manager": "NIMB Ace Capital Limited"
+      },
+      {
         "symbol": "SARVOTTAM",
         "company": "Sarvottam Paints Industries Limited",
         "units": "705500",
@@ -238,16 +248,6 @@
         "price": "100",
         "openingDate": "2025-09-05",
         "closingDate": "2025-09-15",
-        "status": "Closed",
-        "manager": "Himalayan Capital Limited"
-      },
-      {
-        "symbol": "BUNGAL",
-        "company": "Bungal Hydro Limited",
-        "units": "1701500",
-        "price": "100",
-        "openingDate": "2025-09-01",
-        "closingDate": "2025-09-04",
         "status": "Closed",
         "manager": "Himalayan Capital Limited"
       }
@@ -1746,5 +1746,5 @@
     ]
   },
   "source": "ShareSansar",
-  "updated_at": "2026-06-04T05:32:17Z"
+  "updated_at": "2026-06-04T07:29:20Z"
 }
