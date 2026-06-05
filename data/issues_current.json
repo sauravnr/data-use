@@ -1,17 +1,28 @@
 {
   "source": "CDSC",
-  "updated_at": "2026-06-05T03:08:00Z",
+  "updated_at": "2026-06-05T05:27:27Z",
   "data": [
+    {
+      "company": "Everest Colour Limited - ECOL (IPO - For General Public)",
+      "manager": "MUKTINATH CAPITAL LIMITED",
+      "units": "655700",
+      "applicants": "74684",
+      "appliedUnits": "811250",
+      "amount": "81125000",
+      "openingDate": "2026-06-05",
+      "closingDate": "2026-06-10",
+      "lastUpdate": "2026-06-05 09:40:01"
+    },
     {
       "company": "Sanigad Hydro Limited - SGHL (IPO - For General Public)",
       "manager": "LAXMI SUNRISE CAPITAL LIMITED",
       "units": "4674000",
-      "applicants": "2495437",
-      "appliedUnits": "27528100",
-      "amount": "2752810000",
+      "applicants": "2766700",
+      "appliedUnits": "30257460",
+      "amount": "3025746000",
       "openingDate": "2026-06-01",
       "closingDate": "2026-06-04",
-      "lastUpdate": "2026-06-04 09:15:24"
+      "lastUpdate": "2026-06-05 09:40:01"
     }
   ]
 }
