@@ -92,7 +92,7 @@
         "manager": "NMB Capital Limited"
       },
       {
-        "symbol": "APPOLO",
+        "symbol": "APHL",
         "company": "Appolo Hydropower Limited",
         "units": "780200",
         "price": "100",
@@ -1070,7 +1070,7 @@
         "manager": "RBB Merchant Banking Ltd"
       },
       {
-        "symbol": "APPOLO",
+        "symbol": "APHL",
         "company": "Appolo Hydropower Limited",
         "units": "470000",
         "price": "100",
@@ -1604,7 +1604,7 @@
         "manager": "RBB Merchant Banking Ltd"
       },
       {
-        "symbol": "APPOLO",
+        "symbol": "APHL",
         "company": "Appolo Hydropower Limited",
         "units": "94000",
         "price": "100",
@@ -1746,5 +1746,5 @@
     ]
   },
   "source": "ShareSansar",
-  "updated_at": "2026-06-08T05:30:19Z"
+  "updated_at": "2026-06-08T07:30:27Z"
 }
