@@ -1,17 +1,17 @@
 {
   "source": "CDSC",
-  "updated_at": "2026-06-08T09:28:49Z",
+  "updated_at": "2026-06-08T11:32:50Z",
   "data": [
     {
       "company": "Everest Colour Limited - ECOL (IPO - For General Public)",
       "manager": "MUKTINATH CAPITAL LIMITED",
       "units": "655700",
-      "applicants": "1760270",
-      "appliedUnits": "19559860",
-      "amount": "1955986000",
+      "applicants": "1955290",
+      "appliedUnits": "21339970",
+      "amount": "2133997000",
       "openingDate": "2026-06-05",
       "closingDate": "2026-06-10",
-      "lastUpdate": "2026-06-08 09:15:48"
+      "lastUpdate": "2026-06-08 17:15:23"
     }
   ]
 }
