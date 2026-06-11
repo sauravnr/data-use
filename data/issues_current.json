@@ -1,17 +1,28 @@
 {
   "source": "CDSC",
-  "updated_at": "2026-06-11T03:07:31Z",
+  "updated_at": "2026-06-11T05:30:03Z",
   "data": [
     {
       "company": "Everest Colour Limited - ECOL (IPO - For General Public)",
       "manager": "MUKTINATH CAPITAL LIMITED",
       "units": "655700",
-      "applicants": "2718653",
-      "appliedUnits": "29201760",
-      "amount": "2920176000",
+      "applicants": "2701564",
+      "appliedUnits": "28987270",
+      "amount": "2898727000",
       "openingDate": "2026-06-05",
       "closingDate": "2026-06-10",
-      "lastUpdate": "2026-06-10 17:15:28"
+      "lastUpdate": "2026-06-11 09:15:48"
+    },
+    {
+      "company": "Sarvottam Paints Industries Ltd. - SARVPIL (IPO - For General Public)",
+      "manager": "GLOBAL IME CAPITAL LIMITED",
+      "units": "705500",
+      "applicants": "21002",
+      "appliedUnits": "239030",
+      "amount": "23903000",
+      "openingDate": "2026-06-11",
+      "closingDate": "2026-06-16",
+      "lastUpdate": "2026-06-11 09:15:48"
     }
   ]
 }
