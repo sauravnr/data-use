@@ -1,6 +1,6 @@
 {
   "source": "NOAA AviationWeather.gov / METAR",
-  "updated_at": "2026-06-17T03:01:06Z",
+  "updated_at": "2026-06-17T03:08:45Z",
   "stations": {
     "VNKT": {
       "icao": "VNKT",
@@ -18,7 +18,7 @@
       "pressure_hpa": 1014.0,
       "weather": null,
       "flight_category": "MVFR",
-      "raw": "METAR VNKT 170300Z 23003KT 6000 FEW015 BKN030 25/20 Q1014 N0SIG"
+      "raw": "METAR VNKT 170300Z COR 23003KT 6000 FEW015 SCT030 BKN100 25/20 Q1014 N0SIG"
     }
   }
 }
