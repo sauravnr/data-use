@@ -8,7 +8,7 @@
         "price": "100",
         "openingDate": "2026-06-17",
         "closingDate": "2026-06-22",
-        "status": "Coming Soon",
+        "status": "Open",
         "manager": "NIMB Ace Capital Limited"
       },
       {
@@ -18,7 +18,7 @@
         "price": "100",
         "openingDate": "2026-06-11",
         "closingDate": "2026-06-16",
-        "status": "Open",
+        "status": "Closed",
         "manager": "Global IME Capital Ltd"
       },
       {
@@ -1746,5 +1746,5 @@
     ]
   },
   "source": "ShareSansar",
-  "updated_at": "2026-06-16T22:36:16Z"
+  "updated_at": "2026-06-17T00:26:29Z"
 }
