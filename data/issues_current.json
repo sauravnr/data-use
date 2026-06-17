@@ -1,17 +1,28 @@
 {
   "source": "CDSC",
-  "updated_at": "2026-06-17T05:33:10Z",
+  "updated_at": "2026-06-17T07:39:21Z",
   "data": [
+    {
+      "company": "Mount Everest Power Development Limited - MEPDL (IPO - For General Public)",
+      "manager": "NIMB ACE CAPITAL LIMITED",
+      "units": "1427600",
+      "applicants": "366310",
+      "appliedUnits": "4083800",
+      "amount": "408380000",
+      "openingDate": "2026-06-17",
+      "closingDate": "2026-06-22",
+      "lastUpdate": "2026-06-17 11:46:44"
+    },
     {
       "company": "Sarvottam Paints Industries Ltd. - SARVPIL (IPO - For General Public)",
       "manager": "GLOBAL IME CAPITAL LIMITED",
       "units": "705500",
-      "applicants": "2463429",
-      "appliedUnits": "26743640",
-      "amount": "2674364000",
+      "applicants": "2897125",
+      "appliedUnits": "31080210",
+      "amount": "3108021000",
       "openingDate": "2026-06-11",
       "closingDate": "2026-06-16",
-      "lastUpdate": "2026-06-15 17:15:32"
+      "lastUpdate": "2026-06-17 11:46:44"
     }
   ]
 }
