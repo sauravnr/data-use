@@ -75,7 +75,11 @@ jobs:
         timeout-minutes: 2
         run: python scrapers/issues.py || true
 
+      # Sector membership is near-static and only changes on a new listing
+      # (a few times a month, trading days only) — once daily is ample. Gate it
+      # to the morning cron so it doesn't run on every 2-hour weather tick.
       - name: Scrape NEPSE symbol sectors
+        if: github.event.schedule == '0 2 * * *' || github.event_name == 'workflow_dispatch'
         timeout-minutes: 2
         run: python scrapers/sectors.py || true
 
