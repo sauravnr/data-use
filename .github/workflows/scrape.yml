@@ -75,6 +75,10 @@ jobs:
         timeout-minutes: 2
         run: python scrapers/issues.py || true
 
+      - name: Scrape NEPSE symbol sectors
+        timeout-minutes: 2
+        run: python scrapers/sectors.py || true
+
       - name: Commit & push updated data
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
