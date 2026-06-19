@@ -62,7 +62,7 @@
         "manager": "Sanima Capital Limited"
       },
       {
-        "symbol": "TAKSAR",
+        "symbol": "TPKHL",
         "company": "Taksar Pikhuwa Khola Hydropower Limited",
         "units": "2515455",
         "price": "100",
@@ -1050,7 +1050,7 @@
         "manager": "NMB Capital Limited"
       },
       {
-        "symbol": "TAKSAR",
+        "symbol": "TPKHL",
         "company": "Taksar Pikhuwa Khola Hydropower Limited",
         "units": "1200000",
         "price": "100",
@@ -1584,7 +1584,7 @@
         "manager": "NMB Capital Limited"
       },
       {
-        "symbol": "TAKSAR",
+        "symbol": "TPKHL",
         "company": "Taksar Pikhuwa Khola Hydropower Limited",
         "units": "303067",
         "price": "100",
@@ -1746,5 +1746,5 @@
     ]
   },
   "source": "ShareSansar",
-  "updated_at": "2026-06-19T05:38:41Z"
+  "updated_at": "2026-06-19T07:42:57Z"
 }
