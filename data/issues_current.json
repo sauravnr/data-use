@@ -1,17 +1,17 @@
 {
   "source": "CDSC",
-  "updated_at": "2026-06-22T03:09:55Z",
+  "updated_at": "2026-06-22T05:43:42Z",
   "data": [
     {
       "company": "Mount Everest Power Development Limited - MEPDL (IPO - For General Public)",
       "manager": "NIMB ACE CAPITAL LIMITED",
       "units": "1427600",
-      "applicants": "2383488",
-      "appliedUnits": "26119720",
-      "amount": "2611972000",
+      "applicants": "2618738",
+      "appliedUnits": "28690560",
+      "amount": "2869056000",
       "openingDate": "2026-06-17",
       "closingDate": "2026-06-22",
-      "lastUpdate": "2026-06-21 09:15:16"
+      "lastUpdate": "2026-06-22 09:15:16"
     }
   ]
 }
