@@ -1242,6 +1242,16 @@
     ],
     "bondsAndDeb": [
       {
+        "symbol": "PBD93",
+        "company": "6.25% Prime Bank Debenture 2093",
+        "units": "3000000",
+        "price": "1000",
+        "openingDate": "2026-06-30",
+        "closingDate": "2026-07-03",
+        "status": "Coming Soon",
+        "manager": "Sanima Capital Limted"
+      },
+      {
         "symbol": "ICFCD89",
         "company": "8% ICFC  Finance Limited Debenture 2089",
         "units": "500000",
@@ -1480,16 +1490,6 @@
         "closingDate": "2022-09-16",
         "status": "Closed",
         "manager": "Siddhartha Capital Ltd."
-      },
-      {
-        "symbol": "HBLB86",
-        "company": "10.5% Himalayan Bank Ltd Bond 2086",
-        "units": "2500000",
-        "price": "1000",
-        "openingDate": "2022-08-31",
-        "closingDate": "2022-09-14",
-        "status": "Closed",
-        "manager": "Nabil Investment Banking Ltd"
       }
     ],
     "ipomigrant": [
@@ -1746,5 +1746,5 @@
     ]
   },
   "source": "ShareSansar",
-  "updated_at": "2026-06-22T05:43:40Z"
+  "updated_at": "2026-06-22T07:47:11Z"
 }
