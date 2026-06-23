@@ -8,7 +8,7 @@
         "price": "100",
         "openingDate": "2026-06-17",
         "closingDate": "2026-06-22",
-        "status": "Open",
+        "status": "Closed",
         "manager": "NIMB Ace Capital Limited"
       },
       {
@@ -1746,5 +1746,5 @@
     ]
   },
   "source": "ShareSansar",
-  "updated_at": "2026-06-22T22:31:32Z"
+  "updated_at": "2026-06-23T00:23:06Z"
 }
