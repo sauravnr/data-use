@@ -1,7 +1,7 @@
 {
   "source": "sharesansar:sectorwise+today-share-price",
-  "updated_at": "2026-06-22T03:09:56Z",
-  "count": 415,
+  "updated_at": "2026-06-23T03:06:32Z",
+  "count": 418,
   "data": {
     "ACLBSL": "Microfinance",
     "ADBL": "Commercial Banks",
@@ -101,6 +101,7 @@
     "H8020": "Mutual Funds",
     "HATHY": "Investment",
     "HBL": "Commercial Banks",
+    "HBLD83": "Others",
     "HBLD86": "Others",
     "HDHPC": "Hydropower",
     "HDL": "Manufacturing and Processing",
@@ -152,6 +153,7 @@
     "KPCL": "Hydropower",
     "KRBL": "Development Banks",
     "KSBBL": "Development Banks",
+    "KSBBLD87": "Commercial Banks",
     "KSY": "Mutual Funds",
     "KTM": "Hotels and Tourism",
     "LBBL": "Development Banks",
@@ -396,6 +398,7 @@
     "TAKSAR": "Hydropower",
     "TAMOR": "Hydropower",
     "TPC": "Hydropower",
+    "TPKHL": "Hydropower",
     "TRH": "Hotels and Tourism",
     "TSHL": "Hydropower",
     "TTL": "Others",
