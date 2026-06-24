@@ -1,7 +1,7 @@
 {
   "source": "sharesansar:sectorwise+today-share-price",
-  "updated_at": "2026-06-23T03:06:32Z",
-  "count": 418,
+  "updated_at": "2026-06-24T03:06:56Z",
+  "count": 419,
   "data": {
     "ACLBSL": "Microfinance",
     "ADBL": "Commercial Banks",
@@ -40,6 +40,7 @@
     "C30MF": "Mutual Funds",
     "CBBL": "Microfinance",
     "CBLD88": "Others",
+    "CCBD88": "Others",
     "CFCL": "Finance Companies",
     "CGH": "Hotels and Tourism",
     "CHCL": "Hydropower",
