@@ -1463,7 +1463,7 @@
       },
       {
         "symbol": "EBLEB89",
-        "company": "7.5% Everest Bank Limited Urja Rinpatra (Energy Bond) 2089",
+        "company": "Everest Bank Limited Energy Bond, 2089",
         "units": "2000000",
         "price": "1000",
         "openingDate": "2023-01-09",
@@ -1746,5 +1746,5 @@
     ]
   },
   "source": "ShareSansar",
-  "updated_at": "2026-06-25T09:00:31Z"
+  "updated_at": "2026-06-25T10:54:09Z"
 }
