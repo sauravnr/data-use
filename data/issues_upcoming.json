@@ -52,7 +52,7 @@
         "manager": "Sanima Capital Limited"
       },
       {
-        "symbol": "SRL",
+        "symbol": "SNORL",
         "company": "Snow Rivers Limited",
         "units": "778125",
         "price": "100",
@@ -1010,7 +1010,7 @@
         "manager": "Sanima Capital Limited"
       },
       {
-        "symbol": "SRL",
+        "symbol": "SNORL",
         "company": "Snow Rivers Limited",
         "units": "937500",
         "price": "100",
@@ -1534,7 +1534,7 @@
         "manager": "Sanima Capital Limited"
       },
       {
-        "symbol": "SRL",
+        "symbol": "SNORL",
         "company": "Snow Rivers Limited",
         "units": "93750",
         "price": "100",
@@ -1746,5 +1746,5 @@
     ]
   },
   "source": "ShareSansar",
-  "updated_at": "2026-06-25T05:17:23Z"
+  "updated_at": "2026-06-25T07:03:39Z"
 }
