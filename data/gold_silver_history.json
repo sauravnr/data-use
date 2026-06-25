@@ -551,7 +551,13 @@
       "fine_gold": 283500,
       "tejabi_gold": 282800,
       "silver": 4485
+    },
+    {
+      "date": "2026-06-25",
+      "fine_gold": 283500,
+      "tejabi_gold": 282800,
+      "silver": 4485
     }
   ],
-  "updated_at": "2026-06-24T22:25:33Z"
+  "updated_at": "2026-06-25T00:23:05Z"
 }
