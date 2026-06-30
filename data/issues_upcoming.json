@@ -1248,7 +1248,7 @@
         "price": "1000",
         "openingDate": "2026-06-30",
         "closingDate": "2026-07-03",
-        "status": "Coming Soon",
+        "status": "Open",
         "manager": "Sanima Capital Limted"
       },
       {
@@ -1746,5 +1746,5 @@
     ]
   },
   "source": "ShareSansar",
-  "updated_at": "2026-06-29T22:21:30Z"
+  "updated_at": "2026-06-30T00:21:50Z"
 }
