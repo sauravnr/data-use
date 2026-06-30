@@ -1,6 +1,6 @@
 {
   "source": "DHM Nepal",
-  "updated_at": "2026-06-30T12:33:55Z",
+  "updated_at": "2026-06-30T14:48:19Z",
   "issue_date": "2026-06-30T12:00:00.000Z",
   "observations": [
     {
@@ -194,31 +194,31 @@
     }
   ],
   "city_readings": {
-    "kirtipur": {
-      "city_id": "kirtipur",
-      "sunrise": "5:06:02 AM",
-      "sunset": "7:11:11 PM",
-      "station_id": "280",
-      "station_name": "Kirtipur",
-      "station_lat": 27.681669,
-      "station_lon": 85.289743,
-      "station_distance_km": 1.24,
-      "station_direction": "East",
-      "current_temp": 24.14,
-      "observed_at": "2026-06-30T12:30:00+00:00"
+    "bhaktapur": {
+      "city_id": "bhaktapur",
+      "sunrise": "5:05:26 AM",
+      "sunset": "7:10:34 PM",
+      "station_id": "389",
+      "station_name": "Bhaktapur",
+      "station_lat": 27.67668056,
+      "station_lon": 85.42396944,
+      "station_distance_km": 0.85,
+      "station_direction": "North West",
+      "current_temp": 25.7630004883,
+      "observed_at": "2026-06-30T14:30:00+00:00"
     },
-    "lalitpur": {
-      "city_id": "lalitpur",
-      "sunrise": "5:05:54 AM",
-      "sunset": "7:10:59 PM",
-      "station_id": "367",
-      "station_name": "Khumaltar",
-      "station_lat": 27.651677,
-      "station_lon": 85.325693,
-      "station_distance_km": 1.57,
-      "station_direction": "South East",
-      "current_temp": 21.0,
-      "observed_at": "2026-06-29T21:20:00+00:00"
+    "dhulikhel": {
+      "city_id": "dhulikhel",
+      "sunrise": "5:04:40 AM",
+      "sunset": "7:10:25 PM",
+      "station_id": "362",
+      "station_name": "Dhulikhel",
+      "station_lat": 27.6159205,
+      "station_lon": 85.5654519,
+      "station_distance_km": 2.22,
+      "station_direction": "East",
+      "current_temp": 21.02,
+      "observed_at": "2026-06-30T14:30:00+00:00"
     },
     "gorkha": {
       "city_id": "gorkha",
@@ -233,6 +233,45 @@
       "current_temp": 24.2,
       "observed_at": "2026-06-29T21:20:00+00:00"
     },
+    "banepa": {
+      "city_id": "banepa",
+      "sunrise": "5:04:48 AM",
+      "sunset": "7:10:27 PM",
+      "station_id": "362",
+      "station_name": "Dhulikhel",
+      "station_lat": 27.6159205,
+      "station_lon": 85.5654519,
+      "station_distance_km": 4.57,
+      "station_direction": "East",
+      "current_temp": 21.02,
+      "observed_at": "2026-06-30T14:30:00+00:00"
+    },
+    "lalitpur": {
+      "city_id": "lalitpur",
+      "sunrise": "5:05:54 AM",
+      "sunset": "7:10:59 PM",
+      "station_id": "367",
+      "station_name": "Khumaltar",
+      "station_lat": 27.651677,
+      "station_lon": 85.325693,
+      "station_distance_km": 1.57,
+      "station_direction": "South East",
+      "current_temp": 21.0,
+      "observed_at": "2026-06-29T21:20:00+00:00"
+    },
+    "kirtipur": {
+      "city_id": "kirtipur",
+      "sunrise": "5:06:02 AM",
+      "sunset": "7:11:11 PM",
+      "station_id": "280",
+      "station_name": "Kirtipur",
+      "station_lat": 27.681669,
+      "station_lon": 85.289743,
+      "station_distance_km": 1.24,
+      "station_direction": "East",
+      "current_temp": 22.77,
+      "observed_at": "2026-06-30T14:30:00+00:00"
+    },
     "kathmandu": {
       "city_id": "kathmandu",
       "sunrise": "5:05:47 AM",
@@ -243,8 +282,8 @@
       "station_lon": 85.289743,
       "station_distance_km": 5.19,
       "station_direction": "South West",
-      "current_temp": 24.14,
-      "observed_at": "2026-06-30T12:30:00+00:00"
+      "current_temp": 22.77,
+      "observed_at": "2026-06-30T14:30:00+00:00"
     },
     "pokhara": {
       "city_id": "pokhara",
@@ -256,47 +295,8 @@
       "station_lon": 83.9742,
       "station_distance_km": 1.49,
       "station_direction": "North West",
-      "current_temp": 27.25,
-      "observed_at": "2026-06-30T12:30:00+00:00"
-    },
-    "banepa": {
-      "city_id": "banepa",
-      "sunrise": "5:04:48 AM",
-      "sunset": "7:10:27 PM",
-      "station_id": "362",
-      "station_name": "Dhulikhel",
-      "station_lat": 27.6159205,
-      "station_lon": 85.5654519,
-      "station_distance_km": 4.57,
-      "station_direction": "East",
-      "current_temp": 25.86,
-      "observed_at": "2026-06-30T12:20:00+00:00"
-    },
-    "dhulikhel": {
-      "city_id": "dhulikhel",
-      "sunrise": "5:04:40 AM",
-      "sunset": "7:10:25 PM",
-      "station_id": "362",
-      "station_name": "Dhulikhel",
-      "station_lat": 27.6159205,
-      "station_lon": 85.5654519,
-      "station_distance_km": 2.22,
-      "station_direction": "East",
-      "current_temp": 25.86,
-      "observed_at": "2026-06-30T12:20:00+00:00"
-    },
-    "bhaktapur": {
-      "city_id": "bhaktapur",
-      "sunrise": "5:05:26 AM",
-      "sunset": "7:10:34 PM",
-      "station_id": "389",
-      "station_name": "Bhaktapur",
-      "station_lat": 27.67668056,
-      "station_lon": 85.42396944,
-      "station_distance_km": 0.85,
-      "station_direction": "North West",
-      "current_temp": 25.859003067,
-      "observed_at": "2026-06-30T12:20:00+00:00"
+      "current_temp": 24.96,
+      "observed_at": "2026-06-30T14:40:00+00:00"
     },
     "bandipur": {
       "city_id": "bandipur",
@@ -309,32 +309,6 @@
       "station_distance_km": 1.39,
       "station_direction": "North West",
       "current_temp": 22.3,
-      "observed_at": "2026-06-29T21:20:00+00:00"
-    },
-    "syangja": {
-      "city_id": "syangja",
-      "sunrise": "5:11:06 AM",
-      "sunset": "7:17:23 PM",
-      "station_id": "889",
-      "station_name": "Syangja",
-      "station_lat": 28.098775,
-      "station_lon": 83.872177,
-      "station_distance_km": 1.8,
-      "station_direction": "North",
-      "current_temp": 23.6,
-      "observed_at": "2026-06-29T21:20:00+00:00"
-    },
-    "tansen": {
-      "city_id": "tansen",
-      "sunrise": "5:12:40 AM",
-      "sunset": "7:18:22 PM",
-      "station_id": "937",
-      "station_name": "Tansen_AWS",
-      "station_lat": 27.8621931,
-      "station_lon": 83.5376502,
-      "station_distance_km": 1.31,
-      "station_direction": "West",
-      "current_temp": 21.9,
       "observed_at": "2026-06-29T21:20:00+00:00"
     },
     "baglung": {
@@ -350,6 +324,32 @@
       "current_temp": 30.0,
       "observed_at": "2026-06-29T09:30:00+00:00"
     },
+    "syangja": {
+      "city_id": "syangja",
+      "sunrise": "5:11:06 AM",
+      "sunset": "7:17:23 PM",
+      "station_id": "889",
+      "station_name": "Syangja",
+      "station_lat": 28.098775,
+      "station_lon": 83.872177,
+      "station_distance_km": 1.8,
+      "station_direction": "North",
+      "current_temp": 23.6,
+      "observed_at": "2026-06-29T21:20:00+00:00"
+    },
+    "beni": {
+      "city_id": "beni",
+      "sunrise": "5:12:05 AM",
+      "sunset": "7:18:49 PM",
+      "station_id": "686",
+      "station_name": "Beni Bazar",
+      "station_lat": 28.34222222,
+      "station_lon": 83.56277778,
+      "station_distance_km": 0.94,
+      "station_direction": "South West",
+      "current_temp": 26.529001236,
+      "observed_at": "2026-06-30T14:30:00+00:00"
+    },
     "bhairahawa": {
       "city_id": "bhairahawa",
       "sunrise": "5:18:20 AM",
@@ -363,18 +363,31 @@
       "current_temp": 29.5,
       "observed_at": "2026-06-29T05:10:00+00:00"
     },
-    "beni": {
-      "city_id": "beni",
-      "sunrise": "5:12:05 AM",
-      "sunset": "7:18:49 PM",
-      "station_id": "686",
-      "station_name": "Beni Bazar",
-      "station_lat": 28.34222222,
-      "station_lon": 83.56277778,
-      "station_distance_km": 0.94,
-      "station_direction": "South West",
-      "current_temp": 28.6280021667,
-      "observed_at": "2026-06-30T12:20:00+00:00"
+    "lumbini": {
+      "city_id": "lumbini",
+      "sunrise": "5:19:10 AM",
+      "sunset": "7:14:04 PM",
+      "station_id": "753",
+      "station_name": "Marchabar",
+      "station_lat": 27.46761111,
+      "station_lon": 83.382775,
+      "station_distance_km": 10.63,
+      "station_direction": "East",
+      "current_temp": 28.6669979095,
+      "observed_at": "2026-06-30T14:40:00+00:00"
+    },
+    "tansen": {
+      "city_id": "tansen",
+      "sunrise": "5:12:40 AM",
+      "sunset": "7:18:22 PM",
+      "station_id": "937",
+      "station_name": "Tansen_AWS",
+      "station_lat": 27.8621931,
+      "station_lon": 83.5376502,
+      "station_distance_km": 1.31,
+      "station_direction": "West",
+      "current_temp": 21.9,
+      "observed_at": "2026-06-29T21:20:00+00:00"
     },
     "butwal": {
       "city_id": "butwal",
@@ -388,19 +401,6 @@
       "station_direction": null,
       "current_temp": null,
       "observed_at": null
-    },
-    "lumbini": {
-      "city_id": "lumbini",
-      "sunrise": "5:19:10 AM",
-      "sunset": "7:14:04 PM",
-      "station_id": "753",
-      "station_name": "Marchabar",
-      "station_lat": 27.46761111,
-      "station_lon": 83.382775,
-      "station_distance_km": 10.63,
-      "station_direction": "East",
-      "current_temp": 29.9589996338,
-      "observed_at": "2026-06-30T12:30:00+00:00"
     },
     "nepalgunj": {
       "city_id": "nepalgunj",
@@ -441,32 +441,6 @@
       "current_temp": null,
       "observed_at": null
     },
-    "tikapur": {
-      "city_id": "tikapur",
-      "sunrise": "5:24:52 AM",
-      "sunset": "7:25:34 PM",
-      "station_id": "5481",
-      "station_name": "Daulatpur",
-      "station_lat": 28.4719979,
-      "station_lon": 81.1472843,
-      "station_distance_km": 6.49,
-      "station_direction": "South",
-      "current_temp": 27.9070014954,
-      "observed_at": "2026-06-30T12:20:00+00:00"
-    },
-    "jumla": {
-      "city_id": "jumla",
-      "sunrise": "5:12:14 AM",
-      "sunset": "7:29:44 PM",
-      "station_id": "598",
-      "station_name": "Jumla Airport",
-      "station_lat": 29.27396667,
-      "station_lon": 82.19415,
-      "station_distance_km": 1.0,
-      "station_direction": "East",
-      "current_temp": 17.1,
-      "observed_at": "2026-06-29T21:20:00+00:00"
-    },
     "dhangadhi": {
       "city_id": "dhangadhi",
       "sunrise": "5:26:29 AM",
@@ -490,8 +464,21 @@
       "station_lon": 80.08828278,
       "station_distance_km": 12.49,
       "station_direction": "South West",
-      "current_temp": 27.4619998932,
-      "observed_at": "2026-06-30T12:20:00+00:00"
+      "current_temp": 26.9570007324,
+      "observed_at": "2026-06-30T14:30:00+00:00"
+    },
+    "tikapur": {
+      "city_id": "tikapur",
+      "sunrise": "5:24:52 AM",
+      "sunset": "7:25:34 PM",
+      "station_id": "5481",
+      "station_name": "Daulatpur",
+      "station_lat": 28.4719979,
+      "station_lon": 81.1472843,
+      "station_distance_km": 6.49,
+      "station_direction": "South",
+      "current_temp": 27.142999649,
+      "observed_at": "2026-06-30T14:30:00+00:00"
     },
     "simikot": {
       "city_id": "simikot",
@@ -519,6 +506,19 @@
       "current_temp": 28.1,
       "observed_at": "2026-06-29T06:00:00+00:00"
     },
+    "jumla": {
+      "city_id": "jumla",
+      "sunrise": "5:12:14 AM",
+      "sunset": "7:29:44 PM",
+      "station_id": "598",
+      "station_name": "Jumla Airport",
+      "station_lat": 29.27396667,
+      "station_lon": 82.19415,
+      "station_distance_km": 1.0,
+      "station_direction": "East",
+      "current_temp": 17.1,
+      "observed_at": "2026-06-29T21:20:00+00:00"
+    },
     "hetauda": {
       "city_id": "hetauda",
       "sunrise": "5:10:11 AM",
@@ -542,8 +542,8 @@
       "station_lon": 84.8782,
       "station_distance_km": 1.44,
       "station_direction": "North",
-      "current_temp": 31.217004776,
-      "observed_at": "2026-06-30T12:20:00+00:00"
+      "current_temp": 29.594997406,
+      "observed_at": "2026-06-30T14:30:00+00:00"
     },
     "janakpur": {
       "city_id": "janakpur",
@@ -557,6 +557,32 @@
       "station_direction": "South",
       "current_temp": 27.0,
       "observed_at": "2026-06-29T21:20:00+00:00"
+    },
+    "siraha": {
+      "city_id": "siraha",
+      "sunrise": "5:09:32 AM",
+      "sunset": "7:00:15 PM",
+      "station_id": null,
+      "station_name": null,
+      "station_lat": null,
+      "station_lon": null,
+      "station_distance_km": null,
+      "station_direction": null,
+      "current_temp": null,
+      "observed_at": null
+    },
+    "dharan": {
+      "city_id": "dharan",
+      "sunrise": "5:02:56 AM",
+      "sunset": "6:58:16 PM",
+      "station_id": "471",
+      "station_name": "Chatara",
+      "station_lat": 26.8204205,
+      "station_lon": 87.1592174,
+      "station_distance_km": 11.94,
+      "station_direction": "West",
+      "current_temp": 27.8423976898,
+      "observed_at": "2026-06-30T14:30:00+00:00"
     },
     "rajbiraj": {
       "city_id": "rajbiraj",
@@ -596,32 +622,6 @@
       "station_direction": "North West",
       "current_temp": 26.3,
       "observed_at": "2026-06-29T21:20:00+00:00"
-    },
-    "siraha": {
-      "city_id": "siraha",
-      "sunrise": "5:09:32 AM",
-      "sunset": "7:00:15 PM",
-      "station_id": null,
-      "station_name": null,
-      "station_lat": null,
-      "station_lon": null,
-      "station_distance_km": null,
-      "station_direction": null,
-      "current_temp": null,
-      "observed_at": null
-    },
-    "dharan": {
-      "city_id": "dharan",
-      "sunrise": "5:02:56 AM",
-      "sunset": "6:58:16 PM",
-      "station_id": "471",
-      "station_name": "Chatara",
-      "station_lat": 26.8204205,
-      "station_lon": 87.1592174,
-      "station_distance_km": 11.94,
-      "station_direction": "West",
-      "current_temp": 30.9631004333,
-      "observed_at": "2026-06-30T12:20:00+00:00"
     },
     "itahari": {
       "city_id": "itahari",
@@ -675,31 +675,18 @@
       "current_temp": null,
       "observed_at": null
     },
-    "kakarvitta": {
-      "city_id": "kakarvitta",
-      "sunrise": "5:01:14 AM",
-      "sunset": "6:52:53 PM",
-      "station_id": "907",
-      "station_name": "Chandragadi Airport",
-      "station_lat": 26.570391,
-      "station_lon": 88.075144,
-      "station_distance_km": 12.04,
-      "station_direction": "South West",
-      "current_temp": 25.2,
-      "observed_at": "2026-06-29T21:20:00+00:00"
-    },
-    "ilam": {
-      "city_id": "ilam",
-      "sunrise": "4:58:27 AM",
-      "sunset": "6:57:34 PM",
-      "station_id": "484",
-      "station_name": "Ilam Tea Estate",
-      "station_lat": 26.90963889,
-      "station_lon": 87.92308333,
-      "station_distance_km": 0.44,
-      "station_direction": "North West",
-      "current_temp": 20.1,
-      "observed_at": "2026-06-29T21:20:00+00:00"
+    "phidim": {
+      "city_id": "phidim",
+      "sunrise": "4:58:29 AM",
+      "sunset": "6:58:57 PM",
+      "station_id": null,
+      "station_name": null,
+      "station_lat": null,
+      "station_lon": null,
+      "station_distance_km": null,
+      "station_direction": null,
+      "current_temp": null,
+      "observed_at": null
     },
     "namche": {
       "city_id": "namche",
@@ -714,18 +701,18 @@
       "current_temp": 9.2,
       "observed_at": "2026-06-29T21:20:00+00:00"
     },
-    "phidim": {
-      "city_id": "phidim",
-      "sunrise": "4:58:29 AM",
-      "sunset": "6:58:57 PM",
-      "station_id": null,
-      "station_name": null,
-      "station_lat": null,
-      "station_lon": null,
-      "station_distance_km": null,
-      "station_direction": null,
-      "current_temp": null,
-      "observed_at": null
+    "kakarvitta": {
+      "city_id": "kakarvitta",
+      "sunrise": "5:01:14 AM",
+      "sunset": "6:52:53 PM",
+      "station_id": "907",
+      "station_name": "Chandragadi Airport",
+      "station_lat": 26.570391,
+      "station_lon": 88.075144,
+      "station_distance_km": 12.04,
+      "station_direction": "South West",
+      "current_temp": 25.2,
+      "observed_at": "2026-06-29T21:20:00+00:00"
     },
     "lukla": {
       "city_id": "lukla",
@@ -753,6 +740,32 @@
       "current_temp": 15.3,
       "observed_at": "2026-06-29T21:20:00+00:00"
     },
+    "ilam": {
+      "city_id": "ilam",
+      "sunrise": "4:58:27 AM",
+      "sunset": "6:57:34 PM",
+      "station_id": "484",
+      "station_name": "Ilam Tea Estate",
+      "station_lat": 26.90963889,
+      "station_lon": 87.92308333,
+      "station_distance_km": 0.44,
+      "station_direction": "North West",
+      "current_temp": 20.1,
+      "observed_at": "2026-06-29T21:20:00+00:00"
+    },
+    "charikot": {
+      "city_id": "charikot",
+      "sunrise": "5:01:38 AM",
+      "sunset": "7:09:23 PM",
+      "station_id": "442",
+      "station_name": "Kabre",
+      "station_lat": 27.63333333,
+      "station_lon": 86.13333333,
+      "station_distance_km": 8.99,
+      "station_direction": "South East",
+      "current_temp": 20.4879989624,
+      "observed_at": "2026-06-30T14:40:00+00:00"
+    },
     "muktinath": {
       "city_id": "muktinath",
       "sunrise": "5:04:31 AM",
@@ -766,32 +779,6 @@
       "current_temp": 15.3,
       "observed_at": "2026-06-29T21:20:00+00:00"
     },
-    "manang": {
-      "city_id": "manang",
-      "sunrise": "5:04:26 AM",
-      "sunset": "7:22:52 PM",
-      "station_id": "4672",
-      "station_name": "Humde Airport",
-      "station_lat": 28.639877,
-      "station_lon": 84.0889,
-      "station_distance_km": 7.66,
-      "station_direction": "South East",
-      "current_temp": 11.9,
-      "observed_at": "2026-06-29T21:20:00+00:00"
-    },
-    "charikot": {
-      "city_id": "charikot",
-      "sunrise": "5:01:38 AM",
-      "sunset": "7:09:23 PM",
-      "station_id": "442",
-      "station_name": "Kabre",
-      "station_lat": 27.63333333,
-      "station_lon": 86.13333333,
-      "station_distance_km": 8.99,
-      "station_direction": "South East",
-      "current_temp": 21.638999939,
-      "observed_at": "2026-06-30T12:30:00+00:00"
-    },
     "okhaldhunga": {
       "city_id": "okhaldhunga",
       "sunrise": "5:01:15 AM",
@@ -804,6 +791,19 @@
       "station_direction": null,
       "current_temp": null,
       "observed_at": null
+    },
+    "manang": {
+      "city_id": "manang",
+      "sunrise": "5:04:26 AM",
+      "sunset": "7:22:52 PM",
+      "station_id": "4672",
+      "station_name": "Humde Airport",
+      "station_lat": 28.639877,
+      "station_lon": 84.0889,
+      "station_distance_km": 7.66,
+      "station_direction": "South East",
+      "current_temp": 11.9,
+      "observed_at": "2026-06-29T21:20:00+00:00"
     },
     "salleri": {
       "city_id": "salleri",
