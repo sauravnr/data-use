@@ -42,7 +42,7 @@
         "manager": "LS Capital Limited"
       },
       {
-        "symbol": "KHL",
+        "symbol": "KAHL",
         "company": "Kalanga Hydro Limited",
         "units": "2870000",
         "price": "100",
@@ -1000,7 +1000,7 @@
         "manager": "NIMB Ace Capital Limited"
       },
       {
-        "symbol": "KHL",
+        "symbol": "KAHL",
         "company": "Kalanga Hydro Limited",
         "units": "1400000",
         "price": "100",
@@ -1524,7 +1524,7 @@
         "manager": "Muktinath Capital Limited"
       },
       {
-        "symbol": "KHL",
+        "symbol": "KAHL",
         "company": "Kalanga Hydro Limited",
         "units": "350000",
         "price": "100",
@@ -1746,5 +1746,5 @@
     ]
   },
   "source": "ShareSansar",
-  "updated_at": "2026-07-01T05:28:19Z"
+  "updated_at": "2026-07-01T07:21:30Z"
 }
