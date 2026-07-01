@@ -1,7 +1,7 @@
 {
   "source": "sharesansar:sectorwise+today-share-price",
-  "updated_at": "2026-06-30T03:06:44Z",
-  "count": 429,
+  "updated_at": "2026-07-01T03:08:07Z",
+  "count": 430,
   "data": {
     "ACLBSL": "Microfinance",
     "ADBL": "Commercial Banks",
@@ -371,6 +371,7 @@
     "SIPD": "Others",
     "SJCL": "Hydropower",
     "SJLIC": "Life Insurance",
+    "SJLICP": "Promoter Shares",
     "SKBBL": "Microfinance",
     "SKHEL": "Hydropower",
     "SKHL": "Hydropower",
