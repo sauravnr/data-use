@@ -1,7 +1,7 @@
 {
   "source": "sharesansar:sectorwise+today-share-price",
-  "updated_at": "2026-07-02T03:06:00Z",
-  "count": 439,
+  "updated_at": "2026-07-03T05:48:34Z",
+  "count": 441,
   "data": {
     "ACLBSL": "Microfinance",
     "ADBL": "Commercial Banks",
@@ -141,6 +141,7 @@
     "JHAPA": "Others",
     "JOSHI": "Hydropower",
     "JSLBB": "Microfinance",
+    "KAHL": "Hydropower",
     "KBHCL": "Hydropower",
     "KBL": "Commercial Banks",
     "KBLD86": "Others",
@@ -182,6 +183,7 @@
     "MBLD2085": "Others",
     "MBLD87": "Others",
     "MBLEF": "Mutual Funds",
+    "MBLPO": "Promoter Shares",
     "MBWLB": "Microfinance",
     "MCHL": "Hydropower",
     "MDB": "Development Banks",
