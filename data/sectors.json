@@ -1,7 +1,7 @@
 {
   "source": "sharesansar:sectorwise+today-share-price",
-  "updated_at": "2026-07-06T06:23:19Z",
-  "count": 443,
+  "updated_at": "2026-07-07T06:03:08Z",
+  "count": 444,
   "data": {
     "ACLBSL": "Microfinance",
     "ADBL": "Commercial Banks",
@@ -35,6 +35,7 @@
     "BNL": "Manufacturing and Processing",
     "BNT": "Manufacturing and Processing",
     "BOKD86": "Others",
+    "BOKD86KA": "Others",
     "BPCL": "Hydropower",
     "BPW": "Microfinance",
     "BSIL": "Manufacturing and Processing",
