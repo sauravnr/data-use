@@ -1,17 +1,17 @@
 {
   "source": "CDSC",
-  "updated_at": "2026-07-08T08:02:29Z",
+  "updated_at": "2026-07-08T11:39:43Z",
   "data": [
     {
       "company": "6.25% Prime Bank Debenture 2093 - PDB2093 (IPO - For General Public)",
       "manager": "SANIMA CAPITAL LIMITED",
       "units": "1140000",
-      "applicants": "12147",
-      "appliedUnits": "3547025",
-      "amount": "3547025000",
+      "applicants": "11550",
+      "appliedUnits": "3481731",
+      "amount": "3481731000",
       "openingDate": "2026-06-30",
       "closingDate": "2026-07-07",
-      "lastUpdate": "2026-07-07 17:15:06"
+      "lastUpdate": "2026-07-08 17:15:03"
     }
   ]
 }
