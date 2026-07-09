@@ -1,7 +1,7 @@
 {
   "source": "sharesansar:sectorwise+today-share-price",
-  "updated_at": "2026-07-08T05:17:15Z",
-  "count": 444,
+  "updated_at": "2026-07-09T06:00:06Z",
+  "count": 445,
   "data": {
     "ACLBSL": "Microfinance",
     "ADBL": "Commercial Banks",
@@ -269,6 +269,7 @@
     "NMBHF2": "Mutual Funds",
     "NMBMF": "Microfinance",
     "NMFBS": "Microfinance",
+    "NMFBSP": "Promoter Shares",
     "NMIC": "Non-Life Insurance",
     "NMLBBL": "Microfinance",
     "NRIC": "Others",
