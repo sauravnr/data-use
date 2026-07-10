@@ -1,6 +1,6 @@
 {
   "source": "DHM Nepal",
-  "updated_at": "2026-07-10T08:54:22Z",
+  "updated_at": "2026-07-10T12:16:41Z",
   "issue_date": "2026-07-10T03:00:00.000Z",
   "observations": [
     {
@@ -207,45 +207,6 @@
       "current_temp": null,
       "observed_at": null
     },
-    "lalitpur": {
-      "city_id": "lalitpur",
-      "sunrise": "5:09:00 AM",
-      "sunset": "7:09:02 PM",
-      "station_id": "367",
-      "station_name": "Khumaltar",
-      "station_lat": 27.651677,
-      "station_lon": 85.325693,
-      "station_distance_km": 1.57,
-      "station_direction": "South East",
-      "current_temp": 28.7,
-      "observed_at": "2026-07-10T08:40:00+00:00"
-    },
-    "banepa": {
-      "city_id": "banepa",
-      "sunrise": "5:07:54 AM",
-      "sunset": "7:08:31 PM",
-      "station_id": "362",
-      "station_name": "Dhulikhel",
-      "station_lat": 27.6159205,
-      "station_lon": 85.5654519,
-      "station_distance_km": 4.57,
-      "station_direction": "East",
-      "current_temp": 23.44,
-      "observed_at": "2026-07-10T08:40:00+00:00"
-    },
-    "kirtipur": {
-      "city_id": "kirtipur",
-      "sunrise": "5:09:08 AM",
-      "sunset": "7:09:14 PM",
-      "station_id": "280",
-      "station_name": "Kirtipur",
-      "station_lat": 27.681669,
-      "station_lon": 85.289743,
-      "station_distance_km": 1.24,
-      "station_direction": "East",
-      "current_temp": 26.65,
-      "observed_at": "2026-07-10T08:40:00+00:00"
-    },
     "dhulikhel": {
       "city_id": "dhulikhel",
       "sunrise": "5:07:46 AM",
@@ -256,8 +217,8 @@
       "station_lon": 85.5654519,
       "station_distance_km": 2.22,
       "station_direction": "East",
-      "current_temp": 23.44,
-      "observed_at": "2026-07-10T08:40:00+00:00"
+      "current_temp": 22.95,
+      "observed_at": "2026-07-10T12:00:00+00:00"
     },
     "bhaktapur": {
       "city_id": "bhaktapur",
@@ -272,18 +233,18 @@
       "current_temp": 24.3389968872,
       "observed_at": "2026-07-09T05:40:00+00:00"
     },
-    "gorkha": {
-      "city_id": "gorkha",
-      "sunrise": "5:11:07 AM",
-      "sunset": "7:12:24 PM",
-      "station_id": "1956",
-      "station_name": "Gorkha Agromet",
-      "station_lat": 27.971,
-      "station_lon": 84.5916,
-      "station_distance_km": 5.21,
-      "station_direction": "South West",
-      "current_temp": 29.1,
-      "observed_at": "2026-07-10T08:40:00+00:00"
+    "lalitpur": {
+      "city_id": "lalitpur",
+      "sunrise": "5:09:00 AM",
+      "sunset": "7:09:02 PM",
+      "station_id": "367",
+      "station_name": "Khumaltar",
+      "station_lat": 27.651677,
+      "station_lon": 85.325693,
+      "station_distance_km": 1.57,
+      "station_direction": "South East",
+      "current_temp": 25.3,
+      "observed_at": "2026-07-10T12:00:00+00:00"
     },
     "pokhara": {
       "city_id": "pokhara",
@@ -295,21 +256,47 @@
       "station_lon": 83.9742,
       "station_distance_km": 1.49,
       "station_direction": "North West",
-      "current_temp": 28.69,
-      "observed_at": "2026-07-10T08:50:00+00:00"
+      "current_temp": 29.39,
+      "observed_at": "2026-07-10T12:00:00+00:00"
     },
-    "baglung": {
-      "city_id": "baglung",
-      "sunrise": "5:15:09 AM",
-      "sunset": "7:16:46 PM",
-      "station_id": "682",
-      "station_name": "Baglung",
-      "station_lat": 28.26363611,
-      "station_lon": 83.60032222,
-      "station_distance_km": 1.7,
+    "kirtipur": {
+      "city_id": "kirtipur",
+      "sunrise": "5:09:08 AM",
+      "sunset": "7:09:14 PM",
+      "station_id": "280",
+      "station_name": "Kirtipur",
+      "station_lat": 27.681669,
+      "station_lon": 85.289743,
+      "station_distance_km": 1.24,
       "station_direction": "East",
+      "current_temp": 24.9,
+      "observed_at": "2026-07-10T12:00:00+00:00"
+    },
+    "gorkha": {
+      "city_id": "gorkha",
+      "sunrise": "5:11:07 AM",
+      "sunset": "7:12:24 PM",
+      "station_id": "1956",
+      "station_name": "Gorkha Agromet",
+      "station_lat": 27.971,
+      "station_lon": 84.5916,
+      "station_distance_km": 5.21,
+      "station_direction": "South West",
       "current_temp": 30.3,
-      "observed_at": "2026-07-10T08:40:00+00:00"
+      "observed_at": "2026-07-10T12:00:00+00:00"
+    },
+    "banepa": {
+      "city_id": "banepa",
+      "sunrise": "5:07:54 AM",
+      "sunset": "7:08:31 PM",
+      "station_id": "362",
+      "station_name": "Dhulikhel",
+      "station_lat": 27.6159205,
+      "station_lon": 85.5654519,
+      "station_distance_km": 4.57,
+      "station_direction": "East",
+      "current_temp": 22.95,
+      "observed_at": "2026-07-10T12:00:00+00:00"
     },
     "bandipur": {
       "city_id": "bandipur",
@@ -321,8 +308,8 @@
       "station_lon": 84.40637778,
       "station_distance_km": 1.39,
       "station_direction": "North West",
-      "current_temp": 27.6,
-      "observed_at": "2026-07-10T08:40:00+00:00"
+      "current_temp": 27.7,
+      "observed_at": "2026-07-10T12:00:00+00:00"
     },
     "beni": {
       "city_id": "beni",
@@ -334,21 +321,47 @@
       "station_lon": 83.60032222,
       "station_distance_km": 10.12,
       "station_direction": "South",
-      "current_temp": 30.3,
-      "observed_at": "2026-07-10T08:40:00+00:00"
+      "current_temp": 29.6,
+      "observed_at": "2026-07-10T12:00:00+00:00"
     },
-    "lumbini": {
-      "city_id": "lumbini",
-      "sunrise": "5:22:12 AM",
-      "sunset": "7:12:11 PM",
-      "station_id": "753",
-      "station_name": "Marchabar",
-      "station_lat": 27.46761111,
-      "station_lon": 83.382775,
-      "station_distance_km": 10.63,
+    "syangja": {
+      "city_id": "syangja",
+      "sunrise": "5:14:15 AM",
+      "sunset": "7:15:24 PM",
+      "station_id": "889",
+      "station_name": "Syangja",
+      "station_lat": 28.098775,
+      "station_lon": 83.872177,
+      "station_distance_km": 1.8,
+      "station_direction": "North",
+      "current_temp": 29.8,
+      "observed_at": "2026-07-10T12:00:00+00:00"
+    },
+    "baglung": {
+      "city_id": "baglung",
+      "sunrise": "5:15:09 AM",
+      "sunset": "7:16:46 PM",
+      "station_id": "682",
+      "station_name": "Baglung",
+      "station_lat": 28.26363611,
+      "station_lon": 83.60032222,
+      "station_distance_km": 1.7,
       "station_direction": "East",
-      "current_temp": 29.1899986267,
-      "observed_at": "2026-07-10T08:50:00+00:00"
+      "current_temp": 29.6,
+      "observed_at": "2026-07-10T12:00:00+00:00"
+    },
+    "nepalgunj": {
+      "city_id": "nepalgunj",
+      "sunrise": "5:27:11 AM",
+      "sunset": "7:20:29 PM",
+      "station_id": null,
+      "station_name": null,
+      "station_lat": null,
+      "station_lon": null,
+      "station_distance_km": null,
+      "station_direction": null,
+      "current_temp": null,
+      "observed_at": null
     },
     "tansen": {
       "city_id": "tansen",
@@ -360,8 +373,21 @@
       "station_lon": 83.5376502,
       "station_distance_km": 1.31,
       "station_direction": "West",
-      "current_temp": 26.6,
-      "observed_at": "2026-07-10T08:40:00+00:00"
+      "current_temp": 26.1,
+      "observed_at": "2026-07-10T12:00:00+00:00"
+    },
+    "lumbini": {
+      "city_id": "lumbini",
+      "sunrise": "5:22:12 AM",
+      "sunset": "7:12:11 PM",
+      "station_id": "753",
+      "station_name": "Marchabar",
+      "station_lat": 27.46761111,
+      "station_lon": 83.382775,
+      "station_distance_km": 10.63,
+      "station_direction": "East",
+      "current_temp": 30.9470100403,
+      "observed_at": "2026-07-10T12:10:00+00:00"
     },
     "butwal": {
       "city_id": "butwal",
@@ -386,47 +412,8 @@
       "station_lon": 83.398854,
       "station_distance_km": 5.06,
       "station_direction": "West",
-      "current_temp": 30.6,
-      "observed_at": "2026-07-10T08:40:00+00:00"
-    },
-    "syangja": {
-      "city_id": "syangja",
-      "sunrise": "5:14:15 AM",
-      "sunset": "7:15:24 PM",
-      "station_id": "889",
-      "station_name": "Syangja",
-      "station_lat": 28.098775,
-      "station_lon": 83.872177,
-      "station_distance_km": 1.8,
-      "station_direction": "North",
-      "current_temp": 27.8,
-      "observed_at": "2026-07-10T08:40:00+00:00"
-    },
-    "nepalgunj": {
-      "city_id": "nepalgunj",
-      "sunrise": "5:27:11 AM",
-      "sunset": "7:20:29 PM",
-      "station_id": null,
-      "station_name": null,
-      "station_lat": null,
-      "station_lon": null,
-      "station_distance_km": null,
-      "station_direction": null,
-      "current_temp": null,
-      "observed_at": null
-    },
-    "kapilvastu": {
-      "city_id": "kapilvastu",
-      "sunrise": "5:22:55 AM",
-      "sunset": "7:13:18 PM",
-      "station_id": null,
-      "station_name": null,
-      "station_lat": null,
-      "station_lon": null,
-      "station_distance_km": null,
-      "station_direction": null,
-      "current_temp": null,
-      "observed_at": null
+      "current_temp": 31.6,
+      "observed_at": "2026-07-10T12:00:00+00:00"
     },
     "birendranagar": {
       "city_id": "birendranagar",
@@ -441,18 +428,31 @@
       "current_temp": null,
       "observed_at": null
     },
-    "dhangadhi": {
-      "city_id": "dhangadhi",
-      "sunrise": "5:29:39 AM",
-      "sunset": "7:26:16 PM",
-      "station_id": "947",
-      "station_name": "Dhangadhi airport",
-      "station_lat": 28.75333,
-      "station_lon": 80.58444,
-      "station_distance_km": 5.91,
-      "station_direction": "North",
-      "current_temp": 31.7,
-      "observed_at": "2026-07-10T08:40:00+00:00"
+    "mahendranagar": {
+      "city_id": "mahendranagar",
+      "sunrise": "5:30:25 AM",
+      "sunset": "7:28:43 PM",
+      "station_id": "515",
+      "station_name": "Dodhara",
+      "station_lat": 28.88823778,
+      "station_lon": 80.08828278,
+      "station_distance_km": 12.49,
+      "station_direction": "South West",
+      "current_temp": 30.4160003662,
+      "observed_at": "2026-07-10T12:00:00+00:00"
+    },
+    "kapilvastu": {
+      "city_id": "kapilvastu",
+      "sunrise": "5:22:55 AM",
+      "sunset": "7:13:18 PM",
+      "station_id": null,
+      "station_name": null,
+      "station_lat": null,
+      "station_lon": null,
+      "station_distance_km": null,
+      "station_direction": null,
+      "current_temp": null,
+      "observed_at": null
     },
     "tikapur": {
       "city_id": "tikapur",
@@ -464,8 +464,21 @@
       "station_lon": 81.1472843,
       "station_distance_km": 6.49,
       "station_direction": "South",
-      "current_temp": 30.4869995117,
-      "observed_at": "2026-07-10T08:40:00+00:00"
+      "current_temp": 29.4959964752,
+      "observed_at": "2026-07-10T12:00:00+00:00"
+    },
+    "dhangadhi": {
+      "city_id": "dhangadhi",
+      "sunrise": "5:29:39 AM",
+      "sunset": "7:26:16 PM",
+      "station_id": "947",
+      "station_name": "Dhangadhi airport",
+      "station_lat": 28.75333,
+      "station_lon": 80.58444,
+      "station_distance_km": 5.91,
+      "station_direction": "North",
+      "current_temp": 28.0,
+      "observed_at": "2026-07-10T12:00:00+00:00"
     },
     "jumla": {
       "city_id": "jumla",
@@ -477,8 +490,8 @@
       "station_lon": 82.19415,
       "station_distance_km": 1.0,
       "station_direction": "East",
-      "current_temp": 25.3,
-      "observed_at": "2026-07-10T08:40:00+00:00"
+      "current_temp": 18.9,
+      "observed_at": "2026-07-10T11:40:00+00:00"
     },
     "simikot": {
       "city_id": "simikot",
@@ -490,34 +503,8 @@
       "station_lon": 81.81611111,
       "station_distance_km": 0.72,
       "station_direction": "West",
-      "current_temp": 21.2,
-      "observed_at": "2026-07-10T08:40:00+00:00"
-    },
-    "mahendranagar": {
-      "city_id": "mahendranagar",
-      "sunrise": "5:30:25 AM",
-      "sunset": "7:28:43 PM",
-      "station_id": "515",
-      "station_name": "Dodhara",
-      "station_lat": 28.88823778,
-      "station_lon": 80.08828278,
-      "station_distance_km": 12.49,
-      "station_direction": "South West",
-      "current_temp": 27.9809989929,
-      "observed_at": "2026-07-10T08:40:00+00:00"
-    },
-    "hetauda": {
-      "city_id": "hetauda",
-      "sunrise": "5:13:14 AM",
-      "sunset": "7:07:06 PM",
-      "station_id": "311",
-      "station_name": "Hetauda N.F.I.",
-      "station_lat": 27.420213,
-      "station_lon": 85.025209,
-      "station_distance_km": 1.19,
-      "station_direction": "South West",
-      "current_temp": 31.6,
-      "observed_at": "2026-07-10T08:40:00+00:00"
+      "current_temp": 17.9,
+      "observed_at": "2026-07-10T12:00:00+00:00"
     },
     "bharatpur": {
       "city_id": "bharatpur",
@@ -532,6 +519,19 @@
       "current_temp": null,
       "observed_at": null
     },
+    "hetauda": {
+      "city_id": "hetauda",
+      "sunrise": "5:13:14 AM",
+      "sunset": "7:07:06 PM",
+      "station_id": "311",
+      "station_name": "Hetauda N.F.I.",
+      "station_lat": 27.420213,
+      "station_lon": 85.025209,
+      "station_distance_km": 1.19,
+      "station_direction": "South West",
+      "current_temp": 29.2,
+      "observed_at": "2026-07-10T12:00:00+00:00"
+    },
     "birgunj": {
       "city_id": "birgunj",
       "sunrise": "5:16:54 AM",
@@ -544,6 +544,32 @@
       "station_direction": "North East",
       "current_temp": 32.4,
       "observed_at": "2026-07-09T07:50:00+00:00"
+    },
+    "janakpur": {
+      "city_id": "janakpur",
+      "sunrise": "5:13:25 AM",
+      "sunset": "6:59:47 PM",
+      "station_id": "429",
+      "station_name": "Janakpur Airport",
+      "station_lat": 26.709665,
+      "station_lon": 85.917228,
+      "station_distance_km": 2.25,
+      "station_direction": "South",
+      "current_temp": 29.1,
+      "observed_at": "2026-07-10T12:00:00+00:00"
+    },
+    "lahan": {
+      "city_id": "lahan",
+      "sunrise": "5:10:51 AM",
+      "sunset": "6:57:48 PM",
+      "station_id": "452",
+      "station_name": "Lahan",
+      "station_lat": 26.732702,
+      "station_lon": 86.477648,
+      "station_distance_km": 2.14,
+      "station_direction": "North West",
+      "current_temp": 27.7,
+      "observed_at": "2026-07-10T12:00:00+00:00"
     },
     "rajbiraj": {
       "city_id": "rajbiraj",
@@ -571,6 +597,19 @@
       "current_temp": null,
       "observed_at": null
     },
+    "dharan": {
+      "city_id": "dharan",
+      "sunrise": "5:05:55 AM",
+      "sunset": "6:56:27 PM",
+      "station_id": "471",
+      "station_name": "Chatara",
+      "station_lat": 26.8204205,
+      "station_lon": 87.1592174,
+      "station_distance_km": 11.94,
+      "station_direction": "West",
+      "current_temp": 27.1548042297,
+      "observed_at": "2026-07-10T12:00:00+00:00"
+    },
     "biratnagar": {
       "city_id": "biratnagar",
       "sunrise": "5:08:42 AM",
@@ -581,21 +620,8 @@
       "station_lon": 87.256456,
       "station_distance_km": 3.77,
       "station_direction": "North West",
-      "current_temp": 32.0,
-      "observed_at": "2026-07-10T08:40:00+00:00"
-    },
-    "janakpur": {
-      "city_id": "janakpur",
-      "sunrise": "5:13:25 AM",
-      "sunset": "6:59:47 PM",
-      "station_id": "429",
-      "station_name": "Janakpur Airport",
-      "station_lat": 26.709665,
-      "station_lon": 85.917228,
-      "station_distance_km": 2.25,
-      "station_direction": "South",
-      "current_temp": 26.8,
-      "observed_at": "2026-07-10T08:40:00+00:00"
+      "current_temp": 30.2,
+      "observed_at": "2026-07-10T12:00:00+00:00"
     },
     "itahari": {
       "city_id": "itahari",
@@ -607,34 +633,34 @@
       "station_lon": 87.278648,
       "station_distance_km": 3.79,
       "station_direction": "North",
-      "current_temp": 31.9,
-      "observed_at": "2026-07-10T08:40:00+00:00"
+      "current_temp": 30.5,
+      "observed_at": "2026-07-10T12:00:00+00:00"
     },
-    "lahan": {
-      "city_id": "lahan",
-      "sunrise": "5:10:51 AM",
-      "sunset": "6:57:48 PM",
-      "station_id": "452",
-      "station_name": "Lahan",
-      "station_lat": 26.732702,
-      "station_lon": 86.477648,
-      "station_distance_km": 2.14,
-      "station_direction": "North West",
-      "current_temp": 30.4,
-      "observed_at": "2026-07-10T08:40:00+00:00"
+    "taplejung": {
+      "city_id": "taplejung",
+      "sunrise": "4:59:35 AM",
+      "sunset": "6:59:39 PM",
+      "station_id": null,
+      "station_name": null,
+      "station_lat": null,
+      "station_lon": null,
+      "station_distance_km": null,
+      "station_direction": null,
+      "current_temp": null,
+      "observed_at": null
     },
-    "dharan": {
-      "city_id": "dharan",
-      "sunrise": "5:05:55 AM",
-      "sunset": "6:56:27 PM",
-      "station_id": "471",
-      "station_name": "Chatara",
-      "station_lat": 26.8204205,
-      "station_lon": 87.1592174,
-      "station_distance_km": 11.94,
-      "station_direction": "West",
-      "current_temp": 29.0024986267,
-      "observed_at": "2026-07-10T08:30:00+00:00"
+    "birtamod": {
+      "city_id": "birtamod",
+      "sunrise": "5:04:59 AM",
+      "sunset": "6:51:44 PM",
+      "station_id": "907",
+      "station_name": "Chandragadi Airport",
+      "station_lat": 26.570391,
+      "station_lon": 88.075144,
+      "station_distance_km": 11.8,
+      "station_direction": "South East",
+      "current_temp": 29.8,
+      "observed_at": "2026-07-10T12:00:00+00:00"
     },
     "damak": {
       "city_id": "damak",
@@ -659,13 +685,26 @@
       "station_lon": 88.075144,
       "station_distance_km": 12.04,
       "station_direction": "South West",
-      "current_temp": 27.2,
-      "observed_at": "2026-07-10T08:40:00+00:00"
+      "current_temp": 29.8,
+      "observed_at": "2026-07-10T12:00:00+00:00"
     },
-    "taplejung": {
-      "city_id": "taplejung",
-      "sunrise": "4:59:35 AM",
-      "sunset": "6:59:39 PM",
+    "ilam": {
+      "city_id": "ilam",
+      "sunrise": "5:01:27 AM",
+      "sunset": "6:55:44 PM",
+      "station_id": "484",
+      "station_name": "Ilam Tea Estate",
+      "station_lat": 26.90963889,
+      "station_lon": 87.92308333,
+      "station_distance_km": 0.44,
+      "station_direction": "North West",
+      "current_temp": 21.8,
+      "observed_at": "2026-07-10T12:00:00+00:00"
+    },
+    "phidim": {
+      "city_id": "phidim",
+      "sunrise": "5:01:31 AM",
+      "sunset": "6:57:05 PM",
       "station_id": null,
       "station_name": null,
       "station_lat": null,
@@ -685,21 +724,8 @@
       "station_lon": 86.72817,
       "station_distance_km": 0.32,
       "station_direction": "West",
-      "current_temp": 16.9,
-      "observed_at": "2026-07-10T08:40:00+00:00"
-    },
-    "jomsom": {
-      "city_id": "jomsom",
-      "sunrise": "5:09:49 AM",
-      "sunset": "7:20:53 PM",
-      "station_id": "4674",
-      "station_name": "Jomsom Airport",
-      "station_lat": 28.779846,
-      "station_lon": 83.72083,
-      "station_distance_km": 1.28,
-      "station_direction": "West",
-      "current_temp": 23.8,
-      "observed_at": "2026-07-10T08:30:00+00:00"
+      "current_temp": 15.5,
+      "observed_at": "2026-07-10T12:00:00+00:00"
     },
     "namche": {
       "city_id": "namche",
@@ -711,73 +737,21 @@
       "station_lon": 86.713376,
       "station_distance_km": 1.19,
       "station_direction": "North",
-      "current_temp": 11.3,
-      "observed_at": "2026-07-10T08:40:00+00:00"
+      "current_temp": 10.7,
+      "observed_at": "2026-07-10T12:00:00+00:00"
     },
-    "ilam": {
-      "city_id": "ilam",
-      "sunrise": "5:01:27 AM",
-      "sunset": "6:55:44 PM",
-      "station_id": "484",
-      "station_name": "Ilam Tea Estate",
-      "station_lat": 26.90963889,
-      "station_lon": 87.92308333,
-      "station_distance_km": 0.44,
-      "station_direction": "North West",
-      "current_temp": 21.8,
-      "observed_at": "2026-07-10T08:40:00+00:00"
-    },
-    "phidim": {
-      "city_id": "phidim",
-      "sunrise": "5:01:31 AM",
-      "sunset": "6:57:05 PM",
-      "station_id": null,
-      "station_name": null,
-      "station_lat": null,
-      "station_lon": null,
-      "station_distance_km": null,
-      "station_direction": null,
-      "current_temp": null,
-      "observed_at": null
-    },
-    "birtamod": {
-      "city_id": "birtamod",
-      "sunrise": "5:04:59 AM",
-      "sunset": "6:51:44 PM",
-      "station_id": "907",
-      "station_name": "Chandragadi Airport",
-      "station_lat": 26.570391,
-      "station_lon": 88.075144,
-      "station_distance_km": 11.8,
-      "station_direction": "South East",
-      "current_temp": 27.2,
-      "observed_at": "2026-07-10T08:40:00+00:00"
-    },
-    "muktinath": {
-      "city_id": "muktinath",
-      "sunrise": "5:07:47 AM",
-      "sunset": "7:21:51 PM",
+    "jomsom": {
+      "city_id": "jomsom",
+      "sunrise": "5:09:49 AM",
+      "sunset": "7:20:53 PM",
       "station_id": "4674",
       "station_name": "Jomsom Airport",
       "station_lat": 28.779846,
       "station_lon": 83.72083,
-      "station_distance_km": 14.82,
+      "station_distance_km": 1.28,
       "station_direction": "West",
-      "current_temp": 23.8,
-      "observed_at": "2026-07-10T08:30:00+00:00"
-    },
-    "manang": {
-      "city_id": "manang",
-      "sunrise": "5:07:41 AM",
-      "sunset": "7:20:46 PM",
-      "station_id": null,
-      "station_name": null,
-      "station_lat": null,
-      "station_lon": null,
-      "station_distance_km": null,
-      "station_direction": null,
-      "current_temp": null,
-      "observed_at": null
+      "current_temp": 20.1,
+      "observed_at": "2026-07-10T12:00:00+00:00"
     },
     "okhaldhunga": {
       "city_id": "okhaldhunga",
@@ -792,19 +766,6 @@
       "current_temp": null,
       "observed_at": null
     },
-    "salleri": {
-      "city_id": "salleri",
-      "sunrise": "5:02:16 AM",
-      "sunset": "7:05:39 PM",
-      "station_id": "943",
-      "station_name": "Salleri (Phaplu)",
-      "station_lat": 27.5123304,
-      "station_lon": 86.5870178,
-      "station_distance_km": 1.17,
-      "station_direction": "North",
-      "current_temp": 20.0,
-      "observed_at": "2026-07-10T08:40:00+00:00"
-    },
     "charikot": {
       "city_id": "charikot",
       "sunrise": "5:04:44 AM",
@@ -815,21 +776,60 @@
       "station_lon": 86.13333333,
       "station_distance_km": 8.99,
       "station_direction": "South East",
-      "current_temp": 23.2159996033,
-      "observed_at": "2026-07-10T08:50:00+00:00"
+      "current_temp": 21.9909954071,
+      "observed_at": "2026-07-10T12:10:00+00:00"
+    },
+    "manang": {
+      "city_id": "manang",
+      "sunrise": "5:07:41 AM",
+      "sunset": "7:20:46 PM",
+      "station_id": null,
+      "station_name": null,
+      "station_lat": null,
+      "station_lon": null,
+      "station_distance_km": null,
+      "station_direction": null,
+      "current_temp": null,
+      "observed_at": null
+    },
+    "muktinath": {
+      "city_id": "muktinath",
+      "sunrise": "5:07:47 AM",
+      "sunset": "7:21:51 PM",
+      "station_id": "4674",
+      "station_name": "Jomsom Airport",
+      "station_lat": 28.779846,
+      "station_lon": 83.72083,
+      "station_distance_km": 14.82,
+      "station_direction": "West",
+      "current_temp": 20.1,
+      "observed_at": "2026-07-10T12:00:00+00:00"
+    },
+    "salleri": {
+      "city_id": "salleri",
+      "sunrise": "5:02:16 AM",
+      "sunset": "7:05:39 PM",
+      "station_id": "943",
+      "station_name": "Salleri (Phaplu)",
+      "station_lat": 27.5123304,
+      "station_lon": 86.5870178,
+      "station_distance_km": 1.17,
+      "station_direction": "North",
+      "current_temp": 17.1,
+      "observed_at": "2026-07-10T12:00:00+00:00"
     }
   },
   "bulletin": {
-    "id": "1229",
-    "issue_date": "2026-07-10T02:15:00.000Z",
-    "updated_at": "2026-07-10T01:50:07.208Z",
-    "meteorologist": "Saroj Pudasainee",
-    "analysis_np": "हाल देशभर मनसुनी वायूको प्रभाव रहेको छ। हाल मनसुनको न्यून चापीय रेखा सरदर स्थानभन्दा केही माथि रहेको छ र आगामी दिनमा यो बिस्तारै नेपाल नजिकिँदै जाने सम्भावना रहेको छ।",
-    "analysis_en": "At present, there is the influence of monsoon wind across the country. At present, the monsoon low pressure trough is slightly above the normal location and it is likely to gradually move closer to Nepal in the days to come.",
-    "today_np": "देशभर अधिकांश बादल लाग्नेछ। देशका हिमाली भू-भागका केही स्थानमा मेघगर्जन/चट्याङ्ग सहित मध्यमसम्मको वर्षा/हिमपातको सम्भावना छ। देशका पहाडी भू-भागका धेरै स्थानमा मेघगर्जन/चट्याङ्ग सहित मध्यमसम्मको वर्षा/हिमपातको सम्भावना छ। देशका तराई भू-भागका केही स्थानमा मेघगर्जन/चट्याङ्ग सहित मध्यमसम्मको वर्षा/हिमपातको सम्भावना छ। लुम्बिनी प्रदेशको तराई भू-भाग सहित देशको पहाडी भू-भागको एक-दुई स्थानमा भारी वर्षाको सम्भावना रहेको छ ।",
-    "today_en": "The weather will be mostly cloudy throughout the country. There is a possibility of light to moderate rain/snow accompanied by thunder and lightning at some places in the Himalayan regions of the country. There is a possibility of light to moderate rain/snow accompanied by thunder and lightning at many places in the Hilly regions of the country. There is a possibility of light to moderate rain/snow accompanied by thunder and lightning at some places in the Terai regions of the country. There is also a possibility of heavy rainfall at one or two places in the Hilly regions of the country, including the Terai region of Lumbini Province.",
-    "tomorrow_np": "देशभर अधिकांश बादल लाग्नेछ। कोशी, बागमती र गण्डकी प्रदेशको पहाडी भूभागको धेरै स्थान, कोशी, बागमती र गण्डकी प्रदेशको हिमाली भूभगको केही स्थान तथा लुम्बिनी, कर्णाली र सुदूरपश्चिम प्रदेशका हिमाली भू-भागका थोरै स्थानमा मेघगर्जन/चट्याङ्ग सहित मध्यमसम्मको वर्षा/हिमपातको सम्भावना छ ।  मधेश प्रदेश साथै कोशी, बागमती, गण्डकी प्रदेशका तराई भू-भागका केही स्थानमा, लुम्बिनी र सुदूरपश्चिम  प्रदेशका पहाडी र तराई भू-भागका केही स्थानमा, कर्णाली प्रदेशका पहाडी भू-भाग भू-भागका थोरै स्थानमा मेघगर्जन/चट्याङ्ग सहित मध्यमसम्मको वर्षाको सम्भावना छ । कोशी, बागमती र गण्डकी प्रदेशको पहाडी भू-भागको थोेरै स्थानमा, मधेस सहित कोशी,बागमती गण्डकी प्रदेशको तराई भू-भाग, लुम्बिनी र सुदूरपश्चिम प्रदेशको पहाडी र तराई भू-भागको एक-दुई स्थानमा भारी देखि धेरै भारी वर्षाको सम्भावना रहेको छ ।",
-    "tomorrow_en": "The weather will be mostly cloudy throughout the country. There is a possibility of light to moderate rain/snow accompanied by thunder and lightning at many places in the Hilly regions of Koshi, Bagmati, and Gandaki Provinces, at some places in the Himalayan regions of Koshi, Bagmati, and Gandaki Provinces, and at a few places in the Himalayan regions of Lumbini, Karnali, and Sudurpashchim Provinces. There is a possibility of light to moderate rain accompanied by thunder and lightning at some places in Madhesh Province, as well as in the Terai regions of Koshi, Bagmati, and Gandaki Provinces; at some places in the Hilly and Terai regions of Lumbini and Sudurpashchim Provinces; and at a few places in the Hilly regions of Karnali Province. There is a possibility of heavy to very heavy rainfall at a few places in the Hilly regions of Koshi, Bagmati, and Gandaki Provinces, and at one or two places in the Terai regions of Koshi, Bagmati, and Gandaki Provinces (including Madhesh), as well as in the Hilly and Terai regions of Lumbini and Sudurpashchim Provinces.",
+    "id": "1230",
+    "issue_date": "2026-07-10T12:15:00.000Z",
+    "updated_at": "2026-07-10T11:47:22.056Z",
+    "meteorologist": "Binu Maharjan",
+    "analysis_np": "हाल देशभर मनसुनी वायूको प्रभाव रहेको छ। हाल मनसुनको न्यून चापीय रेखा सरदर स्थानभन्दा केही माथि रहेको छ।",
+    "analysis_en": "The weather is generally cloudy across the country. Light to moderate rainfall is currently occurring at a few places in Koshi, Bagmati, Gandaki, Lumbini, Karnali, and Sudurpashchim Provinces, and at one or two places in Madhesh Province.",
+    "today_np": "देशभर अधिकांश बादल लाग्नेछ।कोशी, बागमती र गण्डकी प्रदेशको हिमाली भू-भागको केही स्थान तथा लुम्बिनी, कर्णाली र सुदूरपश्चिम प्रदेशका हिमाली भू-भागका थोरै स्थानमा मेघगर्जन/चट्याङ्ग सहित मध्यमसम्मको वर्षा/हिमपातको सम्भावना छ । मधेश प्रदेश साथै कोशी, बागमती र गण्डकी प्रदेशको पहाडी र तराई भू-भागको धेरै स्थान, लुम्बिनी र सुदूरपश्चिम  प्रदेशका पहाडी र तराई केही स्थानमा तथा कर्णाली प्रदेशका पहाडी भू-भाग भू-भागका थोरै स्थानमा मेघगर्जन/चट्याङ्ग सहित मध्यमसम्मको वर्षाको सम्भावना छ । कोशी, बागमती र गण्डकी प्रदेशको पहाडी भू-भागको थोेरै स्थानमा, मधेश प्रदेश सहित कोशी,बागमती गण्डकी प्रदेशको तराई भू-भाग, लुम्बिनी र सुदूरपश्चिम प्रदेशको पहाडी र तराई भू-भागको एक-दुई स्थानमा भारी देखि धेरै भारी वर्षाको सम्भावना रहेको छ ।",
+    "today_en": "The country will remain mostly cloudy. There is a possibility of light to moderate rain/snow accompanied by thunder and lightning at a few places in the Himalayan regions of Koshi, Bagmati, and Gandaki Provinces, and at a few places in the Himalayan regions of Lumbini, Karnali, and Sudurpashchim Provinces. There is also a possibility of light to moderate rain accompanied by thunder and lightning at many places in Madhesh Province and the Hilly and Terai regions of Koshi, Bagmati, and Gandaki Provinces, at a few places in the Hilly and Terai regions of Lumbini and Sudurpashchim Provinces, and at a few places in the Hilly region of Karnali Province. There is a possibility of heavy to very heavy rainfall at a few places in the Hilly regions of Koshi, Bagmati, and Gandaki Provinces, and at one or two places in Madhesh Province, the Terai regions of Koshi, Bagmati, and Gandaki Provinces, and the Hilly and Terai regions of Lumbini and Sudurpashchim Provinces.",
+    "tomorrow_np": "देशभर अधिकांश बादल लाग्नेछ। देशका हिमाली भू-भागका केही स्थानमा मेघगर्जन/चट्याङ्ग सहित मध्यमसम्मको वर्षा/हिमपातको सम्भावना छ। देशका पहाडी भू-भागका धेरै स्थानमा मेघगर्जन/चट्याङ्ग सहित मध्यमसम्मको वर्षा/हिमपातको सम्भावना छ। देशका तराई भू-भागका केही स्थानमा मेघगर्जन/चट्याङ्ग सहित मध्यमसम्मको वर्षा/हिमपातको सम्भावना छ। कोशी, बागमती, गण्डकी, कर्णाली प्रदेशको पहाडी  भू-भाग साथै लुम्बिनी र सुदूरपश्चिम प्रदेशको पहाडी र तराई  भू-भागको एक-दुई स्थानमा भारी वर्षाको पनि सम्भावना रहेको छ ।",
+    "tomorrow_en": "The country will remain mostly cloudy. There is a possibility of light to moderate rain/snow accompanied by thunder and lightning at a few places in the Himalayan region, at many places in the Hilly region, and at a few places in the Terai region of the country. There is also a possibility of heavy rainfall at one or two places in the Hilly regions of Koshi, Bagmati, Gandaki, and Karnali Provinces, as well as the Hilly and Terai regions of Lumbini and Sudurpashchim Provinces.",
     "special": ""
   }
 }
