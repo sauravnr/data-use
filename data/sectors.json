@@ -1,7 +1,7 @@
 {
   "source": "sharesansar:sectorwise+today-share-price",
-  "updated_at": "2026-07-10T05:58:44Z",
-  "count": 445,
+  "updated_at": "2026-07-11T04:59:35Z",
+  "count": 448,
   "data": {
     "ACLBSL": "Microfinance",
     "ADBL": "Commercial Banks",
@@ -206,6 +206,7 @@
     "MLBBL": "Microfinance",
     "MLBL": "Development Banks",
     "MLBLD89": "Others",
+    "MLBLPO": "Promoter Shares",
     "MLBS": "Microfinance",
     "MLBSL": "Microfinance",
     "MMF1": "Mutual Funds",
@@ -327,6 +328,7 @@
     "RURU": "Others",
     "SABBL": "Development Banks",
     "SADBL": "Development Banks",
+    "SADBLP": "Promoter Shares",
     "SAEF": "Mutual Funds",
     "SAGAR": "Manufacturing and Processing",
     "SAGF": "Others",
@@ -348,6 +350,7 @@
     "SBID89": "Others",
     "SBL": "Commercial Banks",
     "SBLD2091": "Others",
+    "SBLD83": "Others",
     "SBLD84": "Others",
     "SBLD89": "Others",
     "SCB": "Commercial Banks",
