@@ -1,7 +1,7 @@
 {
   "source": "sharesansar:sectorwise+today-share-price",
-  "updated_at": "2026-07-16T04:56:14Z",
-  "count": 450,
+  "updated_at": "2026-07-17T04:59:02Z",
+  "count": 452,
   "data": {
     "ACLBSL": "Microfinance",
     "ADBL": "Commercial Banks",
@@ -103,6 +103,7 @@
     "GRDBL": "Development Banks",
     "GSY": "Mutual Funds",
     "GUFL": "Finance Companies",
+    "GUFLPO": "Promoter Shares",
     "GVL": "Others",
     "GWFD83": "Finance Companies",
     "H8020": "Mutual Funds",
@@ -400,6 +401,7 @@
     "SLHCL": "Hydropower",
     "SMATA": "Microfinance",
     "SMB": "Microfinance",
+    "SMBPO": "Promoter Shares",
     "SMFBS": "Microfinance",
     "SMH": "Hydropower",
     "SMHL": "Hydropower",
