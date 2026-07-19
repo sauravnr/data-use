@@ -1,6 +1,6 @@
 {
   "currency": "NPR",
-  "as_of_date": "2026-07-18",
+  "as_of_date": "2026-07-19",
   "rates": [
     {
       "iso3": "INR",
@@ -202,5 +202,5 @@
     }
   ],
   "source": "NRB",
-  "updated_at": "2026-07-18T22:34:48Z"
+  "updated_at": "2026-07-19T01:15:10Z"
 }
