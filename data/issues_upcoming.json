@@ -1242,6 +1242,16 @@
     ],
     "bondsAndDeb": [
       {
+        "symbol": "LSD2092",
+        "company": "7% Laxmi Sunrise Debenture 2092",
+        "units": "3000000",
+        "price": "1000",
+        "openingDate": "2026-07-30",
+        "closingDate": "2026-08-04",
+        "status": "Coming Soon",
+        "manager": "Machapuchhre Capital Limited"
+      },
+      {
         "symbol": "PBD93",
         "company": "6.25% Prime Bank Debenture 2093",
         "units": "3000000",
@@ -1480,16 +1490,6 @@
         "closingDate": "2022-12-29",
         "status": "Closed",
         "manager": "NIBL Ace Capital Ltd."
-      },
-      {
-        "symbol": "KBLD89",
-        "company": "11% KBL Debenture 2089",
-        "units": "3000000",
-        "price": "1000",
-        "openingDate": "2022-09-02",
-        "closingDate": "2022-09-16",
-        "status": "Closed",
-        "manager": "Siddhartha Capital Ltd."
       }
     ],
     "ipomigrant": [
@@ -1746,5 +1746,5 @@
     ]
   },
   "source": "ShareSansar",
-  "updated_at": "2026-07-21T05:16:11Z"
+  "updated_at": "2026-07-21T08:01:53Z"
 }
