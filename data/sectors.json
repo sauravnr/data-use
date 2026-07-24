@@ -1,7 +1,7 @@
 {
   "source": "sharesansar:sectorwise+today-share-price",
-  "updated_at": "2026-07-23T05:20:20Z",
-  "count": 453,
+  "updated_at": "2026-07-24T05:16:05Z",
+  "count": 454,
   "data": {
     "ACLBSL": "Microfinance",
     "ACLBSLP": "Promoter Shares",
@@ -176,6 +176,7 @@
     "LICN": "Life Insurance",
     "LLBS": "Microfinance",
     "LSL": "Commercial Banks",
+    "LSLPO": "Promoter Shares",
     "LUK": "Mutual Funds",
     "LVF2": "Mutual Funds",
     "MABEL": "Hydropower",
