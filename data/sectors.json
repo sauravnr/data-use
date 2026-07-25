@@ -1,7 +1,7 @@
 {
   "source": "sharesansar:sectorwise+today-share-price",
-  "updated_at": "2026-07-24T05:16:05Z",
-  "count": 454,
+  "updated_at": "2026-07-25T05:10:32Z",
+  "count": 455,
   "data": {
     "ACLBSL": "Microfinance",
     "ACLBSLP": "Promoter Shares",
@@ -102,6 +102,7 @@
     "GMFIL": "Finance Companies",
     "GMLI": "Life Insurance",
     "GRDBL": "Development Banks",
+    "GRDBLP": "Promoter Shares",
     "GSY": "Mutual Funds",
     "GUFL": "Finance Companies",
     "GUFLPO": "Promoter Shares",
