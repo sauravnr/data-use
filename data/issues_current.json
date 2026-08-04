@@ -1,17 +1,17 @@
 {
   "source": "CDSC",
-  "updated_at": "2026-08-04T08:12:18Z",
+  "updated_at": "2026-08-04T11:52:45Z",
   "data": [
     {
       "company": "7% Laxmi Sunrise Debenture 2092 - LSBD2092 (IPO - For General Public)",
       "manager": "MACHHAPUCHCHHRE CAPITAL LIMITED",
       "units": "1140000",
-      "applicants": "7390",
-      "appliedUnits": "1055426",
-      "amount": "1055426000",
+      "applicants": "9253",
+      "appliedUnits": "1548224",
+      "amount": "1548224000",
       "openingDate": "2026-07-30",
-      "closingDate": "2026-08-04",
-      "lastUpdate": "2026-08-03 17:14:56"
+      "closingDate": "2026-08-05",
+      "lastUpdate": "2026-08-04 15:53:32"
     }
   ]
 }
