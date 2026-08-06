@@ -1248,7 +1248,7 @@
         "price": "1000",
         "openingDate": "2026-07-30",
         "closingDate": "2026-08-05",
-        "status": "Open",
+        "status": "Closed",
         "manager": "Machapuchhre Capital Limited"
       },
       {
@@ -1746,5 +1746,5 @@
     ]
   },
   "source": "ShareSansar",
-  "updated_at": "2026-08-05T22:46:05Z"
+  "updated_at": "2026-08-06T01:11:43Z"
 }
