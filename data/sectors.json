@@ -1,7 +1,7 @@
 {
   "source": "sharesansar:sectorwise+today-share-price",
-  "updated_at": "2026-08-05T05:10:08Z",
-  "count": 456,
+  "updated_at": "2026-08-06T05:12:08Z",
+  "count": 457,
   "data": {
     "ACLBSL": "Microfinance",
     "ACLBSLP": "Promoter Shares",
@@ -365,6 +365,7 @@
     "SDBD87": "Others",
     "SDBL": "Development Banks",
     "SEF": "Mutual Funds",
+    "SEF2": "Mutual Funds",
     "SFCL": "Finance Companies",
     "SFEF": "Others",
     "SFMF": "Mutual Funds",
