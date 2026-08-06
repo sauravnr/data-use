@@ -2,17 +2,17 @@
   "currency": "NPR",
   "unit_fuel": "per liter",
   "unit_lpg": "per cylinder",
-  "effective": "2026-08-05 12:30:05.000000",
+  "effective": "2026-08-06 10:30:05.000000",
   "zones": {
     "kathmandu": {
       "label": "Kathmandu / Pokhara / Dipayal",
       "cities": [
         "Kathmandu, Pokhara, Dipayal"
       ],
-      "petrol": 197.0,
-      "diesel": 195.0,
-      "kerosene": 195.0,
-      "jet_a1": 229.0,
+      "petrol": 200.0,
+      "diesel": 200.0,
+      "kerosene": 200.0,
+      "jet_a1": 249.0,
       "lpg": 2060.0
     },
     "terai": {
@@ -21,7 +21,7 @@
         "Charali, Biratnagar, Mahendranagar (Dhanusa), Birgunj, Amlekhjung, Bhalbari, Nepalgung, Dhangadi"
       ],
       "petrol": 197.5,
-      "diesel": 197.0,
+      "diesel": 197.5,
       "kerosene": 197.5,
       "jet_a1": 249.0,
       "lpg": 2060.0
@@ -39,5 +39,5 @@
     }
   },
   "source": "NepaliPatro NOC API",
-  "updated_at": "2026-08-06T01:11:18Z"
+  "updated_at": "2026-08-06T04:50:49Z"
 }
