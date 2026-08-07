@@ -1,6 +1,6 @@
 {
   "currency": "NPR",
-  "as_of_date": "2026-08-06",
+  "as_of_date": "2026-08-07",
   "rates": [
     {
       "iso3": "INR",
@@ -8,8 +8,8 @@
       "name_ne": "भारतीय रुपैयाँ",
       "country": "IN",
       "unit": 100,
-      "buy": null,
-      "sell": null
+      "buy": 160.0,
+      "sell": 160.15
     },
     {
       "iso3": "USD",
@@ -17,8 +17,8 @@
       "name_ne": "अमेरिकी डलर",
       "country": "US",
       "unit": 1,
-      "buy": null,
-      "sell": null
+      "buy": 152.06,
+      "sell": 152.66
     },
     {
       "iso3": "EUR",
@@ -26,8 +26,8 @@
       "name_ne": "युरो",
       "country": "EU",
       "unit": 1,
-      "buy": null,
-      "sell": null
+      "buy": 175.45,
+      "sell": 176.14
     },
     {
       "iso3": "GBP",
@@ -35,8 +35,8 @@
       "name_ne": "बेलायती पाउण्ड",
       "country": "GB",
       "unit": 1,
-      "buy": null,
-      "sell": null
+      "buy": 204.62,
+      "sell": 205.43
     },
     {
       "iso3": "CHF",
@@ -44,8 +44,8 @@
       "name_ne": "स्विस फ्रांक",
       "country": "CH",
       "unit": 1,
-      "buy": null,
-      "sell": null
+      "buy": 187.83,
+      "sell": 188.57
     },
     {
       "iso3": "AUD",
@@ -53,8 +53,8 @@
       "name_ne": "अष्ट्रेलियन डलर",
       "country": "AU",
       "unit": 1,
-      "buy": null,
-      "sell": null
+      "buy": 107.08,
+      "sell": 107.5
     },
     {
       "iso3": "CAD",
@@ -62,8 +62,8 @@
       "name_ne": "क्यानेडियन डलर",
       "country": "CA",
       "unit": 1,
-      "buy": null,
-      "sell": null
+      "buy": 108.53,
+      "sell": 108.96
     },
     {
       "iso3": "SGD",
@@ -71,8 +71,8 @@
       "name_ne": "सिंगापुरी डलर",
       "country": "SG",
       "unit": 1,
-      "buy": null,
-      "sell": null
+      "buy": 118.6,
+      "sell": 119.07
     },
     {
       "iso3": "JPY",
@@ -80,8 +80,8 @@
       "name_ne": "जापानी येन",
       "country": "JP",
       "unit": 10,
-      "buy": null,
-      "sell": null
+      "buy": 9.63,
+      "sell": 9.67
     },
     {
       "iso3": "CNY",
@@ -89,8 +89,8 @@
       "name_ne": "चिनियाँ युआन",
       "country": "CN",
       "unit": 1,
-      "buy": null,
-      "sell": null
+      "buy": 22.53,
+      "sell": 22.62
     },
     {
       "iso3": "SAR",
@@ -98,8 +98,8 @@
       "name_ne": "साउदी रियाल",
       "country": "SA",
       "unit": 1,
-      "buy": null,
-      "sell": null
+      "buy": 40.49,
+      "sell": 40.65
     },
     {
       "iso3": "QAR",
@@ -107,8 +107,8 @@
       "name_ne": "कतारी रियाल",
       "country": "QA",
       "unit": 1,
-      "buy": null,
-      "sell": null
+      "buy": 41.71,
+      "sell": 41.87
     },
     {
       "iso3": "THB",
@@ -116,8 +116,8 @@
       "name_ne": "थाई बाहत",
       "country": "TH",
       "unit": 1,
-      "buy": null,
-      "sell": null
+      "buy": 4.6,
+      "sell": 4.62
     },
     {
       "iso3": "AED",
@@ -125,8 +125,8 @@
       "name_ne": "युएई दिर्हाम",
       "country": "AE",
       "unit": 1,
-      "buy": null,
-      "sell": null
+      "buy": 41.4,
+      "sell": 41.57
     },
     {
       "iso3": "MYR",
@@ -134,8 +134,8 @@
       "name_ne": "मलेसियन रिंगिट",
       "country": "MY",
       "unit": 1,
-      "buy": null,
-      "sell": null
+      "buy": 37.18,
+      "sell": 37.33
     },
     {
       "iso3": "KRW",
@@ -143,8 +143,8 @@
       "name_ne": "कोरियन वोन",
       "country": "KR",
       "unit": 100,
-      "buy": null,
-      "sell": null
+      "buy": 10.67,
+      "sell": 10.72
     },
     {
       "iso3": "SEK",
@@ -152,8 +152,8 @@
       "name_ne": "स्विडिश क्रोनर",
       "country": "SE",
       "unit": 1,
-      "buy": null,
-      "sell": null
+      "buy": 16.05,
+      "sell": 16.11
     },
     {
       "iso3": "DKK",
@@ -161,8 +161,8 @@
       "name_ne": "डेनिस क्रोनर",
       "country": "DK",
       "unit": 1,
-      "buy": null,
-      "sell": null
+      "buy": 23.47,
+      "sell": 23.56
     },
     {
       "iso3": "HKD",
@@ -170,8 +170,8 @@
       "name_ne": "हङकङ डलर",
       "country": "HK",
       "unit": 1,
-      "buy": null,
-      "sell": null
+      "buy": 19.38,
+      "sell": 19.46
     },
     {
       "iso3": "KWD",
@@ -179,8 +179,8 @@
       "name_ne": "कुवेती दिनार",
       "country": "KW",
       "unit": 1,
-      "buy": null,
-      "sell": null
+      "buy": 495.15,
+      "sell": 497.1
     },
     {
       "iso3": "BHD",
@@ -188,8 +188,8 @@
       "name_ne": "बहरेनी दिनार",
       "country": "BH",
       "unit": 1,
-      "buy": null,
-      "sell": null
+      "buy": 403.29,
+      "sell": 404.88
     },
     {
       "iso3": "OMR",
@@ -197,10 +197,10 @@
       "name_ne": "ओमानी रियाल",
       "country": "OM",
       "unit": 1,
-      "buy": null,
-      "sell": null
+      "buy": 394.95,
+      "sell": 396.5
     }
   ],
   "source": "NRB",
-  "updated_at": "2026-08-06T22:38:32Z"
+  "updated_at": "2026-08-07T01:55:14Z"
 }
