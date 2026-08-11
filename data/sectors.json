@@ -1,7 +1,7 @@
 {
   "source": "sharesansar:sectorwise+today-share-price",
-  "updated_at": "2026-08-10T03:47:41Z",
-  "count": 462,
+  "updated_at": "2026-08-11T03:37:44Z",
+  "count": 464,
   "data": {
     "ACLBSL": "Microfinance",
     "ACLBSLP": "Promoter Shares",
@@ -254,6 +254,7 @@
     "NIBSF2": "Mutual Funds",
     "NICA": "Commercial Banks",
     "NICAD2091": "Others",
+    "NICAP": "Promoter Shares",
     "NICBF": "Mutual Funds",
     "NICD88": "Others",
     "NICFC": "Others",
@@ -335,6 +336,7 @@
     "RSDC": "Microfinance",
     "RSML": "Manufacturing and Processing",
     "RSY": "Mutual Funds",
+    "RSY2": "Mutual Funds",
     "RURU": "Others",
     "SABBL": "Development Banks",
     "SADBL": "Development Banks",
