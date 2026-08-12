@@ -12,7 +12,7 @@
         "manager": "NIMB Ace Capital Limited"
       },
       {
-        "symbol": "SARVOTTAM",
+        "symbol": "SAPIL",
         "company": "Sarvottam Paints Industries Limited",
         "units": "705500",
         "price": "100",
@@ -1494,7 +1494,7 @@
     ],
     "ipomigrant": [
       {
-        "symbol": "SARVOTTAM",
+        "symbol": "SAPIL",
         "company": "Sarvottam Paints Industries Limited",
         "units": "85000",
         "price": "100",
@@ -1746,5 +1746,5 @@
     ]
   },
   "source": "ShareSansar",
-  "updated_at": "2026-08-12T05:21:00Z"
+  "updated_at": "2026-08-12T07:02:02Z"
 }
