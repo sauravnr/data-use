@@ -1,7 +1,7 @@
 {
   "source": "sharesansar:sectorwise+today-share-price",
-  "updated_at": "2026-08-12T04:00:40Z",
-  "count": 464,
+  "updated_at": "2026-08-13T04:05:21Z",
+  "count": 466,
   "data": {
     "ACLBSL": "Microfinance",
     "ACLBSLP": "Promoter Shares",
@@ -201,6 +201,7 @@
     "MEHL": "Hydropower",
     "MEL": "Hydropower",
     "MEN": "Hydropower",
+    "MEPDL": "Hydropower",
     "MERO": "Microfinance",
     "MFIL": "Finance Companies",
     "MFLD85": "Finance Companies",
@@ -315,6 +316,7 @@
     "PROFLP": "Promoter Shares",
     "PRSF": "Others",
     "PRVU": "Commercial Banks",
+    "PRVUPO": "Promoter Shares",
     "PSF": "Mutual Funds",
     "PURE": "Others",
     "RADHI": "Others",
