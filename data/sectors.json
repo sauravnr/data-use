@@ -1,7 +1,7 @@
 {
   "source": "sharesansar:sectorwise+today-share-price",
-  "updated_at": "2026-08-13T04:05:21Z",
-  "count": 466,
+  "updated_at": "2026-08-14T04:01:30Z",
+  "count": 467,
   "data": {
     "ACLBSL": "Microfinance",
     "ACLBSLP": "Promoter Shares",
@@ -354,6 +354,7 @@
     "SANIMA": "Commercial Banks",
     "SANVI": "Hydropower",
     "SAPDBL": "Development Banks",
+    "SAPIL": "Manufacturing and Processing",
     "SARBTM": "Manufacturing and Processing",
     "SBCF": "Mutual Funds",
     "SBD87": "Others",
