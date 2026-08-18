@@ -1,7 +1,7 @@
 {
   "source": "sharesansar:sectorwise+today-share-price",
-  "updated_at": "2026-08-17T02:54:12Z",
-  "count": 468,
+  "updated_at": "2026-08-18T02:50:55Z",
+  "count": 469,
   "data": {
     "ACLBSL": "Microfinance",
     "ACLBSLP": "Promoter Shares",
@@ -199,6 +199,7 @@
     "MBWLB": "Microfinance",
     "MCHL": "Hydropower",
     "MDB": "Development Banks",
+    "MDBPO": "Promoter Shares",
     "MEHL": "Hydropower",
     "MEL": "Hydropower",
     "MEN": "Hydropower",
