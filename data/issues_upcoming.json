@@ -2,6 +2,16 @@
   "categories": {
     "ipo": [
       {
+        "symbol": "BENI",
+        "company": "Beni Hydropower Project Limited",
+        "units": "863200",
+        "price": "100",
+        "openingDate": "2026-09-07",
+        "closingDate": "2026-09-10",
+        "status": "Coming Soon",
+        "manager": "NMB Capital Limited"
+      },
+      {
         "symbol": "MEPDL",
         "company": "Mount Everest Power Development Limited",
         "units": "1427600",
@@ -240,16 +250,6 @@
         "closingDate": "2025-09-21",
         "status": "Closed",
         "manager": "Muktinath Capital Limited"
-      },
-      {
-        "symbol": "JHAPA",
-        "company": "Jhapa Energy Limited",
-        "units": "473336",
-        "price": "100",
-        "openingDate": "2025-09-05",
-        "closingDate": "2025-09-15",
-        "status": "Closed",
-        "manager": "Himalayan Capital Limited"
       }
     ],
     "fpo": [
@@ -1746,5 +1746,5 @@
     ]
   },
   "source": "ShareSansar",
-  "updated_at": "2026-08-25T04:25:59Z"
+  "updated_at": "2026-08-25T06:22:15Z"
 }
