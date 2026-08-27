@@ -1,7 +1,7 @@
 {
   "source": "sharesansar:sectorwise+today-share-price",
-  "updated_at": "2026-08-26T02:58:50Z",
-  "count": 469,
+  "updated_at": "2026-08-27T12:15:34Z",
+  "count": 470,
   "data": {
     "ACLBSL": "Microfinance",
     "ACLBSLP": "Promoter Shares",
@@ -352,6 +352,7 @@
     "SAHAS": "Hydropower",
     "SAIL": "Manufacturing and Processing",
     "SALICO": "Non-Life Insurance",
+    "SALICOPO": "Promoter Shares",
     "SAND2085": "Others",
     "SANIMA": "Commercial Banks",
     "SANVI": "Hydropower",
