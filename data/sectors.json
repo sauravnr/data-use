@@ -1,7 +1,7 @@
 {
   "source": "sharesansar:sectorwise+today-share-price",
-  "updated_at": "2026-09-01T07:05:46Z",
-  "count": 470,
+  "updated_at": "2026-09-02T06:43:07Z",
+  "count": 471,
   "data": {
     "ACLBSL": "Microfinance",
     "ACLBSLP": "Promoter Shares",
@@ -116,6 +116,7 @@
     "HBL": "Commercial Banks",
     "HBLD83": "Others",
     "HBLD86": "Others",
+    "HBLPO": "Promoter Shares",
     "HDHPC": "Hydropower",
     "HDL": "Manufacturing and Processing",
     "HDPC": "Hydropower",
