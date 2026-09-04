@@ -1,7 +1,7 @@
 {
   "source": "sharesansar:sectorwise+today-share-price",
-  "updated_at": "2026-09-03T06:45:35Z",
-  "count": 471,
+  "updated_at": "2026-09-04T06:50:37Z",
+  "count": 472,
   "data": {
     "ACLBSL": "Microfinance",
     "ACLBSLP": "Promoter Shares",
@@ -45,6 +45,7 @@
     "BUNGAL": "Hydropower",
     "C30MF": "Mutual Funds",
     "CBBL": "Microfinance",
+    "CBBLPO": "Promoter Shares",
     "CBLD88": "Others",
     "CCBD88": "Others",
     "CFCL": "Finance Companies",
