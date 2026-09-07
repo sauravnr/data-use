@@ -8,7 +8,7 @@
         "price": "100",
         "openingDate": "2026-09-07",
         "closingDate": "2026-09-10",
-        "status": "Coming Soon",
+        "status": "Open",
         "manager": "NMB Capital Limited"
       },
       {
@@ -1746,5 +1746,5 @@
     ]
   },
   "source": "ShareSansar",
-  "updated_at": "2026-09-06T23:17:44Z"
+  "updated_at": "2026-09-07T01:24:26Z"
 }
