@@ -738,6 +738,26 @@
     ],
     "mutualfund": [
       {
+        "symbol": "EOQ",
+        "company": "NIC ASIA Equity Opportunity Fund",
+        "units": "80000000",
+        "price": "10",
+        "openingDate": "2026-09-23",
+        "closingDate": "2026-09-29",
+        "status": "Coming Soon",
+        "manager": "NIC Asia Capital Limited"
+      },
+      {
+        "symbol": "MNMF2",
+        "company": "Muktinath Mutual Fund 2",
+        "units": "100000000",
+        "price": "10",
+        "openingDate": "2026-09-17",
+        "closingDate": "2026-09-22",
+        "status": "Coming Soon",
+        "manager": "Muktinath Capital Limited"
+      },
+      {
         "symbol": "LSH12",
         "company": "LS Horizon 12",
         "units": "120000000",
@@ -966,26 +986,6 @@
         "closingDate": "2024-01-30",
         "status": "Closed",
         "manager": "NIMB Ace Capital Limited"
-      },
-      {
-        "symbol": "NICGF2",
-        "company": "NIC Asia Growth Fund 2",
-        "units": "100000000",
-        "price": "10",
-        "openingDate": "2023-11-20",
-        "closingDate": "2023-12-04",
-        "status": "Closed",
-        "manager": "Nic Asia Capital Ltd."
-      },
-      {
-        "symbol": "H8020",
-        "company": "Himalayan 80-20",
-        "units": "100000000",
-        "price": "10",
-        "openingDate": "2023-08-17",
-        "closingDate": "2023-09-01",
-        "status": "Closed",
-        "manager": "Himalayan Capital Limited"
       }
     ],
     "ipolocal": [
@@ -1746,5 +1746,5 @@
     ]
   },
   "source": "ShareSansar",
-  "updated_at": "2026-09-07T01:24:26Z"
+  "updated_at": "2026-09-07T06:40:52Z"
 }
