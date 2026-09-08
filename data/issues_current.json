@@ -1,17 +1,17 @@
 {
   "source": "CDSC",
-  "updated_at": "2026-09-08T01:33:48Z",
+  "updated_at": "2026-09-08T06:35:50Z",
   "data": [
     {
       "company": "Beni Hydropower Project Limited - BENI (IPO - For General Public)",
       "manager": "NMB CAPITAL LIMITED",
       "units": "863200",
-      "applicants": "664070",
-      "appliedUnits": "7706210",
-      "amount": "770621000",
+      "applicants": "957368",
+      "appliedUnits": "11224970",
+      "amount": "1122497000",
       "openingDate": "2026-09-07",
       "closingDate": "2026-09-11",
-      "lastUpdate": "2026-09-07 17:15:17"
+      "lastUpdate": "2026-09-08 09:15:11"
     }
   ]
 }
