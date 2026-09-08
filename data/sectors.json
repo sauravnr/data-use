@@ -1,7 +1,7 @@
 {
   "source": "sharesansar:sectorwise+today-share-price",
-  "updated_at": "2026-09-07T06:54:33Z",
-  "count": 472,
+  "updated_at": "2026-09-08T06:49:44Z",
+  "count": 473,
   "data": {
     "ACLBSL": "Microfinance",
     "ACLBSLP": "Promoter Shares",
@@ -148,6 +148,7 @@
     "JALPA": "Microfinance",
     "JBBD87": "Others",
     "JBBL": "Development Banks",
+    "JBBLPO": "Promoter Shares",
     "JBLB": "Microfinance",
     "JFL": "Finance Companies",
     "JHAPA": "Others",
