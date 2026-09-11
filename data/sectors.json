@@ -1,7 +1,7 @@
 {
   "source": "sharesansar:sectorwise+today-share-price",
-  "updated_at": "2026-09-10T06:55:08Z",
-  "count": 473,
+  "updated_at": "2026-09-11T06:54:48Z",
+  "count": 474,
   "data": {
     "ACLBSL": "Microfinance",
     "ACLBSLP": "Promoter Shares",
@@ -303,6 +303,7 @@
     "PBD84": "Others",
     "PBD85": "Others",
     "PBD88": "Others",
+    "PBD93": "Others",
     "PBLD84": "Commercial Banks",
     "PBLD86": "Others",
     "PBLD87": "Commercial Banks",
