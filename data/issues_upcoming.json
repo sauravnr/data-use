@@ -754,7 +754,7 @@
         "price": "10",
         "openingDate": "2026-09-17",
         "closingDate": "2026-09-22",
-        "status": "Coming Soon",
+        "status": "Open",
         "manager": "Muktinath Capital Limited"
       },
       {
@@ -1746,5 +1746,5 @@
     ]
   },
   "source": "ShareSansar",
-  "updated_at": "2026-09-16T23:55:48Z"
+  "updated_at": "2026-09-17T01:54:29Z"
 }
