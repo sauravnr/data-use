@@ -1,7 +1,7 @@
 {
   "source": "sharesansar:sectorwise+today-share-price",
-  "updated_at": "2026-09-17T07:01:26Z",
-  "count": 474,
+  "updated_at": "2026-09-18T06:57:12Z",
+  "count": 475,
   "data": {
     "ACLBSL": "Microfinance",
     "ACLBSLP": "Promoter Shares",
@@ -428,6 +428,7 @@
     "SMHL": "Hydropower",
     "SMJC": "Hydropower",
     "SMPDA": "Microfinance",
+    "SMPDAP": "Promoter Shares",
     "SMUDY": "Microfinance",
     "SNLI": "Life Insurance",
     "SNORL": "Hydropower",
