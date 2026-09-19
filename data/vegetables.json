@@ -335,9 +335,9 @@
       "name_ne": "च्याउ(कन्य)",
       "name_en": "Mushroom",
       "unit": "के.जी.",
-      "min": 130.0,
+      "min": 180.0,
       "max": 230.0,
-      "avg": 180.0
+      "avg": 196.67
     },
     {
       "name_ne": "च्याउ(डल्ले)",
@@ -861,5 +861,5 @@
     }
   ],
   "source": "Kalimati Market",
-  "updated_at": "2026-09-19T01:46:09Z"
+  "updated_at": "2026-09-19T06:44:00Z"
 }
