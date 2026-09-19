@@ -1,7 +1,7 @@
 {
   "source": "sharesansar:sectorwise+today-share-price",
-  "updated_at": "2026-09-18T06:57:12Z",
-  "count": 475,
+  "updated_at": "2026-09-19T06:55:52Z",
+  "count": 476,
   "data": {
     "ACLBSL": "Microfinance",
     "ACLBSLP": "Promoter Shares",
@@ -140,6 +140,7 @@
     "ICFCD88": "Others",
     "ICFCD89": "Finance Companies",
     "IGI": "Non-Life Insurance",
+    "IGIPO": "Promoter Shares",
     "IHL": "Hydropower",
     "ILBS": "Microfinance",
     "ILBSP": "Promoter Shares",
