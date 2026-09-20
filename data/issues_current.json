@@ -1,17 +1,17 @@
 {
   "source": "CDSC",
-  "updated_at": "2026-09-20T01:48:45Z",
+  "updated_at": "2026-09-20T07:08:53Z",
   "data": [
     {
       "company": "Muktinath Mutual Fund 2 - MNMFII (IPO - For General Public)",
       "manager": "MUKTINATH CAPITAL LIMITED",
       "units": "100000000",
-      "applicants": "71397",
-      "appliedUnits": "25836250",
-      "amount": "258362500",
+      "applicants": "100045",
+      "appliedUnits": "34704670",
+      "amount": "347046700",
       "openingDate": "2026-09-17",
       "closingDate": "2026-09-22",
-      "lastUpdate": "2026-09-18 17:14:55"
+      "lastUpdate": "2026-09-20 09:15:08"
     }
   ]
 }
