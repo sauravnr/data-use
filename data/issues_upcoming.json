@@ -744,7 +744,7 @@
         "price": "10",
         "openingDate": "2026-09-23",
         "closingDate": "2026-09-29",
-        "status": "Coming Soon",
+        "status": "Open",
         "manager": "NIC Asia Capital Limited"
       },
       {
@@ -753,7 +753,7 @@
         "units": "100000000",
         "price": "10",
         "openingDate": "2026-09-17",
-        "closingDate": "2026-09-22",
+        "closingDate": "2026-10-01",
         "status": "Open",
         "manager": "Muktinath Capital Limited"
       },
@@ -1746,5 +1746,5 @@
     ]
   },
   "source": "ShareSansar",
-  "updated_at": "2026-09-22T23:53:27Z"
+  "updated_at": "2026-09-23T01:56:14Z"
 }
