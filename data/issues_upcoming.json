@@ -753,7 +753,7 @@
         "units": "100000000",
         "price": "10",
         "openingDate": "2026-09-17",
-        "closingDate": "2026-10-01",
+        "closingDate": "2026-09-24",
         "status": "Open",
         "manager": "Muktinath Capital Limited"
       },
@@ -1746,5 +1746,5 @@
     ]
   },
   "source": "ShareSansar",
-  "updated_at": "2026-09-24T00:02:46Z"
+  "updated_at": "2026-09-24T06:50:06Z"
 }
