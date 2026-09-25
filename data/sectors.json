@@ -1,7 +1,7 @@
 {
   "source": "sharesansar:sectorwise+today-share-price",
-  "updated_at": "2026-09-24T07:03:38Z",
-  "count": 476,
+  "updated_at": "2026-09-25T06:59:43Z",
+  "count": 477,
   "data": {
     "ACLBSL": "Microfinance",
     "ACLBSLP": "Promoter Shares",
@@ -238,6 +238,7 @@
     "NABIL": "Commercial Banks",
     "NABILD2089": "Others",
     "NABILD87": "Others",
+    "NABILP": "Promoter Shares",
     "NADEP": "Microfinance",
     "NBBD2085": "Others",
     "NBF2": "Mutual Funds",
