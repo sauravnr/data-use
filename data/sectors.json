@@ -1,7 +1,7 @@
 {
   "source": "sharesansar:sectorwise+today-share-price",
-  "updated_at": "2026-09-28T08:05:44Z",
-  "count": 477,
+  "updated_at": "2026-09-29T07:46:31Z",
+  "count": 479,
   "data": {
     "ACLBSL": "Microfinance",
     "ACLBSLP": "Promoter Shares",
@@ -183,6 +183,7 @@
     "LEC": "Hydropower",
     "LICN": "Life Insurance",
     "LLBS": "Microfinance",
+    "LSD92": "Others",
     "LSH12": "Mutual Funds",
     "LSL": "Commercial Banks",
     "LSLPO": "Promoter Shares",
@@ -378,6 +379,7 @@
     "SBLD83": "Others",
     "SBLD84": "Others",
     "SBLD89": "Others",
+    "SBLPO": "Promoter Shares",
     "SCB": "Commercial Banks",
     "SCBD": "Others",
     "SDBD87": "Others",
