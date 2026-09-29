@@ -1,6 +1,6 @@
 {
   "source": "CDSC",
-  "updated_at": "2026-09-28T23:59:48Z",
+  "updated_at": "2026-09-29T04:15:05Z",
   "data": [
     {
       "company": "Muktinath Mutual Fund 2 - MNMFII (IPO - For General Public)",
@@ -17,12 +17,12 @@
       "company": "NIC Asia Equity Opportunity Fund - NICEOF (IPO - For General Public)",
       "manager": "NIC ASIA CAPITAL LIMITED",
       "units": "68000000",
-      "applicants": "37479",
-      "appliedUnits": "69417800",
-      "amount": "694178000",
+      "applicants": "39346",
+      "appliedUnits": "70968100",
+      "amount": "709681000",
       "openingDate": "2026-09-23",
       "closingDate": "2026-09-29",
-      "lastUpdate": "2026-09-28 17:15:07"
+      "lastUpdate": "2026-09-29 09:15:07"
     }
   ]
 }
