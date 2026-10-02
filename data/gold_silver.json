@@ -1,13 +1,13 @@
 {
   "currency": "NPR",
   "rates": {
-    "fine_gold_per_tola": 293300,
-    "fine_gold_per_10g": 251462,
-    "silver_per_tola": 4425,
-    "silver_per_10g": 3794,
-    "tejabi_gold_per_tola": 292600,
-    "tejabi_gold_per_10g": 250862
+    "fine_gold_per_tola": 294800,
+    "fine_gold_per_10g": 252748,
+    "silver_per_tola": 4450,
+    "silver_per_10g": 3815,
+    "tejabi_gold_per_tola": 294100,
+    "tejabi_gold_per_10g": 252148
   },
   "source": "ShareSansar",
-  "updated_at": "2026-10-02T01:06:56Z"
+  "updated_at": "2026-10-02T07:35:05Z"
 }
