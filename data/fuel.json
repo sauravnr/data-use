@@ -2,7 +2,7 @@
   "currency": "NPR",
   "unit_fuel": "per liter",
   "unit_lpg": "per cylinder",
-  "effective": "2026-09-30 12:30:05.000000",
+  "effective": "2026-10-06 12:30:05.000000",
   "zones": {
     "kathmandu": {
       "label": "Kathmandu / Pokhara / Dipayal",
@@ -39,5 +39,5 @@
     }
   },
   "source": "NepaliPatro NOC API",
-  "updated_at": "2026-10-06T03:25:15Z"
+  "updated_at": "2026-10-06T08:26:10Z"
 }

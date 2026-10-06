@@ -1242,6 +1242,16 @@
     ],
     "bondsAndDeb": [
       {
+        "symbol": "RBBLD89",
+        "company": "6% RBBL Debenture 2089",
+        "units": "3000000",
+        "price": "1000",
+        "openingDate": "2026-10-15",
+        "closingDate": "2026-10-27",
+        "status": "Coming Soon",
+        "manager": "Kumari Capital Limited"
+      },
+      {
         "symbol": "LSD92",
         "company": "7% Laxmi Sunrise Debenture 2092",
         "units": "3000000",
@@ -1480,16 +1490,6 @@
         "closingDate": "2023-01-23",
         "status": "Closed",
         "manager": "Laxmi Capital Market"
-      },
-      {
-        "symbol": "NIFRAUR85/86",
-        "company": "7% NIFRA Urja Rinpatra 2085/86",
-        "units": "5000000",
-        "price": "1000",
-        "openingDate": "2022-12-15",
-        "closingDate": "2022-12-29",
-        "status": "Closed",
-        "manager": "NIBL Ace Capital Ltd."
       }
     ],
     "ipomigrant": [
@@ -1746,5 +1746,5 @@
     ]
   },
   "source": "ShareSansar",
-  "updated_at": "2026-10-06T03:25:39Z"
+  "updated_at": "2026-10-06T08:26:39Z"
 }
