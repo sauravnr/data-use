@@ -1,7 +1,7 @@
 {
   "source": "sharesansar:sectorwise+today-share-price",
-  "updated_at": "2026-10-08T08:17:42Z",
-  "count": 481,
+  "updated_at": "2026-10-09T08:19:21Z",
+  "count": 482,
   "data": {
     "ACLBSL": "Microfinance",
     "ACLBSLP": "Promoter Shares",
@@ -456,6 +456,7 @@
     "SWASTIK": "Microfinance",
     "SWBBL": "Microfinance",
     "SWMF": "Microfinance",
+    "SWMFPO": "Promoter Shares",
     "SYPNL": "Manufacturing and Processing",
     "TAKSAR": "Hydropower",
     "TAMOR": "Hydropower",
