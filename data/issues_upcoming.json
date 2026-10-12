@@ -990,6 +990,16 @@
     ],
     "ipolocal": [
       {
+        "symbol": "HPHL",
+        "company": "Him Parbat Hydropower Limited",
+        "units": "1690000",
+        "price": "100",
+        "openingDate": "2026-10-28",
+        "closingDate": "2026-11-11",
+        "status": "Coming Soon",
+        "manager": "Citizens Capital Limited"
+      },
+      {
         "symbol": "MEPDL",
         "company": "Mount Everest Power Development Limited",
         "units": "860000",
@@ -1228,16 +1238,6 @@
         "closingDate": "2025-06-27",
         "status": "Closed",
         "manager": "NIC Asia Capital Limited"
-      },
-      {
-        "symbol": "BHCL",
-        "company": "Bikash Hydropower Company Limited",
-        "units": "909101",
-        "price": "100",
-        "openingDate": "2025-05-20",
-        "closingDate": "2025-06-03",
-        "status": "Closed",
-        "manager": "Prabhu Capital Ltd."
       }
     ],
     "bondsAndDeb": [
@@ -1494,6 +1494,16 @@
     ],
     "ipomigrant": [
       {
+        "symbol": "HPHL",
+        "company": "Him Parbat Hydropower Limited",
+        "units": "422500",
+        "price": "100",
+        "openingDate": "2026-10-28",
+        "closingDate": "2026-11-02",
+        "status": "Coming Soon",
+        "manager": "Citizens Capital Limited"
+      },
+      {
         "symbol": "SAPIL",
         "company": "Sarvottam Paints Industries Limited",
         "units": "85000",
@@ -1732,19 +1742,9 @@
         "closingDate": "2025-08-31",
         "status": "Closed",
         "manager": "Nabil Investment Banking Limited"
-      },
-      {
-        "symbol": "SAGAR",
-        "company": "Sagar Distillery Limited",
-        "units": "145200",
-        "price": "100",
-        "openingDate": "2025-08-13",
-        "closingDate": "2025-08-17",
-        "status": "Closed",
-        "manager": "Muktinath Capital Limited"
       }
     ]
   },
   "source": "ShareSansar",
-  "updated_at": "2026-10-12T00:47:05Z"
+  "updated_at": "2026-10-12T08:08:50Z"
 }
