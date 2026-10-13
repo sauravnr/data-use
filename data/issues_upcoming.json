@@ -2,7 +2,7 @@
   "categories": {
     "ipo": [
       {
-        "symbol": "BENI",
+        "symbol": "BENH",
         "company": "Beni Hydropower Project Limited",
         "units": "863200",
         "price": "100",
@@ -779,7 +779,7 @@
       },
       {
         "symbol": "SAEF2",
-        "company": "Sanima Equity Fund II",
+        "company": "Sanima Equity Fund-2",
         "units": "100000000",
         "price": "10",
         "openingDate": "2026-05-07",
@@ -1050,7 +1050,7 @@
         "manager": "Muktinath Capital Limited"
       },
       {
-        "symbol": "BENI",
+        "symbol": "BENH",
         "company": "Beni Hydropower Project Limited",
         "units": "1040000",
         "price": "100",
@@ -1584,7 +1584,7 @@
         "manager": "LS Capital Limited"
       },
       {
-        "symbol": "BENI",
+        "symbol": "BENH",
         "company": "Beni Hydropower Project Limited",
         "units": "104000",
         "price": "100",
@@ -1746,5 +1746,5 @@
     ]
   },
   "source": "ShareSansar",
-  "updated_at": "2026-10-13T01:40:13Z"
+  "updated_at": "2026-10-13T08:34:03Z"
 }
