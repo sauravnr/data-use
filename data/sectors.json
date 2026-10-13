@@ -1,7 +1,7 @@
 {
   "source": "sharesansar:sectorwise+today-share-price",
-  "updated_at": "2026-10-12T08:25:48Z",
-  "count": 482,
+  "updated_at": "2026-10-13T08:50:24Z",
+  "count": 483,
   "data": {
     "ACLBSL": "Microfinance",
     "ACLBSLP": "Promoter Shares",
@@ -86,6 +86,7 @@
     "EHPL": "Hydropower",
     "ENL": "Investment",
     "FMDBL": "Microfinance",
+    "FMDBLP": "Promoter Shares",
     "FOWAD": "Microfinance",
     "FOWADP": "Promoter Shares",
     "GBBD85": "Others",
