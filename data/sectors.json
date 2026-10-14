@@ -1,7 +1,7 @@
 {
   "source": "sharesansar:sectorwise+today-share-price",
-  "updated_at": "2026-10-13T08:50:24Z",
-  "count": 483,
+  "updated_at": "2026-10-14T06:59:38Z",
+  "count": 484,
   "data": {
     "ACLBSL": "Microfinance",
     "ACLBSLP": "Promoter Shares",
@@ -294,6 +294,7 @@
     "NMFBSP": "Promoter Shares",
     "NMIC": "Non-Life Insurance",
     "NMLBBL": "Microfinance",
+    "NMLBBLP": "Promoter Shares",
     "NRIC": "Others",
     "NRM": "Others",
     "NRN": "Investment",
