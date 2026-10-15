@@ -1248,7 +1248,7 @@
         "price": "1000",
         "openingDate": "2026-10-15",
         "closingDate": "2026-10-27",
-        "status": "Coming Soon",
+        "status": "Open",
         "manager": "Kumari Capital Limited"
       },
       {
@@ -1746,5 +1746,5 @@
     ]
   },
   "source": "ShareSansar",
-  "updated_at": "2026-10-14T22:44:18Z"
+  "updated_at": "2026-10-15T01:57:59Z"
 }
