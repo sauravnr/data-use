@@ -1,7 +1,7 @@
 {
   "source": "sharesansar:sectorwise+today-share-price",
-  "updated_at": "2026-10-15T06:50:54Z",
-  "count": 484,
+  "updated_at": "2026-10-16T06:39:07Z",
+  "count": 485,
   "data": {
     "ACLBSL": "Microfinance",
     "ACLBSLP": "Promoter Shares",
@@ -27,6 +27,7 @@
     "BARUN": "Hydropower",
     "BBC": "Trading",
     "BEDC": "Hydropower",
+    "BENH": "Hydropower",
     "BFC": "Finance Companies",
     "BGWT": "Hydropower",
     "BHCL": "Hydropower",
