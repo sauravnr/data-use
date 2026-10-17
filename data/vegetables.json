@@ -1,7 +1,7 @@
 {
   "currency": "NPR",
   "unit_default": "per kg",
-  "count": 110,
+  "count": 112,
   "items": [
     {
       "name_ne": "गोलभेडा ठूलो(भारतीय)",
@@ -232,8 +232,8 @@
       "name_en": "Bottle gourd",
       "unit": "के.जी.",
       "min": 50.0,
-      "max": 120.0,
-      "avg": 73.33
+      "max": 60.0,
+      "avg": 55.0
     },
     {
       "name_ne": "परवर(लोकल)",
@@ -882,8 +882,24 @@
       "min": 340.0,
       "max": 370.0,
       "avg": 355.0
+    },
+    {
+      "name_ne": "ताजा माछा(बचुवा)",
+      "name_en": null,
+      "unit": "के जी",
+      "min": 300.0,
+      "max": 330.0,
+      "avg": 315.0
+    },
+    {
+      "name_ne": "ताजा माछा(छडी)",
+      "name_en": null,
+      "unit": "के जी",
+      "min": 320.0,
+      "max": 350.0,
+      "avg": 335.0
     }
   ],
   "source": "Kalimati Market",
-  "updated_at": "2026-10-17T01:42:10Z"
+  "updated_at": "2026-10-17T06:17:06Z"
 }
