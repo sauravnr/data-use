@@ -1,17 +1,17 @@
 {
   "source": "CDSC",
-  "updated_at": "2026-10-18T01:39:01Z",
+  "updated_at": "2026-10-18T06:40:09Z",
   "data": [
     {
       "company": "6% RBBL Debenture 2089 - RBBLD89 (IPO - For General Public)",
       "manager": "KUMARI CAPITAL LIMITED",
       "units": "1200000",
-      "applicants": "5173",
-      "appliedUnits": "2176502",
-      "amount": "2176502000",
+      "applicants": "5647",
+      "appliedUnits": "2263268",
+      "amount": "2263268000",
       "openingDate": "2026-10-15",
       "closingDate": "2026-10-27",
-      "lastUpdate": "2026-10-17 17:15:00"
+      "lastUpdate": "2026-10-18 09:15:00"
     }
   ]
 }
