@@ -996,7 +996,7 @@
         "price": "100",
         "openingDate": "2026-10-28",
         "closingDate": "2026-11-11",
-        "status": "Coming Soon",
+        "status": "Open",
         "manager": "Citizens Capital Limited"
       },
       {
@@ -1248,7 +1248,7 @@
         "price": "1000",
         "openingDate": "2026-10-15",
         "closingDate": "2026-10-27",
-        "status": "Open",
+        "status": "Closed",
         "manager": "Kumari Capital Limited"
       },
       {
@@ -1500,7 +1500,7 @@
         "price": "100",
         "openingDate": "2026-10-28",
         "closingDate": "2026-11-02",
-        "status": "Coming Soon",
+        "status": "Open",
         "manager": "Citizens Capital Limited"
       },
       {
@@ -1746,5 +1746,5 @@
     ]
   },
   "source": "ShareSansar",
-  "updated_at": "2026-10-27T23:17:09Z"
+  "updated_at": "2026-10-28T02:41:47Z"
 }
