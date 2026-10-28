@@ -738,6 +738,16 @@
     ],
     "mutualfund": [
       {
+        "symbol": "C50MF",
+        "company": "Citizens Super 50",
+        "units": "100000000",
+        "price": "10",
+        "openingDate": "2026-11-18",
+        "closingDate": "2026-11-23",
+        "status": "Coming Soon",
+        "manager": "Citizens Capital Limited"
+      },
+      {
         "symbol": "EOQ",
         "company": "NIC ASIA Equity Opportunity Fund",
         "units": "80000000",
@@ -976,16 +986,6 @@
         "closingDate": "2024-02-25",
         "status": "Closed",
         "manager": "Kumari Capital Ltd"
-      },
-      {
-        "symbol": "NIBLSTF",
-        "company": "NIBL Stable Fund",
-        "units": "100000000",
-        "price": "10",
-        "openingDate": "2024-01-16",
-        "closingDate": "2024-01-30",
-        "status": "Closed",
-        "manager": "NIMB Ace Capital Limited"
       }
     ],
     "ipolocal": [
@@ -1746,5 +1746,5 @@
     ]
   },
   "source": "ShareSansar",
-  "updated_at": "2026-10-28T02:41:47Z"
+  "updated_at": "2026-10-28T07:50:12Z"
 }
