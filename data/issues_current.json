@@ -1,17 +1,17 @@
 {
   "source": "CDSC",
-  "updated_at": "2026-10-29T01:19:33Z",
+  "updated_at": "2026-10-29T07:42:47Z",
   "data": [
     {
       "company": "Him Parbat Hydropower Limited - HPHL (RESERVED - FOREIGN EMPLOYMENT)",
       "manager": "CITIZENS CAPITAL LIMITED",
       "units": "422500",
-      "applicants": "25097",
-      "appliedUnits": "450620",
-      "amount": "45062000",
+      "applicants": "38445",
+      "appliedUnits": "683730",
+      "amount": "68373000",
       "openingDate": "2026-10-28",
       "closingDate": "2026-11-02",
-      "lastUpdate": "2026-10-28 17:15:04"
+      "lastUpdate": "2026-10-29 09:15:05"
     }
   ]
 }
