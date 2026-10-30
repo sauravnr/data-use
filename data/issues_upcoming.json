@@ -748,7 +748,7 @@
         "manager": "Citizens Capital Limited"
       },
       {
-        "symbol": "EOQ",
+        "symbol": "NICEOF",
         "company": "NIC ASIA Equity Opportunity Fund",
         "units": "80000000",
         "price": "10",
@@ -1746,5 +1746,5 @@
     ]
   },
   "source": "ShareSansar",
-  "updated_at": "2026-10-30T07:57:54Z"
+  "updated_at": "2026-10-30T14:37:53Z"
 }
