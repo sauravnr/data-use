@@ -1,6 +1,6 @@
 {
-  "version": 5,
-  "updatedAt": "2026-06-06T04:39:55Z",
+  "version": 6,
+  "updatedAt": "2026-11-02T08:51:31Z",
   "festivals": [
     {
       "bsYear": 2081,
@@ -734,6 +734,303 @@
     {
       "bsYear": 2083,
       "bsMonth": 1,
+      "bsDay": 1,
+      "name": "बिस्का: जात्रा",
+      "type": "festival",
+      "holiday": true,
+      "nameEn": "Biska Jatra"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 1,
+      "bsDay": 1,
+      "name": "मेष संक्रान्ति",
+      "type": "festival",
+      "holiday": false,
+      "nameEn": "Mesh Sankranti"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 1,
+      "bsDay": 2,
+      "name": "विश्व कला दिवस",
+      "type": "international",
+      "holiday": false,
+      "nameEn": "World Art Day"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 1,
+      "bsDay": 2,
+      "name": "अन्तर्राष्ट्रिय आरोग्य दिवस",
+      "type": "international",
+      "holiday": false,
+      "nameEn": "International Wellness Day"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 1,
+      "bsDay": 2,
+      "name": "प्रदोष व्रत",
+      "type": "festival",
+      "holiday": false,
+      "nameEn": "Pradosh Vrata"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 1,
+      "bsDay": 4,
+      "name": "आमाको मुख हेर्ने दिन",
+      "type": "festival",
+      "holiday": false,
+      "nameEn": "Mother's Day"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 1,
+      "bsDay": 4,
+      "name": "मातातीर्थ औंसी",
+      "type": "festival",
+      "holiday": false,
+      "nameEn": "Matatirtha Aunshi"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 1,
+      "bsDay": 5,
+      "name": "रातो मच्छिन्द्रनाथ रथारोहण",
+      "type": "festival",
+      "holiday": false,
+      "nameEn": "Rato Machhindranath Ratharohan"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 1,
+      "bsDay": 5,
+      "name": "विश्व सम्पदा दिवस",
+      "type": "international",
+      "holiday": false,
+      "nameEn": "International Day For Monuments and Sites"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 1,
+      "bsDay": 5,
+      "name": "दक्षिण एशियाली ज्योतिष महासंघ स्थापना दिवस",
+      "type": "festival",
+      "holiday": false,
+      "nameEn": "South Asian Federation of Astrology Foundation Day"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 1,
+      "bsDay": 6,
+      "name": "परशुराम जयन्ती",
+      "type": "festival",
+      "holiday": false,
+      "nameEn": "Parshuram Jayanti"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 1,
+      "bsDay": 7,
+      "name": "अक्षय तृतीया व्रत",
+      "type": "festival",
+      "holiday": false,
+      "nameEn": "Akshaya Tritiya Barta"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 1,
+      "bsDay": 7,
+      "name": "शिव पार्वती विवाह महोत्सव",
+      "type": "festival",
+      "holiday": false,
+      "nameEn": "Shiv Parvati Vivaha Mahotsav"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 1,
+      "bsDay": 7,
+      "name": "राष्ट्रिय याक दिवस",
+      "type": "festival",
+      "holiday": false,
+      "nameEn": "National Yak Day"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 1,
+      "bsDay": 8,
+      "name": "मंगलचौथी व्रत",
+      "type": "festival",
+      "holiday": false,
+      "nameEn": "Mangal Chauthi Vrata"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 1,
+      "bsDay": 8,
+      "name": "छन्द दिवस",
+      "type": "festival",
+      "holiday": false,
+      "nameEn": "Chhanda Diwas"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 1,
+      "bsDay": 8,
+      "name": "आद्यगुरु शंकराचार्य जयन्ती",
+      "type": "festival",
+      "holiday": false,
+      "nameEn": "Aadhyaguru Shankarachaarya Jayanti"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 1,
+      "bsDay": 8,
+      "name": "श्री मच्छिन्द्रनाथ रथ यात्रा प्रारम्भ",
+      "type": "festival",
+      "holiday": false,
+      "nameEn": "Bungadyo : Rato Matsyandranath Rath Yatra Prambha"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 1,
+      "bsDay": 9,
+      "name": "रामानुजाचार्य जयन्ती",
+      "type": "festival",
+      "holiday": false,
+      "nameEn": "Ramanujacharya Jayanti"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 1,
+      "bsDay": 10,
+      "name": "गङ्गा सप्तमी व्रत",
+      "type": "festival",
+      "holiday": false,
+      "nameEn": "Ganga Saptami Vrata"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 1,
+      "bsDay": 11,
+      "name": "लोकतन्त्र दिवस",
+      "type": "festival",
+      "holiday": false,
+      "nameEn": "Loktantra Diwas"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 1,
+      "bsDay": 11,
+      "name": "गोरखकाली पूजा",
+      "type": "festival",
+      "holiday": false,
+      "nameEn": "Gorakhkali Puja"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 1,
+      "bsDay": 11,
+      "name": "विश्व खोप सप्ताह",
+      "type": "international",
+      "holiday": false,
+      "nameEn": "World Immunization Week"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 1,
+      "bsDay": 12,
+      "name": "सीता जयन्ती व्रत",
+      "type": "festival",
+      "holiday": false,
+      "nameEn": "Sita jayanti Vrata"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 1,
+      "bsDay": 12,
+      "name": "विश्व औलो दिवस",
+      "type": "international",
+      "holiday": false,
+      "nameEn": "World Malaria Day"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 1,
+      "bsDay": 12,
+      "name": "वि.सं. २०७२ सालको महाभूकम्पको सम्झना",
+      "type": "festival",
+      "holiday": false,
+      "nameEn": "2072 Earthquake Rememberance day"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 1,
+      "bsDay": 13,
+      "name": "विश्व बौद्धिक सम्पत्ति दिवस",
+      "type": "international",
+      "holiday": false,
+      "nameEn": "World Intellectual Property Day"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 1,
+      "bsDay": 14,
+      "name": "मोहिनी एकादशी व्रत",
+      "type": "festival",
+      "holiday": false,
+      "nameEn": "Mohini Ekadashi Vrata"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 1,
+      "bsDay": 15,
+      "name": "राष्ट्रिय चिया दिवस",
+      "type": "festival",
+      "holiday": false,
+      "nameEn": "National Tea Day"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 1,
+      "bsDay": 15,
+      "name": "काममा सुरक्षा र स्वास्थ्यको लागि विश्व दिवस",
+      "type": "international",
+      "holiday": false,
+      "nameEn": "World Day for Safety and Health at Work"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 1,
+      "bsDay": 16,
+      "name": "प्रदोष व्रत",
+      "type": "festival",
+      "holiday": false,
+      "nameEn": "Pradosh Vrata"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 1,
+      "bsDay": 16,
+      "name": "अन्तर्राष्ट्रिय नृत्य दिवस",
+      "type": "international",
+      "holiday": false,
+      "nameEn": "International Dance Day"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 1,
+      "bsDay": 17,
+      "name": "नरसिंह जयन्ती",
+      "type": "festival",
+      "holiday": false,
+      "nameEn": "Narsingh Jayanti"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 1,
       "bsDay": 18,
       "name": "बुद्ध जयन्ती",
       "type": "festival",
@@ -746,8 +1043,251 @@
       "bsDay": 18,
       "name": "उभौली पर्व",
       "type": "festival",
-      "holiday": false,
+      "holiday": true,
       "nameEn": "Ubhauli Parva"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 1,
+      "bsDay": 18,
+      "name": "चण्डी पूर्णिमा",
+      "type": "festival",
+      "holiday": true,
+      "nameEn": "Chandi Poornima"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 1,
+      "bsDay": 18,
+      "name": "चण्डेश्वरी जात्रा",
+      "type": "festival",
+      "holiday": false,
+      "nameEn": "Chandeshwari Jatra"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 1,
+      "bsDay": 18,
+      "name": "गोरखनाथ जयन्ती",
+      "type": "festival",
+      "holiday": false,
+      "nameEn": "Gorakhnath Jayanti"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 1,
+      "bsDay": 18,
+      "name": "कुर्म जयन्ती",
+      "type": "festival",
+      "holiday": false,
+      "nameEn": "Kurma Jayanti"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 1,
+      "bsDay": 18,
+      "name": "वैसाख स्नान समाप्ति",
+      "type": "festival",
+      "holiday": false,
+      "nameEn": "Baisakh Snan Samapti"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 1,
+      "bsDay": 20,
+      "name": "विश्व हाँसाे दिवस",
+      "type": "international",
+      "holiday": false,
+      "nameEn": "World Laughter Day"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 1,
+      "bsDay": 22,
+      "name": "मंगलचौथी व्रत",
+      "type": "festival",
+      "holiday": false,
+      "nameEn": "Mangal Chauthi Vrata"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 1,
+      "bsDay": 24,
+      "name": "प्रदेश सरकारको सरकारी कामकाजको भाषा सम्बन्धी दिवस (बागमती प्रदेश बिदा)",
+      "type": "festival",
+      "holiday": false,
+      "nameEn": "Provincial Government's Official Language Day (Bagmati Province Holiday)"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 1,
+      "bsDay": 24,
+      "name": "किराँत समाज सुधार दिवस",
+      "type": "festival",
+      "holiday": false,
+      "nameEn": "Kirat Samaj Sudhar Diwas"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 1,
+      "bsDay": 26,
+      "name": "कानून दिवस",
+      "type": "festival",
+      "holiday": false,
+      "nameEn": "Law Day"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 1,
+      "bsDay": 26,
+      "name": "गोरखकाली पूजा",
+      "type": "festival",
+      "holiday": false,
+      "nameEn": "Gorakhkali Puja"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 1,
+      "bsDay": 28,
+      "name": "महिला ज्योतिष संघ स्थापना दिवस",
+      "type": "festival",
+      "holiday": false,
+      "nameEn": "Mahila Jyotish Sangh Sthaapana Diwas"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 1,
+      "bsDay": 30,
+      "name": "अपरा एकादशी व्रत",
+      "type": "festival",
+      "holiday": false,
+      "nameEn": "Apara Ekadashi Vrata"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 1,
+      "bsDay": 31,
+      "name": "प्रदोष व्रत",
+      "type": "festival",
+      "holiday": false,
+      "nameEn": "Pradosh Vrata"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 2,
+      "bsDay": 1,
+      "name": "वृष संक्रान्ति",
+      "type": "festival",
+      "holiday": false,
+      "nameEn": "Brish Sankranti"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 2,
+      "bsDay": 1,
+      "name": "सिथि चःह्रे",
+      "type": "festival",
+      "holiday": false,
+      "nameEn": "Sithi Cha: Hre"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 2,
+      "bsDay": 2,
+      "name": "बटसावित्री व्रत",
+      "type": "festival",
+      "holiday": false,
+      "nameEn": "Bata sabitri Vrata"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 2,
+      "bsDay": 2,
+      "name": "शनि जयन्ती",
+      "type": "festival",
+      "holiday": false,
+      "nameEn": "Shani Jayanti"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 2,
+      "bsDay": 3,
+      "name": "गोसाइकुण्ड स्नान आरम्भ",
+      "type": "festival",
+      "holiday": false,
+      "nameEn": "Gosaikunda Snan Aarambha"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 2,
+      "bsDay": 3,
+      "name": "अधिकमास आरम्भ",
+      "type": "festival",
+      "holiday": false,
+      "nameEn": "Adhikmas Aarambha"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 2,
+      "bsDay": 3,
+      "name": "मत्स्यनारायण मेला शुरू",
+      "type": "festival",
+      "holiday": false,
+      "nameEn": "Matsyanarayan Mela Suru"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 2,
+      "bsDay": 3,
+      "name": "विश्व उच्च रक्तचाप दिवस",
+      "type": "international",
+      "holiday": false,
+      "nameEn": "World Hypertension Day"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 2,
+      "bsDay": 9,
+      "name": "युगकवि सिद्धिचरण श्रेष्ठ जन्मजयन्ती",
+      "type": "festival",
+      "holiday": false,
+      "nameEn": "Yugkavi Siddhicharan Shrestha Janma Jayanti"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 2,
+      "bsDay": 10,
+      "name": "गोरखकाली पूजा",
+      "type": "festival",
+      "holiday": false,
+      "nameEn": "Gorakhkali Puja"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 2,
+      "bsDay": 12,
+      "name": "गङ्गादशहरा व्रत",
+      "type": "festival",
+      "holiday": false,
+      "nameEn": "Gangadasahara Vrata"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 2,
+      "bsDay": 12,
+      "name": "गोसाइकुण्ड स्नान समाप्ति",
+      "type": "festival",
+      "holiday": false,
+      "nameEn": "Gosaikunda Snan Samapti"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 2,
+      "bsDay": 13,
+      "name": "पद्मिनी एकादशी व्रत",
+      "type": "festival",
+      "holiday": false,
+      "nameEn": "Padmini Ekadashi Vrata"
     },
     {
       "bsYear": 2083,
@@ -761,11 +1301,731 @@
     {
       "bsYear": 2083,
       "bsMonth": 2,
+      "bsDay": 14,
+      "name": "प्रदोष व्रत",
+      "type": "festival",
+      "holiday": false,
+      "nameEn": "Pradosh Vrata"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 2,
       "bsDay": 15,
       "name": "गणतन्त्र दिवस",
       "type": "national",
       "holiday": true,
       "nameEn": "Republic Day"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 2,
+      "bsDay": 15,
+      "name": "अन्तर्राष्ट्रिय सगरमाथा दिवस",
+      "type": "international",
+      "holiday": false,
+      "nameEn": "International Everest Day"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 2,
+      "bsDay": 21,
+      "name": "निर्दोष बालबालिका माथि अत्याचार विरुद्धको दिवस",
+      "type": "international",
+      "holiday": false,
+      "nameEn": "International Day of Innocent Children Victims of Aggression"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 2,
+      "bsDay": 21,
+      "name": "जातीय भेदभाव तथा छुवाछुत उन्मुलन राष्ट्रिय दिवस",
+      "type": "festival",
+      "holiday": false,
+      "nameEn": "National Day for the Elimination of Racial Discrimination and Untouchability"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 2,
+      "bsDay": 24,
+      "name": "रविसप्तमी व्रत",
+      "type": "festival",
+      "holiday": false,
+      "nameEn": "Ravi saptami Vrata"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 2,
+      "bsDay": 25,
+      "name": "गोरखकाली पूजा",
+      "type": "festival",
+      "holiday": false,
+      "nameEn": "Gorakhkali Puja"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 2,
+      "bsDay": 28,
+      "name": "परमा एकादशी व्रत",
+      "type": "festival",
+      "holiday": false,
+      "nameEn": "Parama Ekadashi Brata"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 2,
+      "bsDay": 29,
+      "name": "प्रदोष व्रत",
+      "type": "festival",
+      "holiday": false,
+      "nameEn": "Pradosh Vrata"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 3,
+      "bsDay": 1,
+      "name": "अधिकमास समाप्ति",
+      "type": "festival",
+      "holiday": false,
+      "nameEn": "Adhikmas Samapti"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 3,
+      "bsDay": 1,
+      "name": "मिथुन संक्रान्ति",
+      "type": "festival",
+      "holiday": false,
+      "nameEn": "Mithun Shankranti"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 3,
+      "bsDay": 1,
+      "name": "सोमबारे औंसी",
+      "type": "festival",
+      "holiday": false,
+      "nameEn": "Sombare Aunshi"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 3,
+      "bsDay": 1,
+      "name": "मत्स्यनारायण मेला समाप्ति",
+      "type": "festival",
+      "holiday": false,
+      "nameEn": "Matsyanarayan Mela Samapti"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 3,
+      "bsDay": 1,
+      "name": "विश्व अग्रज दुर्व्यवहार जागरुकता दिवस",
+      "type": "international",
+      "holiday": false,
+      "nameEn": "World Elder Abuse Awareness Day"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 3,
+      "bsDay": 2,
+      "name": "अन्तर्राष्ट्रिय परिवार रेमिटेयान्स दिवस",
+      "type": "international",
+      "holiday": false,
+      "nameEn": "International Day of Family Remittances"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 3,
+      "bsDay": 3,
+      "name": "विश्व खडेरी विरुद्ध संघर्ष दिवस",
+      "type": "international",
+      "holiday": false,
+      "nameEn": "World Day to Combat Desertification and Drought"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 3,
+      "bsDay": 5,
+      "name": "द्वन्द्वमा यौन हिंसा उन्मूलनको लागि अन्तर्राष्ट्रिय दिवस",
+      "type": "international",
+      "holiday": false,
+      "nameEn": "International Day for the Elimination of Sexual Violence in Conflict"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 3,
+      "bsDay": 6,
+      "name": "भोटो जात्रा (काठमाडौँ उपत्यका बिदा)",
+      "type": "festival",
+      "holiday": true,
+      "nameEn": "Bhoto Jatra"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 3,
+      "bsDay": 6,
+      "name": "सिथि नख:",
+      "type": "festival",
+      "holiday": false,
+      "nameEn": "Sithi Nakha"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 3,
+      "bsDay": 6,
+      "name": "कुमारषष्ठी",
+      "type": "festival",
+      "holiday": false,
+      "nameEn": "Kumarsasthi"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 3,
+      "bsDay": 7,
+      "name": "रवी सप्तमी व्रत",
+      "type": "festival",
+      "holiday": false,
+      "nameEn": "Ravi Saptami Vrata"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 3,
+      "bsDay": 7,
+      "name": "अन्तर्राष्ट्रिय बुवा दिवस",
+      "type": "international",
+      "holiday": false,
+      "nameEn": "International Father's Day"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 3,
+      "bsDay": 7,
+      "name": "संगीत दिवस",
+      "type": "festival",
+      "holiday": false,
+      "nameEn": "Music Day"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 3,
+      "bsDay": 8,
+      "name": "गोरखकाली पूजा",
+      "type": "festival",
+      "holiday": false,
+      "nameEn": "Gorakhkali Puja"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 3,
+      "bsDay": 8,
+      "name": "वायु अष्टमी",
+      "type": "festival",
+      "holiday": false,
+      "nameEn": "Vayu Asthami"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 3,
+      "bsDay": 9,
+      "name": "अन्तर्राष्ट्रिय एकल महिला दिवस",
+      "type": "international",
+      "holiday": false,
+      "nameEn": "International Widows Day"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 3,
+      "bsDay": 11,
+      "name": "निर्जला एकादशी व्रत",
+      "type": "festival",
+      "holiday": false,
+      "nameEn": "Nirjala Ekadashi Vrata"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 3,
+      "bsDay": 11,
+      "name": "तुलसीको दल राख्ने दिन",
+      "type": "festival",
+      "holiday": false,
+      "nameEn": "Tulasi ko Dal Rakhne Din"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 3,
+      "bsDay": 11,
+      "name": "भूमी पूजा",
+      "type": "festival",
+      "holiday": false,
+      "nameEn": "Bhumi Pooja"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 3,
+      "bsDay": 13,
+      "name": "शनि प्रदोष व्रत",
+      "type": "festival",
+      "holiday": false,
+      "nameEn": "Shani Pradosh Vrata"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 3,
+      "bsDay": 15,
+      "name": "दहीचिउरा खाने दिन",
+      "type": "festival",
+      "holiday": false,
+      "nameEn": "Dahi chiura Khane Din"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 3,
+      "bsDay": 15,
+      "name": "राष्ट्रिय धान दिवस",
+      "type": "festival",
+      "holiday": false,
+      "nameEn": "Rashtriya Dhan Diwas"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 3,
+      "bsDay": 15,
+      "name": "ज्या: पुन्हि",
+      "type": "festival",
+      "holiday": false,
+      "nameEn": "Jya: Punhi"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 3,
+      "bsDay": 15,
+      "name": "कवीर जयन्ती",
+      "type": "festival",
+      "holiday": false,
+      "nameEn": "Kabir Jayanti"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 3,
+      "bsDay": 18,
+      "name": "विश्व खेलकुद पत्रकार दिवस",
+      "type": "international",
+      "holiday": false,
+      "nameEn": "World Sports Journalist Day"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 3,
+      "bsDay": 20,
+      "name": "अन्तर्राष्ट्रिय सहकारी दिवस",
+      "type": "international",
+      "holiday": false,
+      "nameEn": "International Cooperative Day"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 3,
+      "bsDay": 23,
+      "name": "गोरखकाली पूजा",
+      "type": "festival",
+      "holiday": false,
+      "nameEn": "Gorakhkali Puja"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 3,
+      "bsDay": 24,
+      "name": "बुधाष्टमी व्रत",
+      "type": "festival",
+      "holiday": false,
+      "nameEn": "Budhastami Vrata"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 3,
+      "bsDay": 26,
+      "name": "योगिनी एकादशी व्रत (स्मार्तहरूको)",
+      "type": "festival",
+      "holiday": false,
+      "nameEn": "Yogini Ekadashi Vrata (Smarta)"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 3,
+      "bsDay": 27,
+      "name": "योगिनी एकादशी व्रत (वैष्णवहरूको)",
+      "type": "festival",
+      "holiday": false,
+      "nameEn": "Yogini Ekadashi Vrata (Vaishnava)"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 3,
+      "bsDay": 28,
+      "name": "प्रदोष व्रत",
+      "type": "festival",
+      "holiday": false,
+      "nameEn": "Pradosh Vrata"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 3,
+      "bsDay": 29,
+      "name": "भानु जयन्ती",
+      "type": "festival",
+      "holiday": false,
+      "nameEn": "Bhanu Jayanti"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 3,
+      "bsDay": 31,
+      "name": "विश्व युवा दक्षता दिवस",
+      "type": "international",
+      "holiday": false,
+      "nameEn": "World Youth Skill Day"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 4,
+      "bsDay": 1,
+      "name": "साउने सङ्क्रान्ति",
+      "type": "festival",
+      "holiday": false,
+      "nameEn": "Saune Shankranti"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 4,
+      "bsDay": 1,
+      "name": "लुतो फाल्ने दिन",
+      "type": "festival",
+      "holiday": false,
+      "nameEn": "Luto Falne Din"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 4,
+      "bsDay": 1,
+      "name": "दक्षिणायन आरम्भ",
+      "type": "festival",
+      "holiday": false,
+      "nameEn": "Dakshinaayan Arambha"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 4,
+      "bsDay": 5,
+      "name": "सूर्य पूजा",
+      "type": "festival",
+      "holiday": false,
+      "nameEn": "Surya Pooja"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 4,
+      "bsDay": 6,
+      "name": "बुधाष्टमी व्रत",
+      "type": "festival",
+      "holiday": false,
+      "nameEn": "Budhastami Vrata"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 4,
+      "bsDay": 6,
+      "name": "गोरखकाली पूजा",
+      "type": "festival",
+      "holiday": false,
+      "nameEn": "Gorakhkali Puja"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 4,
+      "bsDay": 9,
+      "name": "हरिशयनी एकादशी व्रत (तुलसी रोप्ने)",
+      "type": "festival",
+      "holiday": false,
+      "nameEn": "Harishayani Ekadashi Vrata"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 4,
+      "bsDay": 9,
+      "name": "चतुर्मास व्रत आरम्भ",
+      "type": "festival",
+      "holiday": false,
+      "nameEn": "Chaturmaas Vrata Aarambha"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 4,
+      "bsDay": 10,
+      "name": "प्रदोष व्रत",
+      "type": "festival",
+      "holiday": false,
+      "nameEn": "Pradosh Vrata"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 4,
+      "bsDay": 13,
+      "name": "पूर्णिमा व्रत",
+      "type": "festival",
+      "holiday": false,
+      "nameEn": "Poornima Vrata"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 4,
+      "bsDay": 13,
+      "name": "गुरु पुर्णिमा व्रत",
+      "type": "festival",
+      "holiday": false,
+      "nameEn": "Guru Purnima Vrata"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 4,
+      "bsDay": 13,
+      "name": "व्यास जयन्ती",
+      "type": "festival",
+      "holiday": false,
+      "nameEn": "Vyas Jayanti"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 4,
+      "bsDay": 13,
+      "name": "विश्व बाघ दिवस",
+      "type": "international",
+      "holiday": false,
+      "nameEn": "World Tiger Day"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 4,
+      "bsDay": 14,
+      "name": "अन्तर्राष्ट्रिय मित्रता दिवस",
+      "type": "international",
+      "holiday": false,
+      "nameEn": "International Friendship Day"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 4,
+      "bsDay": 14,
+      "name": "अन्तर्राष्ट्रिय मानव बेचबिखन विरुद्ध दिवस",
+      "type": "international",
+      "holiday": false,
+      "nameEn": "World Day against Trafficking in Persons"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 4,
+      "bsDay": 15,
+      "name": "खीर खाने दिन",
+      "type": "festival",
+      "holiday": false,
+      "nameEn": "Khir Khane Din"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 4,
+      "bsDay": 16,
+      "name": "विश्व स्तनपान सप्ताह प्रारम्भ",
+      "type": "international",
+      "holiday": false,
+      "nameEn": "World BreastFeeding Week"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 4,
+      "bsDay": 18,
+      "name": "बीतक कथा प्रारम्भ",
+      "type": "festival",
+      "holiday": false,
+      "nameEn": "Vitak Katha Prarambha"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 4,
+      "bsDay": 21,
+      "name": "गोरखकाली पूजा",
+      "type": "festival",
+      "holiday": false,
+      "nameEn": "Gorakhkali Puja"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 4,
+      "bsDay": 24,
+      "name": "राष्ट्रिय भू संरक्षण दिवस",
+      "type": "festival",
+      "holiday": false,
+      "nameEn": "National Soil Conservation Day"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 4,
+      "bsDay": 24,
+      "name": "कामिका एकादशी व्रत",
+      "type": "festival",
+      "holiday": false,
+      "nameEn": "Kamika Ekadashi Vrata"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 4,
+      "bsDay": 24,
+      "name": "अन्तर्राष्ट्रिय आदिवासी दिवस",
+      "type": "international",
+      "holiday": false,
+      "nameEn": "International Day of the World's Indigenous Peoples"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 4,
+      "bsDay": 25,
+      "name": "सोम प्रदोष व्रत",
+      "type": "festival",
+      "holiday": false,
+      "nameEn": "Som Pradosh Vrata"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 4,
+      "bsDay": 26,
+      "name": "गथांमुगः चःह्रे",
+      "type": "festival",
+      "holiday": false,
+      "nameEn": "Gathāṃmugaḥ Caḥhre"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 4,
+      "bsDay": 28,
+      "name": "गुंला पर्व आरम्भ",
+      "type": "festival",
+      "holiday": false,
+      "nameEn": "Gunla Parwa Arambha"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 4,
+      "bsDay": 28,
+      "name": "विश्व सुलेखन दिवस",
+      "type": "international",
+      "holiday": false,
+      "nameEn": "World Calligraphy Day"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 4,
+      "bsDay": 30,
+      "name": "वराह जयन्ती",
+      "type": "festival",
+      "holiday": false,
+      "nameEn": "Varaha Jayanti"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 5,
+      "bsDay": 1,
+      "name": "नाग पञ्चमी व्रत",
+      "type": "festival",
+      "holiday": false,
+      "nameEn": "Nag Panchami Barta"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 5,
+      "bsDay": 1,
+      "name": "थारु गुरिया पर्व",
+      "type": "festival",
+      "holiday": false,
+      "nameEn": "Tharu Guriya Parwa"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 5,
+      "bsDay": 1,
+      "name": "सिंह संक्रान्ति",
+      "type": "festival",
+      "holiday": false,
+      "nameEn": "Singh Sankranti"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 5,
+      "bsDay": 2,
+      "name": "कल्कि जयन्ती",
+      "type": "festival",
+      "holiday": false,
+      "nameEn": "Kalki Jayanti"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 5,
+      "bsDay": 3,
+      "name": "तुलसीदास जयन्ती",
+      "type": "festival",
+      "holiday": false,
+      "nameEn": "Tulasidas Jayanti"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 5,
+      "bsDay": 3,
+      "name": "राष्ट्रिय सूचना दिवस",
+      "type": "festival",
+      "holiday": false,
+      "nameEn": "National Information Day"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 5,
+      "bsDay": 3,
+      "name": "विश्व फोटोग्राफी दिवस",
+      "type": "international",
+      "holiday": false,
+      "nameEn": "World Photography Day"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 5,
+      "bsDay": 4,
+      "name": "गोरखकाली पूजा",
+      "type": "festival",
+      "holiday": false,
+      "nameEn": "Gorakhkali Puja"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 5,
+      "bsDay": 7,
+      "name": "पुत्रदा एकादशी व्रत",
+      "type": "festival",
+      "holiday": false,
+      "nameEn": "Putrada Ekadashi Vrata"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 5,
+      "bsDay": 9,
+      "name": "प्रदोष व्रत",
+      "type": "festival",
+      "holiday": false,
+      "nameEn": "Pradosh Vrata"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 5,
+      "bsDay": 10,
+      "name": "पैगम्बर मोहम्मद जयन्ती (मुस्लिम समुदायका लागि मात्र बिदा)",
+      "type": "festival",
+      "holiday": true,
+      "nameEn": "Prophet Muhammad Jayanti (Holiday for Muslim Community only)"
     },
     {
       "bsYear": 2083,
@@ -788,6 +2048,42 @@
     {
       "bsYear": 2083,
       "bsMonth": 5,
+      "bsDay": 12,
+      "name": "पूर्णिमा व्रत",
+      "type": "festival",
+      "holiday": false,
+      "nameEn": "Poornima Vrata"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 5,
+      "bsDay": 12,
+      "name": "क्वाति खाने दिन",
+      "type": "festival",
+      "holiday": false,
+      "nameEn": "Kwati Khane Din"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 5,
+      "bsDay": 12,
+      "name": "ऋषितर्पणी",
+      "type": "festival",
+      "holiday": false,
+      "nameEn": "Rishi Tarpani"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 5,
+      "bsDay": 12,
+      "name": "संस्कृत दिवस",
+      "type": "festival",
+      "holiday": false,
+      "nameEn": "Sanskrit Diwas"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 5,
       "bsDay": 13,
       "name": "गाई जात्रा (काठमाडौं उपत्यका + नेवार समुदाय)",
       "type": "festival",
@@ -806,11 +2102,326 @@
     {
       "bsYear": 2083,
       "bsMonth": 5,
+      "bsDay": 13,
+      "name": "विश्व आणविक परिक्षण विरुद्धको दिवस",
+      "type": "international",
+      "holiday": false,
+      "nameEn": "International Day Against Nuclear Tests"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 5,
+      "bsDay": 14,
+      "name": "रोपाईं जात्रा",
+      "type": "festival",
+      "holiday": false,
+      "nameEn": "Ropai Jatra"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 5,
+      "bsDay": 14,
+      "name": "विश्व बेपत्ता विरुद्धको दिवस",
+      "type": "international",
+      "holiday": false,
+      "nameEn": "International Day of the Victims of Enforced Disappearances"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 5,
+      "bsDay": 15,
+      "name": "राष्ट्रिय पुस्तकालय दिवस",
+      "type": "festival",
+      "holiday": false,
+      "nameEn": "National Library Day"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 5,
+      "bsDay": 16,
+      "name": "मंगलचौथी व्रत",
+      "type": "festival",
+      "holiday": false,
+      "nameEn": "Mangal Chauthi Vrata"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 5,
+      "bsDay": 18,
+      "name": "गौरा सप्तमी",
+      "type": "festival",
+      "holiday": false,
+      "nameEn": "Gaura Saptami"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 5,
       "bsDay": 19,
       "name": "श्रीकृष्ण जन्माष्टमी",
       "type": "festival",
       "holiday": true,
       "nameEn": "Shree Krishna Janmashtami"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 5,
+      "bsDay": 19,
+      "name": "गाैरा पर्व",
+      "type": "festival",
+      "holiday": true,
+      "nameEn": "Gaura Parva"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 5,
+      "bsDay": 19,
+      "name": "गोरखकाली पूजा",
+      "type": "festival",
+      "holiday": false,
+      "nameEn": "Gorakhkali Puja"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 5,
+      "bsDay": 19,
+      "name": "दुर्वाष्टमी",
+      "type": "festival",
+      "holiday": false,
+      "nameEn": "Durwashtami"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 5,
+      "bsDay": 20,
+      "name": "मानव बेचबिखन विरुद्ध राष्ट्रिय दिवस",
+      "type": "festival",
+      "holiday": false,
+      "nameEn": "National Day against Trafficking in Persons"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 5,
+      "bsDay": 20,
+      "name": "विराटनगरमा राधाकृष्ण रथयात्रा",
+      "type": "festival",
+      "holiday": false,
+      "nameEn": "RadhaKrishna Rathyatra at Biratnagar"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 5,
+      "bsDay": 20,
+      "name": "गूङा नवमी",
+      "type": "festival",
+      "holiday": false,
+      "nameEn": "Goonga Nawami"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 5,
+      "bsDay": 22,
+      "name": "अजा एकादशी व्रत",
+      "type": "festival",
+      "holiday": false,
+      "nameEn": "Aja Ekadashi Vrata"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 5,
+      "bsDay": 22,
+      "name": "निजामती सेवा दिवस",
+      "type": "festival",
+      "holiday": false,
+      "nameEn": "Nijamati Sewa Diwas"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 5,
+      "bsDay": 23,
+      "name": "जेनजी शहीद दिवस",
+      "type": "festival",
+      "holiday": true,
+      "nameEn": "Gen-Z Sahid Diwas"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 5,
+      "bsDay": 23,
+      "name": "प्रदोष व्रत",
+      "type": "festival",
+      "holiday": false,
+      "nameEn": "Pradosh Vrata"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 5,
+      "bsDay": 23,
+      "name": "विश्व फिजियोथेरापी दिवस",
+      "type": "international",
+      "holiday": false,
+      "nameEn": "World Physiotherapy Day"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 5,
+      "bsDay": 26,
+      "name": "कुशे औंसी",
+      "type": "festival",
+      "holiday": false,
+      "nameEn": "Kunse Aunshi"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 5,
+      "bsDay": 26,
+      "name": "बुबाको मुख हेर्ने दिन",
+      "type": "festival",
+      "holiday": false,
+      "nameEn": "Father's Day"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 5,
+      "bsDay": 26,
+      "name": "मोतीराम भट्ट जन्मजयन्ती",
+      "type": "festival",
+      "holiday": false,
+      "nameEn": "Motiram Bhatta Janma Jayanti"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 5,
+      "bsDay": 27,
+      "name": "प्राथमिक उपचार दिवस",
+      "type": "international",
+      "holiday": false,
+      "nameEn": "World First Aid Day"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 5,
+      "bsDay": 27,
+      "name": "गुंला पर्व समाप्ति",
+      "type": "festival",
+      "holiday": false,
+      "nameEn": "Gunla Parwa Samapti"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 5,
+      "bsDay": 28,
+      "name": "दर खाने दिन",
+      "type": "festival",
+      "holiday": false,
+      "nameEn": "Dar Khane Din"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 5,
+      "bsDay": 29,
+      "name": "हरितालिका तीज (महिला कर्मचारीहरूलाई मात्र)",
+      "type": "festival",
+      "holiday": true,
+      "nameEn": "Haritalika Teej"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 5,
+      "bsDay": 29,
+      "name": "गणेश चतुर्थी व्रत",
+      "type": "festival",
+      "holiday": false,
+      "nameEn": "Ganesh Chaturthi Varta"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 5,
+      "bsDay": 29,
+      "name": "राष्ट्रिय धर्मसभा दिवस",
+      "type": "festival",
+      "holiday": false,
+      "nameEn": "Rashtriya Dharmasabha Diwas"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 5,
+      "bsDay": 29,
+      "name": "राष्ट्रिय बाल दिवस",
+      "type": "festival",
+      "holiday": false,
+      "nameEn": "Rashtriya Bal Diwas"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 5,
+      "bsDay": 30,
+      "name": "ऋषिपञ्चमी व्रत",
+      "type": "festival",
+      "holiday": false,
+      "nameEn": "Rishi Panchami Vrata"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 6,
+      "bsDay": 1,
+      "name": "विश्वकर्मा पूजा",
+      "type": "international",
+      "holiday": false,
+      "nameEn": "Bishwakarma Pooja"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 6,
+      "bsDay": 1,
+      "name": "कन्या संक्रान्ति",
+      "type": "festival",
+      "holiday": false,
+      "nameEn": "Kanya Sankranti"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 6,
+      "bsDay": 1,
+      "name": "वास्तु दिवस",
+      "type": "festival",
+      "holiday": false,
+      "nameEn": "Wastu Diwas"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 6,
+      "bsDay": 1,
+      "name": "सूर्य षष्ठी",
+      "type": "festival",
+      "holiday": false,
+      "nameEn": "Surya Sasti"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 6,
+      "bsDay": 1,
+      "name": "राष्ट्रिय विज्ञान दिवस",
+      "type": "festival",
+      "holiday": false,
+      "nameEn": "National Science Day"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 6,
+      "bsDay": 1,
+      "name": "विश्व बिरामी सुरक्षा दिवस",
+      "type": "international",
+      "holiday": false,
+      "nameEn": "World Patient Safety Day"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 6,
+      "bsDay": 2,
+      "name": "महालक्ष्मी व्रतआरम्भ",
+      "type": "festival",
+      "holiday": false,
+      "nameEn": "Mahalakshmi Vrata Aarambha"
     },
     {
       "bsYear": 2083,
@@ -824,11 +2435,407 @@
     {
       "bsYear": 2083,
       "bsMonth": 6,
+      "bsDay": 3,
+      "name": "राधा जन्मोत्सव",
+      "type": "festival",
+      "holiday": false,
+      "nameEn": "Radha Janmotsav"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 6,
+      "bsDay": 3,
+      "name": "गोरखकाली पूजा",
+      "type": "festival",
+      "holiday": false,
+      "nameEn": "Gorakhkali Puja"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 6,
+      "bsDay": 5,
+      "name": "विश्व अल्जाइमर्स दिवस",
+      "type": "international",
+      "holiday": false,
+      "nameEn": "World Alzheimer's Day"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 6,
+      "bsDay": 6,
+      "name": "हरिपरिवर्तिनी एकादशी व्रत",
+      "type": "festival",
+      "holiday": false,
+      "nameEn": "Haripariwartani Ekadashi Vrata"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 6,
+      "bsDay": 7,
+      "name": "वामन द्वादशी",
+      "type": "festival",
+      "holiday": false,
+      "nameEn": "Vaman Dwadashi"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 6,
+      "bsDay": 7,
+      "name": "अन्तर्राष्ट्रिय सांकेतिक भाषा दिवस",
+      "type": "international",
+      "holiday": false,
+      "nameEn": "International Day of Sign Languages"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 6,
+      "bsDay": 8,
+      "name": "प्रदोष व्रत",
+      "type": "festival",
+      "holiday": false,
+      "nameEn": "Pradosh Vrata"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 6,
+      "bsDay": 9,
+      "name": "इन्द्रजात्रा (काठमाडौं उपत्यका बिदा)",
+      "type": "festival",
+      "holiday": true,
+      "nameEn": "Indra Jaatra"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 6,
+      "bsDay": 9,
+      "name": "अनन्त चतुर्दशी व्रत",
+      "type": "festival",
+      "holiday": false,
+      "nameEn": "Ananta Chaturdashi Vrata"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 6,
+      "bsDay": 9,
+      "name": "विश्व फार्मासिस्ट दिवस",
+      "type": "international",
+      "holiday": false,
+      "nameEn": "World Pharmacists Day"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 6,
+      "bsDay": 10,
+      "name": "चेपाङ चोनाम पर्व",
+      "type": "festival",
+      "holiday": false,
+      "nameEn": "Chepang Chonam Parva"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 6,
+      "bsDay": 10,
+      "name": "अन्तर्राष्ट्रिय परमाणु हतियार निर्मुल दिवस",
+      "type": "international",
+      "holiday": false,
+      "nameEn": "International Day For The Elimination Of Neuclear Weapons"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 6,
+      "bsDay": 11,
+      "name": "सोह्रश्राद्ध प्रारम्भ (प्रतिपदा श्राद्ध)",
+      "type": "festival",
+      "holiday": false,
+      "nameEn": "Sohra Sraddha Praarambha (Pratipada Shraddha)"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 6,
+      "bsDay": 12,
+      "name": "द्वितीया श्राद्ध",
+      "type": "festival",
+      "holiday": false,
+      "nameEn": "Dwitiya Shradhha"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 6,
+      "bsDay": 12,
+      "name": "विश्व रेबिज दिवस",
+      "type": "international",
+      "holiday": false,
+      "nameEn": "World Rabies Day"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 6,
+      "bsDay": 12,
+      "name": "अन्तर्राष्ट्रिय सूचनामा विश्वव्यापी पहुँचको दिवस",
+      "type": "international",
+      "holiday": false,
+      "nameEn": "International Day for Universal Access to Information"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 6,
+      "bsDay": 13,
+      "name": "तृतीया श्राद्ध",
+      "type": "festival",
+      "holiday": false,
+      "nameEn": "Tritiya Shradhha"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 6,
+      "bsDay": 14,
+      "name": "चतुर्थी श्राद्ध",
+      "type": "festival",
+      "holiday": false,
+      "nameEn": "Chaturthi Shraddha"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 6,
+      "bsDay": 15,
+      "name": "पञ्चमी श्राद्ध",
+      "type": "festival",
+      "holiday": false,
+      "nameEn": "Panchami Shradhha"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 6,
+      "bsDay": 15,
+      "name": "षष्ठी श्राद्ध",
+      "type": "festival",
+      "holiday": false,
+      "nameEn": "Khasti Shraddha"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 6,
+      "bsDay": 15,
+      "name": "राष्ट्रिय चलचित्र दिवस",
+      "type": "festival",
+      "holiday": false,
+      "nameEn": "National Film Day"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 6,
+      "bsDay": 16,
+      "name": "सप्तमी श्राद्ध",
+      "type": "festival",
+      "holiday": false,
+      "nameEn": "Saptami Shraddha"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 6,
+      "bsDay": 16,
+      "name": "विश्व मुस्कान दिवस",
+      "type": "international",
+      "holiday": false,
+      "nameEn": "World Smile Day"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 6,
+      "bsDay": 17,
+      "name": "अष्टमी श्राद्ध",
+      "type": "festival",
+      "holiday": false,
+      "nameEn": "Ashtami Shraddha"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 6,
+      "bsDay": 17,
+      "name": "गोरखकाली पूजा",
+      "type": "festival",
+      "holiday": false,
+      "nameEn": "Gorakhkali Puja"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 6,
+      "bsDay": 17,
+      "name": "महालक्ष्मी व्रत समाप्त",
+      "type": "festival",
+      "holiday": false,
+      "nameEn": "Maha Laxmi Vrata Ends"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 6,
+      "bsDay": 18,
+      "name": "जितियापर्व (महिला कर्मचारीहरूलाई मात्र)",
+      "type": "festival",
+      "holiday": true,
+      "nameEn": "Jitiya Parva"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 6,
+      "bsDay": 18,
+      "name": "नवमी श्राद्ध",
+      "type": "festival",
+      "holiday": false,
+      "nameEn": "Nawami Shraddha"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 6,
+      "bsDay": 18,
+      "name": "विश्व पशु दिवस",
+      "type": "international",
+      "holiday": false,
+      "nameEn": "World Animal Day"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 6,
+      "bsDay": 19,
+      "name": "दशमी श्राद्ध",
+      "type": "festival",
+      "holiday": false,
+      "nameEn": "Dashami Shraddha"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 6,
+      "bsDay": 20,
+      "name": "इन्दिरा एकादशी व्रत",
+      "type": "festival",
+      "holiday": false,
+      "nameEn": "Indira Ekadashi Vrata"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 6,
+      "bsDay": 20,
+      "name": "एकादशी श्राद्ध",
+      "type": "festival",
+      "holiday": false,
+      "nameEn": "Ekadashi Shraddha"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 6,
+      "bsDay": 21,
+      "name": "द्वादशी श्राद्ध",
+      "type": "festival",
+      "holiday": false,
+      "nameEn": "Dwadashi Shraddha"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 6,
+      "bsDay": 21,
+      "name": "मघा श्राद्ध",
+      "type": "festival",
+      "holiday": false,
+      "nameEn": "Magha Shraddha"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 6,
+      "bsDay": 22,
+      "name": "प्रदोष व्रत",
+      "type": "festival",
+      "holiday": false,
+      "nameEn": "Pradosh Vrata"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 6,
+      "bsDay": 22,
+      "name": "त्रयोदशी श्राद्ध",
+      "type": "festival",
+      "holiday": false,
+      "nameEn": "Trayodashi Shraddha"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 6,
+      "bsDay": 22,
+      "name": "विश्व दृष्टि दिवस",
+      "type": "international",
+      "holiday": false,
+      "nameEn": "World Sight Day"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 6,
+      "bsDay": 23,
+      "name": "चतुर्दशी श्राद्ध",
+      "type": "festival",
+      "holiday": false,
+      "nameEn": "Chaturdashi Shraddha"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 6,
+      "bsDay": 24,
+      "name": "पितृ विसर्जन",
+      "type": "festival",
+      "holiday": false,
+      "nameEn": "Pitri Bisarjan"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 6,
+      "bsDay": 24,
+      "name": "औंसी श्राद्ध",
+      "type": "festival",
+      "holiday": false,
+      "nameEn": "Aunshi Shraddha"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 6,
       "bsDay": 25,
       "name": "घटस्थापना",
       "type": "festival",
       "holiday": true,
       "nameEn": "Ghatasthapana"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 6,
+      "bsDay": 25,
+      "name": "नवरात्र आरम्भ",
+      "type": "festival",
+      "holiday": false,
+      "nameEn": "Navaraatra Arambha"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 6,
+      "bsDay": 27,
+      "name": "अन्तर्राष्ट्रिय प्रकोप जोखिम न्यूनीकरण दिवस",
+      "type": "international",
+      "holiday": false,
+      "nameEn": "International Day for Disaster Risk Reduction"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 6,
+      "bsDay": 29,
+      "name": "विश्व हातधुने दिवस",
+      "type": "international",
+      "holiday": false,
+      "nameEn": "Global Handwashing Day"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 6,
+      "bsDay": 29,
+      "name": "अन्तर्राष्ट्रिय ग्रामीण महिला दिवस",
+      "type": "international",
+      "holiday": false,
+      "nameEn": "International Day of Rural Women"
     },
     {
       "bsYear": 2083,
@@ -841,12 +2848,66 @@
     },
     {
       "bsYear": 2083,
+      "bsMonth": 6,
+      "bsDay": 31,
+      "name": "दशैं बिदा",
+      "type": "festival",
+      "holiday": true,
+      "nameEn": "Dashain Holiday"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 6,
+      "bsDay": 31,
+      "name": "अन्तर्राष्ट्रिय गरिबी निवारण दिवस",
+      "type": "international",
+      "holiday": false,
+      "nameEn": "International Day for the Eradication of Poverty"
+    },
+    {
+      "bsYear": 2083,
       "bsMonth": 7,
       "bsDay": 1,
       "name": "महा अष्टमी",
       "type": "festival",
       "holiday": true,
       "nameEn": "Maha Ashtami"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 7,
+      "bsDay": 1,
+      "name": "तुला संक्रान्ति",
+      "type": "festival",
+      "holiday": false,
+      "nameEn": "Tula SankrantiDhan"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 7,
+      "bsDay": 1,
+      "name": "कालरात्रि",
+      "type": "festival",
+      "holiday": false,
+      "nameEn": "Kalratri"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 7,
+      "bsDay": 1,
+      "name": "गोरखकाली पूजा",
+      "type": "festival",
+      "holiday": false,
+      "nameEn": "Gorakhkali Puja"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 7,
+      "bsDay": 2,
+      "name": "दशैं बिदा",
+      "type": "festival",
+      "holiday": true,
+      "nameEn": "Dashain Holiday"
     },
     {
       "bsYear": 2083,
@@ -869,6 +2930,177 @@
     {
       "bsYear": 2083,
       "bsMonth": 7,
+      "bsDay": 4,
+      "name": "देवी विसर्जन",
+      "type": "festival",
+      "holiday": false,
+      "nameEn": "Devi Bisharjan"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 7,
+      "bsDay": 5,
+      "name": "पापांकुशा एकादशी व्रत",
+      "type": "festival",
+      "holiday": true,
+      "nameEn": "Papakunsa Ekadashi Vrata"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 7,
+      "bsDay": 6,
+      "name": "दशैं बिदा",
+      "type": "festival",
+      "holiday": true,
+      "nameEn": "Dashain Holiday"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 7,
+      "bsDay": 6,
+      "name": "प्रदोष व्रत",
+      "type": "festival",
+      "holiday": false,
+      "nameEn": "Pradosh Vrata"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 7,
+      "bsDay": 7,
+      "name": "विश्व विकास सूचना दिवस",
+      "type": "international",
+      "holiday": false,
+      "nameEn": "World Development Information Day"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 7,
+      "bsDay": 8,
+      "name": "कोजाग्रत व्रत",
+      "type": "festival",
+      "holiday": false,
+      "nameEn": "Kojagrat Vrata"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 7,
+      "bsDay": 8,
+      "name": "पूर्णिमा व्रत",
+      "type": "festival",
+      "holiday": false,
+      "nameEn": "Poornima Vrata"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 7,
+      "bsDay": 9,
+      "name": "कार्तिक स्नान आरम्भ",
+      "type": "festival",
+      "holiday": false,
+      "nameEn": "Kartik Snan Aarambha"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 7,
+      "bsDay": 9,
+      "name": "आकाशदीपदान आरम्भ",
+      "type": "festival",
+      "holiday": false,
+      "nameEn": "Aakashdip Dan Aarambha"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 7,
+      "bsDay": 14,
+      "name": "विश्व शहरीकरण दिवस",
+      "type": "international",
+      "holiday": false,
+      "nameEn": "World Cities Day"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 7,
+      "bsDay": 15,
+      "name": "रविसप्तमी व्रत",
+      "type": "festival",
+      "holiday": false,
+      "nameEn": "Ravisaptami Vrata"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 7,
+      "bsDay": 16,
+      "name": "राधाष्टमी व्रत",
+      "type": "festival",
+      "holiday": false,
+      "nameEn": "Radhastami Vrata"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 7,
+      "bsDay": 16,
+      "name": "गोरखकाली पूजा",
+      "type": "festival",
+      "holiday": false,
+      "nameEn": "Gorakhkali Puja"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 7,
+      "bsDay": 19,
+      "name": "रमा एकादशी व्रत",
+      "type": "festival",
+      "holiday": false,
+      "nameEn": "Rama Ekadashi Vrata"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 7,
+      "bsDay": 20,
+      "name": "धन त्रयोदशी व्रत (धनतेरस)",
+      "type": "festival",
+      "holiday": false,
+      "nameEn": "Trayodashi Vrata (Dhanteras)"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 7,
+      "bsDay": 20,
+      "name": "प्रदोष व्रत",
+      "type": "festival",
+      "holiday": false,
+      "nameEn": "Pradosh Vrata"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 7,
+      "bsDay": 20,
+      "name": "यमदीपदान आरम्भ",
+      "type": "festival",
+      "holiday": false,
+      "nameEn": "Yamadip Dan Aarambha"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 7,
+      "bsDay": 21,
+      "name": "धनवन्तरी जयन्ती",
+      "type": "festival",
+      "holiday": false,
+      "nameEn": "Dhanawantari Jayanti"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 7,
+      "bsDay": 21,
+      "name": "काग तिहार",
+      "type": "festival",
+      "holiday": false,
+      "nameEn": "Kag Tihar"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 7,
       "bsDay": 22,
       "name": "कुकुर तिहार",
       "type": "festival",
@@ -887,11 +3119,65 @@
     {
       "bsYear": 2083,
       "bsMonth": 7,
+      "bsDay": 22,
+      "name": "महाकवि लक्ष्मीप्रसाद देवकोटाको जन्म जयन्ती",
+      "type": "festival",
+      "holiday": false,
+      "nameEn": "Laxmi Prasad Devkota Janma Jayanti"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 7,
+      "bsDay": 22,
+      "name": "नरक चतुर्दशी",
+      "type": "festival",
+      "holiday": false,
+      "nameEn": "Narak Chaturdashi"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 7,
+      "bsDay": 22,
+      "name": "सुखरात्री",
+      "type": "festival",
+      "holiday": false,
+      "nameEn": "Sukha Ratri"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 7,
+      "bsDay": 22,
+      "name": "विश्व रेडियोग्राफी दिवस",
+      "type": "international",
+      "holiday": false,
+      "nameEn": "World Radiography Day"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 7,
       "bsDay": 23,
       "name": "गाई पूजा",
       "type": "festival",
-      "holiday": true,
+      "holiday": false,
       "nameEn": "Gai Puja"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 7,
+      "bsDay": 23,
+      "name": "तिहार बिदा",
+      "type": "festival",
+      "holiday": true,
+      "nameEn": "Tihar Holiday"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 7,
+      "bsDay": 23,
+      "name": "विश्व स्वतन्त्रता दिवस",
+      "type": "international",
+      "holiday": false,
+      "nameEn": "World Freedom Day"
     },
     {
       "bsYear": 2083,
@@ -908,8 +3194,44 @@
       "bsDay": 24,
       "name": "म्ह पूजा",
       "type": "festival",
-      "holiday": true,
+      "holiday": false,
       "nameEn": "Mha Puja"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 7,
+      "bsDay": 24,
+      "name": "नेपाल सम्वत ११४७ प्रारम्भ",
+      "type": "festival",
+      "holiday": true,
+      "nameEn": "Nepal Sambat 1147 Starts"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 7,
+      "bsDay": 24,
+      "name": "हलि तिहार",
+      "type": "festival",
+      "holiday": false,
+      "nameEn": "Hali Tihar"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 7,
+      "bsDay": 24,
+      "name": "गोरु पूजा",
+      "type": "festival",
+      "holiday": false,
+      "nameEn": "Goru Puja"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 7,
+      "bsDay": 24,
+      "name": "शान्ति र विकासको लागि विश्व विज्ञान दिवस",
+      "type": "international",
+      "holiday": false,
+      "nameEn": "World Science Day for Peace and Development"
     },
     {
       "bsYear": 2083,
@@ -923,6 +3245,24 @@
     {
       "bsYear": 2083,
       "bsMonth": 7,
+      "bsDay": 25,
+      "name": "महागुरु फाल्गुनन्द जयन्ती (किरात धर्मावलम्बीहरुलाई मात्र)",
+      "type": "festival",
+      "holiday": true,
+      "nameEn": "Falgunanda Jayanti"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 7,
+      "bsDay": 25,
+      "name": "किजा पूजा",
+      "type": "festival",
+      "holiday": false,
+      "nameEn": "Kija Pooja"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 7,
       "bsDay": 26,
       "name": "तिहार बिदा",
       "type": "festival",
@@ -932,11 +3272,389 @@
     {
       "bsYear": 2083,
       "bsMonth": 7,
+      "bsDay": 26,
+      "name": "विश्व निमोनिया दिवस",
+      "type": "international",
+      "holiday": false,
+      "nameEn": "World Pneumonia Day"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 7,
+      "bsDay": 28,
+      "name": "सांस्कृतिक सम्पत्तिको अवैध ओसारपसार विरुद्धको अन्तर्राष्ट्रिय दिवस",
+      "type": "international",
+      "holiday": false,
+      "nameEn": "International Day against Illicit Trafficking in Cultural Property"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 7,
       "bsDay": 29,
       "name": "छठ पर्व",
       "type": "festival",
       "holiday": true,
       "nameEn": "Chhath Parva"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 8,
+      "bsDay": 1,
+      "name": "वृश्चिक संक्रान्ति",
+      "type": "festival",
+      "holiday": false,
+      "nameEn": "Brischik Sankranti"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 8,
+      "bsDay": 1,
+      "name": "भौमाष्टमी व्रत",
+      "type": "festival",
+      "holiday": false,
+      "nameEn": "Bhaumashtami vrata"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 8,
+      "bsDay": 1,
+      "name": "गोपाष्टमी व्रत",
+      "type": "festival",
+      "holiday": false,
+      "nameEn": "Gopashtami vrata"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 8,
+      "bsDay": 1,
+      "name": "गोरखकाली पूजा",
+      "type": "festival",
+      "holiday": false,
+      "nameEn": "Gorakhkali Puja"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 8,
+      "bsDay": 1,
+      "name": "अन्तर्राष्ट्रिय विद्यार्थी दिवस",
+      "type": "international",
+      "holiday": false,
+      "nameEn": "International Student Day"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 8,
+      "bsDay": 2,
+      "name": "कुष्मान्ड नवमी व्रत",
+      "type": "festival",
+      "holiday": false,
+      "nameEn": "Kusmaanda Nawami Vrata"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 8,
+      "bsDay": 3,
+      "name": "अन्तर्राष्ट्रिय पुरुष दिवस",
+      "type": "international",
+      "holiday": false,
+      "nameEn": "International Men's Day"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 8,
+      "bsDay": 3,
+      "name": "विश्व दर्शनशास्त्र दिवस",
+      "type": "international",
+      "holiday": false,
+      "nameEn": "World Philosophy Day"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 8,
+      "bsDay": 4,
+      "name": "हरिबोधिनी एकादशी व्रत",
+      "type": "festival",
+      "holiday": false,
+      "nameEn": "Haribodhini Ekadashi Vrata"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 8,
+      "bsDay": 4,
+      "name": "तुलसी बिवाह",
+      "type": "festival",
+      "holiday": false,
+      "nameEn": "Tulsi Vivah"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 8,
+      "bsDay": 5,
+      "name": "विश्व टेलिभिजन दिवस",
+      "type": "international",
+      "holiday": false,
+      "nameEn": "World Television Day"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 8,
+      "bsDay": 6,
+      "name": "प्रदोष व्रत",
+      "type": "festival",
+      "holiday": false,
+      "nameEn": "Pradosh Vrata"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 8,
+      "bsDay": 7,
+      "name": "बैकुण्ठ चतुर्दशी व्रत",
+      "type": "festival",
+      "holiday": false,
+      "nameEn": "Baikuntha Chaturdashi Vrata"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 8,
+      "bsDay": 8,
+      "name": "गुरु नानक जयन्ती (सिख धर्मावलम्बीहरुलाई मात्र)",
+      "type": "festival",
+      "holiday": true,
+      "nameEn": "Guru Nanak Jayanti"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 8,
+      "bsDay": 8,
+      "name": "कार्तिक स्नान समाप्ति",
+      "type": "festival",
+      "holiday": false,
+      "nameEn": "Kartik Snan Samapti"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 8,
+      "bsDay": 8,
+      "name": "चतुर्मास व्रत समाप्ति",
+      "type": "festival",
+      "holiday": false,
+      "nameEn": "Chaturmas Vrata Samapti"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 8,
+      "bsDay": 8,
+      "name": "निम्बार्काचार्य जयन्ती",
+      "type": "festival",
+      "holiday": false,
+      "nameEn": "Nimbarkacharya Jayanti"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 8,
+      "bsDay": 8,
+      "name": "सकिमना पुन्हि",
+      "type": "festival",
+      "holiday": false,
+      "nameEn": "Sakimana Punhi"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 8,
+      "bsDay": 15,
+      "name": "भाैमाष्टमी व्रत",
+      "type": "festival",
+      "holiday": false,
+      "nameEn": "Bhaumashtami Vrata"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 8,
+      "bsDay": 15,
+      "name": "गोरखकाली पूजा",
+      "type": "festival",
+      "holiday": false,
+      "nameEn": "Gorakhkali Puja"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 8,
+      "bsDay": 16,
+      "name": "अन्तर्राष्ट्रिय दासता उन्मूलन दिवस",
+      "type": "international",
+      "holiday": false,
+      "nameEn": "International Day for the Abolition of Slavery"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 8,
+      "bsDay": 18,
+      "name": "उत्पतिका एकादशी व्रत",
+      "type": "festival",
+      "holiday": false,
+      "nameEn": "Utpatika Ekadashi Vrata"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 8,
+      "bsDay": 19,
+      "name": "विश्व माटो दिवस",
+      "type": "international",
+      "holiday": false,
+      "nameEn": "World Soil Day"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 8,
+      "bsDay": 20,
+      "name": "प्रदोष व्रत",
+      "type": "festival",
+      "holiday": false,
+      "nameEn": "Pradosh Vrata"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 8,
+      "bsDay": 21,
+      "name": "बाला चतुर्दशी व्रत",
+      "type": "festival",
+      "holiday": false,
+      "nameEn": "Bala Chaturdashi Vrata"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 8,
+      "bsDay": 21,
+      "name": "शतबीज छर्ने दिन",
+      "type": "festival",
+      "holiday": false,
+      "nameEn": "Shatbij Chharne Din"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 8,
+      "bsDay": 21,
+      "name": "अन्तर्राष्ट्रिय नागरिक उड्डयन दिवस",
+      "type": "international",
+      "holiday": false,
+      "nameEn": "International Civil Aviation Day"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 8,
+      "bsDay": 22,
+      "name": "अन्तर्राष्ट्रिय मर्यादित महिनावारी दिवस",
+      "type": "international",
+      "holiday": false,
+      "nameEn": "International Dignified Menstruation Day"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 8,
+      "bsDay": 23,
+      "name": "अन्तर्राष्ट्रिय भ्रष्टाचार विरुद्ध दिवस",
+      "type": "international",
+      "holiday": false,
+      "nameEn": "International Anti-corruption Day"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 8,
+      "bsDay": 25,
+      "name": "अन्तर्राष्ट्रिय पर्वत दिवस",
+      "type": "international",
+      "holiday": false,
+      "nameEn": "International Mountain Day"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 8,
+      "bsDay": 26,
+      "name": "अन्तर्राष्ट्रिय तटस्थ दिवस",
+      "type": "international",
+      "holiday": false,
+      "nameEn": "International Day of Neutrality"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 8,
+      "bsDay": 28,
+      "name": "विवाह पञ्चमी",
+      "type": "festival",
+      "holiday": false,
+      "nameEn": "Vivah Panchami"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 8,
+      "bsDay": 28,
+      "name": "षडानन्द जयन्ती",
+      "type": "festival",
+      "holiday": false,
+      "nameEn": "Shadananda Jayanti"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 9,
+      "bsDay": 1,
+      "name": "धनु संक्रान्ति",
+      "type": "festival",
+      "holiday": false,
+      "nameEn": "Dhanu Sankranti"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 9,
+      "bsDay": 2,
+      "name": "गोरखकाली पूजा",
+      "type": "festival",
+      "holiday": false,
+      "nameEn": "Gorakhkali Puja"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 9,
+      "bsDay": 5,
+      "name": "मोक्षदा एकादशी व्रत",
+      "type": "festival",
+      "holiday": false,
+      "nameEn": "Mokshada Ekadashi Vrata"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 9,
+      "bsDay": 5,
+      "name": "गीता जयन्ती",
+      "type": "festival",
+      "holiday": false,
+      "nameEn": "Gita Jayanti"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 9,
+      "bsDay": 6,
+      "name": "सोम प्रदोष व्रत",
+      "type": "festival",
+      "holiday": false,
+      "nameEn": "Som Pradosh Vrata"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 9,
+      "bsDay": 6,
+      "name": "विश्व ध्यान दिवस",
+      "type": "international",
+      "holiday": false,
+      "nameEn": "World Meditation Day"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 9,
+      "bsDay": 8,
+      "name": "दत्तात्रेय जयन्ती",
+      "type": "festival",
+      "holiday": false,
+      "nameEn": "Dattatreya Jayanti"
     },
     {
       "bsYear": 2083,
@@ -953,8 +3671,26 @@
       "bsDay": 9,
       "name": "उधौली पर्व",
       "type": "festival",
-      "holiday": false,
+      "holiday": true,
       "nameEn": "Udhauli Parva"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 9,
+      "bsDay": 9,
+      "name": "धान्यपुर्णिमा",
+      "type": "festival",
+      "holiday": false,
+      "nameEn": "Dhanya Poornima"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 9,
+      "bsDay": 9,
+      "name": "ज्यापु दिवस",
+      "type": "festival",
+      "holiday": false,
+      "nameEn": "Jyapu Diwas"
     },
     {
       "bsYear": 2083,
@@ -962,7 +3698,7 @@
       "bsDay": 10,
       "name": "क्रिसमस दिवस",
       "type": "festival",
-      "holiday": false,
+      "holiday": true,
       "nameEn": "Christmas Day"
     },
     {
@@ -973,6 +3709,105 @@
       "type": "festival",
       "holiday": true,
       "nameEn": "Tamu Lhosar"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 9,
+      "bsDay": 15,
+      "name": "कवि शिरोमणि लेखनाथ जयन्ती",
+      "type": "festival",
+      "holiday": false,
+      "nameEn": "Kavi Siromani Lekhnath Jayanti"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 9,
+      "bsDay": 16,
+      "name": "गोरखकाली पूजा",
+      "type": "festival",
+      "holiday": false,
+      "nameEn": "Gorakhkali Puja"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 9,
+      "bsDay": 17,
+      "name": "नयाँ वर्ष २०२७",
+      "type": "festival",
+      "holiday": false,
+      "nameEn": "New Year 2027"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 9,
+      "bsDay": 17,
+      "name": "राष्ट्रिय पोशाक दिवस",
+      "type": "festival",
+      "holiday": false,
+      "nameEn": "National Poshak Day"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 9,
+      "bsDay": 17,
+      "name": "टोपी दिवस",
+      "type": "festival",
+      "holiday": false,
+      "nameEn": "Topi Day"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 9,
+      "bsDay": 19,
+      "name": "सफला एकादशी व्रत",
+      "type": "festival",
+      "holiday": false,
+      "nameEn": "Safala Ekadashi Vrata"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 9,
+      "bsDay": 21,
+      "name": "गुरु गोबिन्द सिंह जयन्ती",
+      "type": "festival",
+      "holiday": false,
+      "nameEn": "Guru Gobinda Singh Jayanti"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 9,
+      "bsDay": 21,
+      "name": "प्रदोष व्रत",
+      "type": "festival",
+      "holiday": false,
+      "nameEn": "Pradosh Vrata"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 9,
+      "bsDay": 23,
+      "name": "अरनिको स्मृति दिवस",
+      "type": "festival",
+      "holiday": false,
+      "nameEn": "Araniko Smriti Day"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 9,
+      "bsDay": 24,
+      "name": "तोल ल्होसार",
+      "type": "festival",
+      "holiday": false,
+      "nameEn": "Tol Lhosar"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 9,
+      "bsDay": 24,
+      "name": "नेपाल ज्योतिष परिषद स्थापना दिवस",
+      "type": "festival",
+      "holiday": false,
+      "nameEn": "Nepal Astrology Council Establishment Day"
     },
     {
       "bsYear": 2083,
@@ -994,12 +3829,129 @@
     },
     {
       "bsYear": 2083,
+      "bsMonth": 9,
+      "bsDay": 29,
+      "name": "राष्ट्रिय भाक्का दिवस",
+      "type": "festival",
+      "holiday": false,
+      "nameEn": "National Bhakka Day"
+    },
+    {
+      "bsYear": 2083,
       "bsMonth": 10,
       "bsDay": 1,
       "name": "माघे संक्रान्ति",
       "type": "festival",
       "holiday": true,
       "nameEn": "Maghe Sankranti"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 10,
+      "bsDay": 1,
+      "name": "मकर स्नान आरम्भ",
+      "type": "festival",
+      "holiday": false,
+      "nameEn": "Makar Snan Arambha"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 10,
+      "bsDay": 1,
+      "name": "घ्यु चाकु खाने दिन",
+      "type": "festival",
+      "holiday": false,
+      "nameEn": "Ghiu chaku khane Din"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 10,
+      "bsDay": 1,
+      "name": "उत्तरायण आरम्भ",
+      "type": "festival",
+      "holiday": false,
+      "nameEn": "Uttarayan Arambha"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 10,
+      "bsDay": 2,
+      "name": "राष्ट्रिय भुकम्प सुरक्षा दिवस",
+      "type": "festival",
+      "holiday": false,
+      "nameEn": "National Earthquake Safety Day"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 10,
+      "bsDay": 4,
+      "name": "पुत्रदा एकादशी व्रत (स्मार्तहरूको लागि)",
+      "type": "festival",
+      "holiday": false,
+      "nameEn": "Putrada Ekadashi Vrata (Smarta)"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 10,
+      "bsDay": 5,
+      "name": "पुत्रदा एकादशी व्रत (वैष्णवहरूको लागि)",
+      "type": "festival",
+      "holiday": false,
+      "nameEn": "Putrada Ekadashi Vrata ((Vaishnava)"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 10,
+      "bsDay": 6,
+      "name": "प्रदोष व्रत",
+      "type": "festival",
+      "holiday": false,
+      "nameEn": "Pradosh Vrata"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 10,
+      "bsDay": 8,
+      "name": "श्री स्वस्थानी व्रत कथा प्रारम्भ",
+      "type": "festival",
+      "holiday": false,
+      "nameEn": "Sri Swasthani Vrata Katha Prarambha"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 10,
+      "bsDay": 8,
+      "name": "माघ स्नान सुरु",
+      "type": "festival",
+      "holiday": false,
+      "nameEn": "Maagh Snan Suru"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 10,
+      "bsDay": 9,
+      "name": "अन्तर्राष्ट्रिय शिक्षा दिवस",
+      "type": "international",
+      "holiday": false,
+      "nameEn": "International Day of Education"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 10,
+      "bsDay": 12,
+      "name": "अन्तर्राष्ट्रिय भन्सार दिवस",
+      "type": "international",
+      "holiday": false,
+      "nameEn": "International Custom Day"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 10,
+      "bsDay": 15,
+      "name": "गोरखकाली पूजा",
+      "type": "festival",
+      "holiday": false,
+      "nameEn": "Gorakhkali Puja"
     },
     {
       "bsYear": 2083,
@@ -1013,11 +3965,182 @@
     {
       "bsYear": 2083,
       "bsMonth": 10,
+      "bsDay": 17,
+      "name": "विश्व कुष्ठरोग दिवस",
+      "type": "international",
+      "holiday": false,
+      "nameEn": "World Leprosy Day"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 10,
+      "bsDay": 19,
+      "name": "षट्तिला एकादशी",
+      "type": "festival",
+      "holiday": false,
+      "nameEn": "Shattila Ekadashi"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 10,
+      "bsDay": 19,
+      "name": "विश्व सिमसार दिवस",
+      "type": "international",
+      "holiday": false,
+      "nameEn": "World Wetlands Day"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 10,
+      "bsDay": 20,
+      "name": "प्रदोष व्रत",
+      "type": "festival",
+      "holiday": false,
+      "nameEn": "Pradosh Vrata"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 10,
       "bsDay": 24,
       "name": "सोनम ल्होसार",
       "type": "festival",
       "holiday": true,
       "nameEn": "Sonam Lhosar"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 10,
+      "bsDay": 26,
+      "name": "सुरक्षित इन्टरनेट दिवस",
+      "type": "festival",
+      "holiday": false,
+      "nameEn": "Safer Internet Day"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 10,
+      "bsDay": 27,
+      "name": "तिलकुन्द चौथी",
+      "type": "festival",
+      "holiday": false,
+      "nameEn": "Tilkunda Chauthi"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 10,
+      "bsDay": 28,
+      "name": "वसन्तपञ्चमी व्रत",
+      "type": "festival",
+      "holiday": true,
+      "nameEn": "Basanta Panchami vrata"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 10,
+      "bsDay": 28,
+      "name": "सरस्वती पूजा",
+      "type": "festival",
+      "holiday": true,
+      "nameEn": "Saraswati Pooja"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 10,
+      "bsDay": 28,
+      "name": "विज्ञानमा महिला पहुँचको अन्तर्राष्ट्रिय दिवस",
+      "type": "international",
+      "holiday": false,
+      "nameEn": "International Day of Women and Girls in Science"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 10,
+      "bsDay": 29,
+      "name": "स्कन्द षष्ठी",
+      "type": "festival",
+      "holiday": false,
+      "nameEn": "Skanda Sasti"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 11,
+      "bsDay": 1,
+      "name": "कुम्भ संक्रान्ति",
+      "type": "festival",
+      "holiday": false,
+      "nameEn": "Kumbha Sankranti"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 11,
+      "bsDay": 1,
+      "name": "अचला सप्तमी",
+      "type": "festival",
+      "holiday": false,
+      "nameEn": "Achala Saptami"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 11,
+      "bsDay": 1,
+      "name": "विश्व रेडियो दिवस",
+      "type": "international",
+      "holiday": false,
+      "nameEn": "World Radio Day"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 11,
+      "bsDay": 2,
+      "name": "गोरखकाली पूजा",
+      "type": "festival",
+      "holiday": false,
+      "nameEn": "Gorakhkali Puja"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 11,
+      "bsDay": 2,
+      "name": "प्रणय दिवस",
+      "type": "festival",
+      "holiday": false,
+      "nameEn": "Valentine's Day"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 11,
+      "bsDay": 3,
+      "name": "द्रोण नवमी",
+      "type": "festival",
+      "holiday": false,
+      "nameEn": "Dron Nawami"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 11,
+      "bsDay": 5,
+      "name": "भीमा एकादशी व्रत",
+      "type": "festival",
+      "holiday": false,
+      "nameEn": "Bhima Ekadashi Vrata"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 11,
+      "bsDay": 6,
+      "name": "भिष्म द्वादशी",
+      "type": "festival",
+      "holiday": false,
+      "nameEn": "Bhisma Dwadashi"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 11,
+      "bsDay": 6,
+      "name": "प्रदोष व्रत",
+      "type": "festival",
+      "holiday": false,
+      "nameEn": "Pradosh Vrata"
     },
     {
       "bsYear": 2083,
@@ -1031,11 +4154,137 @@
     {
       "bsYear": 2083,
       "bsMonth": 11,
+      "bsDay": 7,
+      "name": "निर्वाचन दिवस",
+      "type": "festival",
+      "holiday": false,
+      "nameEn": "Election Day"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 11,
+      "bsDay": 8,
+      "name": "माघ स्नान समाप्ती",
+      "type": "festival",
+      "holiday": false,
+      "nameEn": "Magh Snan Samapti"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 11,
+      "bsDay": 8,
+      "name": "सामाजिक न्याय दिवस",
+      "type": "international",
+      "holiday": false,
+      "nameEn": "World Day of Social Justice"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 11,
+      "bsDay": 8,
+      "name": "श्री स्वस्थानी व्रत समाप्ती",
+      "type": "festival",
+      "holiday": false,
+      "nameEn": "Shree Swasthani Vrata Samapti"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 11,
+      "bsDay": 8,
+      "name": "पशुपतिनाथको छाया दर्शन",
+      "type": "festival",
+      "holiday": false,
+      "nameEn": "Pashupatinath Chhaya Darshan"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 11,
+      "bsDay": 15,
+      "name": "विश्व गैरसरकारी संस्था दिवस",
+      "type": "international",
+      "holiday": false,
+      "nameEn": "World NGO Day"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 11,
+      "bsDay": 16,
+      "name": "गोरखकाली पूजा",
+      "type": "festival",
+      "holiday": false,
+      "nameEn": "Gorakhkali Puja"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 11,
+      "bsDay": 17,
+      "name": "शून्य भेदभाव दिवस",
+      "type": "festival",
+      "holiday": false,
+      "nameEn": "Zero Discrimination Day"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 11,
+      "bsDay": 18,
+      "name": "माझी समुदायको लदीपूजा",
+      "type": "festival",
+      "holiday": false,
+      "nameEn": "Majhi Samudayako Ladi Pooja"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 11,
+      "bsDay": 19,
+      "name": "विश्व वन्यजन्तु दिवस",
+      "type": "international",
+      "holiday": false,
+      "nameEn": "World Wildlife Day"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 11,
+      "bsDay": 20,
+      "name": "विजया एकादशी व्रत",
+      "type": "festival",
+      "holiday": false,
+      "nameEn": "Bijaya Ekadashi Vrata"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 11,
+      "bsDay": 21,
+      "name": "प्रदोष व्रत",
+      "type": "festival",
+      "holiday": false,
+      "nameEn": "Pradosh Vrata"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 11,
       "bsDay": 22,
       "name": "महा शिवरात्रि",
       "type": "festival",
       "holiday": true,
       "nameEn": "Maha Shivaratri"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 11,
+      "bsDay": 22,
+      "name": "नेपाली सेना दिवस",
+      "type": "festival",
+      "holiday": false,
+      "nameEn": "Nepali Army Day"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 11,
+      "bsDay": 22,
+      "name": "सिलाचःह्रे पूजा",
+      "type": "festival",
+      "holiday": false,
+      "nameEn": "Silachahre Puja"
     },
     {
       "bsYear": 2083,
@@ -1058,6 +4307,60 @@
     {
       "bsYear": 2083,
       "bsMonth": 12,
+      "bsDay": 1,
+      "name": "मीन संक्रान्ति",
+      "type": "festival",
+      "holiday": false,
+      "nameEn": "Meen Sankranti"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 12,
+      "bsDay": 2,
+      "name": "गोरखकाली पूजा",
+      "type": "festival",
+      "holiday": false,
+      "nameEn": "Gorakhkali Puja"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 12,
+      "bsDay": 2,
+      "name": "भौमाष्टमी व्रत",
+      "type": "festival",
+      "holiday": false,
+      "nameEn": "Bhaumashtami Vrata"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 12,
+      "bsDay": 4,
+      "name": "आमलकी एकादशी व्रत",
+      "type": "festival",
+      "holiday": false,
+      "nameEn": "Amalaki Ekadashi Vrata"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 12,
+      "bsDay": 6,
+      "name": "शनि प्रदोष व्रत",
+      "type": "festival",
+      "holiday": false,
+      "nameEn": "Shani Pradosh Vrata"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 12,
+      "bsDay": 6,
+      "name": "विश्व मुख स्वास्थ्य दिवस",
+      "type": "international",
+      "holiday": false,
+      "nameEn": "World Oral Health Day"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 12,
       "bsDay": 7,
       "name": "होली (पहाडी क्षेत्र)",
       "type": "festival",
@@ -1076,11 +4379,146 @@
     {
       "bsYear": 2083,
       "bsMonth": 12,
+      "bsDay": 9,
+      "name": "तेल लगाउने र आँपको मुजुरा खाने दिन",
+      "type": "festival",
+      "holiday": false,
+      "nameEn": "Tel Lagaune Ra Aapko Mujura Khane Din"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 12,
+      "bsDay": 9,
+      "name": "गणगौर पूजा प्रारम्भ",
+      "type": "festival",
+      "holiday": false,
+      "nameEn": "Ganagaur Puja Praarambh"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 12,
+      "bsDay": 9,
+      "name": "विश्व मौसम विज्ञान दिवस",
+      "type": "international",
+      "holiday": false,
+      "nameEn": "World Meteorological Day"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 12,
+      "bsDay": 10,
+      "name": "विश्व क्षयरोग दिवस",
+      "type": "international",
+      "holiday": false,
+      "nameEn": "World Tuberculosis Day"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 12,
+      "bsDay": 13,
+      "name": "विश्व रङ्गमञ्च दिवस",
+      "type": "international",
+      "holiday": false,
+      "nameEn": "World Theater Day"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 12,
+      "bsDay": 16,
+      "name": "भौमाष्टमी व्रत",
+      "type": "festival",
+      "holiday": false,
+      "nameEn": "Bhaumashtami Vrata"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 12,
+      "bsDay": 16,
+      "name": "गोरखकाली पूजा",
+      "type": "festival",
+      "holiday": false,
+      "nameEn": "Gorakhkali Puja"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 12,
+      "bsDay": 19,
+      "name": "पापमोचनी एकादशी व्रत",
+      "type": "festival",
+      "holiday": false,
+      "nameEn": "Paapmochini Ekadashi Brata"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 12,
+      "bsDay": 21,
+      "name": "प्रदोष व्रत",
+      "type": "festival",
+      "holiday": false,
+      "nameEn": "Pradosh Vrata"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 12,
       "bsDay": 23,
       "name": "घोडे जात्रा (काठमाडौं उपत्यका)",
       "type": "festival",
       "holiday": true,
       "nameEn": "Ghode Jatra (Kathmandu Valley)"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 12,
+      "bsDay": 24,
+      "name": "तेल लगाउने र नीमको पात खाने दिन",
+      "type": "festival",
+      "holiday": false,
+      "nameEn": "Tel Lagaune Ra Nimko Pat Khane Din"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 12,
+      "bsDay": 24,
+      "name": "ज्योतिष दिवस",
+      "type": "festival",
+      "holiday": false,
+      "nameEn": "Astrologers Day"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 12,
+      "bsDay": 26,
+      "name": "गौरी व्रत",
+      "type": "festival",
+      "holiday": false,
+      "nameEn": "Gauri Wrata"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 12,
+      "bsDay": 26,
+      "name": "मत्स्य जयन्ती व्रत",
+      "type": "festival",
+      "holiday": false,
+      "nameEn": "Matsya Jayanti Vrata"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 12,
+      "bsDay": 29,
+      "name": "विश्व ज्योतिष स्थापना दिवस",
+      "type": "international",
+      "holiday": false,
+      "nameEn": "World Astrology Foundation Day"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 12,
+      "bsDay": 29,
+      "name": "अन्तर्राष्ट्रिय मानव अन्तरिक्ष उडान दिवस",
+      "type": "international",
+      "holiday": false,
+      "nameEn": "International Day of Human Space Flight"
     }
   ]
 }
