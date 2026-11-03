@@ -415,9 +415,9 @@
       "name_ne": "च्याउ(डल्ले)",
       "name_en": "Mushroom",
       "unit": "के जी",
-      "min": 160.0,
+      "min": 260.0,
       "max": 300.0,
-      "avg": 255.0
+      "avg": 286.67
     },
     {
       "name_ne": "राजा च्याउ",
@@ -917,5 +917,5 @@
     }
   ],
   "source": "Kalimati Market",
-  "updated_at": "2026-11-03T01:53:17Z"
+  "updated_at": "2026-11-03T08:41:21Z"
 }
