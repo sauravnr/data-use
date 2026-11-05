@@ -1,6 +1,6 @@
 {
-  "version": 6,
-  "updatedAt": "2026-11-02T08:51:31Z",
+  "version": 7,
+  "updatedAt": "2026-11-05",
   "festivals": [
     {
       "bsYear": 2081,
@@ -2880,7 +2880,7 @@
       "name": "तुला संक्रान्ति",
       "type": "festival",
       "holiday": false,
-      "nameEn": "Tula SankrantiDhan"
+      "nameEn": "Tula Sankranti"
     },
     {
       "bsYear": 2083,
@@ -3732,15 +3732,6 @@
       "bsYear": 2083,
       "bsMonth": 9,
       "bsDay": 17,
-      "name": "नयाँ वर्ष २०२७",
-      "type": "festival",
-      "holiday": false,
-      "nameEn": "New Year 2027"
-    },
-    {
-      "bsYear": 2083,
-      "bsMonth": 9,
-      "bsDay": 17,
       "name": "राष्ट्रिय पोशाक दिवस",
       "type": "festival",
       "holiday": false,
@@ -4096,15 +4087,6 @@
       "type": "festival",
       "holiday": false,
       "nameEn": "Gorakhkali Puja"
-    },
-    {
-      "bsYear": 2083,
-      "bsMonth": 11,
-      "bsDay": 2,
-      "name": "प्रणय दिवस",
-      "type": "festival",
-      "holiday": false,
-      "nameEn": "Valentine's Day"
     },
     {
       "bsYear": 2083,
