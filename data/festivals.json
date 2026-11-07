@@ -1,6 +1,6 @@
 {
-  "version": 7,
-  "updatedAt": "2026-11-05",
+  "version": 8,
+  "updatedAt": "2026-11-07",
   "festivals": [
     {
       "bsYear": 2081,
@@ -783,7 +783,8 @@
       "name": "आमाको मुख हेर्ने दिन",
       "type": "festival",
       "holiday": false,
-      "nameEn": "Mother's Day"
+      "nameEn": "Mother's Day",
+      "major": true
     },
     {
       "bsYear": 2083,
@@ -792,7 +793,8 @@
       "name": "मातातीर्थ औंसी",
       "type": "festival",
       "holiday": false,
-      "nameEn": "Matatirtha Aunshi"
+      "nameEn": "Matatirtha Aunshi",
+      "major": true
     },
     {
       "bsYear": 2083,
@@ -801,7 +803,8 @@
       "name": "रातो मच्छिन्द्रनाथ रथारोहण",
       "type": "festival",
       "holiday": false,
-      "nameEn": "Rato Machhindranath Ratharohan"
+      "nameEn": "Rato Machhindranath Ratharohan",
+      "major": true
     },
     {
       "bsYear": 2083,
@@ -837,7 +840,8 @@
       "name": "अक्षय तृतीया व्रत",
       "type": "festival",
       "holiday": false,
-      "nameEn": "Akshaya Tritiya Barta"
+      "nameEn": "Akshaya Tritiya Barta",
+      "major": true
     },
     {
       "bsYear": 2083,
@@ -1071,7 +1075,8 @@
       "name": "गोरखनाथ जयन्ती",
       "type": "festival",
       "holiday": false,
-      "nameEn": "Gorakhnath Jayanti"
+      "nameEn": "Gorakhnath Jayanti",
+      "major": true
     },
     {
       "bsYear": 2083,
@@ -1575,7 +1580,8 @@
       "name": "दहीचिउरा खाने दिन",
       "type": "festival",
       "holiday": false,
-      "nameEn": "Dahi chiura Khane Din"
+      "nameEn": "Dahi chiura Khane Din",
+      "major": true
     },
     {
       "bsYear": 2083,
@@ -1674,7 +1680,8 @@
       "name": "भानु जयन्ती",
       "type": "festival",
       "holiday": false,
-      "nameEn": "Bhanu Jayanti"
+      "nameEn": "Bhanu Jayanti",
+      "major": true
     },
     {
       "bsYear": 2083,
@@ -1701,7 +1708,8 @@
       "name": "लुतो फाल्ने दिन",
       "type": "festival",
       "holiday": false,
-      "nameEn": "Luto Falne Din"
+      "nameEn": "Luto Falne Din",
+      "major": true
     },
     {
       "bsYear": 2083,
@@ -1746,7 +1754,8 @@
       "name": "हरिशयनी एकादशी व्रत (तुलसी रोप्ने)",
       "type": "festival",
       "holiday": false,
-      "nameEn": "Harishayani Ekadashi Vrata"
+      "nameEn": "Harishayani Ekadashi Vrata",
+      "major": true
     },
     {
       "bsYear": 2083,
@@ -1782,7 +1791,8 @@
       "name": "गुरु पुर्णिमा व्रत",
       "type": "festival",
       "holiday": false,
-      "nameEn": "Guru Purnima Vrata"
+      "nameEn": "Guru Purnima Vrata",
+      "major": true
     },
     {
       "bsYear": 2083,
@@ -1827,7 +1837,8 @@
       "name": "खीर खाने दिन",
       "type": "festival",
       "holiday": false,
-      "nameEn": "Khir Khane Din"
+      "nameEn": "Khir Khane Din",
+      "major": true
     },
     {
       "bsYear": 2083,
@@ -1935,7 +1946,8 @@
       "name": "नाग पञ्चमी व्रत",
       "type": "festival",
       "holiday": false,
-      "nameEn": "Nag Panchami Barta"
+      "nameEn": "Nag Panchami Barta",
+      "major": true
     },
     {
       "bsYear": 2083,
@@ -2061,7 +2073,8 @@
       "name": "क्वाति खाने दिन",
       "type": "festival",
       "holiday": false,
-      "nameEn": "Kwati Khane Din"
+      "nameEn": "Kwati Khane Din",
+      "major": true
     },
     {
       "bsYear": 2083,
@@ -2268,7 +2281,8 @@
       "name": "कुशे औंसी",
       "type": "festival",
       "holiday": false,
-      "nameEn": "Kunse Aunshi"
+      "nameEn": "Kunse Aunshi",
+      "major": true
     },
     {
       "bsYear": 2083,
@@ -2277,7 +2291,8 @@
       "name": "बुबाको मुख हेर्ने दिन",
       "type": "festival",
       "holiday": false,
-      "nameEn": "Father's Day"
+      "nameEn": "Father's Day",
+      "major": true
     },
     {
       "bsYear": 2083,
@@ -2313,7 +2328,8 @@
       "name": "दर खाने दिन",
       "type": "festival",
       "holiday": false,
-      "nameEn": "Dar Khane Din"
+      "nameEn": "Dar Khane Din",
+      "major": true
     },
     {
       "bsYear": 2083,
@@ -2331,7 +2347,8 @@
       "name": "गणेश चतुर्थी व्रत",
       "type": "festival",
       "holiday": false,
-      "nameEn": "Ganesh Chaturthi Varta"
+      "nameEn": "Ganesh Chaturthi Varta",
+      "major": true
     },
     {
       "bsYear": 2083,
@@ -2358,7 +2375,8 @@
       "name": "ऋषिपञ्चमी व्रत",
       "type": "festival",
       "holiday": false,
-      "nameEn": "Rishi Panchami Vrata"
+      "nameEn": "Rishi Panchami Vrata",
+      "major": true
     },
     {
       "bsYear": 2083,
@@ -2367,7 +2385,8 @@
       "name": "विश्वकर्मा पूजा",
       "type": "international",
       "holiday": false,
-      "nameEn": "Bishwakarma Pooja"
+      "nameEn": "Bishwakarma Pooja",
+      "major": true
     },
     {
       "bsYear": 2083,
@@ -2808,7 +2827,8 @@
       "name": "नवरात्र आरम्भ",
       "type": "festival",
       "holiday": false,
-      "nameEn": "Navaraatra Arambha"
+      "nameEn": "Navaraatra Arambha",
+      "major": true
     },
     {
       "bsYear": 2083,
@@ -2934,7 +2954,8 @@
       "name": "देवी विसर्जन",
       "type": "festival",
       "holiday": false,
-      "nameEn": "Devi Bisharjan"
+      "nameEn": "Devi Bisharjan",
+      "major": true
     },
     {
       "bsYear": 2083,
@@ -2979,7 +3000,8 @@
       "name": "कोजाग्रत व्रत",
       "type": "festival",
       "holiday": false,
-      "nameEn": "Kojagrat Vrata"
+      "nameEn": "Kojagrat Vrata",
+      "major": true
     },
     {
       "bsYear": 2083,
@@ -3060,7 +3082,8 @@
       "name": "धन त्रयोदशी व्रत (धनतेरस)",
       "type": "festival",
       "holiday": false,
-      "nameEn": "Trayodashi Vrata (Dhanteras)"
+      "nameEn": "Trayodashi Vrata (Dhanteras)",
+      "major": true
     },
     {
       "bsYear": 2083,
@@ -3096,7 +3119,8 @@
       "name": "काग तिहार",
       "type": "festival",
       "holiday": false,
-      "nameEn": "Kag Tihar"
+      "nameEn": "Kag Tihar",
+      "major": true
     },
     {
       "bsYear": 2083,
@@ -3123,7 +3147,8 @@
       "name": "महाकवि लक्ष्मीप्रसाद देवकोटाको जन्म जयन्ती",
       "type": "festival",
       "holiday": false,
-      "nameEn": "Laxmi Prasad Devkota Janma Jayanti"
+      "nameEn": "Laxmi Prasad Devkota Janma Jayanti",
+      "major": true
     },
     {
       "bsYear": 2083,
@@ -3132,7 +3157,8 @@
       "name": "नरक चतुर्दशी",
       "type": "festival",
       "holiday": false,
-      "nameEn": "Narak Chaturdashi"
+      "nameEn": "Narak Chaturdashi",
+      "major": true
     },
     {
       "bsYear": 2083,
@@ -3222,7 +3248,8 @@
       "name": "गोरु पूजा",
       "type": "festival",
       "holiday": false,
-      "nameEn": "Goru Puja"
+      "nameEn": "Goru Puja",
+      "major": true
     },
     {
       "bsYear": 2083,
@@ -3258,7 +3285,8 @@
       "name": "किजा पूजा",
       "type": "festival",
       "holiday": false,
-      "nameEn": "Kija Pooja"
+      "nameEn": "Kija Pooja",
+      "major": true
     },
     {
       "bsYear": 2083,
@@ -3375,7 +3403,8 @@
       "name": "हरिबोधिनी एकादशी व्रत",
       "type": "festival",
       "holiday": false,
-      "nameEn": "Haribodhini Ekadashi Vrata"
+      "nameEn": "Haribodhini Ekadashi Vrata",
+      "major": true
     },
     {
       "bsYear": 2083,
@@ -3384,7 +3413,8 @@
       "name": "तुलसी बिवाह",
       "type": "festival",
       "holiday": false,
-      "nameEn": "Tulsi Vivah"
+      "nameEn": "Tulsi Vivah",
+      "major": true
     },
     {
       "bsYear": 2083,
@@ -3582,7 +3612,8 @@
       "name": "विवाह पञ्चमी",
       "type": "festival",
       "holiday": false,
-      "nameEn": "Vivah Panchami"
+      "nameEn": "Vivah Panchami",
+      "major": true
     },
     {
       "bsYear": 2083,
@@ -3627,7 +3658,8 @@
       "name": "गीता जयन्ती",
       "type": "festival",
       "holiday": false,
-      "nameEn": "Gita Jayanti"
+      "nameEn": "Gita Jayanti",
+      "major": true
     },
     {
       "bsYear": 2083,
@@ -3789,7 +3821,8 @@
       "name": "तोल ल्होसार",
       "type": "festival",
       "holiday": false,
-      "nameEn": "Tol Lhosar"
+      "nameEn": "Tol Lhosar",
+      "major": true
     },
     {
       "bsYear": 2083,
@@ -3852,7 +3885,8 @@
       "name": "घ्यु चाकु खाने दिन",
       "type": "festival",
       "holiday": false,
-      "nameEn": "Ghiu chaku khane Din"
+      "nameEn": "Ghiu chaku khane Din",
+      "major": true
     },
     {
       "bsYear": 2083,
@@ -3906,7 +3940,8 @@
       "name": "श्री स्वस्थानी व्रत कथा प्रारम्भ",
       "type": "festival",
       "holiday": false,
-      "nameEn": "Sri Swasthani Vrata Katha Prarambha"
+      "nameEn": "Sri Swasthani Vrata Katha Prarambha",
+      "major": true
     },
     {
       "bsYear": 2083,
@@ -4167,7 +4202,8 @@
       "name": "श्री स्वस्थानी व्रत समाप्ती",
       "type": "festival",
       "holiday": false,
-      "nameEn": "Shree Swasthani Vrata Samapti"
+      "nameEn": "Shree Swasthani Vrata Samapti",
+      "major": true
     },
     {
       "bsYear": 2083,
@@ -4176,7 +4212,8 @@
       "name": "पशुपतिनाथको छाया दर्शन",
       "type": "festival",
       "holiday": false,
-      "nameEn": "Pashupatinath Chhaya Darshan"
+      "nameEn": "Pashupatinath Chhaya Darshan",
+      "major": true
     },
     {
       "bsYear": 2083,
@@ -4257,7 +4294,8 @@
       "name": "नेपाली सेना दिवस",
       "type": "festival",
       "holiday": false,
-      "nameEn": "Nepali Army Day"
+      "nameEn": "Nepali Army Day",
+      "major": true
     },
     {
       "bsYear": 2083,

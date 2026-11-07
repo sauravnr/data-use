@@ -1,7 +1,7 @@
 {
-  "version": 1,
-  "updatedAt": "2026-05-23",
-  "source": "nepalitime.net",
+  "version": 2,
+  "updatedAt": "2026-11-02",
+  "source": "nepalitime.net (2081-2082); hamropatro.com (2083)",
   "saits": [
     {
       "bsYear": 2081,
@@ -1788,14 +1788,50 @@
     {
       "bsYear": 2083,
       "bsMonth": 1,
+      "bsDay": 1,
+      "type": "hom"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 1,
+      "bsDay": 1,
+      "type": "rudri"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 1,
+      "bsDay": 2,
+      "type": "rudri"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 1,
       "bsDay": 3,
-      "type": "bratabandha"
+      "type": "hom"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 1,
+      "bsDay": 6,
+      "type": "hom"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 1,
+      "bsDay": 6,
+      "type": "rudri"
     },
     {
       "bsYear": 2083,
       "bsMonth": 1,
       "bsDay": 7,
       "type": "bibhaha"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 1,
+      "bsDay": 7,
+      "type": "byapar"
     },
     {
       "bsYear": 2083,
@@ -1812,8 +1848,86 @@
     {
       "bsYear": 2083,
       "bsMonth": 1,
+      "bsDay": 8,
+      "type": "hom"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 1,
+      "bsDay": 9,
+      "type": "rudri"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 1,
       "bsDay": 10,
       "type": "pasni"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 1,
+      "bsDay": 10,
+      "type": "rudri"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 1,
+      "bsDay": 11,
+      "type": "hom"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 1,
+      "bsDay": 12,
+      "type": "rudri"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 1,
+      "bsDay": 13,
+      "type": "hom"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 1,
+      "bsDay": 15,
+      "type": "hom"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 1,
+      "bsDay": 15,
+      "type": "rudri"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 1,
+      "bsDay": 16,
+      "type": "rudri"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 1,
+      "bsDay": 17,
+      "type": "hom"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 1,
+      "bsDay": 17,
+      "type": "rudri"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 1,
+      "bsDay": 19,
+      "type": "hom"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 1,
+      "bsDay": 19,
+      "type": "rudri"
     },
     {
       "bsYear": 2083,
@@ -1824,8 +1938,26 @@
     {
       "bsYear": 2083,
       "bsMonth": 1,
+      "bsDay": 20,
+      "type": "hom"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 1,
       "bsDay": 21,
       "type": "bratabandha"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 1,
+      "bsDay": 21,
+      "type": "byapar"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 1,
+      "bsDay": 21,
+      "type": "griharambha"
     },
     {
       "bsYear": 2083,
@@ -1842,6 +1974,18 @@
     {
       "bsYear": 2083,
       "bsMonth": 1,
+      "bsDay": 22,
+      "type": "hom"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 1,
+      "bsDay": 22,
+      "type": "rudri"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 1,
       "bsDay": 23,
       "type": "bibhaha"
     },
@@ -1850,6 +1994,18 @@
       "bsMonth": 1,
       "bsDay": 23,
       "type": "bratabandha"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 1,
+      "bsDay": 23,
+      "type": "hom"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 1,
+      "bsDay": 23,
+      "type": "rudri"
     },
     {
       "bsYear": 2083,
@@ -1860,8 +2016,44 @@
     {
       "bsYear": 2083,
       "bsMonth": 1,
+      "bsDay": 24,
+      "type": "rudri"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 1,
       "bsDay": 25,
       "type": "bibhaha"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 1,
+      "bsDay": 25,
+      "type": "byapar"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 1,
+      "bsDay": 25,
+      "type": "hom"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 1,
+      "bsDay": 25,
+      "type": "rudri"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 1,
+      "bsDay": 27,
+      "type": "rudri"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 1,
+      "bsDay": 28,
+      "type": "hom"
     },
     {
       "bsYear": 2083,
@@ -1872,8 +2064,50 @@
     {
       "bsYear": 2083,
       "bsMonth": 1,
+      "bsDay": 30,
+      "type": "hom"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 1,
+      "bsDay": 30,
+      "type": "rudri"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 1,
       "bsDay": 31,
       "type": "bibhaha"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 1,
+      "bsDay": 31,
+      "type": "byapar"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 1,
+      "bsDay": 31,
+      "type": "griha"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 1,
+      "bsDay": 31,
+      "type": "rudri"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 2,
+      "bsDay": 1,
+      "type": "hom"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 2,
+      "bsDay": 1,
+      "type": "rudri"
     },
     {
       "bsYear": 2083,
@@ -1897,13 +2131,55 @@
       "bsYear": 2083,
       "bsMonth": 3,
       "bsDay": 3,
+      "type": "hom"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 3,
+      "bsDay": 3,
       "type": "pasni"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 3,
+      "bsDay": 5,
+      "type": "hom"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 3,
+      "bsDay": 5,
+      "type": "rudri"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 3,
+      "bsDay": 6,
+      "type": "rudri"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 3,
+      "bsDay": 7,
+      "type": "rudri"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 3,
+      "bsDay": 8,
+      "type": "hom"
     },
     {
       "bsYear": 2083,
       "bsMonth": 3,
       "bsDay": 9,
       "type": "bibhaha"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 3,
+      "bsDay": 9,
+      "type": "rudri"
     },
     {
       "bsYear": 2083,
@@ -1915,7 +2191,31 @@
       "bsYear": 2083,
       "bsMonth": 3,
       "bsDay": 10,
+      "type": "byapar"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 3,
+      "bsDay": 10,
+      "type": "hom"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 3,
+      "bsDay": 10,
       "type": "pasni"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 3,
+      "bsDay": 12,
+      "type": "hom"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 3,
+      "bsDay": 12,
+      "type": "rudri"
     },
     {
       "bsYear": 2083,
@@ -1926,8 +2226,32 @@
     {
       "bsYear": 2083,
       "bsMonth": 3,
+      "bsDay": 13,
+      "type": "byapar"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 3,
+      "bsDay": 13,
+      "type": "rudri"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 3,
       "bsDay": 14,
       "type": "bibhaha"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 3,
+      "bsDay": 14,
+      "type": "hom"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 3,
+      "bsDay": 14,
+      "type": "rudri"
     },
     {
       "bsYear": 2083,
@@ -1938,6 +2262,18 @@
     {
       "bsYear": 2083,
       "bsMonth": 3,
+      "bsDay": 16,
+      "type": "hom"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 3,
+      "bsDay": 16,
+      "type": "rudri"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 3,
       "bsDay": 17,
       "type": "bibhaha"
     },
@@ -1950,6 +2286,12 @@
     {
       "bsYear": 2083,
       "bsMonth": 3,
+      "bsDay": 17,
+      "type": "rudri"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 3,
       "bsDay": 18,
       "type": "bibhaha"
     },
@@ -1957,13 +2299,91 @@
       "bsYear": 2083,
       "bsMonth": 3,
       "bsDay": 18,
+      "type": "byapar"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 3,
+      "bsDay": 18,
+      "type": "hom"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 3,
+      "bsDay": 18,
       "type": "pasni"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 3,
+      "bsDay": 20,
+      "type": "hom"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 3,
+      "bsDay": 20,
+      "type": "rudri"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 3,
+      "bsDay": 21,
+      "type": "rudri"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 3,
+      "bsDay": 22,
+      "type": "hom"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 3,
+      "bsDay": 22,
+      "type": "rudri"
     },
     {
       "bsYear": 2083,
       "bsMonth": 3,
       "bsDay": 23,
       "type": "bibhaha"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 3,
+      "bsDay": 24,
+      "type": "hom"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 3,
+      "bsDay": 24,
+      "type": "rudri"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 3,
+      "bsDay": 26,
+      "type": "rudri"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 3,
+      "bsDay": 27,
+      "type": "hom"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 3,
+      "bsDay": 27,
+      "type": "rudri"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 3,
+      "bsDay": 28,
+      "type": "rudri"
     },
     {
       "bsYear": 2083,
@@ -1997,9 +2417,57 @@
     },
     {
       "bsYear": 2083,
+      "bsMonth": 4,
+      "bsDay": 28,
+      "type": "hom"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 4,
+      "bsDay": 29,
+      "type": "rudri"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 4,
+      "bsDay": 30,
+      "type": "hom"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 5,
+      "bsDay": 1,
+      "type": "byapar"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 5,
+      "bsDay": 1,
+      "type": "hom"
+    },
+    {
+      "bsYear": 2083,
       "bsMonth": 5,
       "bsDay": 1,
       "type": "pasni"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 5,
+      "bsDay": 1,
+      "type": "rudri"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 5,
+      "bsDay": 2,
+      "type": "rudri"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 5,
+      "bsDay": 3,
+      "type": "hom"
     },
     {
       "bsYear": 2083,
@@ -2010,20 +2478,314 @@
     {
       "bsYear": 2083,
       "bsMonth": 5,
+      "bsDay": 3,
+      "type": "rudri"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 5,
+      "bsDay": 4,
+      "type": "byapar"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 5,
+      "bsDay": 5,
+      "type": "hom"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 5,
+      "bsDay": 5,
+      "type": "rudri"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 5,
+      "bsDay": 8,
+      "type": "hom"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 5,
+      "bsDay": 8,
+      "type": "rudri"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 5,
+      "bsDay": 9,
+      "type": "hom"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 5,
+      "bsDay": 9,
+      "type": "rudri"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 5,
       "bsDay": 10,
       "type": "pasni"
     },
     {
       "bsYear": 2083,
       "bsMonth": 5,
+      "bsDay": 10,
+      "type": "rudri"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 5,
+      "bsDay": 11,
+      "type": "hom"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 5,
+      "bsDay": 11,
+      "type": "rudri"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 5,
+      "bsDay": 13,
+      "type": "hom"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 5,
+      "bsDay": 13,
+      "type": "rudri"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 5,
+      "bsDay": 14,
+      "type": "byapar"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 5,
+      "bsDay": 14,
+      "type": "hom"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 5,
+      "bsDay": 16,
+      "type": "hom"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 5,
+      "bsDay": 16,
+      "type": "rudri"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 5,
+      "bsDay": 17,
+      "type": "rudri"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 5,
+      "bsDay": 18,
+      "type": "hom"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 5,
+      "bsDay": 19,
+      "type": "byapar"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 5,
+      "bsDay": 19,
+      "type": "rudri"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 5,
+      "bsDay": 20,
+      "type": "hom"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 5,
       "bsDay": 21,
+      "type": "hom"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 5,
+      "bsDay": 22,
+      "type": "rudri"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 5,
+      "bsDay": 23,
+      "type": "hom"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 5,
+      "bsDay": 23,
+      "type": "rudri"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 5,
+      "bsDay": 24,
+      "type": "rudri"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 5,
+      "bsDay": 25,
+      "type": "hom"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 5,
+      "bsDay": 28,
+      "type": "byapar"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 5,
+      "bsDay": 28,
+      "type": "hom"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 5,
+      "bsDay": 28,
+      "type": "rudri"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 5,
+      "bsDay": 29,
+      "type": "byapar"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 5,
+      "bsDay": 29,
       "type": "pasni"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 5,
+      "bsDay": 30,
+      "type": "hom"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 5,
+      "bsDay": 31,
+      "type": "rudri"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 6,
+      "bsDay": 1,
+      "type": "byapar"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 6,
+      "bsDay": 1,
+      "type": "hom"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 6,
+      "bsDay": 1,
+      "type": "rudri"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 6,
+      "bsDay": 2,
+      "type": "rudri"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 6,
+      "bsDay": 3,
+      "type": "hom"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 6,
+      "bsDay": 4,
+      "type": "hom"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 6,
+      "bsDay": 4,
+      "type": "rudri"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 6,
+      "bsDay": 5,
+      "type": "byapar"
     },
     {
       "bsYear": 2083,
       "bsMonth": 6,
       "bsDay": 5,
       "type": "pasni"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 6,
+      "bsDay": 6,
+      "type": "hom"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 6,
+      "bsDay": 7,
+      "type": "rudri"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 6,
+      "bsDay": 8,
+      "type": "hom"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 6,
+      "bsDay": 8,
+      "type": "rudri"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 6,
+      "bsDay": 9,
+      "type": "rudri"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 6,
+      "bsDay": 10,
+      "type": "hom"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 6,
+      "bsDay": 25,
+      "type": "hom"
     },
     {
       "bsYear": 2083,
@@ -2040,11 +2802,167 @@
     {
       "bsYear": 2083,
       "bsMonth": 7,
+      "bsDay": 15,
+      "type": "byapar"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 7,
+      "bsDay": 15,
+      "type": "hom"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 7,
+      "bsDay": 16,
+      "type": "byapar"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 7,
+      "bsDay": 16,
+      "type": "rudri"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 7,
+      "bsDay": 17,
+      "type": "hom"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 7,
+      "bsDay": 19,
+      "type": "byapar"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 7,
+      "bsDay": 19,
+      "type": "hom"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 7,
+      "bsDay": 19,
+      "type": "rudri"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 7,
+      "bsDay": 27,
+      "type": "hom"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 7,
+      "bsDay": 28,
+      "type": "rudri"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 7,
+      "bsDay": 29,
+      "type": "byapar"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 7,
+      "bsDay": 29,
+      "type": "hom"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 7,
+      "bsDay": 29,
+      "type": "rudri"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 7,
       "bsDay": 30,
       "type": "pasni"
     },
     {
       "bsYear": 2083,
+      "bsMonth": 7,
+      "bsDay": 30,
+      "type": "rudri"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 8,
+      "bsDay": 1,
+      "type": "hom"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 8,
+      "bsDay": 2,
+      "type": "rudri"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 8,
+      "bsDay": 3,
+      "type": "hom"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 8,
+      "bsDay": 5,
+      "type": "byapar"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 8,
+      "bsDay": 5,
+      "type": "griharambha"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 8,
+      "bsDay": 5,
+      "type": "hom"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 8,
+      "bsDay": 5,
+      "type": "rudri"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 8,
+      "bsDay": 6,
+      "type": "byapar"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 8,
+      "bsDay": 6,
+      "type": "hom"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 8,
+      "bsDay": 6,
+      "type": "rudri"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 8,
+      "bsDay": 7,
+      "type": "rudri"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 8,
+      "bsDay": 8,
+      "type": "hom"
+    },
+    {
+      "bsYear": 2083,
       "bsMonth": 8,
       "bsDay": 9,
       "type": "bibhaha"
@@ -2053,19 +2971,97 @@
       "bsYear": 2083,
       "bsMonth": 8,
       "bsDay": 9,
-      "type": "bratabandha"
+      "type": "byapar"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 8,
+      "bsDay": 9,
+      "type": "griharambha"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 8,
+      "bsDay": 9,
+      "type": "rudri"
     },
     {
       "bsYear": 2083,
       "bsMonth": 8,
       "bsDay": 10,
       "type": "bibhaha"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 8,
+      "bsDay": 10,
+      "type": "byapar"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 8,
+      "bsDay": 10,
+      "type": "griharambha"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 8,
+      "bsDay": 10,
+      "type": "hom"
     },
     {
       "bsYear": 2083,
       "bsMonth": 8,
       "bsDay": 10,
       "type": "pasni"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 8,
+      "bsDay": 12,
+      "type": "hom"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 8,
+      "bsDay": 12,
+      "type": "rudri"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 8,
+      "bsDay": 13,
+      "type": "byapar"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 8,
+      "bsDay": 13,
+      "type": "rudri"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 8,
+      "bsDay": 14,
+      "type": "hom"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 8,
+      "bsDay": 14,
+      "type": "rudri"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 8,
+      "bsDay": 15,
+      "type": "hom"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 8,
+      "bsDay": 15,
+      "type": "rudri"
     },
     {
       "bsYear": 2083,
@@ -2083,13 +3079,61 @@
       "bsYear": 2083,
       "bsMonth": 8,
       "bsDay": 17,
+      "type": "byapar"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 8,
+      "bsDay": 17,
+      "type": "hom"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 8,
+      "bsDay": 17,
       "type": "pasni"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 8,
+      "bsDay": 18,
+      "type": "rudri"
     },
     {
       "bsYear": 2083,
       "bsMonth": 8,
       "bsDay": 19,
       "type": "bibhaha"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 8,
+      "bsDay": 19,
+      "type": "byapar"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 8,
+      "bsDay": 19,
+      "type": "hom"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 8,
+      "bsDay": 19,
+      "type": "rudri"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 8,
+      "bsDay": 20,
+      "type": "rudri"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 8,
+      "bsDay": 21,
+      "type": "hom"
     },
     {
       "bsYear": 2083,
@@ -2100,14 +3144,68 @@
     {
       "bsYear": 2083,
       "bsMonth": 8,
+      "bsDay": 24,
+      "type": "hom"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 8,
       "bsDay": 25,
       "type": "bibhaha"
     },
     {
       "bsYear": 2083,
       "bsMonth": 8,
+      "bsDay": 25,
+      "type": "rudri"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 8,
       "bsDay": 26,
       "type": "bibhaha"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 8,
+      "bsDay": 26,
+      "type": "byapar"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 8,
+      "bsDay": 26,
+      "type": "hom"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 8,
+      "bsDay": 28,
+      "type": "hom"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 8,
+      "bsDay": 28,
+      "type": "rudri"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 8,
+      "bsDay": 29,
+      "type": "rudri"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 9,
+      "bsDay": 1,
+      "type": "griharambha"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 9,
+      "bsDay": 1,
+      "type": "hom"
     },
     {
       "bsYear": 2083,
@@ -2118,14 +3216,290 @@
     {
       "bsYear": 2083,
       "bsMonth": 9,
+      "bsDay": 1,
+      "type": "rudri"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 9,
+      "bsDay": 3,
+      "type": "hom"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 9,
+      "bsDay": 3,
+      "type": "rudri"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 9,
+      "bsDay": 4,
+      "type": "byapar"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 9,
+      "bsDay": 4,
+      "type": "griharambha"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 9,
+      "bsDay": 6,
+      "type": "hom"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 9,
+      "bsDay": 6,
+      "type": "rudri"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 9,
+      "bsDay": 7,
+      "type": "rudri"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 9,
+      "bsDay": 8,
+      "type": "hom"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 9,
+      "bsDay": 8,
+      "type": "rudri"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 9,
+      "bsDay": 10,
+      "type": "hom"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 9,
+      "bsDay": 11,
+      "type": "byapar"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 9,
+      "bsDay": 11,
+      "type": "griharambha"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 9,
+      "bsDay": 12,
+      "type": "rudri"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 9,
+      "bsDay": 13,
+      "type": "hom"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 9,
+      "bsDay": 13,
+      "type": "rudri"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 9,
+      "bsDay": 14,
+      "type": "rudri"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 9,
+      "bsDay": 15,
+      "type": "byapar"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 9,
+      "bsDay": 15,
+      "type": "hom"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 9,
       "bsDay": 15,
       "type": "pasni"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 9,
+      "bsDay": 16,
+      "type": "rudri"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 9,
+      "bsDay": 17,
+      "type": "hom"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 9,
+      "bsDay": 19,
+      "type": "hom"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 9,
+      "bsDay": 19,
+      "type": "rudri"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 9,
+      "bsDay": 20,
+      "type": "rudri"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 9,
+      "bsDay": 21,
+      "type": "hom"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 9,
+      "bsDay": 21,
+      "type": "rudri"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 9,
+      "bsDay": 24,
+      "type": "hom"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 9,
+      "bsDay": 25,
+      "type": "byapar"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 9,
+      "bsDay": 25,
+      "type": "rudri"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 9,
+      "bsDay": 28,
+      "type": "hom"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 9,
+      "bsDay": 29,
+      "type": "rudri"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 9,
+      "bsDay": 30,
+      "type": "hom"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 9,
+      "bsDay": 30,
+      "type": "rudri"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 10,
+      "bsDay": 1,
+      "type": "rudri"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 10,
+      "bsDay": 2,
+      "type": "hom"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 10,
+      "bsDay": 3,
+      "type": "hom"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 10,
+      "bsDay": 3,
+      "type": "rudri"
     },
     {
       "bsYear": 2083,
       "bsMonth": 10,
       "bsDay": 4,
       "type": "bibhaha"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 10,
+      "bsDay": 5,
+      "type": "hom"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 10,
+      "bsDay": 5,
+      "type": "rudri"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 10,
+      "bsDay": 6,
+      "type": "rudri"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 10,
+      "bsDay": 7,
+      "type": "hom"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 10,
+      "bsDay": 7,
+      "type": "rudri"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 10,
+      "bsDay": 9,
+      "type": "byapar"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 10,
+      "bsDay": 9,
+      "type": "hom"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 10,
+      "bsDay": 9,
+      "type": "rudri"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 10,
+      "bsDay": 10,
+      "type": "hom"
     },
     {
       "bsYear": 2083,
@@ -2136,6 +3510,42 @@
     {
       "bsYear": 2083,
       "bsMonth": 10,
+      "bsDay": 12,
+      "type": "hom"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 10,
+      "bsDay": 12,
+      "type": "rudri"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 10,
+      "bsDay": 13,
+      "type": "rudri"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 10,
+      "bsDay": 14,
+      "type": "byapar"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 10,
+      "bsDay": 14,
+      "type": "hom"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 10,
+      "bsDay": 14,
+      "type": "rudri"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 10,
       "bsDay": 15,
       "type": "bibhaha"
     },
@@ -2144,6 +3554,24 @@
       "bsMonth": 10,
       "bsDay": 15,
       "type": "pasni"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 10,
+      "bsDay": 16,
+      "type": "hom"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 10,
+      "bsDay": 16,
+      "type": "rudri"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 10,
+      "bsDay": 18,
+      "type": "hom"
     },
     {
       "bsYear": 2083,
@@ -2154,8 +3582,44 @@
     {
       "bsYear": 2083,
       "bsMonth": 10,
+      "bsDay": 19,
+      "type": "rudri"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 10,
       "bsDay": 20,
       "type": "bibhaha"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 10,
+      "bsDay": 20,
+      "type": "hom"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 10,
+      "bsDay": 20,
+      "type": "rudri"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 10,
+      "bsDay": 21,
+      "type": "rudri"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 10,
+      "bsDay": 22,
+      "type": "hom"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 10,
+      "bsDay": 24,
+      "type": "hom"
     },
     {
       "bsYear": 2083,
@@ -2172,8 +3636,56 @@
     {
       "bsYear": 2083,
       "bsMonth": 10,
+      "bsDay": 25,
+      "type": "rudri"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 10,
+      "bsDay": 26,
+      "type": "hom"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 10,
       "bsDay": 27,
       "type": "bibhaha"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 10,
+      "bsDay": 28,
+      "type": "hom"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 10,
+      "bsDay": 28,
+      "type": "rudri"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 10,
+      "bsDay": 29,
+      "type": "byapar"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 10,
+      "bsDay": 29,
+      "type": "rudri"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 11,
+      "bsDay": 1,
+      "type": "hom"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 11,
+      "bsDay": 1,
+      "type": "rudri"
     },
     {
       "bsYear": 2083,
@@ -2184,8 +3696,50 @@
     {
       "bsYear": 2083,
       "bsMonth": 11,
+      "bsDay": 3,
+      "type": "hom"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 11,
+      "bsDay": 3,
+      "type": "rudri"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 11,
       "bsDay": 4,
       "type": "bibhaha"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 11,
+      "bsDay": 5,
+      "type": "hom"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 11,
+      "bsDay": 6,
+      "type": "rudri"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 11,
+      "bsDay": 7,
+      "type": "byapar"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 11,
+      "bsDay": 7,
+      "type": "griharambha"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 11,
+      "bsDay": 7,
+      "type": "hom"
     },
     {
       "bsYear": 2083,
@@ -2196,8 +3750,32 @@
     {
       "bsYear": 2083,
       "bsMonth": 11,
+      "bsDay": 7,
+      "type": "rudri"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 11,
+      "bsDay": 8,
+      "type": "rudri"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 11,
+      "bsDay": 9,
+      "type": "rudri"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 11,
       "bsDay": 10,
       "type": "bratabandha"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 11,
+      "bsDay": 10,
+      "type": "hom"
     },
     {
       "bsYear": 2083,
@@ -2214,6 +3792,18 @@
     {
       "bsYear": 2083,
       "bsMonth": 11,
+      "bsDay": 12,
+      "type": "hom"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 11,
+      "bsDay": 12,
+      "type": "rudri"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 11,
       "bsDay": 13,
       "type": "bratabandha"
     },
@@ -2221,7 +3811,37 @@
       "bsYear": 2083,
       "bsMonth": 11,
       "bsDay": 13,
+      "type": "byapar"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 11,
+      "bsDay": 13,
+      "type": "griharambha"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 11,
+      "bsDay": 13,
       "type": "pasni"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 11,
+      "bsDay": 13,
+      "type": "rudri"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 11,
+      "bsDay": 14,
+      "type": "hom"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 11,
+      "bsDay": 14,
+      "type": "rudri"
     },
     {
       "bsYear": 2083,
@@ -2238,8 +3858,20 @@
     {
       "bsYear": 2083,
       "bsMonth": 11,
+      "bsDay": 16,
+      "type": "rudri"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 11,
       "bsDay": 17,
       "type": "bibhaha"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 11,
+      "bsDay": 17,
+      "type": "hom"
     },
     {
       "bsYear": 2083,
@@ -2250,8 +3882,68 @@
     {
       "bsYear": 2083,
       "bsMonth": 11,
+      "bsDay": 19,
+      "type": "hom"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 11,
+      "bsDay": 19,
+      "type": "rudri"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 11,
       "bsDay": 20,
       "type": "bibhaha"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 11,
+      "bsDay": 20,
+      "type": "byapar"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 11,
+      "bsDay": 20,
+      "type": "griha"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 11,
+      "bsDay": 20,
+      "type": "hom"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 11,
+      "bsDay": 20,
+      "type": "rudri"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 11,
+      "bsDay": 21,
+      "type": "rudri"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 11,
+      "bsDay": 22,
+      "type": "hom"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 11,
+      "bsDay": 22,
+      "type": "rudri"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 11,
+      "bsDay": 23,
+      "type": "hom"
     },
     {
       "bsYear": 2083,
@@ -2275,7 +3967,37 @@
       "bsYear": 2083,
       "bsMonth": 11,
       "bsDay": 26,
+      "type": "byapar"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 11,
+      "bsDay": 26,
+      "type": "hom"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 11,
+      "bsDay": 26,
       "type": "pasni"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 11,
+      "bsDay": 26,
+      "type": "rudri"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 11,
+      "bsDay": 28,
+      "type": "hom"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 11,
+      "bsDay": 29,
+      "type": "rudri"
     },
     {
       "bsYear": 2083,
@@ -2285,9 +4007,39 @@
     },
     {
       "bsYear": 2083,
+      "bsMonth": 11,
+      "bsDay": 30,
+      "type": "hom"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 11,
+      "bsDay": 30,
+      "type": "rudri"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 12,
+      "bsDay": 1,
+      "type": "rudri"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 12,
+      "bsDay": 2,
+      "type": "hom"
+    },
+    {
+      "bsYear": 2083,
       "bsMonth": 12,
       "bsDay": 3,
       "type": "bratabandha"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 12,
+      "bsDay": 3,
+      "type": "hom"
     },
     {
       "bsYear": 2083,
@@ -2304,6 +4056,54 @@
     {
       "bsYear": 2083,
       "bsMonth": 12,
+      "bsDay": 4,
+      "type": "byapar"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 12,
+      "bsDay": 5,
+      "type": "hom"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 12,
+      "bsDay": 5,
+      "type": "rudri"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 12,
+      "bsDay": 6,
+      "type": "rudri"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 12,
+      "bsDay": 7,
+      "type": "hom"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 12,
+      "bsDay": 7,
+      "type": "rudri"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 12,
+      "bsDay": 9,
+      "type": "hom"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 12,
+      "bsDay": 9,
+      "type": "rudri"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 12,
       "bsDay": 10,
       "type": "bratabandha"
     },
@@ -2311,7 +4111,73 @@
       "bsYear": 2083,
       "bsMonth": 12,
       "bsDay": 10,
+      "type": "byapar"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 12,
+      "bsDay": 10,
       "type": "pasni"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 12,
+      "bsDay": 11,
+      "type": "hom"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 12,
+      "bsDay": 12,
+      "type": "rudri"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 12,
+      "bsDay": 13,
+      "type": "hom"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 12,
+      "bsDay": 13,
+      "type": "rudri"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 12,
+      "bsDay": 14,
+      "type": "hom"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 12,
+      "bsDay": 14,
+      "type": "rudri"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 12,
+      "bsDay": 16,
+      "type": "hom"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 12,
+      "bsDay": 16,
+      "type": "rudri"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 12,
+      "bsDay": 18,
+      "type": "byapar"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 12,
+      "bsDay": 18,
+      "type": "hom"
     },
     {
       "bsYear": 2083,
@@ -2322,8 +4188,50 @@
     {
       "bsYear": 2083,
       "bsMonth": 12,
+      "bsDay": 19,
+      "type": "rudri"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 12,
+      "bsDay": 20,
+      "type": "hom"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 12,
+      "bsDay": 20,
+      "type": "rudri"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 12,
+      "bsDay": 21,
+      "type": "rudri"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 12,
+      "bsDay": 22,
+      "type": "hom"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 12,
       "bsDay": 25,
       "type": "bratabandha"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 12,
+      "bsDay": 25,
+      "type": "byapar"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 12,
+      "bsDay": 25,
+      "type": "hom"
     },
     {
       "bsYear": 2083,
@@ -2334,8 +4242,62 @@
     {
       "bsYear": 2083,
       "bsMonth": 12,
+      "bsDay": 25,
+      "type": "rudri"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 12,
+      "bsDay": 27,
+      "type": "hom"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 12,
       "bsDay": 28,
       "type": "bratabandha"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 12,
+      "bsDay": 28,
+      "type": "byapar"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 12,
+      "bsDay": 28,
+      "type": "hom"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 12,
+      "bsDay": 28,
+      "type": "rudri"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 12,
+      "bsDay": 29,
+      "type": "byapar"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 12,
+      "bsDay": 29,
+      "type": "rudri"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 12,
+      "bsDay": 30,
+      "type": "hom"
+    },
+    {
+      "bsYear": 2083,
+      "bsMonth": 12,
+      "bsDay": 30,
+      "type": "rudri"
     }
   ]
 }
