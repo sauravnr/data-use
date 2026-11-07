@@ -168,6 +168,42 @@ def fetch_city_reading(city_id, lat, lon):
     }
 
 
+# A station reading is used for a city only when the station is close and at
+# a similar height; then it is shifted by the standard lapse rate to the
+# city's height. Otherwise the app falls back to its forecast model.
+MAX_STATION_KM = 15
+MAX_STATION_DELEV_M = 200
+LAPSE_C_PER_M = 0.0065
+
+
+def add_temp_at_city(city_readings):
+    """Set elevation fields and `temp_at_city` on each usable reading."""
+    rows = [(cid, r) for cid, r in city_readings.items()
+            if r.get("station_lat") is not None and r.get("station_lon") is not None]
+    if not rows:
+        return
+    cities = {cid: (lat, lon) for (cid, lat, lon) in APP_CITIES}
+    lats = [cities[cid][0] for cid, _ in rows] + [r["station_lat"] for _, r in rows]
+    lons = [cities[cid][1] for cid, _ in rows] + [r["station_lon"] for _, r in rows]
+    try:
+        res = fetch("https://api.open-meteo.com/v1/elevation?latitude="
+                    + ",".join(f"{x:.5f}" for x in lats)
+                    + "&longitude=" + ",".join(f"{x:.5f}" for x in lons))
+        elev = res.json()["elevation"]
+    except Exception as exc:
+        print(f"[dhm] elevation lookup failed, no city temps this run: {exc}", flush=True)
+        return
+    n = len(rows)
+    for i, (cid, r) in enumerate(rows):
+        city_e, station_e = elev[i], elev[n + i]
+        r["city_elev_m"] = round(city_e)
+        r["station_elev_m"] = round(station_e)
+        d_e = station_e - city_e
+        if (r.get("current_temp") is not None and r.get("station_distance_km") is not None
+                and r["station_distance_km"] <= MAX_STATION_KM and abs(d_e) <= MAX_STATION_DELEV_M):
+            r["temp_at_city"] = round(r["current_temp"] + d_e * LAPSE_C_PER_M, 1)
+
+
 def _to_float(v):
     try:
         return float(v) if v is not None else None
@@ -206,6 +242,8 @@ def main():
 
     elapsed = time.time() - start
     print(f"[dhm]   {len(city_readings)} ok, {failures} failed in {elapsed:.1f}s", flush=True)
+
+    add_temp_at_city(city_readings)
 
     if not city_readings and not manual["stations"]:
         raise RuntimeError("DHM returned no usable data")
