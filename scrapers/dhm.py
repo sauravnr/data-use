@@ -20,7 +20,8 @@ import sys
 import time
 from concurrent.futures import ThreadPoolExecutor, as_completed
 
-from common import fetch, now_iso, write_json
+from common import fetch, now_iso, read_json_if_exists, write_json
+import high_correction
 
 BASE = "https://dhm.gov.np/mfd/api"
 
@@ -248,6 +249,16 @@ def main():
     if not city_readings and not manual["stations"]:
         raise RuntimeError("DHM returned no usable data")
 
+    # Learned correction for the forecast daily highs (see high_correction.py).
+    # Never blocks the rest of the file: on any failure the last one is kept.
+    previous = (read_json_if_exists("dhm.json") or {}).get("high_correction")
+    correction = previous
+    try:
+        hist = high_correction.update_history(manual["issue_date"], manual["stations"])
+        correction = high_correction.compute(hist, APP_CITIES, previous)
+    except Exception as exc:
+        print(f"[dhm] high correction failed, keeping the last one: {exc}", flush=True)
+
     payload = {
         "source":        "DHM Nepal",
         "updated_at":    now_iso(),
@@ -255,6 +266,7 @@ def main():
         "observations":  manual["stations"],
         "city_readings": city_readings,
         "bulletin":      bulletin,
+        "high_correction": correction,
     }
     write_json("dhm.json", payload)
 

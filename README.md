@@ -6,7 +6,8 @@ Personal data hosting — daily-refreshed JSON snapshots and static configuratio
 
 ```
 .
-├── .github/workflows/scrape.yml   # runs scrapers on a cron schedule
+├── .github/workflows/scrape.yml   # prices, rashifal, shares on a cron schedule
+├── .github/workflows/weather.yml  # DHM + METAR every 30 minutes
 ├── scrapers/                      # Python scraping jobs
 │   ├── common.py
 │   ├── gold_silver.py

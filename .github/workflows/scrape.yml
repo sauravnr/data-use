@@ -6,7 +6,8 @@ on:
     - cron: "0 2 * * *"
     # 10:00 UTC daily ≈ 03:45 PM NPT — afternoon refresh for fuel/gold
     - cron: "0 10 * * *"
-    # Every 2 hours — DHM AWOS stations update hourly; we keep weather fresh
+    # Every 2 hours — keeps prices and rashifal fresh. Weather has its own
+    # 30-minute workflow (weather.yml).
     - cron: "0 */2 * * *"
   workflow_dispatch:
 
@@ -58,14 +59,6 @@ jobs:
       - name: Scrape forex
         timeout-minutes: 2
         run: python scrapers/forex.py || true
-
-      - name: Scrape DHM weather
-        timeout-minutes: 2
-        run: python scrapers/dhm.py || true
-
-      - name: Scrape METAR (Nepal airports)
-        timeout-minutes: 2
-        run: python scrapers/metar.py || true
 
       - name: Scrape daily rashifal
         timeout-minutes: 2
