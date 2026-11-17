@@ -1,7 +1,7 @@
 {
   "source": "sharesansar:sectorwise+today-share-price",
-  "updated_at": "2026-11-16T08:53:39Z",
-  "count": 485,
+  "updated_at": "2026-11-17T09:59:35Z",
+  "count": 486,
   "data": {
     "ACLBSL": "Microfinance",
     "ACLBSLP": "Promoter Shares",
@@ -181,6 +181,7 @@
     "KTM": "Hotels and Tourism",
     "LBBL": "Development Banks",
     "LBBLD89": "Others",
+    "LBBLPO": "Promoter Shares",
     "LBLD86": "Others",
     "LBLD88": "Others",
     "LEC": "Hydropower",

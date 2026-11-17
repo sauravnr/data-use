@@ -990,6 +990,16 @@
     ],
     "ipolocal": [
       {
+        "symbol": "KPL",
+        "company": "Kantipur Pharmaceuticals Lab Limited",
+        "units": "800000",
+        "price": "100",
+        "openingDate": "2026-11-26",
+        "closingDate": "2026-12-10",
+        "status": "Coming Soon",
+        "manager": "Muktinath Capital Limited"
+      },
+      {
         "symbol": "HPHL",
         "company": "Him Parbat Hydropower Limited",
         "units": "1690000",
@@ -1228,16 +1238,6 @@
         "closingDate": "2025-07-07",
         "status": "Closed",
         "manager": "Laxmi Sunrise Capital Limited"
-      },
-      {
-        "symbol": "HIMSTAR",
-        "company": "Him Star Urja Company Limited",
-        "units": "186500",
-        "price": "100",
-        "openingDate": "2025-06-13",
-        "closingDate": "2025-06-27",
-        "status": "Closed",
-        "manager": "NIC Asia Capital Limited"
       }
     ],
     "bondsAndDeb": [
@@ -1494,6 +1494,16 @@
     ],
     "ipomigrant": [
       {
+        "symbol": "KPL",
+        "company": "Kantipur Pharmaceuticals Lab Limited",
+        "units": "90000",
+        "price": "100",
+        "openingDate": "2026-11-26",
+        "closingDate": "2026-12-01",
+        "status": "Coming Soon",
+        "manager": "Muktinath Capital Limited"
+      },
+      {
         "symbol": "HPHL",
         "company": "Him Parbat Hydropower Limited",
         "units": "422500",
@@ -1732,19 +1742,9 @@
         "closingDate": "2025-09-26",
         "status": "Closed",
         "manager": "Prabhu Capital Limited"
-      },
-      {
-        "symbol": "SAIL",
-        "company": "Shreenagar Agritech Industries Limited",
-        "units": "309938",
-        "price": "100",
-        "openingDate": "2025-08-27",
-        "closingDate": "2025-08-31",
-        "status": "Closed",
-        "manager": "Nabil Investment Banking Limited"
       }
     ]
   },
   "source": "ShareSansar",
-  "updated_at": "2026-11-17T05:20:11Z"
+  "updated_at": "2026-11-17T09:59:31Z"
 }
