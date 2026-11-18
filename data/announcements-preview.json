@@ -1,7 +1,19 @@
 {
-  "version": 8,
+  "version": 9,
   "updatedAt": "2026-11-18",
   "items": [
+    {
+      "id": "happy-tihar-208308",
+      "kind": "popup",
+      "start": "2083-08-02",
+      "end": "2083-08-08",
+      "title": {
+        "ne": "तिहारको शुभकामना",
+        "en": "Happy Tihar"
+      },
+      "style": "picture",
+      "image": "images/banners/happy-tihar-208308-581a131e.webp"
+    },
     {
       "id": "happy-tamu-lhosar-test-208308",
       "kind": "banner",
@@ -48,5 +60,5 @@
       "action": "day:2083/8/14"
     }
   ],
-  "signature": "mwpuQTsaglIiOhnPid33TgD/lkbt59poYZ8sj1TKOWPZM0KIoHaz1Ffq+N0pW9Vl+2MgOLBenx21N+7mCBQAAg=="
+  "signature": "Lgpf//g1z02SCpQ1FVGbDvew+9XCb/MwFSbiSEzKlFgxP86gk+Ff/byM1MD4ZS40oN/gfmq0Y1UpP6Wd3k7kBw=="
 }
