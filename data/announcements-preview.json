@@ -1,5 +1,5 @@
 {
-  "version": 6,
+  "version": 7,
   "updatedAt": "2026-11-18",
   "items": [
     {
@@ -94,7 +94,27 @@
         "en": "Privacy policy"
       },
       "action": "web:/privacy"
+    },
+    {
+      "id": "test-happy-tamu-lhosar-208308",
+      "kind": "banner",
+      "start": "2083-08-02",
+      "end": "2083-08-08",
+      "title": {
+        "ne": "परीक्षण: तमु ल्होसारको शुभकामना",
+        "en": "Test: Happy Tamu Lhosar"
+      },
+      "body": {
+        "ne": "गुरुङ समुदायको नयाँ वर्ष। यो admin page बाट बनाइएको परीक्षण सूचना हो।",
+        "en": "The Gurung new year. A test notice made on the admin page."
+      },
+      "image": "images/banners/test-happy-tamu-lhosar-208308-684751b5.webp",
+      "action": "festival:Tamu Lhosar",
+      "button": {
+        "ne": "पर्वको बारेमा",
+        "en": "About the festival"
+      }
     }
   ],
-  "signature": "lDDnTPkJ8Rv2iwLCOLeFN018u7GvKk2UeR2Q+vM4UxmfuJl0Pb5KNNZS3etaJZq4fDMpnYgQcvLsDoYDafqVCQ=="
+  "signature": "E9r9ibYVpbsZF0XB8cYMfRGVScw+8hrMA3meJC2SloLytAQ40CwMIECMbM1thV2F7a8MqTs86QRfKaJToBJYBg=="
 }
