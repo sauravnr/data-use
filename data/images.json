@@ -1,5 +1,7 @@
 {
-  "version": 0,
-  "updatedAt": null,
-  "images": {}
+  "version": 1,
+  "updatedAt": "2026-11-18",
+  "images": {
+    "maghe-sankranti": "images/maghe-sankranti-228a9fbb.webp"
+  }
 }
