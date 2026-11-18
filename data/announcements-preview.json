@@ -1,0 +1,59 @@
+{
+  "version": 2,
+  "updatedAt": "2026-11-18",
+  "items": [
+    {
+      "id": "test-line-holiday",
+      "kind": "line",
+      "tone": "holiday",
+      "start": "2083-08-01",
+      "end": "2083-08-30",
+      "title": {
+        "ne": "परीक्षण: मंसिर १४ गते सोमबार सार्वजनिक बिदा",
+        "en": "Test: public holiday on Monday, Mangsir 14"
+      },
+      "action": "day:2083/8/14"
+    },
+    {
+      "id": "test-banner-maghe",
+      "kind": "banner",
+      "start": "2083-08-01",
+      "end": "2083-08-30",
+      "title": {
+        "ne": "माघे संक्रान्तिको शुभकामना",
+        "en": "Happy Maghe Sankranti"
+      },
+      "body": {
+        "ne": "परीक्षण: घिउ, चाकु, तिलको लड्डु र तरुल खाने दिन।",
+        "en": "Test: the day of ghee, chaku, sesame laddus and yams."
+      },
+      "button": {
+        "ne": "पर्वको कथा पढ्नुहोस्",
+        "en": "Read about the festival"
+      },
+      "image": "images/banners/test-maghe.webp",
+      "action": "festival:Maghe Sankranti"
+    },
+    {
+      "id": "test-popup-weather",
+      "kind": "popup",
+      "start": "2083-08-01",
+      "end": "2083-08-30",
+      "title": {
+        "ne": "परीक्षण: नयाँ मौसम पेज",
+        "en": "Test: the new weather page"
+      },
+      "body": {
+        "ne": "४८ सहरको मौसम र ७ दिनको पूर्वानुमान अब सहज पात्रोमै।",
+        "en": "Weather for 48 cities and a 7-day forecast, now in Sahaj Patro."
+      },
+      "button": {
+        "ne": "मौसम हेर्नुहोस्",
+        "en": "See the weather"
+      },
+      "image": "images/banners/test-maghe.webp",
+      "action": "screen:weather"
+    }
+  ],
+  "signature": "Z/z+l5tO+u/3kPCQgJ4HNNV//BETHJAIcORiYewklibt7dPUkRadqEYTgJw5TVdDQU8/LVTsJgYx+WNwIA3LDQ=="
+}

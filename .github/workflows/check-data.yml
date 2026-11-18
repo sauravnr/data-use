@@ -1,0 +1,49 @@
+name: Check data
+
+# On every push that changes data files or pictures: check them, then refresh the
+# jsDelivr copies so the apps get the change within minutes (no manual purge).
+# A red run means a file is broken; nothing is refreshed and the apps keep their
+# last good copy. Pushes made by the scrapers with GITHUB_TOKEN don't start it.
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'data/**'
+      - 'images/**'
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - run: pip install cryptography==43.0.3
+
+      - name: Changed files
+        run: |
+          BEFORE="${{ github.event.before }}"
+          if [ -z "$BEFORE" ] || [ "$BEFORE" = "0000000000000000000000000000000000000000" ] || ! git cat-file -e "$BEFORE" 2>/dev/null; then
+            BEFORE="HEAD~1"
+          fi
+          git diff --name-only "$BEFORE" HEAD -- data images > changed.txt || true
+          echo "Changed:"; cat changed.txt
+
+      - name: Check
+        run: python scrapers/check_data.py $(grep -E '^data/.*\.json$' changed.txt || true)
+
+      - name: Refresh the CDN copies
+        run: |
+          while read -r f; do
+            [ -n "$f" ] && [ -f "$f" ] || continue
+            curl -fsS --retry 3 "https://purge.jsdelivr.net/gh/${{ github.repository }}@main/$f" > /dev/null && echo "refreshed $f" || echo "could not refresh $f"
+          done < changed.txt
