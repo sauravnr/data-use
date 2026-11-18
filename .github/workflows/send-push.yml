@@ -1,0 +1,59 @@
+name: Send push
+
+# Started by the admin page (sahajpatro.web.app/admin) with your GitHub token.
+# Only people with write access to this repo can start it.
+on:
+  workflow_dispatch:
+    inputs:
+      topic:
+        description: 'Who gets it'
+        required: true
+        type: choice
+        options: [test, ne, en, all]
+        default: test
+      title:
+        description: 'Title'
+        required: true
+      body:
+        description: 'Text'
+        required: true
+      image:
+        description: 'Picture URL (optional, one of ours)'
+        required: false
+        default: ''
+      action:
+        description: 'What a tap opens (optional), e.g. screen:weather'
+        required: false
+        default: ''
+
+permissions:
+  contents: read
+
+concurrency:
+  group: send-push
+  cancel-in-progress: false
+
+jobs:
+  send:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          sparse-checkout: tools
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+
+      - name: Send
+        env:
+          FIREBASE_SERVICE_ACCOUNT: ${{ secrets.FIREBASE_SERVICE_ACCOUNT }}
+          PUSH_TOPIC: ${{ inputs.topic }}
+          PUSH_TITLE: ${{ inputs.title }}
+          PUSH_BODY: ${{ inputs.body }}
+          PUSH_IMAGE: ${{ inputs.image }}
+          PUSH_ACTION: ${{ inputs.action }}
+        run: |
+          set -o pipefail
+          node tools/send-push.mjs | tee -a "$GITHUB_STEP_SUMMARY"

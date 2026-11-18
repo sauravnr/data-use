@@ -1,6 +1,6 @@
 {
-  "version": 4,
-  "updatedAt": "2026-05-27",
+  "version": 6,
+  "updatedAt": "2026-11-12",
   "_note": "Image URLs are placeholders (placehold.co). thumbnail is REQUIRED (square, 400x400 final, used everywhere as thumb). hero is OPTIONAL (16:9, 1600x900 final, shown on FestivalDetailScreen — omit the key entirely for festivals where you don't want a hero). See docs/FESTIVAL-IMAGES.md.",
   "festivals": {
     "dashain": {
@@ -452,6 +452,1784 @@
           "url": "https://en.wikipedia.org/wiki/Vasant_Panchami"
         }
       ]
+    },
+    "biska-jatra": {
+      "slug": "biska-jatra",
+      "description": {
+        "ne": "बिस्का जात्रा भक्तपुरमा नयाँ वर्षको अवसरमा मनाइने प्रमुख जात्रा हो। भैरव र भद्रकालीको रथ तानिन्छ र वर्षको अन्तिम दिन ठड्याइएको लिंगो (योसिं) नयाँ वर्षको दिन ढालिन्छ।",
+        "en": "Biska Jatra is Bhaktapur's great festival around the Nepali New Year. The chariots of Bhairav and Bhadrakali are pulled through the city, and a tall wooden pole (lingo) raised on the last day of the year is brought down on New Year's Day."
+      }
+    },
+    "chandi-purnima": {
+      "slug": "chandi-purnima",
+      "description": {
+        "ne": "बैशाख पूर्णिमाको दिन देवी चण्डीको पूजा गरिने भएकाले यसलाई चण्डी पूर्णिमा भनिन्छ। यही दिन बुद्ध जयन्ती र किरात समुदायको उभौली पर्व पनि पर्छ।",
+        "en": "The full moon of Baisakh is observed as Chandi Purnima, when the goddess Chandi is worshipped. Buddha Jayanti and the Kirat festival of Ubhauli fall on the same day."
+      }
+    },
+    "bhoto-jatra": {
+      "slug": "bhoto-jatra",
+      "description": {
+        "ne": "रातो मच्छिन्द्रनाथको रथयात्राको अन्त्यमा ललितपुरको जावलाखेलमा भोटो जात्रा हुन्छ। रत्नजडित भोटो रथबाट जनतालाई देखाइन्छ। काठमाडौं उपत्यकामा यो दिन सार्वजनिक बिदा हुन्छ।",
+        "en": "Bhoto Jatra closes the Rato Machhindranath chariot festival at Jawalakhel, Lalitpur. A jewelled vest (bhoto) is held up from the chariot for the crowd to see. It is a public holiday in the Kathmandu Valley."
+      }
+    },
+    "prophet-muhammad-jayanti-holiday-for-muslim-community-only": {
+      "slug": "prophet-muhammad-jayanti-holiday-for-muslim-community-only",
+      "description": {
+        "ne": "पैगम्बर मोहम्मदको जन्मदिनको सम्झनामा मुस्लिम समुदायले यो दिन प्रार्थना, धार्मिक प्रवचन र दान गरेर मनाउँछन्। यो दिन मुस्लिम समुदायका लागि सार्वजनिक बिदा हुन्छ।",
+        "en": "The birthday of the Prophet Muhammad, marked by the Muslim community with prayers, religious talks and charity. It is a public holiday for the Muslim community."
+      }
+    },
+    "gaura-parva": {
+      "slug": "gaura-parva",
+      "description": {
+        "ne": "गौरा पर्व सुदूरपश्चिम र कर्णालीको प्रमुख चाड हो। गौरा (पार्वती) र महेश्वर (शिव) को पूजा गरिन्छ, विवाहित महिलाहरू व्रत बस्छन् र देउडा नाच्दै पर्व मनाइन्छ।",
+        "en": "Gaura Parva is the major festival of Sudurpaschim and Karnali. Gaura (Parvati) and Maheshwar (Shiva) are worshipped, married women fast, and people celebrate with Deuda songs and dances."
+      }
+    },
+    "gen-z-sahid-diwas": {
+      "slug": "gen-z-sahid-diwas",
+      "description": {
+        "ne": "२०८२ भदौ २३ र २४ को जेनजी आन्दोलनमा ज्यान गुमाउनेहरूको सम्झनामा यो दिवस मनाइन्छ।",
+        "en": "Gen-Z Sahid Diwas honours the young people who lost their lives in the Gen-Z movement of Bhadra 23 and 24, 2082 (September 2025)."
+      }
+    },
+    "haritalika-teej": {
+      "slug": "haritalika-teej",
+      "description": {
+        "ne": "भदौ शुक्ल तृतीयामा पर्ने तीज महिलाहरूको प्रमुख पर्व हो। विवाहित महिलाहरू पतिको दीर्घायु र अविवाहितहरू योग्य वरको कामनामा निराहार व्रत बस्छन् र शिव पार्वतीको पूजा गर्छन्। रातो पहिरनमा नाचगान गरिन्छ।",
+        "en": "Teej, on Bhadra Shukla Tritiya, is the great festival of Nepali women. Married women fast for their husbands' long life and unmarried women for a good husband, worshipping Shiva and Parvati. Women dress in red and gather to sing and dance."
+      }
+    },
+    "jitiya-parva": {
+      "slug": "jitiya-parva",
+      "description": {
+        "ne": "जितिया पर्वमा मिथिला र थारु समुदायका आमाहरू सन्तानको दीर्घायु र सुस्वास्थ्यको कामना गर्दै निर्जला व्रत बस्छन्।",
+        "en": "During Jitiya, mothers of the Mithila and Tharu communities keep a strict fast without water for the long life and health of their children."
+      }
+    },
+    "papankusha-ekadashi-vrata": {
+      "slug": "papankusha-ekadashi-vrata",
+      "description": {
+        "ne": "विजया दशमीपछिको आश्विन शुक्ल एकादशीलाई पापांकुशा एकादशी भनिन्छ। यस दिन व्रत बसी भगवान विष्णुको पूजा गर्दा पाप नाश हुने विश्वास छ। यो दशैंको बिदाभित्र पर्छ।",
+        "en": "Papankusha Ekadashi is the Ashwin Shukla Ekadashi right after Vijaya Dashami. Devotees fast and worship Lord Vishnu, believing it removes sins. It falls within the Dashain holidays."
+      }
+    },
+    "nepal-sambat": {
+      "slug": "nepal-sambat",
+      "description": {
+        "ne": "कार्तिक शुक्ल प्रतिपदा, म्ह पूजाकै दिन नेपाल सम्वतको नयाँ वर्ष सुरु हुन्छ। शंखधर साख्वाले जनताको ऋण तिरिदिएको सम्झनामा सुरु भएको यो सम्वत नेपालको राष्ट्रिय सम्वत हो।",
+        "en": "The Nepal Sambat new year begins on Kartik Shukla Pratipada, the day of Mha Puja. Started in memory of Sankhadhar Sakhwa, who paid off the people's debts, it is a national calendar of Nepal."
+      }
+    },
+    "falgunanda-jayanti": {
+      "slug": "falgunanda-jayanti",
+      "description": {
+        "ne": "किरात धर्मका महागुरु फाल्गुनन्द लिङदेनको जन्मजयन्ती। उनले किरात समाजमा धर्म, सदाचार र शिक्षाको सुधार अभियान चलाएका थिए। किरात धर्मावलम्बीहरूका लागि यो दिन बिदा हुन्छ।",
+        "en": "The birth anniversary of Mahaguru Falgunanda Lingden, the Kirat religious teacher who led reforms in faith, conduct and education in Kirat society. It is a holiday for Kirat followers."
+      }
+    },
+    "guru-nanak-jayanti": {
+      "slug": "guru-nanak-jayanti",
+      "description": {
+        "ne": "सिख धर्मका संस्थापक गुरु नानक देवको जन्मजयन्ती कार्तिक पूर्णिमामा मनाइन्छ। गुरुद्वारामा प्रार्थना, भजन र लंगर (सामूहिक भोजन) हुन्छ। सिख धर्मावलम्बीहरूका लागि यो दिन बिदा हुन्छ।",
+        "en": "The birth anniversary of Guru Nanak Dev, founder of Sikhism, falls on Kartik Purnima. Gurdwaras hold prayers, hymns and langar, a shared community meal. It is a holiday for Sikh followers."
+      }
+    },
+    "mothers-day": {
+      "slug": "mothers-day",
+      "description": {
+        "ne": "बैशाख कृष्ण औंसीलाई आमाको मुख हेर्ने दिन भनिन्छ। सन्तानले आमालाई मिठो खाना र उपहार दिई आशीर्वाद लिन्छन्। आमा बितिसकेकाहरू मातातीर्थमा स्नान र श्राद्ध गर्छन्।",
+        "en": "Baisakh Krishna Aunsi is Mother's Day (Aama ko Mukh Herne Din). Children visit their mothers with food and gifts and take their blessings. Those whose mothers have died bathe and offer prayers at Matatirtha."
+      }
+    },
+    "matatirtha-aunshi": {
+      "slug": "matatirtha-aunshi",
+      "description": {
+        "ne": "आमाको मुख हेर्ने दिन काठमाडौंको मातातीर्थ कुण्डमा स्नान गरी दिवंगत आमाको सम्झनामा श्राद्ध र दान गरिन्छ।",
+        "en": "On Mother's Day, people bathe at the Matatirtha pond in Kathmandu and offer rites and charity in memory of their late mothers."
+      }
+    },
+    "rato-machhindranath-ratharohan": {
+      "slug": "rato-machhindranath-ratharohan",
+      "description": {
+        "ne": "ललितपुरको पुल्चोकमा रातो मच्छिन्द्रनाथलाई रथमा राखिने दिन। वर्षाका देवता मानिने मच्छिन्द्रनाथको यो रथयात्रा उपत्यकाकै सबैभन्दा लामो जात्रा हो।",
+        "en": "The day Rato Machhindranath, worshipped as the god of rain, is placed on his chariot at Pulchowk, Lalitpur. The chariot procession that follows is the longest festival of the Kathmandu Valley."
+      }
+    },
+    "akshaya-tritiya-vrata": {
+      "slug": "akshaya-tritiya-vrata",
+      "description": {
+        "ne": "बैशाख शुक्ल तृतीयालाई अक्षय तृतीया भनिन्छ। यस दिन गरिएको दान र पुण्य कहिल्यै नाश नहुने (अक्षय) विश्वास छ। सातु र पानीको घडा दान गर्ने चलन छ।",
+        "en": "Baisakh Shukla Tritiya is Akshaya Tritiya. Charity and good deeds done on this day are believed to bring merit that never fades (akshaya). Giving sattu and pots of water is customary."
+      }
+    },
+    "gorakhnath-jayanti": {
+      "slug": "gorakhnath-jayanti",
+      "description": {
+        "ne": "नाथ सम्प्रदायका महायोगी गुरु गोरखनाथको जयन्ती। गोरखाको गोरखनाथ गुफा लगायत नाथ मठहरूमा विशेष पूजा गरिन्छ।",
+        "en": "The jayanti of Guru Gorakhnath, the great yogi of the Nath tradition. Special prayers are held at Nath shrines, including the Gorakhnath cave in Gorkha."
+      }
+    },
+    "dahi-chiura-khane-din": {
+      "slug": "dahi-chiura-khane-din",
+      "description": {
+        "ne": "असार १५ लाई धान दिवस भनिन्छ। हिलोमा धान रोप्दै दही र चिउरा खाने र रोपाइँका गीत गाउने चलन छ।",
+        "en": "Asar 15 is National Paddy Day. Farmers plant rice in the muddy fields, eat curd with beaten rice (dahi chiura) and sing planting songs."
+      }
+    },
+    "bhanu-jayanti": {
+      "slug": "bhanu-jayanti",
+      "description": {
+        "ne": "असार २९ मा आदिकवि भानुभक्त आचार्यको जन्मजयन्ती मनाइन्छ। उनले रामायणलाई सरल नेपाली भाषामा अनुवाद गरेर नेपाली साहित्यलाई जन-जनमा पुर्‍याएका थिए।",
+        "en": "Asar 29 is the birth anniversary of Adikavi Bhanubhakta Acharya, who translated the Ramayana into simple Nepali and brought Nepali literature to ordinary people."
+      }
+    },
+    "luto-falne-din": {
+      "slug": "luto-falne-din",
+      "description": {
+        "ne": "साउने संक्रान्तिको साँझ घरबाट रोग र अशुभ (लुतो) फाल्ने विश्वाससहित राँको बालेर दोबाटोमा फालिन्छ।",
+        "en": "On the evening of Saune Sankranti, people carry burning torches out of the house and throw them at a crossroads, symbolically casting out illness and bad luck (luto)."
+      }
+    },
+    "harishayani-ekadashi-vrata": {
+      "slug": "harishayani-ekadashi-vrata",
+      "description": {
+        "ne": "असार शुक्ल एकादशीमा भगवान विष्णु चार महिनाका लागि शयन गर्ने विश्वास छ। यसै दिनदेखि चतुर्मास सुरु हुन्छ र घरघरमा तुलसी रोपिन्छ।",
+        "en": "On Asar Shukla Ekadashi, Lord Vishnu is believed to go to sleep for four months. The holy period of Chaturmas begins and tulsi is planted in homes."
+      }
+    },
+    "guru-purnima-vrata": {
+      "slug": "guru-purnima-vrata",
+      "description": {
+        "ne": "असार पूर्णिमालाई गुरु पूर्णिमा भनिन्छ। महर्षि व्यासको जन्मदिन पनि मानिने यस दिन विद्यार्थीहरूले गुरुलाई सम्मान गरी आशीर्वाद लिन्छन्।",
+        "en": "Asar Purnima is Guru Purnima, also celebrated as the birthday of the sage Vyas. Students honour their teachers and take their blessings."
+      }
+    },
+    "khir-khane-din": {
+      "slug": "khir-khane-din",
+      "description": {
+        "ne": "साउन १५ मा खीर खाने चलन छ। रोपाइँपछि दूध र चामलको खीर खाएर स्वास्थ्यको कामना गरिन्छ।",
+        "en": "On Shrawan 15, families eat khir, rice cooked in milk, after the planting season, wishing for good health."
+      }
+    },
+    "nag-panchami-vrata": {
+      "slug": "nag-panchami-vrata",
+      "description": {
+        "ne": "साउन शुक्ल पञ्चमीमा नाग देवताको पूजा गरिन्छ। घरको ढोकामाथि नागको चित्र टाँसी दूध, लावा र फूल चढाइन्छ।",
+        "en": "On Shrawan Shukla Panchami, the serpent gods (Nag) are worshipped. A picture of the Nag is pasted above the main door and offered milk, puffed rice and flowers."
+      }
+    },
+    "kwati-khane-din": {
+      "slug": "kwati-khane-din",
+      "description": {
+        "ne": "जनै पूर्णिमाको दिन नौ प्रकारका गेडागुडी भिजाएर बनाइएको क्वाँटी खाने चलन छ। यसलाई स्वास्थ्यका लागि लाभदायक मानिन्छ।",
+        "en": "On Janai Purnima, people eat kwati, a soup of nine kinds of sprouted beans, believed to be good for health after the monsoon."
+      }
+    },
+    "kushe-aunshi": {
+      "slug": "kushe-aunshi",
+      "description": {
+        "ne": "भदौ कृष्ण औंसीलाई कुशे औंसी भनिन्छ। वर्षभरिका धार्मिक कार्यका लागि यही दिन कुश उखेलिन्छ। यसै दिन बुबाको मुख हेर्ने दिन पनि मनाइन्छ।",
+        "en": "Bhadra Krishna Aunsi is Kushe Aunsi, when the sacred kush grass is gathered for the rituals of the coming year. Father's Day falls on the same day."
+      }
+    },
+    "fathers-day": {
+      "slug": "fathers-day",
+      "description": {
+        "ne": "कुशे औंसीको दिन सन्तानले बुबालाई मिठो खाना र उपहार दिई आशीर्वाद लिन्छन्। बुबा बितिसकेकाहरू गोकर्णेश्वरमा स्नान र श्राद्ध गर्छन्।",
+        "en": "On Kushe Aunsi, children visit their fathers with food and gifts and take their blessings. Those whose fathers have died bathe and offer prayers at Gokarneshwor."
+      }
+    },
+    "dar-khane-din": {
+      "slug": "dar-khane-din",
+      "description": {
+        "ne": "तीजको अघिल्लो दिन महिलाहरू माइतीमा भेला भई मिठो खाना (दर) खान्छन् र नाचगान गर्छन्। भोलिपल्ट निराहार व्रत बस्नुअघिको यो उत्सव हो।",
+        "en": "On the eve of Teej, women gather, often at their parents' home, for a rich feast (dar) with singing and dancing before the next day's fast."
+      }
+    },
+    "ganesh-chaturthi-vrata": {
+      "slug": "ganesh-chaturthi-vrata",
+      "description": {
+        "ne": "भदौ शुक्ल चतुर्थीमा विघ्नहर्ता गणेशको पूजा गरिन्छ। व्रत बसी लड्डु चढाएर कामनाहरू पूरा होस् भनी प्रार्थना गरिन्छ।",
+        "en": "On Bhadra Shukla Chaturthi, Lord Ganesh, the remover of obstacles, is worshipped. Devotees fast and offer laddoos, praying for their wishes to be fulfilled."
+      }
+    },
+    "rishi-panchami-vrata": {
+      "slug": "rishi-panchami-vrata",
+      "description": {
+        "ne": "तीजको अन्तिम दिन ऋषि पञ्चमीमा महिलाहरू दतिवनसहित नदीमा स्नान गरी सप्तऋषिको पूजा गर्छन्।",
+        "en": "Rishi Panchami is the last day of Teej. Women bathe in rivers, cleaning themselves with datiwan twigs, and worship the seven sages (Saptarishi)."
+      }
+    },
+    "vishwakarma-puja": {
+      "slug": "vishwakarma-puja",
+      "description": {
+        "ne": "कन्या संक्रान्तिमा सृष्टिका शिल्पी भगवान विश्वकर्माको पूजा गरिन्छ। कारखाना, कार्यालय र सवारी साधनमा औजार तथा मेसिनको पूजा हुन्छ।",
+        "en": "On Kanya Sankranti, Lord Vishwakarma, the divine architect, is worshipped. Factories, workshops and drivers honour their tools, machines and vehicles."
+      }
+    },
+    "navaratri-aarambha": {
+      "slug": "navaratri-aarambha",
+      "description": {
+        "ne": "घटस्थापनाको दिनदेखि नवरात्र सुरु हुन्छ। नौ रात देवी दुर्गाका नौ रूपको पूजा गरिन्छ।",
+        "en": "Navaratri begins on Ghatasthapana. For nine nights, the nine forms of the goddess Durga are worshipped."
+      }
+    },
+    "devi-visarjan": {
+      "slug": "devi-visarjan",
+      "description": {
+        "ne": "विजया दशमीको दिन नवरात्रभर पूजा गरिएकी देवीलाई विधिपूर्वक बिदाइ (विसर्जन) गरिन्छ।",
+        "en": "On Vijaya Dashami, the goddess worshipped through Navaratri is given a ceremonial farewell (visarjan)."
+      }
+    },
+    "kojagrat-vrata": {
+      "slug": "kojagrat-vrata",
+      "description": {
+        "ne": "आश्विन पूर्णिमा दशैंको अन्तिम दिन हो। यस रात लक्ष्मीले \"को जागा छ?\" भनी सोध्छिन् भन्ने विश्वासमा मानिसहरू रातभर जागा बसी लक्ष्मीको पूजा गर्छन्।",
+        "en": "Ashwin Purnima is the last day of Dashain. It is believed that Laxmi asks \"who is awake?\" (ko jagarti) on this night, so people stay up and worship her."
+      }
+    },
+    "trayodashi-vrata-dhanteras": {
+      "slug": "trayodashi-vrata-dhanteras",
+      "description": {
+        "ne": "कार्तिक कृष्ण त्रयोदशीलाई धनतेरस भनिन्छ। तिहार सुरु हुनुअघि नयाँ भाँडाकुँडा, सुन, चाँदी किन्नु शुभ मानिन्छ।",
+        "en": "Kartik Krishna Trayodashi is Dhanteras. Just before Tihar, buying new utensils, gold or silver is considered auspicious."
+      }
+    },
+    "kag-tihar": {
+      "slug": "kag-tihar",
+      "description": {
+        "ne": "तिहारको पहिलो दिन काग तिहार। यमराजको दूत मानिने कागलाई मिठो खाना दिएर पूजा गरिन्छ।",
+        "en": "Kag Tihar is the first day of Tihar. Crows, regarded as messengers of Yama, are worshipped and fed."
+      }
+    },
+    "laxmi-prasad-devkota-janma-jayanti": {
+      "slug": "laxmi-prasad-devkota-janma-jayanti",
+      "description": {
+        "ne": "महाकवि लक्ष्मीप्रसाद देवकोटाको जन्मजयन्ती। लक्ष्मी पूजाका दिन जन्मिएका उनले मुनामदनलगायत अमर कृतिहरू लेखेका छन्।",
+        "en": "The birth anniversary of Mahakavi Laxmi Prasad Devkota, born on the day of Laxmi Puja. He wrote Muna Madan and many other classics of Nepali literature."
+      }
+    },
+    "narak-chaturdashi": {
+      "slug": "narak-chaturdashi",
+      "description": {
+        "ne": "कुकुर तिहारकै दिन पर्ने नरक चतुर्दशीमा भगवान कृष्णले नरकासुरलाई मारेको सम्झना गरिन्छ।",
+        "en": "Narak Chaturdashi, on the day of Kukur Tihar, celebrates Lord Krishna's victory over the demon Narakasura."
+      }
+    },
+    "goru-puja": {
+      "slug": "goru-puja",
+      "description": {
+        "ne": "गोवर्धन पूजाको दिन खेतीमा सघाउने गोरुको पूजा गरी माला लगाइन्छ र मिठो खाना खुवाइन्छ।",
+        "en": "On the day of Govardhan Puja, oxen, the partners of the farmer, are worshipped with garlands and fed special food."
+      }
+    },
+    "kija-puja": {
+      "slug": "kija-puja",
+      "description": {
+        "ne": "किजा पूजा नेवार समुदायको भाइटीका हो। दिदी-बहिनीले मण्डप बनाई दाजुभाइलाई सगुन र टीका दिएर दीर्घायुको कामना गर्छन्।",
+        "en": "Kija Puja is the Newar Bhai Tika. Sisters draw a mandala, give their brothers sagun and tika, and wish them a long life."
+      }
+    },
+    "haribodhini-ekadashi-vrata": {
+      "slug": "haribodhini-ekadashi-vrata",
+      "description": {
+        "ne": "कार्तिक शुक्ल एकादशीमा भगवान विष्णु चार महिनाको निद्राबाट ब्युँझने विश्वास छ। यसै दिन चतुर्मास सकिन्छ।",
+        "en": "On Kartik Shukla Ekadashi, Lord Vishnu is believed to wake from his four-month sleep, and the holy period of Chaturmas ends."
+      }
+    },
+    "tulsi-vivah": {
+      "slug": "tulsi-vivah",
+      "description": {
+        "ne": "हरिबोधिनी एकादशीपछि तुलसीको विवाह भगवान विष्णु (शालिग्राम) सँग गराइन्छ। यसपछि विवाहको साइत सुरु हुन्छ।",
+        "en": "After Haribodhini Ekadashi, the tulsi plant is ceremonially married to Lord Vishnu in the form of a shaligram. The wedding season begins after this."
+      }
+    },
+    "vivah-panchami": {
+      "slug": "vivah-panchami",
+      "description": {
+        "ne": "मंसिर शुक्ल पञ्चमीमा राम र सीताको विवाहको सम्झनामा विवाह पञ्चमी मनाइन्छ। जनकपुरधाममा भव्य मेला लाग्छ।",
+        "en": "Vivah Panchami, on Mangsir Shukla Panchami, celebrates the wedding of Ram and Sita. A grand fair is held in Janakpurdham."
+      }
+    },
+    "gita-jayanti": {
+      "slug": "gita-jayanti",
+      "description": {
+        "ne": "मंसिर शुक्ल एकादशीमा भगवान कृष्णले कुरुक्षेत्रमा अर्जुनलाई भगवद्गीताको उपदेश दिएको सम्झनामा गीता जयन्ती मनाइन्छ।",
+        "en": "Gita Jayanti, on Mangsir Shukla Ekadashi, marks the day Lord Krishna gave the teaching of the Bhagavad Gita to Arjuna at Kurukshetra."
+      }
+    },
+    "sri-swasthani-vrata-katha-prarambha": {
+      "slug": "sri-swasthani-vrata-katha-prarambha",
+      "description": {
+        "ne": "पुस पूर्णिमादेखि एक महिना स्वस्थानी व्रतकथा वाचन गरिन्छ। व्रतालुहरूले स्वस्थानी देवी र शिवको पूजा गर्छन्।",
+        "en": "From Poush Purnima, the Swasthani Vrat Katha is read for one month. Devotees worship the goddess Swasthani and Lord Shiva."
+      }
+    },
+    "shree-swasthani-vrata-samapti": {
+      "slug": "shree-swasthani-vrata-samapti",
+      "description": {
+        "ne": "माघ पूर्णिमामा एक महिना लामो स्वस्थानी व्रत र कथा वाचन समापन हुन्छ।",
+        "en": "The month-long Swasthani fast and reading of the Vrat Katha end on Magh Purnima."
+      }
+    },
+    "nepali-army-day": {
+      "slug": "nepali-army-day",
+      "description": {
+        "ne": "महाशिवरात्रिको दिन नेपाली सेना दिवस मनाइन्छ। टुँडिखेलमा सेनाको विशेष कार्यक्रम हुन्छ।",
+        "en": "Nepali Army Day is celebrated on Maha Shivaratri, with a special army programme at Tundikhel in Kathmandu."
+      }
+    },
+    "eid-ul-fitr": {
+      "slug": "eid-ul-fitr",
+      "description": {
+        "ne": "रमजान महिनाभरको रोजा (उपवास) सकिएपछि मुस्लिम समुदायले ईद उल फित्र मनाउँछन्। बिहान मस्जिद र ईदगाहमा सामूहिक नमाज पढिन्छ, गरिबलाई दान (फित्रा) दिइन्छ र आफन्त तथा साथीहरूसँग भेटघाट गरिन्छ।",
+        "en": "Eid ul-Fitr marks the end of the month-long Ramadan fast. Muslims gather for morning prayers at mosques and Eidgahs, give charity (fitra) to the poor, and visit family and friends."
+      }
+    },
+    "tol-lhosar": {
+      "slug": "tol-lhosar",
+      "description": {
+        "ne": "तोल ल्होसार हुम्ला, डोल्पा, मनाङ जस्ता हिमाली जिल्लाका समुदायले पुस शुक्ल प्रतिपदामा मनाउने नयाँ वर्ष हो। पुरानो वर्षको अशुभ हटाउन घर सफा गरिन्छ, र लामा वा समुदायका ज्येष्ठको अगुवाइमा मन्त्र जप्दै साम्पा (भुटेको जौको पिठो) आकाशतिर छरेर राम्रो बाली र सुख-शान्तिको कामना गरिन्छ।",
+        "en": "Tol Lhosar is the New Year of Himalayan communities in districts such as Humla, Dolpa and Manang, celebrated on Poush Shukla Pratipada. Homes are cleaned to send off the old year's bad luck, and, led by a lama or an elder, people throw tsampa (roasted barley flour) into the air with prayers for a good harvest and a peaceful year."
+      }
+    },
+    "pashupatinath-chhaya-darshan": {
+      "slug": "pashupatinath-chhaya-darshan",
+      "description": {
+        "ne": "माघ शुक्ल चतुर्दशीमा पशुपतिनाथमा विशेष पूजापछि मन्दिरको प्राङ्गणमा पानी राखिन्छ, जसमा शिवलिङ्गको छाया देखिन्छ। भक्तजन मध्याह्नदेखि साँझको आरतीसम्म लाइन बसेर यो छाया दर्शन गर्छन्। यो दिनलाई जाडो घट्दै दिन लामो हुन थालेको सङ्केतसँग पनि जोडिन्छ।",
+        "en": "On Magh Shukla Chaturdashi, after special worship at Pashupatinath, water is placed in the temple courtyard so that the shadow of the Shivalinga is reflected in it. Devotees queue from midday until the evening aarti to see it. The day is also linked with winter giving way to longer days."
+      }
+    },
+    "family-ekadashi": {
+      "slug": "family-ekadashi",
+      "description": {
+        "ne": "एकादशी चन्द्रमासको एघारौं तिथि हो, जुन महिनामा दुई पटक पर्छ। यस दिन भगवान विष्णुका भक्तहरू व्रत बस्छन् र अन्न खाँदैनन्। वर्षभरिका हरेक एकादशीको आफ्नै नाम र महत्त्व छ।",
+        "en": "Ekadashi is the eleventh lunar day, which comes twice a month. Devotees of Lord Vishnu fast and avoid grains on this day. Each Ekadashi of the year has its own name and significance."
+      }
+    },
+    "family-purnima": {
+      "slug": "family-purnima",
+      "description": {
+        "ne": "पूर्णिमा अर्थात् पूर्ण चन्द्रमाको दिन धेरैले व्रत बसी भगवान विष्णु वा सत्यनारायणको पूजा गर्छन् र तीर्थ तथा नदीमा स्नान गर्छन्।",
+        "en": "On Purnima, the full moon day, many people fast, worship Lord Vishnu or Satyanarayan and bathe at holy rivers and shrines."
+      }
+    },
+    "family-aunsi": {
+      "slug": "family-aunsi",
+      "description": {
+        "ne": "औंसी चन्द्रमा नदेखिने कृष्ण पक्षको अन्तिम दिन हो। यस दिन पितृको सम्झनामा तर्पण, श्राद्ध र दान गर्ने चलन छ। सोमबार पर्ने औंसीलाई सोमबारे औंसी भनिन्छ र यसलाई विशेष पवित्र मानिन्छ।",
+        "en": "Aunsi is the new moon, the last day of the dark fortnight. People offer water, shraddha and charity in memory of their ancestors. An Aunsi falling on a Monday is called Sombare Aunsi and is held especially sacred."
+      }
+    },
+    "family-sankranti": {
+      "slug": "family-sankranti",
+      "description": {
+        "ne": "संक्रान्ति सूर्य एउटा राशिबाट अर्को राशिमा प्रवेश गर्ने दिन हो, जुन हरेक सौर्य महिनाको पहिलो दिन पर्छ। यस दिन नदी तथा तीर्थमा स्नान, सूर्य पूजा र दान गरिन्छ।",
+        "en": "Sankranti is the day the sun moves from one rashi (zodiac sign) to the next, the first day of each solar month. People bathe at rivers and holy places, worship the sun and give charity."
+      }
+    },
+    "family-shraddha": {
+      "slug": "family-shraddha",
+      "description": {
+        "ne": "सोह्रश्राद्ध (पितृपक्ष) का सोह्र दिन पितृहरूको सम्झनामा श्राद्ध गरिन्छ। हरेक परिवारले आफ्ना पितृको मृत्यु भएको तिथिमा पिण्ड र तर्पण दिन्छन्।",
+        "en": "During the sixteen days of Sorha Shraddha (Pitri Paksha), families honour their ancestors. Each family offers pinda and water on the tithi on which their ancestor died."
+      }
+    },
+    "family-pradosh": {
+      "slug": "family-pradosh",
+      "description": {
+        "ne": "प्रदोष व्रत त्रयोदशी तिथिको साँझ भगवान शिवको पूजा गरी बसिन्छ। सोमबार पर्दा सोम प्रदोष र शनिबार पर्दा शनि प्रदोष भनिन्छ।",
+        "en": "Pradosh Vrata is kept on Trayodashi (the thirteenth lunar day), with Lord Shiva worshipped at dusk. When it falls on a Monday it is Som Pradosh, and on a Saturday, Shani Pradosh."
+      }
+    },
+    "family-snan": {
+      "slug": "family-snan",
+      "description": {
+        "ne": "धार्मिक स्नानको यो अवधिमा भक्तजन बिहानै नदी, कुण्ड वा तीर्थमा स्नान गरी पूजा गर्छन्। बैशाख, कार्तिक र माघ स्नान र गोसाइँकुण्ड स्नान प्रसिद्ध छन्।",
+        "en": "During this holy bathing period, devotees bathe early in the morning at rivers, ponds and pilgrimage sites and worship. The Baisakh, Kartik and Magh snan and the Gosaikunda pilgrimage are the best known."
+      }
+    },
+    "mourning-holiday-former-speaker-daman-nath-dhungana": {
+      "slug": "mourning-holiday-former-speaker-daman-nath-dhungana",
+      "description": {
+        "ne": "पूर्वसभामुख दमननाथ ढुंगानाको निधनमा सरकारले शोक बिदा दिएको दिन।",
+        "en": "A day of public mourning declared by the government on the death of former Speaker Daman Nath Dhungana."
+      }
+    },
+    "gen-z-protest-mourning-day": {
+      "slug": "gen-z-protest-mourning-day",
+      "description": {
+        "ne": "२०८२ भदौको जेनजी आन्दोलनमा ज्यान गुमाउनेहरूको सम्झनामा सरकारले घोषणा गरेको राष्ट्रिय शोक बिदा।",
+        "en": "A national day of mourning declared by the government for those who died in the Gen-Z movement of Bhadra 2082."
+      }
+    },
+    "house-of-representatives-election-2082": {
+      "slug": "house-of-representatives-election-2082",
+      "description": {
+        "ne": "जेनजी आन्दोलनपछि भएको प्रतिनिधिसभा सदस्य निर्वाचन २०८२। मतदान गर्न सबैलाई सहज होस् भनी यो दिन सार्वजनिक बिदा दिइएको थियो।",
+        "en": "The House of Representatives election of 2082, held after the Gen-Z movement. The day was a public holiday so that everyone could vote."
+      }
+    },
+    "holiday-for-election-2082": {
+      "slug": "holiday-for-election-2082",
+      "description": {
+        "ne": "प्रतिनिधिसभा निर्वाचन २०८२ का लागि मतदाताहरू आफ्नो मतदान केन्द्रसम्म जान सकून् भनी दिइएको बिदा।",
+        "en": "A holiday given around the House of Representatives election of 2082 so that voters could travel to their polling places."
+      }
+    },
+    "world-art-day": {
+      "slug": "world-art-day",
+      "description": {
+        "ne": "कलाको विकास र विविधताबारे सचेतना फैलाउन युनेस्कोले घोषणा गरेको विश्व कला दिवस, अप्रिल १५।",
+        "en": "World Art Day, 15 April, declared by UNESCO to celebrate the development and diversity of art."
+      }
+    },
+    "international-day-for-monuments-and-sites": {
+      "slug": "international-day-for-monuments-and-sites",
+      "description": {
+        "ne": "विश्व सम्पदा दिवस, अप्रिल १८। सांस्कृतिक सम्पदा र ऐतिहासिक स्थलको संरक्षणबारे सचेतना फैलाइन्छ।",
+        "en": "World Heritage Day, 18 April, raising awareness of protecting cultural heritage and historic sites."
+      }
+    },
+    "world-immunization-week": {
+      "slug": "world-immunization-week",
+      "description": {
+        "ne": "अप्रिलको अन्तिम हप्ता मनाइने विश्व खोप सप्ताह, जसले खोपले रोगबाट जोगाउने महत्त्वबारे सचेतना फैलाउँछ।",
+        "en": "World Immunization Week, the last week of April, promotes vaccines to protect people of all ages from disease."
+      }
+    },
+    "world-malaria-day": {
+      "slug": "world-malaria-day",
+      "description": {
+        "ne": "विश्व औंलो दिवस, अप्रिल २५। औंलो रोकथाम र नियन्त्रणका लागि सचेतना फैलाइन्छ।",
+        "en": "World Malaria Day, 25 April, raising awareness of malaria prevention and control."
+      }
+    },
+    "world-intellectual-property-day": {
+      "slug": "world-intellectual-property-day",
+      "description": {
+        "ne": "विश्व बौद्धिक सम्पत्ति दिवस, अप्रिल २६। आविष्कार र सिर्जनाको संरक्षणमा बौद्धिक सम्पत्तिको भूमिकाबारे सचेतना फैलाइन्छ।",
+        "en": "World Intellectual Property Day, 26 April, on the role of patents, copyright and trademarks in encouraging innovation and creativity."
+      }
+    },
+    "world-day-for-safety-and-health-at-work": {
+      "slug": "world-day-for-safety-and-health-at-work",
+      "description": {
+        "ne": "कार्यस्थलमा सुरक्षा र स्वास्थ्यबारे सचेतना फैलाउन मनाइने दिवस, अप्रिल २८।",
+        "en": "World Day for Safety and Health at Work, 28 April, promoting safe and healthy workplaces."
+      }
+    },
+    "international-dance-day": {
+      "slug": "international-dance-day",
+      "description": {
+        "ne": "अन्तर्राष्ट्रिय नृत्य दिवस, अप्रिल २९। नृत्य कलाको सम्मान गरिन्छ।",
+        "en": "International Dance Day, 29 April, celebrating the art of dance."
+      }
+    },
+    "world-laughter-day": {
+      "slug": "world-laughter-day",
+      "description": {
+        "ne": "मे महिनाको पहिलो आइतबार मनाइने विश्व हाँसो दिवस, हाँसोले स्वास्थ्य र मित्रता बढाउँछ भन्ने सन्देशसहित।",
+        "en": "World Laughter Day, the first Sunday of May, spreads the message that laughter brings health and friendship."
+      }
+    },
+    "world-red-cross-day": {
+      "slug": "world-red-cross-day",
+      "description": {
+        "ne": "रेडक्रसका संस्थापक हेनरी डुनान्टको जन्मदिन मे ८ मा मनाइने विश्व रेडक्रस दिवस।",
+        "en": "World Red Cross Day, 8 May, the birthday of Red Cross founder Henry Dunant, honouring humanitarian volunteers."
+      }
+    },
+    "world-hypertension-day": {
+      "slug": "world-hypertension-day",
+      "description": {
+        "ne": "विश्व उच्च रक्तचाप दिवस, मे १७। रक्तचाप नियमित जाँच र नियन्त्रणबारे सचेतना फैलाइन्छ।",
+        "en": "World Hypertension Day, 17 May, encouraging people to check and control their blood pressure."
+      }
+    },
+    "international-day-of-innocent-children-victims-of-aggression": {
+      "slug": "international-day-of-innocent-children-victims-of-aggression",
+      "description": {
+        "ne": "युद्ध र हिंसाबाट पीडित बालबालिकाको पीडाप्रति ध्यान खिच्न जुन ४ मा मनाइने संयुक्त राष्ट्रसंघीय दिवस।",
+        "en": "A UN day, 4 June, recognising the suffering of children who are victims of war and violence."
+      }
+    },
+    "world-elder-abuse-awareness-day": {
+      "slug": "world-elder-abuse-awareness-day",
+      "description": {
+        "ne": "ज्येष्ठ नागरिकमाथि हुने दुर्व्यवहारविरुद्ध सचेतना फैलाउन जुन १५ मा मनाइने दिवस।",
+        "en": "World Elder Abuse Awareness Day, 15 June, raising awareness against the abuse and neglect of older people."
+      }
+    },
+    "international-day-of-family-remittances": {
+      "slug": "international-day-of-family-remittances",
+      "description": {
+        "ne": "परिवारलाई पैसा पठाउने विदेशमा काम गर्ने श्रमिकको योगदान सम्मान गर्न जुन १६ मा मनाइने दिवस।",
+        "en": "International Day of Family Remittances, 16 June, honouring migrant workers who send money home to their families."
+      }
+    },
+    "international-fathers-day": {
+      "slug": "international-fathers-day",
+      "description": {
+        "ne": "धेरै देशमा जुनको तेस्रो आइतबार बुबाको सम्मानमा मनाइने अन्तर्राष्ट्रिय बुबा दिवस। नेपालमा कुशे औंसीमा बुबाको मुख हेरिन्छ।",
+        "en": "International Father's Day, the third Sunday of June in many countries. In Nepal, fathers are honoured on Kushe Aunsi."
+      }
+    },
+    "world-day-to-combat-desertification-and-drought": {
+      "slug": "world-day-to-combat-desertification-and-drought",
+      "description": {
+        "ne": "मरुभूमीकरण र खडेरीविरुद्ध सचेतना फैलाउन जुन १७ मा मनाइने दिवस।",
+        "en": "World Day to Combat Desertification and Drought, 17 June, on protecting land from turning into desert."
+      }
+    },
+    "international-day-for-the-elimination-of-sexual-violence-in-conflict": {
+      "slug": "international-day-for-the-elimination-of-sexual-violence-in-conflict",
+      "description": {
+        "ne": "द्वन्द्वका बेला हुने यौन हिंसा अन्त्य गर्न र पीडितको सम्मानमा जुन १९ मा मनाइने संयुक्त राष्ट्रसंघीय दिवस।",
+        "en": "A UN day, 19 June, to end sexual violence in conflict and honour its survivors."
+      }
+    },
+    "international-widows-day": {
+      "slug": "international-widows-day",
+      "description": {
+        "ne": "विधवा महिलाको अधिकार र सम्मानबारे सचेतना फैलाउन जुन २३ मा मनाइने दिवस।",
+        "en": "International Widows' Day, 23 June, raising awareness of the rights and dignity of widows."
+      }
+    },
+    "world-sports-journalist-day": {
+      "slug": "world-sports-journalist-day",
+      "description": {
+        "ne": "खेलकुद पत्रकारको योगदान सम्मान गर्न जुलाई २ मा मनाइने दिवस।",
+        "en": "World Sports Journalists Day, 2 July, honouring the work of sports journalists."
+      }
+    },
+    "international-cooperative-day": {
+      "slug": "international-cooperative-day",
+      "description": {
+        "ne": "जुलाईको पहिलो शनिबार मनाइने अन्तर्राष्ट्रिय सहकारी दिवस, सहकारीको भूमिकाबारे सचेतना फैलाउँदै।",
+        "en": "International Day of Cooperatives, the first Saturday of July, on the role of cooperatives in communities."
+      }
+    },
+    "world-youth-skill-day": {
+      "slug": "world-youth-skill-day",
+      "description": {
+        "ne": "युवालाई रोजगारी र उद्यमका लागि सीप दिने महत्त्वबारे जुलाई १५ मा मनाइने दिवस।",
+        "en": "World Youth Skills Day, 15 July, on giving young people skills for work and enterprise."
+      }
+    },
+    "world-tiger-day": {
+      "slug": "world-tiger-day",
+      "description": {
+        "ne": "बाघ संरक्षणका लागि जुलाई २९ मा मनाइने विश्व बाघ दिवस। नेपालले बाघको संख्या बढाउन उल्लेखनीय सफलता पाएको छ।",
+        "en": "World Tiger Day, 29 July, for tiger conservation. Nepal has had notable success in increasing its tiger population."
+      }
+    },
+    "world-day-against-trafficking-in-persons": {
+      "slug": "world-day-against-trafficking-in-persons",
+      "description": {
+        "ne": "मानव बेचबिखनविरुद्ध सचेतना फैलाउन जुलाई ३० मा मनाइने दिवस।",
+        "en": "World Day against Trafficking in Persons, 30 July, raising awareness against human trafficking."
+      }
+    },
+    "international-friendship-day": {
+      "slug": "international-friendship-day",
+      "description": {
+        "ne": "मित्रताको सम्मानमा मनाइने अन्तर्राष्ट्रिय मित्रता दिवस, संयुक्त राष्ट्रसंघअनुसार जुलाई ३०।",
+        "en": "International Friendship Day, 30 July by the UN, celebrating friendship between people and cultures."
+      }
+    },
+    "world-breastfeeding-week": {
+      "slug": "world-breastfeeding-week",
+      "description": {
+        "ne": "आमाको दूध खुवाउने महत्त्वबारे अगस्ट १ देखि ७ सम्म मनाइने विश्व स्तनपान सप्ताह।",
+        "en": "World Breastfeeding Week, 1 to 7 August, promoting breastfeeding for the health of mothers and babies."
+      }
+    },
+    "international-soil-conservation-day": {
+      "slug": "international-soil-conservation-day",
+      "description": {
+        "ne": "माटो र भू-संरक्षणको महत्त्वबारे सचेतना फैलाउन मनाइने दिवस।",
+        "en": "A day to raise awareness of protecting soil and preventing erosion."
+      }
+    },
+    "international-day-of-the-worlds-indigenous-peoples": {
+      "slug": "international-day-of-the-worlds-indigenous-peoples",
+      "description": {
+        "ne": "आदिवासी जनजातिको अधिकार र संस्कृतिको सम्मानमा अगस्ट ९ मा मनाइने संयुक्त राष्ट्रसंघीय दिवस।",
+        "en": "International Day of the World's Indigenous Peoples, 9 August, honouring the rights and cultures of indigenous peoples."
+      }
+    },
+    "world-calligraphy-day": {
+      "slug": "world-calligraphy-day",
+      "description": {
+        "ne": "सुन्दर हस्तलेखन (क्यालिग्राफी) कलाको सम्मानमा मनाइने दिवस।",
+        "en": "A day celebrating the art of calligraphy."
+      }
+    },
+    "world-photography-day": {
+      "slug": "world-photography-day",
+      "description": {
+        "ne": "फोटोग्राफी कलाको सम्मानमा अगस्ट १९ मा मनाइने विश्व फोटोग्राफी दिवस।",
+        "en": "World Photography Day, 19 August, celebrating the art and science of photography."
+      }
+    },
+    "international-day-against-nuclear-tests": {
+      "slug": "international-day-against-nuclear-tests",
+      "description": {
+        "ne": "आणविक परीक्षण अन्त्य गर्न अगस्ट २९ मा मनाइने संयुक्त राष्ट्रसंघीय दिवस।",
+        "en": "International Day against Nuclear Tests, 29 August, calling for an end to nuclear weapons testing."
+      }
+    },
+    "international-day-of-the-victims-of-enforced-disappearances": {
+      "slug": "international-day-of-the-victims-of-enforced-disappearances",
+      "description": {
+        "ne": "बेपत्ता पारिएका व्यक्ति र तिनका परिवारको सम्झनामा अगस्ट ३० मा मनाइने दिवस।",
+        "en": "International Day of the Victims of Enforced Disappearances, 30 August, remembering the disappeared and their families."
+      }
+    },
+    "world-physiotherapy-day": {
+      "slug": "world-physiotherapy-day",
+      "description": {
+        "ne": "फिजियोथेरापीको महत्त्व र फिजियोथेरापिस्टको योगदानबारे सेप्टेम्बर ८ मा मनाइने दिवस।",
+        "en": "World Physiotherapy Day, 8 September, on the value of physiotherapy and the work of physiotherapists."
+      }
+    },
+    "world-sepsis-day": {
+      "slug": "world-sepsis-day",
+      "description": {
+        "ne": "संक्रमणबाट हुने जीवनघाती सेप्सिसबारे सचेतना फैलाउन सेप्टेम्बर १३ मा मनाइने दिवस।",
+        "en": "World Sepsis Day, 13 September, raising awareness of sepsis, the life-threatening response to infection."
+      }
+    },
+    "world-first-aid-day": {
+      "slug": "world-first-aid-day",
+      "description": {
+        "ne": "सेप्टेम्बरको दोस्रो शनिबार मनाइने विश्व प्राथमिक उपचार दिवस। प्राथमिक उपचारले ज्यान बचाउन सक्छ भन्ने सन्देश दिइन्छ।",
+        "en": "World First Aid Day, the second Saturday of September: first aid can save lives."
+      }
+    },
+    "world-patient-safety-day": {
+      "slug": "world-patient-safety-day",
+      "description": {
+        "ne": "स्वास्थ्य उपचारमा बिरामीको सुरक्षाबारे सेप्टेम्बर १७ मा मनाइने दिवस।",
+        "en": "World Patient Safety Day, 17 September, on keeping patients safe in health care."
+      }
+    },
+    "world-alzheimers-day": {
+      "slug": "world-alzheimers-day",
+      "description": {
+        "ne": "अल्जाइमर र डिमेन्सिया (बिर्सने रोग) बारे सचेतना फैलाउन सेप्टेम्बर २१ मा मनाइने दिवस।",
+        "en": "World Alzheimer's Day, 21 September, raising awareness of Alzheimer's disease and dementia."
+      }
+    },
+    "international-day-of-sign-languages": {
+      "slug": "international-day-of-sign-languages",
+      "description": {
+        "ne": "बहिरा समुदायको सांकेतिक भाषाको सम्मानमा सेप्टेम्बर २३ मा मनाइने दिवस।",
+        "en": "International Day of Sign Languages, 23 September, honouring the sign languages of deaf communities."
+      }
+    },
+    "world-pharmacists-day": {
+      "slug": "world-pharmacists-day",
+      "description": {
+        "ne": "स्वास्थ्यमा फार्मासिस्टको योगदान सम्मान गर्न सेप्टेम्बर २५ मा मनाइने दिवस।",
+        "en": "World Pharmacists Day, 25 September, honouring pharmacists' role in health care."
+      }
+    },
+    "international-day-for-the-elimination-of-nuclear-weapons": {
+      "slug": "international-day-for-the-elimination-of-nuclear-weapons",
+      "description": {
+        "ne": "आणविक हतियार पूर्ण रूपमा अन्त्य गर्न सेप्टेम्बर २६ मा मनाइने संयुक्त राष्ट्रसंघीय दिवस।",
+        "en": "International Day for the Total Elimination of Nuclear Weapons, 26 September."
+      }
+    },
+    "world-rabies-day": {
+      "slug": "world-rabies-day",
+      "description": {
+        "ne": "रेबिज रोकथाम र कुकुरलाई खोप लगाउने महत्त्वबारे सेप्टेम्बर २८ मा मनाइने दिवस।",
+        "en": "World Rabies Day, 28 September, on preventing rabies, including by vaccinating dogs."
+      }
+    },
+    "international-day-for-universal-access-to-information": {
+      "slug": "international-day-for-universal-access-to-information",
+      "description": {
+        "ne": "सबैको सूचनामा पहुँच हुनुपर्ने अधिकारबारे सेप्टेम्बर २८ मा मनाइने दिवस।",
+        "en": "International Day for Universal Access to Information, 28 September, on everyone's right to information."
+      }
+    },
+    "world-animal-day": {
+      "slug": "world-animal-day",
+      "description": {
+        "ne": "जनावरको अधिकार र कल्याणका लागि अक्टोबर ४ मा मनाइने विश्व पशु दिवस।",
+        "en": "World Animal Day, 4 October, for animal rights and welfare."
+      }
+    },
+    "world-smile-day": {
+      "slug": "world-smile-day",
+      "description": {
+        "ne": "अक्टोबरको पहिलो शुक्रबार मनाइने विश्व मुस्कान दिवस, दयालु काम र मुस्कान फैलाउने सन्देशसहित।",
+        "en": "World Smile Day, the first Friday of October: do an act of kindness and help someone smile."
+      }
+    },
+    "world-sight-day": {
+      "slug": "world-sight-day",
+      "description": {
+        "ne": "आँखाको स्वास्थ्य र अन्धोपन रोकथामबारे अक्टोबरको दोस्रो बिहीबार मनाइने दिवस।",
+        "en": "World Sight Day, the second Thursday of October, on eye health and preventing blindness."
+      }
+    },
+    "international-day-for-disaster-risk-reduction": {
+      "slug": "international-day-for-disaster-risk-reduction",
+      "description": {
+        "ne": "विपद्को जोखिम घटाउने तयारीबारे अक्टोबर १३ मा मनाइने संयुक्त राष्ट्रसंघीय दिवस।",
+        "en": "International Day for Disaster Risk Reduction, 13 October, on preparing for and reducing disaster risk."
+      }
+    },
+    "international-day-of-rural-women": {
+      "slug": "international-day-of-rural-women",
+      "description": {
+        "ne": "कृषि र ग्रामीण विकासमा ग्रामीण महिलाको योगदान सम्मान गर्न अक्टोबर १५ मा मनाइने दिवस।",
+        "en": "International Day of Rural Women, 15 October, honouring rural women's role in farming and development."
+      }
+    },
+    "global-handwashing-day": {
+      "slug": "global-handwashing-day",
+      "description": {
+        "ne": "साबुन पानीले हात धुने बानीले रोग रोक्छ भन्ने सन्देशसहित अक्टोबर १५ मा मनाइने दिवस।",
+        "en": "Global Handwashing Day, 15 October: washing hands with soap prevents disease."
+      }
+    },
+    "international-day-for-the-eradication-of-poverty": {
+      "slug": "international-day-for-the-eradication-of-poverty",
+      "description": {
+        "ne": "गरिबी अन्त्यका लागि अक्टोबर १७ मा मनाइने संयुक्त राष्ट्रसंघीय दिवस।",
+        "en": "International Day for the Eradication of Poverty, 17 October."
+      }
+    },
+    "world-development-information-day": {
+      "slug": "world-development-information-day",
+      "description": {
+        "ne": "विकाससम्बन्धी समस्याबारे सूचना फैलाउन अक्टोबर २४ मा मनाइने संयुक्त राष्ट्रसंघीय दिवस।",
+        "en": "World Development Information Day, 24 October, drawing attention to development problems."
+      }
+    },
+    "world-cities-day": {
+      "slug": "world-cities-day",
+      "description": {
+        "ne": "दिगो र बस्न योग्य सहर निर्माणबारे अक्टोबर ३१ मा मनाइने विश्व सहर दिवस।",
+        "en": "World Cities Day, 31 October, on building sustainable, liveable cities."
+      }
+    },
+    "world-radiography-day": {
+      "slug": "world-radiography-day",
+      "description": {
+        "ne": "एक्स-रे पत्ता लागेको दिन नोभेम्बर ८ मा रेडियोग्राफी र रेडियोग्राफरको सम्मानमा मनाइने दिवस।",
+        "en": "World Radiography Day, 8 November, the day X-rays were discovered, honouring radiography and radiographers."
+      }
+    },
+    "world-freedom-day": {
+      "slug": "world-freedom-day",
+      "description": {
+        "ne": "बर्लिन पर्खाल ढलेको सम्झनामा नोभेम्बर ९ मा मनाइने विश्व स्वतन्त्रता दिवस।",
+        "en": "World Freedom Day, 9 November, marking the fall of the Berlin Wall."
+      }
+    },
+    "world-science-day-for-peace-and-development": {
+      "slug": "world-science-day-for-peace-and-development",
+      "description": {
+        "ne": "शान्ति र विकासमा विज्ञानको भूमिकाबारे नोभेम्बर १० मा मनाइने युनेस्को दिवस।",
+        "en": "World Science Day for Peace and Development, 10 November, a UNESCO day on science's role in society."
+      }
+    },
+    "world-pneumonia-day": {
+      "slug": "world-pneumonia-day",
+      "description": {
+        "ne": "निमोनिया रोकथाम र उपचारबारे सचेतना फैलाउन नोभेम्बर १२ मा मनाइने दिवस। निमोनिया बालबालिकाको मृत्युको प्रमुख कारणमध्ये एक हो।",
+        "en": "World Pneumonia Day, 12 November, on preventing and treating pneumonia, a leading cause of death in young children."
+      }
+    },
+    "international-day-against-illicit-trafficking-in-cultural-property": {
+      "slug": "international-day-against-illicit-trafficking-in-cultural-property",
+      "description": {
+        "ne": "मूर्ति र सांस्कृतिक सम्पत्तिको अवैध ओसारपसारविरुद्ध नोभेम्बर १४ मा मनाइने युनेस्को दिवस। नेपालका धेरै चोरिएका मूर्ति विदेशबाट फर्किएका छन्।",
+        "en": "A UNESCO day, 14 November, against the illegal trade in statues and cultural objects. Many stolen Nepali statues have been returned from abroad."
+      }
+    },
+    "international-student-day": {
+      "slug": "international-student-day",
+      "description": {
+        "ne": "विद्यार्थीको अधिकार र शिक्षाको सम्मानमा नोभेम्बर १७ मा मनाइने दिवस।",
+        "en": "International Students' Day, 17 November, honouring students and their right to education."
+      }
+    },
+    "world-television-day": {
+      "slug": "world-television-day",
+      "description": {
+        "ne": "सञ्चार र सूचनामा टेलिभिजनको भूमिकाबारे नोभेम्बर २१ मा मनाइने दिवस।",
+        "en": "World Television Day, 21 November, on television's role in communication and information."
+      }
+    },
+    "world-philosophy-day": {
+      "slug": "world-philosophy-day",
+      "description": {
+        "ne": "दर्शनशास्त्र र सोच्ने परम्पराको सम्मानमा नोभेम्बरको तेस्रो बिहीबार मनाइने युनेस्को दिवस।",
+        "en": "World Philosophy Day, the third Thursday of November, a UNESCO day celebrating philosophical thinking."
+      }
+    },
+    "international-day-for-the-abolition-of-slavery": {
+      "slug": "international-day-for-the-abolition-of-slavery",
+      "description": {
+        "ne": "आधुनिक दासता, जबर्जस्ती श्रम र बालश्रम अन्त्यका लागि डिसेम्बर २ मा मनाइने दिवस।",
+        "en": "International Day for the Abolition of Slavery, 2 December, against modern slavery, forced labour and child labour."
+      }
+    },
+    "world-soil-day": {
+      "slug": "world-soil-day",
+      "description": {
+        "ne": "स्वस्थ माटो र यसको दिगो व्यवस्थापनबारे डिसेम्बर ५ मा मनाइने विश्व माटो दिवस।",
+        "en": "World Soil Day, 5 December, on healthy soil and its sustainable use."
+      }
+    },
+    "international-civil-aviation-day": {
+      "slug": "international-civil-aviation-day",
+      "description": {
+        "ne": "हवाई यातायातको महत्त्वबारे डिसेम्बर ७ मा मनाइने अन्तर्राष्ट्रिय नागरिक उड्डयन दिवस।",
+        "en": "International Civil Aviation Day, 7 December, on the importance of air travel."
+      }
+    },
+    "international-dignified-menstruation-day": {
+      "slug": "international-dignified-menstruation-day",
+      "description": {
+        "ne": "महिनावारीसँग जोडिएको विभेद र छाउपडी जस्ता कुप्रथा अन्त्य गर्न डिसेम्बर ८ मा मनाइने दिवस, जुन नेपालबाट सुरु भएको हो।",
+        "en": "International Dignified Menstruation Day, 8 December, started in Nepal, to end discrimination around menstruation such as chhaupadi."
+      }
+    },
+    "international-anti-corruption-day": {
+      "slug": "international-anti-corruption-day",
+      "description": {
+        "ne": "भ्रष्टाचारविरुद्ध सचेतना फैलाउन डिसेम्बर ९ मा मनाइने संयुक्त राष्ट्रसंघीय दिवस।",
+        "en": "International Anti-Corruption Day, 9 December, raising awareness against corruption."
+      }
+    },
+    "international-mountain-day": {
+      "slug": "international-mountain-day",
+      "description": {
+        "ne": "हिमाल र पहाडको संरक्षण र पहाडी समुदायको जीवनबारे डिसेम्बर ११ मा मनाइने दिवस।",
+        "en": "International Mountain Day, 11 December, on protecting mountains and the lives of mountain communities."
+      }
+    },
+    "international-day-of-neutrality": {
+      "slug": "international-day-of-neutrality",
+      "description": {
+        "ne": "तटस्थताको नीतिले शान्ति कायम राख्न सघाउने कुराबारे डिसेम्बर १२ मा मनाइने संयुक्त राष्ट्रसंघीय दिवस।",
+        "en": "International Day of Neutrality, 12 December, on how neutrality helps keep peace between nations."
+      }
+    },
+    "international-immigrants-day": {
+      "slug": "international-immigrants-day",
+      "description": {
+        "ne": "आप्रवासीको अधिकार र योगदानबारे डिसेम्बर १८ मा मनाइने अन्तर्राष्ट्रिय आप्रवासी दिवस। विदेशमा काम गर्ने लाखौं नेपालीका लागि पनि यो दिन महत्त्वपूर्ण छ।",
+        "en": "International Migrants Day, 18 December, on the rights and contribution of migrants, including millions of Nepalis working abroad."
+      }
+    },
+    "world-meditation-day": {
+      "slug": "world-meditation-day",
+      "description": {
+        "ne": "मानसिक स्वास्थ्य र शान्तिका लागि ध्यानको महत्त्वबारे डिसेम्बर २१ मा मनाइने संयुक्त राष्ट्रसंघीय दिवस।",
+        "en": "World Meditation Day, 21 December, a UN day on meditation for mental health and peace."
+      }
+    },
+    "world-leprosy-day": {
+      "slug": "world-leprosy-day",
+      "description": {
+        "ne": "कुष्ठरोगबारे सचेतना फैलाउन र यसका बिरामीप्रतिको विभेद हटाउन जनवरीको अन्तिम आइतबार मनाइने दिवस।",
+        "en": "World Leprosy Day, the last Sunday of January, raising awareness of leprosy and ending discrimination against those affected."
+      }
+    },
+    "international-customs-day": {
+      "slug": "international-customs-day",
+      "description": {
+        "ne": "भन्सार कर्मचारीको भूमिका सम्मान गर्न जनवरी २६ मा मनाइने अन्तर्राष्ट्रिय भन्सार दिवस।",
+        "en": "International Customs Day, 26 January, honouring the work of customs officers."
+      }
+    },
+    "world-wetlands-day": {
+      "slug": "world-wetlands-day",
+      "description": {
+        "ne": "सिमसार क्षेत्रको संरक्षणका लागि फेब्रुअरी २ मा मनाइने विश्व सिमसार दिवस।",
+        "en": "World Wetlands Day, 2 February, for the protection of wetlands."
+      }
+    },
+    "international-day-of-women-and-girls-in-science": {
+      "slug": "international-day-of-women-and-girls-in-science",
+      "description": {
+        "ne": "विज्ञानमा महिला र बालिकाको सहभागिता बढाउन फेब्रुअरी ११ मा मनाइने दिवस।",
+        "en": "International Day of Women and Girls in Science, 11 February, encouraging women and girls in science."
+      }
+    },
+    "world-radio-day": {
+      "slug": "world-radio-day",
+      "description": {
+        "ne": "सूचना र सञ्चारमा रेडियोको भूमिकाबारे फेब्रुअरी १३ मा मनाइने विश्व रेडियो दिवस।",
+        "en": "World Radio Day, 13 February, on radio's role in information and communication."
+      }
+    },
+    "world-day-of-social-justice": {
+      "slug": "world-day-of-social-justice",
+      "description": {
+        "ne": "गरिबी, असमानता र बेरोजगारी हटाई सामाजिक न्याय कायम गर्न फेब्रुअरी २० मा मनाइने दिवस।",
+        "en": "World Day of Social Justice, 20 February, against poverty, inequality and unemployment."
+      }
+    },
+    "world-ngo-day": {
+      "slug": "world-ngo-day",
+      "description": {
+        "ne": "गैरसरकारी संस्थाको योगदान सम्मान गर्न फेब्रुअरी २७ मा मनाइने दिवस।",
+        "en": "World NGO Day, 27 February, honouring the work of non-governmental organisations."
+      }
+    },
+    "world-wildlife-day": {
+      "slug": "world-wildlife-day",
+      "description": {
+        "ne": "वन्यजन्तु र वनस्पति संरक्षणका लागि मार्च ३ मा मनाइने विश्व वन्यजन्तु दिवस।",
+        "en": "World Wildlife Day, 3 March, for the protection of wild animals and plants."
+      }
+    },
+    "world-consumer-rights-day": {
+      "slug": "world-consumer-rights-day",
+      "description": {
+        "ne": "उपभोक्ताको अधिकार र संरक्षणबारे मार्च १५ मा मनाइने विश्व उपभोक्ता अधिकार दिवस।",
+        "en": "World Consumer Rights Day, 15 March, on the rights and protection of consumers."
+      }
+    },
+    "world-oral-health-day": {
+      "slug": "world-oral-health-day",
+      "description": {
+        "ne": "मुख र दाँतको स्वास्थ्यबारे सचेतना फैलाउन मार्च २० मा मनाइने दिवस।",
+        "en": "World Oral Health Day, 20 March, on caring for the mouth and teeth."
+      }
+    },
+    "world-meteorological-day": {
+      "slug": "world-meteorological-day",
+      "description": {
+        "ne": "मौसम र जलवायुको अध्ययन र पूर्वानुमानको महत्त्वबारे मार्च २३ मा मनाइने विश्व मौसम विज्ञान दिवस।",
+        "en": "World Meteorological Day, 23 March, on the importance of weather and climate science."
+      }
+    },
+    "world-tuberculosis-day": {
+      "slug": "world-tuberculosis-day",
+      "description": {
+        "ne": "क्षयरोग (टीबी) रोकथाम र उपचारबारे सचेतना फैलाउन मार्च २४ मा मनाइने दिवस।",
+        "en": "World Tuberculosis Day, 24 March, raising awareness of TB prevention and treatment."
+      }
+    },
+    "world-theater-day": {
+      "slug": "world-theater-day",
+      "description": {
+        "ne": "नाट्यकलाको सम्मानमा मार्च २७ मा मनाइने विश्व रंगमञ्च दिवस।",
+        "en": "World Theatre Day, 27 March, celebrating the art of theatre."
+      }
+    },
+    "international-day-of-sport-for-development-and-peace": {
+      "slug": "international-day-of-sport-for-development-and-peace",
+      "description": {
+        "ne": "विकास र शान्तिमा खेलकुदको भूमिकाबारे अप्रिल ६ मा मनाइने दिवस।",
+        "en": "International Day of Sport for Development and Peace, 6 April."
+      }
+    },
+    "international-day-of-human-space-flight": {
+      "slug": "international-day-of-human-space-flight",
+      "description": {
+        "ne": "युरी गागारिन अन्तरिक्ष जाने पहिलो मानिस बनेको दिन अप्रिल १२ मा मनाइने दिवस।",
+        "en": "International Day of Human Space Flight, 12 April, the day Yuri Gagarin became the first person in space."
+      }
+    },
+    "international-mens-day": {
+      "slug": "international-mens-day",
+      "description": {
+        "ne": "पुरुषको स्वास्थ्य र समाजमा उनीहरूको सकारात्मक योगदानबारे नोभेम्बर १९ मा मनाइने दिवस।",
+        "en": "International Men's Day, 19 November, on men's health and their positive role in society."
+      }
+    },
+    "international-everest-day": {
+      "slug": "international-everest-day",
+      "description": {
+        "ne": "तेन्जिङ नोर्गे शेर्पा र एडमन्ड हिलारीले सन् १९५३ मा सगरमाथा चढेको सम्झनामा मे २९ मा मनाइने दिवस।",
+        "en": "International Everest Day, 29 May, marking the first ascent of Everest by Tenzing Norgay Sherpa and Edmund Hillary in 1953."
+      }
+    },
+    "international-day-of-education": {
+      "slug": "international-day-of-education",
+      "description": {
+        "ne": "शान्ति र विकासमा शिक्षाको भूमिकाबारे जनवरी २४ मा मनाइने संयुक्त राष्ट्रसंघीय दिवस।",
+        "en": "International Day of Education, 24 January, on education's role in peace and development."
+      }
+    },
+    "mahavir-jayanti": {
+      "slug": "mahavir-jayanti",
+      "description": {
+        "ne": "जैन धर्मका चौबीसौं तीर्थङ्कर भगवान महावीरको जन्मजयन्ती। जैन समुदायले प्रार्थना, शोभायात्रा र दान गरी मनाउँछन्।",
+        "en": "The birth anniversary of Lord Mahavir, the twenty-fourth Tirthankara of Jainism, marked by the Jain community with prayers, processions and charity."
+      }
+    },
+    "hanuman-jayanti": {
+      "slug": "hanuman-jayanti",
+      "description": {
+        "ne": "भगवान रामका परम भक्त हनुमानको जन्मोत्सव। हनुमान मन्दिरमा पूजा, भजन र हनुमान चालिसा पाठ गरिन्छ।",
+        "en": "The birth festival of Hanuman, the devoted follower of Lord Ram, with worship, hymns and readings of the Hanuman Chalisa at Hanuman temples."
+      }
+    },
+    "parshuram-jayanti": {
+      "slug": "parshuram-jayanti",
+      "description": {
+        "ne": "भगवान विष्णुका छैटौं अवतार परशुरामको जन्मजयन्ती, जुन अक्षय तृतीयाकै दिन पर्छ।",
+        "en": "The birth anniversary of Parshuram, the sixth avatar of Lord Vishnu, which falls on Akshaya Tritiya."
+      }
+    },
+    "adi-guru-shankaracharya-jayanti": {
+      "slug": "adi-guru-shankaracharya-jayanti",
+      "description": {
+        "ne": "अद्वैत वेदान्तका प्रवर्तक आदिगुरु शंकराचार्यको जन्मजयन्ती।",
+        "en": "The birth anniversary of Adi Guru Shankaracharya, the teacher who founded the Advaita Vedanta tradition."
+      }
+    },
+    "ramanujacharya-jayanti": {
+      "slug": "ramanujacharya-jayanti",
+      "description": {
+        "ne": "विशिष्टाद्वैत दर्शनका आचार्य तथा वैष्णव सन्त रामानुजाचार्यको जन्मजयन्ती।",
+        "en": "The birth anniversary of Ramanujacharya, the Vaishnav saint and teacher of the Vishishtadvaita philosophy."
+      }
+    },
+    "sita-jayanti-vrata": {
+      "slug": "sita-jayanti-vrata",
+      "description": {
+        "ne": "बैशाख शुक्ल नवमीमा जनककी पुत्री तथा भगवान रामकी पत्नी सीताको जन्मोत्सव मनाइन्छ। जनकपुरधाममा विशेष पूजा हुन्छ।",
+        "en": "On Baisakh Shukla Navami, the birth of Sita, daughter of King Janak and wife of Lord Ram, is celebrated, with special worship in Janakpurdham."
+      }
+    },
+    "narsingh-jayanti": {
+      "slug": "narsingh-jayanti",
+      "description": {
+        "ne": "भक्त प्रह्लादको रक्षा गर्न भगवान विष्णुले नरसिंह अवतार लिएको सम्झनामा मनाइने जयन्ती।",
+        "en": "Marks the day Lord Vishnu took the form of Narsingh, half man and half lion, to protect his devotee Prahlad."
+      }
+    },
+    "kurma-jayanti": {
+      "slug": "kurma-jayanti",
+      "description": {
+        "ne": "समुद्र मन्थनका बेला मन्दार पर्वत थाम्न भगवान विष्णुले लिएको कूर्म (कछुवा) अवतारको जयन्ती।",
+        "en": "Marks Kurma, the tortoise avatar Lord Vishnu took to hold up Mount Mandara during the churning of the ocean."
+      }
+    },
+    "shani-jayanti": {
+      "slug": "shani-jayanti",
+      "description": {
+        "ne": "सूर्यपुत्र शनिदेवको जन्मजयन्ती। शनि ग्रहको शान्तिका लागि तेल, तिल र कालो वस्त्र चढाएर पूजा गरिन्छ।",
+        "en": "The birth anniversary of Shani, son of the Sun. People worship him with oil, sesame and black cloth, praying for relief from Saturn's influence."
+      }
+    },
+    "kabir-jayanti": {
+      "slug": "kabir-jayanti",
+      "description": {
+        "ne": "सन्त कवि कबीरदासको जयन्ती, जसका दोहा र भजनले धर्म र जातभन्दा माथि उठेर प्रेम र सत्यको सन्देश दिन्छन्।",
+        "en": "The jayanti of the saint-poet Kabir, whose verses speak of love and truth above religion and caste."
+      }
+    },
+    "vyas-jayanti": {
+      "slug": "vyas-jayanti",
+      "description": {
+        "ne": "महाभारत रचना गर्ने र वेदलाई चार भागमा विभाजन गर्ने महर्षि वेदव्यासको जयन्ती, जुन गुरु पूर्णिमामा पर्छ।",
+        "en": "The jayanti of the sage Ved Vyas, author of the Mahabharata and divider of the Vedas into four, which falls on Guru Purnima."
+      }
+    },
+    "varaha-jayanti": {
+      "slug": "varaha-jayanti",
+      "description": {
+        "ne": "पृथ्वीलाई समुद्रबाट उद्धार गर्न भगवान विष्णुले लिएको वराह अवतारको जयन्ती।",
+        "en": "Marks Varaha, the boar avatar Lord Vishnu took to lift the earth out of the cosmic ocean."
+      }
+    },
+    "kalki-jayanti": {
+      "slug": "kalki-jayanti",
+      "description": {
+        "ne": "कलियुगको अन्त्यमा आउने विश्वास गरिएको भगवान विष्णुको दसौं अवतार कल्कीको जयन्ती।",
+        "en": "The jayanti of Kalki, the tenth avatar of Lord Vishnu, believed to come at the end of the Kali Yuga."
+      }
+    },
+    "tulsidas-jayanti": {
+      "slug": "tulsidas-jayanti",
+      "description": {
+        "ne": "रामचरितमानसका रचनाकार गोस्वामी तुलसीदासको जयन्ती।",
+        "en": "The jayanti of Goswami Tulsidas, author of the Ramcharitmanas."
+      }
+    },
+    "motiram-bhatta-janma-jayanti": {
+      "slug": "motiram-bhatta-janma-jayanti",
+      "description": {
+        "ne": "नेपाली साहित्यमा गजल भित्र्याउने र भानुभक्तलाई चिनाउने युवकवि मोतीराम भट्टको जन्मजयन्ती।",
+        "en": "The birth anniversary of Motiram Bhatta, the poet who brought the ghazal into Nepali and made Bhanubhakta's work known."
+      }
+    },
+    "dhanwantari-jayanti": {
+      "slug": "dhanwantari-jayanti",
+      "description": {
+        "ne": "आयुर्वेदका देवता धन्वन्तरिको जयन्ती, जो समुद्र मन्थनबाट अमृत कलश लिएर प्रकट भएको विश्वास छ। यो धनतेरसकै दिन पर्छ।",
+        "en": "The jayanti of Dhanvantari, god of Ayurveda, believed to have risen from the churning of the ocean holding the pot of nectar. It falls on Dhanteras."
+      }
+    },
+    "nimbarkacharya-jayanti": {
+      "slug": "nimbarkacharya-jayanti",
+      "description": {
+        "ne": "द्वैताद्वैत दर्शनका प्रवर्तक वैष्णव आचार्य निम्बार्काचार्यको जयन्ती।",
+        "en": "The jayanti of Nimbarkacharya, the Vaishnav teacher who founded the Dvaitadvaita philosophy."
+      }
+    },
+    "dattatreya-jayanti": {
+      "slug": "dattatreya-jayanti",
+      "description": {
+        "ne": "ब्रह्मा, विष्णु र महेश्वरको संयुक्त रूप मानिने भगवान दत्तात्रेयको जयन्ती, जुन मंसिर पूर्णिमामा पर्छ।",
+        "en": "The jayanti of Lord Dattatreya, seen as Brahma, Vishnu and Shiva in one form, which falls on Mangsir Purnima."
+      }
+    },
+    "kavi-siromani-lekhnath-jayanti": {
+      "slug": "kavi-siromani-lekhnath-jayanti",
+      "description": {
+        "ne": "नेपालका पहिलो कवि शिरोमणि लेखनाथ पौड्यालको जन्मजयन्ती, जसको तरुण तपसी लगायतका कृति प्रसिद्ध छन्।",
+        "en": "The birth anniversary of Lekhnath Paudyal, Nepal's first Kavi Shiromani (crown of poets), known for Tarun Tapasi and other works."
+      }
+    },
+    "guru-gobind-singh-jayanti": {
+      "slug": "guru-gobind-singh-jayanti",
+      "description": {
+        "ne": "सिख धर्मका दसौं गुरु गोविन्द सिंहको जन्मजयन्ती। गुरुद्वारामा प्रार्थना र लंगर हुन्छ।",
+        "en": "The birth anniversary of Guru Gobind Singh, the tenth Sikh Guru, with prayers and langar at gurdwaras."
+      }
+    },
+    "matsya-jayanti-vrata": {
+      "slug": "matsya-jayanti-vrata",
+      "description": {
+        "ne": "प्रलयबाट वेद र सृष्टिको रक्षा गर्न भगवान विष्णुले लिएको मत्स्य (माछा) अवतारको जयन्ती।",
+        "en": "Marks Matsya, the fish avatar Lord Vishnu took to save the Vedas and creation from the great flood."
+      }
+    },
+    "yugkavi-siddhicharan-shrestha-janma-jayanti": {
+      "slug": "yugkavi-siddhicharan-shrestha-janma-jayanti",
+      "description": {
+        "ne": "नेपाली र नेपाल भाषाका कवि युगकवि सिद्धिचरण श्रेष्ठको जन्मजयन्ती।",
+        "en": "The birth anniversary of Yugkavi Siddhicharan Shrestha, poet in Nepali and Nepal Bhasa."
+      }
+    },
+    "chittadhar-hridaya-janma-jayanti": {
+      "slug": "chittadhar-hridaya-janma-jayanti",
+      "description": {
+        "ne": "नेपाल भाषाका महाकवि चित्तधर हृदयको जन्मजयन्ती, जसको सुगत सौरभ महाकाव्य प्रसिद्ध छ।",
+        "en": "The birth anniversary of Chittadhar Hridaya, the great poet of Nepal Bhasa, known for the epic Sugata Saurabha."
+      }
+    },
+    "bhaumashtami-vrata": {
+      "slug": "bhaumashtami-vrata",
+      "description": {
+        "ne": "मंगलबार पर्ने अष्टमी तिथिलाई भौमाष्टमी भनिन्छ। यस दिन व्रत बसी देवीको पूजा गरिन्छ।",
+        "en": "An Ashtami (eighth lunar day) that falls on a Tuesday is called Bhaumashtami. People fast and worship the goddess."
+      }
+    },
+    "budhastami-vrata": {
+      "slug": "budhastami-vrata",
+      "description": {
+        "ne": "बुधबार पर्ने अष्टमी तिथिलाई बुधाष्टमी भनिन्छ। यस दिन व्रत बसी पूजा गर्दा शुभ फल मिल्ने विश्वास छ।",
+        "en": "An Ashtami (eighth lunar day) that falls on a Wednesday is called Budhashtami. Fasting and worship on this day are believed to bring good fortune."
+      }
+    },
+    "ganga-saptami-vrata": {
+      "slug": "ganga-saptami-vrata",
+      "description": {
+        "ne": "बैशाख शुक्ल सप्तमीमा गङ्गा नदी पृथ्वीमा अवतरण भएको सम्झनामा गङ्गा पूजा र स्नान गरिन्छ।",
+        "en": "On Baisakh Shukla Saptami, people bathe and worship the Ganga, remembering the river's descent to earth."
+      }
+    },
+    "bata-savitri-vrata": {
+      "slug": "bata-savitri-vrata",
+      "description": {
+        "ne": "सावित्रीले यमराजसँग पति सत्यवानको प्राण फिर्ता ल्याएको सम्झनामा विवाहित महिलाहरू बरको रुखको पूजा गरी व्रत बस्छन्।",
+        "en": "Married women fast and worship the banyan tree, remembering how Savitri won her husband Satyavan's life back from Yama."
+      }
+    },
+    "ganga-dashahara-vrata": {
+      "slug": "ganga-dashahara-vrata",
+      "description": {
+        "ne": "जेठ शुक्ल दशमीमा गङ्गाको अवतरणको सम्झनामा पवित्र नदीमा स्नान गरिन्छ। यसले दस प्रकारका पाप हर्ने विश्वास छ।",
+        "en": "On Jestha Shukla Dashami, people bathe in holy rivers remembering the descent of the Ganga, believed to wash away ten kinds of sin."
+      }
+    },
+    "mangal-chauthi-vrata": {
+      "slug": "mangal-chauthi-vrata",
+      "description": {
+        "ne": "मंगलबार पर्ने चतुर्थीलाई मंगल चौथी भनिन्छ। यस दिन भगवान गणेशको पूजा गरी व्रत बसिन्छ।",
+        "en": "A Chaturthi (fourth lunar day) falling on a Tuesday is Mangal Chauthi, when people fast and worship Lord Ganesh."
+      }
+    },
+    "chaturmas-vrata-aarambha": {
+      "slug": "chaturmas-vrata-aarambha",
+      "description": {
+        "ne": "हरिशयनी एकादशीदेखि हरिबोधिनी एकादशीसम्मका चार महिना चतुर्मास हुन्। यस अवधिमा व्रत, संयम र धार्मिक अनुष्ठान गरिन्छ।",
+        "en": "Chaturmas, the four holy months from Harishayani to Haribodhini Ekadashi, begins. People keep fasts, self-discipline and religious practices in this period."
+      }
+    },
+    "chaturmas-vrata-samapti": {
+      "slug": "chaturmas-vrata-samapti",
+      "description": {
+        "ne": "हरिबोधिनी एकादशीमा भगवान विष्णु ब्युँझनेसँगै चार महिने चतुर्मास व्रत सकिन्छ।",
+        "en": "The four-month Chaturmas ends as Lord Vishnu wakes on Haribodhini Ekadashi."
+      }
+    },
+    "chaturmas-vrata-samapti-kartik-snan-samapti": {
+      "slug": "chaturmas-vrata-samapti-kartik-snan-samapti",
+      "description": {
+        "ne": "चार महिने चतुर्मास व्रत र महिनाभरिको कार्तिक स्नान एकैसाथ सकिने दिन।",
+        "en": "The day both the four-month Chaturmas and the month-long Kartik holy bathing come to an end."
+      }
+    },
+    "mahalakshmi-vrata-aarambha": {
+      "slug": "mahalakshmi-vrata-aarambha",
+      "description": {
+        "ne": "देवी महालक्ष्मीको सोह्र दिने व्रत सुरु हुन्छ। व्रतालुहरू धन, समृद्धि र परिवारको सुखका लागि पूजा गर्छन्।",
+        "en": "The sixteen-day fast for the goddess Mahalakshmi begins, kept for wealth, prosperity and the family's wellbeing."
+      }
+    },
+    "mahalakshmi-vrata-samapti": {
+      "slug": "mahalakshmi-vrata-samapti",
+      "description": {
+        "ne": "सोह्र दिने महालक्ष्मी व्रत पूजा र उद्यापनसहित सकिन्छ।",
+        "en": "The sixteen-day Mahalakshmi fast ends with worship and its closing rites."
+      }
+    },
+    "ananta-chaturdashi-vrata": {
+      "slug": "ananta-chaturdashi-vrata",
+      "description": {
+        "ne": "भदौ शुक्ल चतुर्दशीमा भगवान विष्णुको अनन्त रूपको पूजा गरी चौध गाँठो पारेको अनन्त धागो पाखुरामा बाँधिन्छ।",
+        "en": "On Bhadra Shukla Chaturdashi, Lord Vishnu is worshipped in his Ananta (endless) form and a thread with fourteen knots is tied on the arm."
+      }
+    },
+    "radhashtami-vrata": {
+      "slug": "radhashtami-vrata",
+      "description": {
+        "ne": "भदौ शुक्ल अष्टमीमा भगवान कृष्णकी प्रिय राधाको जन्मोत्सव मनाइन्छ।",
+        "en": "On Bhadra Shukla Ashtami, the birth of Radha, beloved of Lord Krishna, is celebrated."
+      }
+    },
+    "radha-janmotsav": {
+      "slug": "radha-janmotsav",
+      "description": {
+        "ne": "भदौ शुक्ल अष्टमीमा भगवान कृष्णकी प्रिय राधाको जन्मोत्सव मनाइन्छ।",
+        "en": "On Bhadra Shukla Ashtami, the birth of Radha, beloved of Lord Krishna, is celebrated."
+      }
+    },
+    "gopashtami-vrata": {
+      "slug": "gopashtami-vrata",
+      "description": {
+        "ne": "कार्तिक शुक्ल अष्टमीमा भगवान कृष्णले पहिलो पटक गाई चराउन थालेको सम्झनामा गाई र गोठालाको पूजा गरिन्छ।",
+        "en": "On Kartik Shukla Ashtami, cows and cowherds are worshipped, remembering the day young Krishna first took the cows out to graze."
+      }
+    },
+    "kushmanda-navami-vrata": {
+      "slug": "kushmanda-navami-vrata",
+      "description": {
+        "ne": "कार्तिक शुक्ल नवमीमा कुभिन्डो (कुष्माण्ड) दान गरी पूजा गर्ने चलन छ।",
+        "en": "On Kartik Shukla Navami, people worship and give ash gourds (kushmanda) in charity."
+      }
+    },
+    "baikuntha-chaturdashi-vrata": {
+      "slug": "baikuntha-chaturdashi-vrata",
+      "description": {
+        "ne": "कार्तिक शुक्ल चतुर्दशीमा भगवान विष्णु र शिव दुवैको पूजा गरिन्छ। यस दिन मृत्यु भएकाले बैकुण्ठ पाउने विश्वास छ।",
+        "en": "On Kartik Shukla Chaturdashi, both Lord Vishnu and Lord Shiva are worshipped. Those who die on this day are believed to reach Vaikuntha."
+      }
+    },
+    "bala-chaturdashi-vrata": {
+      "slug": "bala-chaturdashi-vrata",
+      "description": {
+        "ne": "मंसिर कृष्ण चतुर्दशीमा पशुपति क्षेत्रमा रातभर बत्ती बालेर बसिन्छ र भोलिपल्ट दिवंगत आफन्तको सम्झनामा सातथरी बीउ (शतबीज) छरिन्छ।",
+        "en": "On Mangsir Krishna Chaturdashi, people keep an all-night vigil with lamps at Pashupati and next morning scatter seven kinds of grain (shatbij) in memory of departed relatives."
+      }
+    },
+    "shatbij-chharne-din": {
+      "slug": "shatbij-chharne-din",
+      "description": {
+        "ne": "बाला चतुर्दशीमा दिवंगत आफन्तको सद्गतिका लागि पशुपति क्षेत्रमा सातथरी बीउ (शतबीज) छर्ने दिन।",
+        "en": "On Bala Chaturdashi, people scatter seven kinds of grain (shatbij) around Pashupati for the peace of departed relatives."
+      }
+    },
+    "shitalashtami-vrata": {
+      "slug": "shitalashtami-vrata",
+      "description": {
+        "ne": "शीतला माताको पूजा गरी रोगबाट रक्षाको कामना गरिन्छ। अघिल्लो दिन पकाएको चिसो खाना खाने चलन छ।",
+        "en": "The goddess Shitala is worshipped for protection from disease, and food cooked the day before is eaten cold."
+      }
+    },
+    "vaman-dwadashi": {
+      "slug": "vaman-dwadashi",
+      "description": {
+        "ne": "राजा बलिबाट तीन पाइला भूमि मागेर तीनै लोक नापेका भगवान विष्णुको वामन अवतारको जयन्ती।",
+        "en": "Marks Vaman, the dwarf avatar of Lord Vishnu who asked King Bali for three steps of land and covered all three worlds."
+      }
+    },
+    "bhishma-dwadashi": {
+      "slug": "bhishma-dwadashi",
+      "description": {
+        "ne": "माघ शुक्ल द्वादशीमा महाभारतका भीष्म पितामहको सम्झनामा तर्पण र पूजा गरिन्छ।",
+        "en": "On Magh Shukla Dwadashi, offerings are made in memory of Bhishma, the grand elder of the Mahabharata."
+      }
+    },
+    "achala-saptami": {
+      "slug": "achala-saptami",
+      "description": {
+        "ne": "माघ शुक्ल सप्तमीमा सूर्य देवताको पूजा गरिन्छ। यसलाई सूर्यको जन्मदिन पनि मानिन्छ र बिहानै स्नान गरी अर्घ्य दिइन्छ।",
+        "en": "On Magh Shukla Saptami, the Sun god is worshipped. It is also seen as the Sun's birthday, and people bathe early and offer water to the sun."
+      }
+    },
+    "seto-machhindranath-rath-yatra": {
+      "slug": "seto-machhindranath-rath-yatra",
+      "description": {
+        "ne": "काठमाडौंको जनबहालबाट सेतो मच्छिन्द्रनाथ (जनबहा द्यः) लाई रथमा राखी असनलगायत पुरानो सहरमा घुमाइने जात्रा।",
+        "en": "The chariot procession of Seto Machhindranath (Janabaha Dyah), pulled from Jana Bahal through Asan and old Kathmandu."
+      }
+    },
+    "bungadyo-rato-machhindranath-rath-yatra": {
+      "slug": "bungadyo-rato-machhindranath-rath-yatra",
+      "description": {
+        "ne": "ललितपुरमा वर्षाका देवता मानिने रातो मच्छिन्द्रनाथ (बुंगद्यः) को रथ तानिने लामो जात्रा।",
+        "en": "The long chariot procession in Lalitpur of Rato Machhindranath (Bungadyo), worshipped as the god of rain."
+      }
+    },
+    "bungadyo-rato-machhindranath-rath-yatra-aarambha": {
+      "slug": "bungadyo-rato-machhindranath-rath-yatra-aarambha",
+      "description": {
+        "ne": "ललितपुरमा वर्षाका देवता मानिने रातो मच्छिन्द्रनाथ (बुंगद्यः) को रथ यात्रा सुरु हुने दिन।",
+        "en": "The chariot procession of Rato Machhindranath (Bungadyo), the god of rain, begins in Lalitpur."
+      }
+    },
+    "chaite-dashain": {
+      "slug": "chaite-dashain",
+      "description": {
+        "ne": "चैत्र शुक्ल अष्टमीमा मनाइने चैते दशैं। ठूलो दशैं जस्तै यस दिन पनि देवी दुर्गाको पूजा गरिन्छ।",
+        "en": "Chaite Dashain falls on Chaitra Shukla Ashtami. As in the big Dashain, the goddess Durga is worshipped."
+      }
+    },
+    "loktantra-diwas": {
+      "slug": "loktantra-diwas",
+      "description": {
+        "ne": "२०६३ सालको जनआन्दोलनपछि लोकतन्त्र पुनर्स्थापना भएको सम्झनामा मनाइने लोकतन्त्र दिवस।",
+        "en": "Loktantra Diwas marks the restoration of democracy after the people's movement of 2063 BS (2006)."
+      }
+    },
+    "2072-earthquake-remembrance-day": {
+      "slug": "2072-earthquake-remembrance-day",
+      "description": {
+        "ne": "वि.सं. २०७२ बैशाख १२ को महाभूकम्पमा ज्यान गुमाउनेहरूको सम्झना र भूकम्प सुरक्षाप्रति सचेतनाको दिन।",
+        "en": "Remembers those who died in the great earthquake of 12 Baisakh 2072 (25 April 2015), and raises awareness of earthquake safety."
+      }
+    },
+    "national-earthquake-safety-day": {
+      "slug": "national-earthquake-safety-day",
+      "description": {
+        "ne": "वि.सं. १९९० माघ २ को महाभूकम्पको सम्झनामा भूकम्पबाट बच्ने तयारीबारे सचेतना फैलाउन मनाइने दिवस।",
+        "en": "Held in memory of the great earthquake of 2 Magh 1990 BS (1934), to spread awareness of earthquake preparedness."
+      }
+    },
+    "chandeshwari-jatra": {
+      "slug": "chandeshwari-jatra",
+      "description": {
+        "ne": "बनेपामा देवी चण्डेश्वरीको रथ जात्रा। चण्डेश्वरीले चण्ड नामको दैत्य मारेको सम्झनामा मनाइन्छ।",
+        "en": "The chariot festival of the goddess Chandeshwari in Banepa, remembering her victory over the demon Chanda."
+      }
+    },
+    "national-day-for-the-elimination-of-racial-discrimination-and-untouchability": {
+      "slug": "national-day-for-the-elimination-of-racial-discrimination-and-untouchability",
+      "description": {
+        "ne": "जातीय भेदभाव र छुवाछुत अन्त्य गर्न सचेतना फैलाउन मनाइने राष्ट्रिय दिवस।",
+        "en": "A national day to spread awareness and work towards ending caste discrimination and untouchability."
+      }
+    },
+    "national-day-against-trafficking-in-persons": {
+      "slug": "national-day-against-trafficking-in-persons",
+      "description": {
+        "ne": "मानव बेचबिखनविरुद्ध सचेतना फैलाउन र पीडितको संरक्षणका लागि मनाइने राष्ट्रिय दिवस।",
+        "en": "A national day to raise awareness against human trafficking and protect its survivors."
+      }
+    },
+    "sithi-nakha": {
+      "slug": "sithi-nakha",
+      "description": {
+        "ne": "जेठ शुक्ल षष्ठीमा नेवार समुदायले कुमार (कार्तिकेय) को पूजा गरी इनार, ढुंगेधारा र पानीका स्रोत सफा गर्छन्। यसै दिनदेखि वर्षाको तयारी सुरु हुन्छ।",
+        "en": "On Jestha Shukla Shashthi, the Newar community worships Kumar (Kartikeya) and cleans wells, stone spouts and water sources before the monsoon."
+      }
+    },
+    "kumar-shashthi": {
+      "slug": "kumar-shashthi",
+      "description": {
+        "ne": "जेठ शुक्ल षष्ठीमा कुमार (कार्तिकेय) को पूजा गरिन्छ। नेवार समुदायले यसलाई सिथि नखः भनी पानीका स्रोत सफा गर्छन्।",
+        "en": "On Jestha Shukla Shashthi, Kumar (Kartikeya) is worshipped. The Newar community celebrates it as Sithi Nakha and cleans water sources."
+      }
+    },
+    "skanda-shashthi": {
+      "slug": "skanda-shashthi",
+      "description": {
+        "ne": "भगवान शिवका पुत्र स्कन्द (कार्तिकेय) को पूजा गरिने षष्ठी।",
+        "en": "A Shashthi on which Skanda (Kartikeya), son of Lord Shiva, is worshipped."
+      }
+    },
+    "rashtriya-dhan-diwas": {
+      "slug": "rashtriya-dhan-diwas",
+      "description": {
+        "ne": "असार १५ लाई राष्ट्रिय धान दिवसका रूपमा मनाइन्छ। किसानहरू खेतमा धान रोप्दै दही चिउरा खान्छन्।",
+        "en": "Asar 15 is National Paddy Day. Farmers plant rice and eat curd with beaten rice in the fields."
+      }
+    },
+    "dakshinayan-aarambha": {
+      "slug": "dakshinayan-aarambha",
+      "description": {
+        "ne": "उत्तरतर्फको यात्रा सकेर सूर्य दक्षिणतर्फ सर्न थाल्ने दिन। यससँगै दिन छोटा हुँदै जान्छन्।",
+        "en": "The sun ends its northward journey and begins moving south. From here the days grow shorter."
+      }
+    },
+    "uttarayan-arambha": {
+      "slug": "uttarayan-arambha",
+      "description": {
+        "ne": "सूर्य उत्तरतर्फ सर्न थाल्ने दिन, जुन माघे संक्रान्तिसँग जोडिन्छ। यससँगै दिन लामा हुँदै जान्छन्।",
+        "en": "The sun begins its northward journey, linked with Maghe Sankranti. From here the days grow longer."
+      }
+    },
+    "gathamuga-chahre": {
+      "slug": "gathamuga-chahre",
+      "description": {
+        "ne": "साउन कृष्ण चतुर्दशीमा नेवार समुदायले गथांमुग नामक दैत्यको पुत्ला बनाई सहर बाहिर लगेर जलाउँछन्। यसले रोग र अशुभ भगाउने विश्वास छ। रोपाइँ सकिएको खुसीयाली पनि हो।",
+        "en": "On Shrawan Krishna Chaturdashi, Newar communities make an effigy of the demon Gathamuga and burn it outside the town to drive away disease and misfortune. It also marks the end of rice planting."
+      }
+    },
+    "gunla-parva-aarambha": {
+      "slug": "gunla-parva-aarambha",
+      "description": {
+        "ne": "नेवार बौद्ध समुदायको पवित्र गुंला महिना सुरु हुन्छ। यस महिना बौद्ध स्तूप र विहारमा दिनहुँ बाजा बजाउँदै परिक्रमा र पूजा गरिन्छ।",
+        "en": "Gunla, the holy month of the Newar Buddhist community, begins. Through the month people walk around stupas and monasteries each morning, playing music and worshipping."
+      }
+    },
+    "gunla-parva-samapti": {
+      "slug": "gunla-parva-samapti",
+      "description": {
+        "ne": "नेवार बौद्ध समुदायको पवित्र गुंला महिना सकिन्छ।",
+        "en": "Gunla, the holy month of the Newar Buddhist community, comes to an end."
+      }
+    },
+    "tharu-guriya-parwa": {
+      "slug": "tharu-guriya-parwa",
+      "description": {
+        "ne": "थारु समुदायको गुरिया पर्व साउनमा मनाइन्छ। चेलीहरूले कपडाका पुतली (गुरिया) बनाई चोकमा फाल्छन् र भाइहरूले लौरोले पिट्छन्, जसले रोग र दुःख भगाउने विश्वास छ।",
+        "en": "Guriya is a Tharu festival in Shrawan. Girls make cloth dolls (guriya) and throw them at a crossroads, where the boys beat them with sticks to drive away illness and sorrow."
+      }
+    },
+    "rishi-tarpani": {
+      "slug": "rishi-tarpani",
+      "description": {
+        "ne": "जनै पूर्णिमाको दिन ऋषिहरूको सम्झनामा जल अर्पण (तर्पण) गरिन्छ।",
+        "en": "On Janai Purnima, water is offered (tarpan) in honour of the ancient sages."
+      }
+    },
+    "sanskrit-diwas": {
+      "slug": "sanskrit-diwas",
+      "description": {
+        "ne": "संस्कृत भाषा र यसको साहित्यप्रति सम्मान र प्रवर्द्धनका लागि साउन पूर्णिमामा मनाइने दिवस।",
+        "en": "Held on Shrawan Purnima to honour and promote the Sanskrit language and its literature."
+      }
+    },
+    "gaura-saptami": {
+      "slug": "gaura-saptami",
+      "description": {
+        "ne": "गौरा पर्वको एक दिन। सुदूरपश्चिमका महिलाहरूले घाँस र फूलले बनाएकी गौरा (पार्वती) लाई घर ल्याई पूजा गर्छन्।",
+        "en": "One of the days of Gaura Parva, when women in Sudurpaschim bring home Gaura (Parvati), made of grass and flowers, and worship her."
+      }
+    },
+    "nijamati-sewa-diwas": {
+      "slug": "nijamati-sewa-diwas",
+      "description": {
+        "ne": "निजामती कर्मचारीको योगदानको सम्मान गर्दै मनाइने निजामती सेवा दिवस।",
+        "en": "Civil Service Day, honouring the work of Nepal's civil servants."
+      }
+    },
+    "rashtriya-bal-diwas": {
+      "slug": "rashtriya-bal-diwas",
+      "description": {
+        "ne": "बालबालिकाको अधिकार, सुरक्षा र विकासबारे सचेतना फैलाउन मनाइने राष्ट्रिय बाल दिवस।",
+        "en": "National Children's Day, raising awareness of children's rights, safety and development."
+      }
+    },
+    "chepang-chonam-parva": {
+      "slug": "chepang-chonam-parva",
+      "description": {
+        "ne": "चेपाङ समुदायको न्वागी पर्व, जसमा नयाँ बाली भित्र्याएपछि पितृ र प्रकृतिको पूजा गरिन्छ।",
+        "en": "The harvest festival of the Chepang community, when ancestors and nature are worshipped after the new crop comes in."
+      }
+    },
+    "pitri-visarjan": {
+      "slug": "pitri-visarjan",
+      "description": {
+        "ne": "सोह्रश्राद्धको अन्तिम दिन। पितृहरूलाई बिदाइ गरिन्छ र तिथि थाहा नभएका पितृको पनि श्राद्ध गरिन्छ।",
+        "en": "The last day of Sorha Shraddha, when the ancestors are given farewell and shraddha is also offered for those whose tithi is not known."
+      }
+    },
+    "kalratri": {
+      "slug": "kalratri",
+      "description": {
+        "ne": "दशैंको महाअष्टमीको रात देवी कालरात्रिको पूजा गरिन्छ र शक्तिपीठमा बलि दिइन्छ।",
+        "en": "The night of Maha Ashtami in Dashain, when the goddess Kalratri is worshipped and offerings are made at shakti shrines."
+      }
+    },
+    "non-resident-nepali-day": {
+      "slug": "non-resident-nepali-day",
+      "description": {
+        "ne": "विदेशमा बस्ने नेपालीहरूको योगदान सम्मान गर्न मनाइने गैरआवासीय नेपाली दिवस।",
+        "en": "Non-Resident Nepali Day honours the contribution of Nepalis living abroad."
+      }
+    },
+    "akashdeep-daan-aarambha": {
+      "slug": "akashdeep-daan-aarambha",
+      "description": {
+        "ne": "कार्तिक महिनाभरि पितृको सम्झनामा अग्लो लिङ्गोमा बत्ती (आकाशदीप) बाल्ने चलन सुरु हुन्छ।",
+        "en": "The custom of lighting a lamp (akashdeep) on a tall pole through the month of Kartik, in memory of ancestors, begins."
+      }
+    },
+    "yamadip-dan-aarambha": {
+      "slug": "yamadip-dan-aarambha",
+      "description": {
+        "ne": "तिहारमा यमराजका लागि घरबाहिर दियो (यमदीप) बाल्ने चलन सुरु हुन्छ, जसले अकाल मृत्युबाट रक्षा गर्ने विश्वास छ।",
+        "en": "In Tihar, people begin lighting a lamp (yamadeep) outside the house for Yama, believed to protect against untimely death."
+      }
+    },
+    "sukha-ratri": {
+      "slug": "sukha-ratri",
+      "description": {
+        "ne": "लक्ष्मी पूजाको रात सुखरात्री भनिन्छ। घरघरमा दियो बालेर लक्ष्मीलाई स्वागत गरिन्छ।",
+        "en": "The night of Laxmi Puja is called Sukha Ratri. Lamps are lit in every home to welcome the goddess Laxmi."
+      }
+    },
+    "hali-tihar": {
+      "slug": "hali-tihar",
+      "description": {
+        "ne": "गोवर्धन पूजाको दिन किसानहरूले हलो र खेतीमा सघाउने गोरुको पूजा गर्छन्।",
+        "en": "On the day of Govardhan Puja, farmers worship the plough and the oxen that help them farm."
+      }
+    },
+    "jyapu-diwas": {
+      "slug": "jyapu-diwas",
+      "description": {
+        "ne": "उपत्यकाको नेवार किसान समुदाय ज्यापुको संस्कृति र योगदानको सम्मानमा योमरी पुन्हीको दिन मनाइने दिवस।",
+        "en": "Held on Yomari Punhi to honour the culture and contribution of the Jyapu, the Newar farming community of the Kathmandu Valley."
+      }
+    },
+    "topi-day": {
+      "slug": "topi-day",
+      "description": {
+        "ne": "नेपाली टोपीलाई राष्ट्रिय पहिचानका रूपमा सम्मान गर्दै ढाका टोपी लगाएर मनाइने दिवस।",
+        "en": "A day to honour the Nepali topi as a national symbol, when people wear the dhaka topi."
+      }
+    },
+    "poshak-day": {
+      "slug": "poshak-day",
+      "description": {
+        "ne": "दौरा सुरुवाल, गुन्यु चोलो लगायत नेपाली राष्ट्रिय पोशाकको सम्मानमा मनाइने दिवस।",
+        "en": "A day to honour Nepal's national dress, such as daura suruwal and gunyu cholo."
+      }
+    },
+    "national-poshak-day": {
+      "slug": "national-poshak-day",
+      "description": {
+        "ne": "दौरा सुरुवाल, गुन्यु चोलो लगायत नेपाली राष्ट्रिय पोशाकको सम्मानमा मनाइने दिवस।",
+        "en": "A day to honour Nepal's national dress, such as daura suruwal and gunyu cholo."
+      }
+    },
+    "gangaur-puja-aarambha": {
+      "slug": "gangaur-puja-aarambha",
+      "description": {
+        "ne": "विवाहित र अविवाहित महिलाहरूले गौरी (पार्वती) र ईसर (शिव) को पूजा गर्ने गणगौर पर्व सुरु हुन्छ, जुन मधेशका मारवाडी समुदायमा प्रसिद्ध छ।",
+        "en": "Gangaur begins, when women worship Gauri (Parvati) and Isar (Shiva). It is popular in the Marwari community of Madhesh."
+      }
+    },
+    "pahan-charhe": {
+      "slug": "pahan-charhe",
+      "description": {
+        "ne": "काठमाडौंको असन, इन्द्रचोक लगायतका अजिमाहरूलाई खटमा राखी घुमाइने नेवार समुदायको पर्व।",
+        "en": "A Newar festival in which the mother goddesses (Ajima) of Asan, Indrachowk and other neighbourhoods of Kathmandu are carried in palanquins through the streets."
+      }
+    },
+    "mataya-parva": {
+      "slug": "mataya-parva",
+      "description": {
+        "ne": "ललितपुरमा गाईजात्राको भोलिपल्ट दिवंगत आफन्तको सम्झनामा बत्ती बोकेर सबै विहार र चैत्य दर्शन गर्दै घुमिने बौद्ध पर्व।",
+        "en": "A Buddhist festival in Lalitpur the day after Gai Jatra, when people walk with lamps to all the monasteries and chaityas in memory of departed relatives."
+      }
+    },
+    "total-lunar-eclipse-khagras-chandra-grahan": {
+      "slug": "total-lunar-eclipse-khagras-chandra-grahan",
+      "description": {
+        "ne": "पृथ्वीको छायाले चन्द्रमालाई पूर्ण रूपमा ढाक्ने खग्रास चन्द्रग्रहण। ग्रहणपछि स्नान र दान गर्ने चलन छ।",
+        "en": "A total lunar eclipse, when the earth's shadow covers the whole moon. Many people bathe and give charity after the eclipse."
+      }
+    },
+    "partial-lunar-eclipse-khandagras-chandra-grahan": {
+      "slug": "partial-lunar-eclipse-khandagras-chandra-grahan",
+      "description": {
+        "ne": "पृथ्वीको छायाले चन्द्रमाको केही भाग मात्र ढाक्ने खण्डग्रास चन्द्रग्रहण। ग्रहणपछि स्नान र दान गर्ने चलन छ।",
+        "en": "A partial lunar eclipse, when the earth's shadow covers part of the moon. Many people bathe and give charity after the eclipse."
+      }
+    },
+    "start-of-ramadan": {
+      "slug": "start-of-ramadan",
+      "description": {
+        "ne": "इस्लामिक पात्रोको रमजान महिना सुरु हुन्छ। मुस्लिम समुदाय महिनाभरि बिहानदेखि साँझसम्म रोजा (उपवास) बस्छन्।",
+        "en": "The Islamic month of Ramadan begins. Muslims fast from dawn to dusk through the month."
+      }
+    },
+    "araniko-smriti-day": {
+      "slug": "araniko-smriti-day",
+      "description": {
+        "ne": "चीनको युआन दरबारमा स्तूप र मूर्ति बनाई नेपाली कला चिनाउने कलाकार अरनिकोको सम्झनामा मनाइने दिवस।",
+        "en": "Remembers Araniko, the Nepali artist who built stupas and statues at the Yuan court of China and made Nepali art known abroad."
+      }
+    },
+    "adhikmas-aarambha": {
+      "slug": "adhikmas-aarambha",
+      "description": {
+        "ne": "चन्द्र र सौर्य पात्रो मिलाउन करिब तीन वर्षमा एक पटक थपिने अधिक (मल) मास सुरु हुन्छ। यस महिना विवाहजस्ता शुभ कार्य गरिँदैन।",
+        "en": "Adhikmas, the extra lunar month added about once in three years to keep the lunar and solar calendars together, begins. Weddings and similar ceremonies are not held in this month."
+      }
+    },
+    "adhikmas-samapti": {
+      "slug": "adhikmas-samapti",
+      "description": {
+        "ne": "चन्द्र र सौर्य पात्रो मिलाउन थपिएको अधिक (मल) मास सकिन्छ।",
+        "en": "Adhikmas, the extra lunar month added to keep the lunar and solar calendars together, ends."
+      }
+    },
+    "tulsi-ko-dal-rakhne-din": {
+      "slug": "tulsi-ko-dal-rakhne-din",
+      "description": {
+        "ne": "चतुर्मासका लागि घरघरमा तुलसीको दल रोप्ने दिन। तुलसीलाई भगवान विष्णुकी प्रिय मानिन्छ।",
+        "en": "The day tulsi is planted in homes for Chaturmas. Tulsi is held dear to Lord Vishnu."
+      }
+    },
+    "gadhimai-mela-starts": {
+      "slug": "gadhimai-mela-starts",
+      "description": {
+        "ne": "बाराको गढीमाई मन्दिरमा हरेक पाँच वर्षमा लाग्ने ठूलो मेला सुरु हुन्छ। नेपाल र भारतबाट लाखौं भक्त आउँछन्।",
+        "en": "The great fair at the Gadhimai temple in Bara, held every five years, begins. Hundreds of thousands of devotees come from Nepal and India."
+      }
+    },
+    "gadhimai-mela-ends": {
+      "slug": "gadhimai-mela-ends",
+      "description": {
+        "ne": "बाराको गढीमाई मन्दिरमा हरेक पाँच वर्षमा लाग्ने ठूलो मेला सकिन्छ।",
+        "en": "The great fair at the Gadhimai temple in Bara, held every five years, ends."
+      }
+    },
+    "music-day": {
+      "slug": "music-day",
+      "description": {
+        "ne": "संगीतको सम्मान र प्रवर्द्धनका लागि मनाइने दिवस।",
+        "en": "A day to celebrate and promote music."
+      }
+    },
+    "national-science-day": {
+      "slug": "national-science-day",
+      "description": {
+        "ne": "विज्ञान र प्रविधिप्रति चासो र सचेतना बढाउन मनाइने राष्ट्रिय विज्ञान दिवस।",
+        "en": "National Science Day, held to build interest in and awareness of science and technology."
+      }
+    },
+    "national-film-day": {
+      "slug": "national-film-day",
+      "description": {
+        "ne": "नेपाली चलचित्र क्षेत्र र यसका कलाकारको योगदान सम्मान गर्न मनाइने राष्ट्रिय चलचित्र दिवस।",
+        "en": "National Film Day honours Nepali cinema and the people who make it."
+      }
+    },
+    "nepal-nursing-day": {
+      "slug": "nepal-nursing-day",
+      "description": {
+        "ne": "नेपालका नर्सहरूको सेवा र योगदानको सम्मानमा मनाइने दिवस।",
+        "en": "A day to honour the service of Nepal's nurses."
+      }
+    },
+    "national-tea-day": {
+      "slug": "national-tea-day",
+      "description": {
+        "ne": "नेपाली चिया उद्योग र चिया किसानको प्रवर्द्धनका लागि मनाइने राष्ट्रिय चिया दिवस।",
+        "en": "National Tea Day promotes Nepal's tea industry and its tea farmers."
+      }
+    },
+    "national-library-day": {
+      "slug": "national-library-day",
+      "description": {
+        "ne": "पढ्ने बानी र पुस्तकालयको महत्त्वबारे सचेतना फैलाउन मनाइने राष्ट्रिय पुस्तकालय दिवस।",
+        "en": "National Library Day encourages reading and raises awareness of the value of libraries."
+      }
+    },
+    "national-information-day": {
+      "slug": "national-information-day",
+      "description": {
+        "ne": "सूचनाको हक र पारदर्शिताबारे सचेतना फैलाउन मनाइने राष्ट्रिय सूचना दिवस।",
+        "en": "National Information Day raises awareness of the right to information and transparency."
+      }
+    },
+    "national-soil-conservation-day": {
+      "slug": "national-soil-conservation-day",
+      "description": {
+        "ne": "माटोको क्षयीकरण रोक्न र भू-संरक्षणबारे सचेतना फैलाउन मनाइने राष्ट्रिय भू-संरक्षण दिवस।",
+        "en": "National Soil Conservation Day raises awareness of protecting soil and preventing erosion."
+      }
+    },
+    "national-millet-day": {
+      "slug": "national-millet-day",
+      "description": {
+        "ne": "कोदोलगायतका पौष्टिक रैथाने अन्न खेती र उपभोग प्रवर्द्धन गर्न मनाइने दिवस।",
+        "en": "A day to promote growing and eating finger millet and other nutritious native grains."
+      }
+    },
+    "national-yoga-day": {
+      "slug": "national-yoga-day",
+      "description": {
+        "ne": "स्वस्थ जीवनका लागि योग अभ्यासबारे सचेतना फैलाउन मनाइने राष्ट्रिय योग दिवस।",
+        "en": "National Yoga Day, encouraging the practice of yoga for a healthy life."
+      }
+    },
+    "safer-internet-day": {
+      "slug": "safer-internet-day",
+      "description": {
+        "ne": "इन्टरनेट, विशेषगरी बालबालिका र युवाका लागि सुरक्षित बनाउने सचेतना फैलाउन फेब्रुअरीको दोस्रो मंगलबार मनाइने दिवस।",
+        "en": "Safer Internet Day, the second Tuesday of February, promoting a safer internet, especially for children and young people."
+      }
+    },
+    "zero-discrimination-day": {
+      "slug": "zero-discrimination-day",
+      "description": {
+        "ne": "कुनै पनि आधारमा हुने विभेद अन्त्य गर्न मार्च १ मा मनाइने संयुक्त राष्ट्रसंघीय दिवस।",
+        "en": "Zero Discrimination Day, 1 March, a UN day calling for an end to discrimination of every kind."
+      }
+    },
+    "social-work-day": {
+      "slug": "social-work-day",
+      "description": {
+        "ne": "समाजसेवा र सामाजिक कार्यकर्ताको योगदान सम्मान गर्न मार्चको तेस्रो मंगलबार मनाइने विश्व सामाजिक कार्य दिवस।",
+        "en": "World Social Work Day, the third Tuesday of March, honouring social workers and their contribution."
+      }
+    },
+    "tilkunda-chauthi": {
+      "slug": "tilkunda-chauthi",
+      "description": {
+        "ne": "माघ कृष्ण चतुर्थीमा भगवान गणेशको पूजा गरी तिलका परिकार चढाइन्छ र व्रत बसिन्छ।",
+        "en": "On Magh Krishna Chaturthi, people fast and worship Lord Ganesh, offering sweets made with sesame (til)."
+      }
     }
   }
 }
