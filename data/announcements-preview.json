@@ -1,5 +1,5 @@
 {
-  "version": 3,
+  "version": 4,
   "updatedAt": "2026-11-18",
   "items": [
     {
@@ -64,7 +64,26 @@
       },
       "image": "images/banners/test-maghe.webp",
       "action": "screen:weather"
+    },
+    {
+      "id": "test-banner-text",
+      "kind": "banner",
+      "start": "2083-08-01",
+      "end": "2083-08-30",
+      "title": {
+        "ne": "परीक्षण: तस्बिर बिनाको सूचना",
+        "en": "Test: a notice without a picture"
+      },
+      "body": {
+        "ne": "हाम्रो गोपनीयता नीति पढ्न तल थिच्नुहोस्।",
+        "en": "Tap below to read our privacy policy."
+      },
+      "button": {
+        "ne": "गोपनीयता नीति",
+        "en": "Privacy policy"
+      },
+      "action": "web:/privacy"
     }
   ],
-  "signature": "Pp2FUBU8KgXftXCdfGbioKkgXsRuz7tNIbz/GJa6Hjnc3bPvnIIhECk9J3nsaq/AZK4ryongTUvE3axNqADsBA=="
+  "signature": "pXOIT7iwKE2qJrYdoU5A5bmjPuFb2NtZ4F5XKDijil0TV1wX7UWSSz13PaaDA3X+GT1ByxUgz4kOceUMnnUYDg=="
 }
