@@ -1,6 +1,6 @@
 {
-  "version": 6,
-  "updatedAt": "2026-11-12",
+  "version": 7,
+  "updatedAt": "2026-11-18",
   "_note": "Image URLs are placeholders (placehold.co). thumbnail is REQUIRED (square, 400x400 final, used everywhere as thumb). hero is OPTIONAL (16:9, 1600x900 final, shown on FestivalDetailScreen — omit the key entirely for festivals where you don't want a hero). See docs/FESTIVAL-IMAGES.md.",
   "festivals": {
     "dashain": {
