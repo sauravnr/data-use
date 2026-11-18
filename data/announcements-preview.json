@@ -1,5 +1,5 @@
 {
-  "version": 4,
+  "version": 5,
   "updatedAt": "2026-11-18",
   "items": [
     {
@@ -85,5 +85,5 @@
       "action": "web:/privacy"
     }
   ],
-  "signature": "pXOIT7iwKE2qJrYdoU5A5bmjPuFb2NtZ4F5XKDijil0TV1wX7UWSSz13PaaDA3X+GT1ByxUgz4kOceUMnnUYDg=="
+  "signature": "Ln9GzzONVNOkZz0GxohSF2LkXmnktAlwoSPLIVVX7brXA99HEB7/znMTDieHkcNB4UdEaqrovn5N/7Rm8f/CDQ=="
 }
