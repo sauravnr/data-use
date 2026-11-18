@@ -17,6 +17,9 @@
 //   button        { "ne": "…", "en": "…" }   link text on a banner, button on a popup
 //   image         "images/banners/maghe-2083.webp"   banner and popup only
 //   tone          "holiday"              line only: red, for holidays
+//   style         "picture"              popup only: the picture fills the popup (a poster,
+//                                        4:5) with a close button and the link button; the
+//                                        title isn't shown, it labels the popup for screen readers
 //   action        "day:2083/9/14" | "festival:Maghe Sankranti" | "screen:weather" | "web:/privacy"
 //   lang          "all" | "ne" | "en"    who sees it, by app language (default all)
 //   minAppVersion "1.6.0"                older apps skip it
@@ -43,7 +46,7 @@ const VERSION_RE = /^\d+\.\d+\.\d+$/;
 const WEB_PATH_RE = /^\/[A-Za-z0-9._~\-/]*$/;
 const KNOWN_KEYS = new Set([
   'id', 'kind', 'start', 'end', 'title', 'body', 'button', 'image', 'tone',
-  'action', 'lang', 'minAppVersion',
+  'action', 'lang', 'minAppVersion', 'style',
 ]);
 
 // ---------- dates ----------
@@ -143,6 +146,10 @@ export function noticeProblems(item) {
     else if (!IMAGE_RE.test(item.image)) p.push('image must be like images/banners/maghe-2083.webp');
   }
   if (item.body !== undefined && item.kind === 'line') p.push('a line notice has no body, only a title');
+  if (item.style !== undefined) {
+    if (item.kind !== 'popup' || item.style !== 'picture') p.push('style is only for popups: "picture"');
+    else if (item.image === undefined) p.push('a picture popup needs a picture');
+  }
   if (item.tone !== undefined && !(item.kind === 'line' && (item.tone === 'holiday' || item.tone === 'teal'))) {
     p.push('tone is only for line notices: "holiday" or "teal"');
   }

@@ -61,6 +61,9 @@ const message = {
   notification: { title, body, ...(image ? { image } : {}) },
   android: {
     priority: 'normal',
+    // A phone that is off or offline gets it when it's back, but not after a day:
+    // "today is a holiday" arriving three days late would be wrong.
+    ttl: '86400s',
     notification: { channel_id: 'announcements', ...(image ? { image } : {}) },
   },
   ...(action ? { data: { action } } : {}),
