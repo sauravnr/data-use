@@ -1,7 +1,18 @@
 {
-  "version": 2,
+  "version": 3,
   "updatedAt": "2026-11-18",
   "items": [
+    {
+      "id": "test-line-gold",
+      "kind": "line",
+      "start": "2083-08-01",
+      "end": "2083-08-30",
+      "title": {
+        "ne": "परीक्षण: आजको सुन चाँदी भाउ हेर्नुहोस्",
+        "en": "Test: see today's gold and silver rates"
+      },
+      "action": "screen:goldSilver"
+    },
     {
       "id": "test-line-holiday",
       "kind": "line",
@@ -55,5 +66,5 @@
       "action": "screen:weather"
     }
   ],
-  "signature": "Z/z+l5tO+u/3kPCQgJ4HNNV//BETHJAIcORiYewklibt7dPUkRadqEYTgJw5TVdDQU8/LVTsJgYx+WNwIA3LDQ=="
+  "signature": "Pp2FUBU8KgXftXCdfGbioKkgXsRuz7tNIbz/GJa6Hjnc3bPvnIIhECk9J3nsaq/AZK4ryongTUvE3axNqADsBA=="
 }
