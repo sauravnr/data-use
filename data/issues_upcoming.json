@@ -744,7 +744,7 @@
         "price": "10",
         "openingDate": "2026-11-18",
         "closingDate": "2026-11-23",
-        "status": "Coming Soon",
+        "status": "Open",
         "manager": "Citizens Capital Limited"
       },
       {
@@ -1006,7 +1006,7 @@
         "price": "100",
         "openingDate": "2026-10-28",
         "closingDate": "2026-11-17",
-        "status": "Open",
+        "status": "Closed",
         "manager": "Citizens Capital Limited"
       },
       {
@@ -1746,5 +1746,5 @@
     ]
   },
   "source": "ShareSansar",
-  "updated_at": "2026-11-17T23:11:39Z"
+  "updated_at": "2026-11-18T04:47:52Z"
 }
