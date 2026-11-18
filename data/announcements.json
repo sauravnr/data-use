@@ -1,7 +1,24 @@
 {
-  "version": 5,
+  "version": 6,
   "updatedAt": "2026-11-18",
   "items": [
+    {
+      "id": "happy-maghe-sankranti-208308",
+      "kind": "popup",
+      "start": "2083-08-02",
+      "end": "2083-08-08",
+      "title": {
+        "ne": "माघे संक्रान्तिको शुभकामना",
+        "en": "Happy Maghe Sankranti"
+      },
+      "style": "picture",
+      "image": "images/banners/happy-maghe-sankranti-208308-dd1a0799.webp",
+      "action": "festival:Maghe Sankranti",
+      "button": {
+        "ne": "पर्वको बारेमा",
+        "en": "About the festival"
+      }
+    },
     {
       "id": "happy-tamu-lhosar-test-208308",
       "kind": "banner",
@@ -41,5 +58,5 @@
       }
     }
   ],
-  "signature": "KZNoIMSaxR2kHQ51x2QKxh/VUeCjuDJfAQUY3S602EpLic4Hj4CO+ZebT4tlUHJgHxZu2jXbRw0Pl4Pe5TLuDw=="
+  "signature": "Ds3k99zA3u7fQSI7FaM0kbDUg5Ur7E2O/9Ok2BcgB/6MsAwDu1RLTvCmLqO9OLalcFOdg36VkK5N+4V1RhPbDg=="
 }
