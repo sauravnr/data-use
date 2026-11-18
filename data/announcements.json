@@ -1,6 +1,18 @@
 {
-  "version": 8,
+  "version": 9,
   "updatedAt": "2026-11-18",
-  "items": [],
-  "signature": "cL1GBqc6WjpEwjIar7vn5ef1SnbuUBqw+DTvfwmhLq4rbsuWHgqfy2FnFGjLufo66JIUIkgMIk4C3mKeleuvCA=="
+  "items": [
+    {
+      "id": "tester-check-208308",
+      "kind": "line",
+      "start": "2083-08-02",
+      "end": "2083-08-03",
+      "title": {
+        "ne": "परीक्षण: Play को १.६.० मा सूचना आयो",
+        "en": "Test: notices work in the Play 1.6.0"
+      },
+      "action": "screen:converter"
+    }
+  ],
+  "signature": "lYInq+6UvWdbgGn5su7wbtINNdzFDOlcFO5foZMXpmm4Fohq0/icSxIsRdSCyR2VDmbt48VPsoJbM3feoNnLCQ=="
 }
