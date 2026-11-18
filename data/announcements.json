@@ -1,7 +1,19 @@
 {
-  "version": 6,
+  "version": 7,
   "updatedAt": "2026-11-18",
   "items": [
+    {
+      "id": "public-holiday-on-monday-mangs-208308",
+      "kind": "line",
+      "start": "2083-08-02",
+      "end": "2083-08-08",
+      "title": {
+        "ne": "मंसिर १४ गते सोमबार सार्वजनिक बिदा (परीक्षण)",
+        "en": "Public holiday on Monday, Mangsir 14 (test)"
+      },
+      "tone": "holiday",
+      "action": "day:2083/8/14"
+    },
     {
       "id": "happy-maghe-sankranti-208308",
       "kind": "popup",
@@ -58,5 +70,5 @@
       }
     }
   ],
-  "signature": "Ds3k99zA3u7fQSI7FaM0kbDUg5Ur7E2O/9Ok2BcgB/6MsAwDu1RLTvCmLqO9OLalcFOdg36VkK5N+4V1RhPbDg=="
+  "signature": "fG6UHOnZwlLHojoF87QV2x7hymbizTxESFSR5pLoJMS0FxYgGdIoRTgkjmHN4Mg2TbOp9kOxlukTcj/CPDniDw=="
 }
