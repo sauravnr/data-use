@@ -1,7 +1,18 @@
 {
-  "version": 5,
+  "version": 6,
   "updatedAt": "2026-11-18",
   "items": [
+    {
+      "id": "test-line-start",
+      "kind": "line",
+      "start": "2083-08-01",
+      "end": "2083-08-30",
+      "title": {
+        "ne": "परीक्षण: एप खोल्दा यो लाइन पहिलेदेखि नै हुनुपर्छ",
+        "en": "Test: this line should be there from the first screen"
+      },
+      "action": "screen:converter"
+    },
     {
       "id": "test-line-gold",
       "kind": "line",
@@ -85,5 +96,5 @@
       "action": "web:/privacy"
     }
   ],
-  "signature": "Ln9GzzONVNOkZz0GxohSF2LkXmnktAlwoSPLIVVX7brXA99HEB7/znMTDieHkcNB4UdEaqrovn5N/7Rm8f/CDQ=="
+  "signature": "lDDnTPkJ8Rv2iwLCOLeFN018u7GvKk2UeR2Q+vM4UxmfuJl0Pb5KNNZS3etaJZq4fDMpnYgQcvLsDoYDafqVCQ=="
 }
