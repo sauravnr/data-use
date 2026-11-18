@@ -1,6 +1,19 @@
 {
-  "version": 11,
+  "version": 12,
   "updatedAt": "2026-11-18",
-  "items": [],
-  "signature": "m0lJAsxhOYOjjMU/refKkkQkUDlWbizdKHdWLw5ryD01JqYU+ABYO31vmwURiPPcJnLcoPu0JMLSmv25UWDMCw=="
+  "items": [
+    {
+      "id": "test-poster-nolink",
+      "kind": "popup",
+      "style": "picture",
+      "start": "2083-08-01",
+      "end": "2083-08-10",
+      "title": {
+        "ne": "तिहारको शुभकामना",
+        "en": "Happy Tihar"
+      },
+      "image": "images/banners/test-poster-nolink.webp"
+    }
+  ],
+  "signature": "TOmhhgI6mKwk1xsbdVWVTFQoCu1cTlETZtBvBXgEG3X9UiBtVnKNSdohujEWa2zB3PyGTGyM6YW+kZVEDEA+Bg=="
 }
