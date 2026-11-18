@@ -1,7 +1,19 @@
 {
-  "version": 3,
+  "version": 4,
   "updatedAt": "2026-11-18",
   "items": [
+    {
+      "id": "happy-tihar-208308",
+      "kind": "popup",
+      "start": "2083-08-02",
+      "end": "2083-08-08",
+      "title": {
+        "ne": "तिहारको शुभकामना",
+        "en": "Happy Tihar"
+      },
+      "style": "picture",
+      "image": "images/banners/happy-tihar-208308-581a131e.webp"
+    },
     {
       "id": "speed-check-208308",
       "kind": "line",
@@ -13,5 +25,5 @@
       }
     }
   ],
-  "signature": "k3bKX2a3bal/kndWEtsR8uduu1liO+fJDMulRXE8l5n8y7v8I/0u+TD2V6OHjOeoMNaAU/S0PwA7Ip4QNfq8Cw=="
+  "signature": "oS25+H/PRfFvDs7UxQlhSTg2aUkSQ+OwUcsOU/5QdLgqRHLpMlS3vlN7Pul01Om9dhKNHxfwQBNoxVyqdvx9CQ=="
 }
