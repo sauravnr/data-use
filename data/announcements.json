@@ -1,7 +1,23 @@
 {
-  "version": 4,
+  "version": 5,
   "updatedAt": "2026-11-18",
   "items": [
+    {
+      "id": "happy-tamu-lhosar-test-208308",
+      "kind": "banner",
+      "start": "2083-08-02",
+      "end": "2083-08-08",
+      "title": {
+        "ne": "तमु ल्होसारको शुभकामना (परीक्षण)",
+        "en": "Happy Tamu Lhosar (test)"
+      },
+      "body": {
+        "ne": "गुरुङ समुदायको नयाँ वर्ष।",
+        "en": "The Gurung new year."
+      },
+      "image": "images/banners/happy-tamu-lhosar-test-208308-684751b5.webp",
+      "action": "screen:weather"
+    },
     {
       "id": "happy-tihar-208308",
       "kind": "popup",
@@ -25,5 +41,5 @@
       }
     }
   ],
-  "signature": "oS25+H/PRfFvDs7UxQlhSTg2aUkSQ+OwUcsOU/5QdLgqRHLpMlS3vlN7Pul01Om9dhKNHxfwQBNoxVyqdvx9CQ=="
+  "signature": "KZNoIMSaxR2kHQ51x2QKxh/VUeCjuDJfAQUY3S602EpLic4Hj4CO+ZebT4tlUHJgHxZu2jXbRw0Pl4Pe5TLuDw=="
 }
