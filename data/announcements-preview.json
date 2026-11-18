@@ -1,120 +1,52 @@
 {
-  "version": 7,
+  "version": 8,
   "updatedAt": "2026-11-18",
   "items": [
     {
-      "id": "test-line-start",
-      "kind": "line",
-      "start": "2083-08-01",
-      "end": "2083-08-30",
-      "title": {
-        "ne": "परीक्षण: एप खोल्दा यो लाइन पहिलेदेखि नै हुनुपर्छ",
-        "en": "Test: this line should be there from the first screen"
-      },
-      "action": "screen:converter"
-    },
-    {
-      "id": "test-line-gold",
-      "kind": "line",
-      "start": "2083-08-01",
-      "end": "2083-08-30",
-      "title": {
-        "ne": "परीक्षण: आजको सुन चाँदी भाउ हेर्नुहोस्",
-        "en": "Test: see today's gold and silver rates"
-      },
-      "action": "screen:goldSilver"
-    },
-    {
-      "id": "test-line-holiday",
-      "kind": "line",
-      "tone": "holiday",
-      "start": "2083-08-01",
-      "end": "2083-08-30",
-      "title": {
-        "ne": "परीक्षण: मंसिर १४ गते सोमबार सार्वजनिक बिदा",
-        "en": "Test: public holiday on Monday, Mangsir 14"
-      },
-      "action": "day:2083/8/14"
-    },
-    {
-      "id": "test-banner-maghe",
-      "kind": "banner",
-      "start": "2083-08-01",
-      "end": "2083-08-30",
-      "title": {
-        "ne": "माघे संक्रान्तिको शुभकामना",
-        "en": "Happy Maghe Sankranti"
-      },
-      "body": {
-        "ne": "परीक्षण: घिउ, चाकु, तिलको लड्डु र तरुल खाने दिन।",
-        "en": "Test: the day of ghee, chaku, sesame laddus and yams."
-      },
-      "button": {
-        "ne": "पर्वको कथा पढ्नुहोस्",
-        "en": "Read about the festival"
-      },
-      "image": "images/banners/test-maghe.webp",
-      "action": "festival:Maghe Sankranti"
-    },
-    {
-      "id": "test-popup-weather",
-      "kind": "popup",
-      "start": "2083-08-01",
-      "end": "2083-08-30",
-      "title": {
-        "ne": "परीक्षण: नयाँ मौसम पेज",
-        "en": "Test: the new weather page"
-      },
-      "body": {
-        "ne": "४८ सहरको मौसम र ७ दिनको पूर्वानुमान अब सहज पात्रोमै।",
-        "en": "Weather for 48 cities and a 7-day forecast, now in Sahaj Patro."
-      },
-      "button": {
-        "ne": "मौसम हेर्नुहोस्",
-        "en": "See the weather"
-      },
-      "image": "images/banners/test-maghe.webp",
-      "action": "screen:weather"
-    },
-    {
-      "id": "test-banner-text",
-      "kind": "banner",
-      "start": "2083-08-01",
-      "end": "2083-08-30",
-      "title": {
-        "ne": "परीक्षण: तस्बिर बिनाको सूचना",
-        "en": "Test: a notice without a picture"
-      },
-      "body": {
-        "ne": "हाम्रो गोपनीयता नीति पढ्न तल थिच्नुहोस्।",
-        "en": "Tap below to read our privacy policy."
-      },
-      "button": {
-        "ne": "गोपनीयता नीति",
-        "en": "Privacy policy"
-      },
-      "action": "web:/privacy"
-    },
-    {
-      "id": "test-happy-tamu-lhosar-208308",
+      "id": "happy-tamu-lhosar-test-208308",
       "kind": "banner",
       "start": "2083-08-02",
       "end": "2083-08-08",
       "title": {
-        "ne": "परीक्षण: तमु ल्होसारको शुभकामना",
-        "en": "Test: Happy Tamu Lhosar"
+        "ne": "तमु ल्होसारको शुभकामना (परीक्षण)",
+        "en": "Happy Tamu Lhosar (test)"
       },
       "body": {
-        "ne": "गुरुङ समुदायको नयाँ वर्ष। यो admin page बाट बनाइएको परीक्षण सूचना हो।",
-        "en": "The Gurung new year. A test notice made on the admin page."
+        "ne": "गुरुङ समुदायको नयाँ वर्ष।",
+        "en": "The Gurung new year."
       },
-      "image": "images/banners/test-happy-tamu-lhosar-208308-684751b5.webp",
-      "action": "festival:Tamu Lhosar",
+      "image": "images/banners/happy-tamu-lhosar-test-208308-684751b5.webp",
+      "action": "screen:weather"
+    },
+    {
+      "id": "happy-maghe-sankranti-208308",
+      "kind": "popup",
+      "start": "2083-08-02",
+      "end": "2083-08-08",
+      "title": {
+        "ne": "माघे संक्रान्तिको शुभकामना",
+        "en": "Happy Maghe Sankranti"
+      },
+      "style": "picture",
+      "image": "images/banners/happy-maghe-sankranti-208308-dd1a0799.webp",
+      "action": "festival:Maghe Sankranti",
       "button": {
         "ne": "पर्वको बारेमा",
         "en": "About the festival"
       }
+    },
+    {
+      "id": "public-holiday-on-monday-mangs-208308",
+      "kind": "line",
+      "start": "2083-08-02",
+      "end": "2083-08-08",
+      "title": {
+        "ne": "मंसिर १४ गते सोमबार सार्वजनिक बिदा (परीक्षण)",
+        "en": "Public holiday on Monday, Mangsir 14 (test)"
+      },
+      "tone": "holiday",
+      "action": "day:2083/8/14"
     }
   ],
-  "signature": "E9r9ibYVpbsZF0XB8cYMfRGVScw+8hrMA3meJC2SloLytAQ40CwMIECMbM1thV2F7a8MqTs86QRfKaJToBJYBg=="
+  "signature": "mwpuQTsaglIiOhnPid33TgD/lkbt59poYZ8sj1TKOWPZM0KIoHaz1Ffq+N0pW9Vl+2MgOLBenx21N+7mCBQAAg=="
 }
