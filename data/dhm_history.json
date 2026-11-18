@@ -1,28 +1,5 @@
 {
   "days": {
-    "2026-11-04": {
-      "Dadeldhura": 21.4,
-      "Dipayal": 30,
-      "Dhangadi": 31.2,
-      "Birendranagar": 28.3,
-      "Nepalgunj": 32,
-      "Jumla": 22.5,
-      "Ghorahi": 28.5,
-      "Pokhara": 26.9,
-      "Bhairahawa": 33.4,
-      "Simara": 31.9,
-      "Kathmandu": 24.5,
-      "Okhaldhunga": 23,
-      "Dhankuta": 27.3,
-      "Biratnagar": 32,
-      "Jomsom": 18.3,
-      "Dharan": 30.5,
-      "Janakpur": 32.8,
-      "Jiri": 20.3,
-      "Taplejung": 21.4,
-      "Chandragadi Airport": 31.4,
-      "Lumle": 21
-    },
     "2026-11-05": {
       "Dadeldhura": 20.9,
       "Dipayal": 30,
@@ -321,6 +298,29 @@
       "Taplejung": 18.3,
       "Chandragadi Airport": 24.3,
       "Lumle": 18.1
+    },
+    "2026-11-18": {
+      "Dadeldhura": 19,
+      "Dipayal": 26.4,
+      "Dhangadi": 28.2,
+      "Birendranagar": 25,
+      "Nepalgunj": 27,
+      "Jumla": 21,
+      "Ghorahi": 25.2,
+      "Pokhara": 22.9,
+      "Bhairahawa": 27.6,
+      "Simara": 26.6,
+      "Kathmandu": 21.4,
+      "Okhaldhunga": 19,
+      "Dhankuta": 24.1,
+      "Biratnagar": 29.3,
+      "Jomsom": 17.8,
+      "Dharan": 27,
+      "Janakpur": 27.5,
+      "Jiri": 18.5,
+      "Taplejung": 19.4,
+      "Chandragadi Airport": 29.7,
+      "Lumle": 18
     }
   },
   "stations": {
