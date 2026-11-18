@@ -1,9 +1,9 @@
 {
-  "version": 12,
+  "version": 13,
   "updatedAt": "2026-11-18",
   "items": [
     {
-      "id": "test-poster-nolink",
+      "id": "test-poster-nolink-2",
       "kind": "popup",
       "style": "picture",
       "start": "2083-08-01",
@@ -15,5 +15,5 @@
       "image": "images/banners/test-poster-nolink.webp"
     }
   ],
-  "signature": "TOmhhgI6mKwk1xsbdVWVTFQoCu1cTlETZtBvBXgEG3X9UiBtVnKNSdohujEWa2zB3PyGTGyM6YW+kZVEDEA+Bg=="
+  "signature": "9tvUGDkSHkFx3xXqjT113alCGwCv6/Wzq7GgtMCE7Px5735GL9xNyAYh71EbWtGdJtons1VKL2ylSNN3Mw1PDQ=="
 }
