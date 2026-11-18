@@ -1,7 +1,17 @@
 {
-  "version": 9,
+  "version": 10,
   "updatedAt": "2026-11-18",
   "items": [
+    {
+      "id": "speed-check-208308",
+      "kind": "line",
+      "start": "2083-08-01",
+      "end": "2083-08-10",
+      "title": {
+        "ne": "गति जाँच: नयाँ सूचना",
+        "en": "Speed check: a new notice"
+      }
+    },
     {
       "id": "happy-tihar-208308",
       "kind": "popup",
@@ -60,5 +70,5 @@
       "action": "day:2083/8/14"
     }
   ],
-  "signature": "Lgpf//g1z02SCpQ1FVGbDvew+9XCb/MwFSbiSEzKlFgxP86gk+Ff/byM1MD4ZS40oN/gfmq0Y1UpP6Wd3k7kBw=="
+  "signature": "grjgQ5IzU7lU3hxmXwIyIc75bsy8ztNrLMfpAh9lmndz2CuF39U/FTbgO/cgu++KMcqYWFV+WiILGycWUL01AQ=="
 }
