@@ -1,6 +1,17 @@
 {
-  "version": 2,
+  "version": 3,
   "updatedAt": "2026-11-18",
-  "items": [],
-  "signature": "iigr73BXe3gSrN4oQv78o5RimL/KfDZ51NMk08AH4rj/j6ldGUj4PMPoij3YrPNOXTZxX2zFq3geQQWI2XqhAg=="
+  "items": [
+    {
+      "id": "speed-check-208308",
+      "kind": "line",
+      "start": "2083-08-01",
+      "end": "2083-08-10",
+      "title": {
+        "ne": "गति जाँच: नयाँ सूचना",
+        "en": "Speed check: a new notice"
+      }
+    }
+  ],
+  "signature": "k3bKX2a3bal/kndWEtsR8uduu1liO+fJDMulRXE8l5n8y7v8I/0u+TD2V6OHjOeoMNaAU/S0PwA7Ip4QNfq8Cw=="
 }
