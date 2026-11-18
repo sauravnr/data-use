@@ -6,7 +6,9 @@ import crypto from 'node:crypto';
 import { parseAction } from './noticesCore.mjs';
 
 const TOPICS = ['test', 'all', 'ne', 'en'];
-const IMAGE_PREFIX = 'https://cdn.jsdelivr.net/gh/sauravnr/data-use@main/images/';
+// Our pictures only: data-use/images on jsDelivr, at main or pinned to a commit
+// (the admin page pins a just-uploaded picture so it works at once).
+const IMAGE_RE = /^https:\/\/cdn\.jsdelivr\.net\/gh\/sauravnr\/data-use@(main|[0-9a-f]{7,40})\/images\/[A-Za-z0-9/_.-]+\.(webp|jpg|jpeg|png)$/;
 
 function fail(msg) {
   console.log(`::error::${msg}`);
@@ -22,9 +24,7 @@ const action = (process.env.PUSH_ACTION || '').trim();
 if (!TOPICS.includes(topic)) fail(`topic must be one of ${TOPICS.join(', ')}`);
 if (!title || title.length > 100) fail('title must be 1 to 100 characters');
 if (!body || body.length > 500) fail('text must be 1 to 500 characters');
-if (image && !(image.startsWith(IMAGE_PREFIX) && /^[A-Za-z0-9/_.-]+$/.test(image.slice(IMAGE_PREFIX.length)))) {
-  fail('the picture must be one of ours on data-use');
-}
+if (image && (!IMAGE_RE.test(image) || image.includes('..'))) fail('the picture must be one of ours on data-use');
 if (action && !parseAction(action)) fail(`not an allowed action: ${action}`);
 
 let sa;
