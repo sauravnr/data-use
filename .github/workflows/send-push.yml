@@ -1,6 +1,6 @@
 name: Send push
 
-# Started by the admin page (sahajpatro.web.app/admin) with your GitHub token.
+# Started by the owner's admin page with the owner's GitHub key.
 # Only people with write access to this repo can start it.
 on:
   workflow_dispatch:
