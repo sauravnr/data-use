@@ -1,7 +1,7 @@
 {
   "source": "sharesansar:sectorwise+today-share-price",
-  "updated_at": "2026-11-20T09:31:34Z",
-  "count": 486,
+  "updated_at": "2026-11-21T09:03:38Z",
+  "count": 487,
   "data": {
     "ACLBSL": "Microfinance",
     "ACLBSLP": "Promoter Shares",
@@ -235,6 +235,7 @@
     "MNBBL": "Development Banks",
     "MNBBLP": "Promoter Shares",
     "MNMF1": "Mutual Funds",
+    "MNMF2": "Mutual Funds",
     "MPFL": "Finance Companies",
     "MSHL": "Hydropower",
     "MSLB": "Microfinance",
