@@ -64,6 +64,9 @@ const message = {
     // A phone that is off or offline gets it when it's back, but not after a day:
     // "today is a holiday" arriving three days late would be wrong.
     ttl: '86400s',
+    // TODO when versionCode 15+ is on most phones: add click_action:
+    // 'com.sajilopatro.OPEN_PUSH' (opens through OpenAppActivity with the logo
+    // splash). Older 1.6.0 builds have no such screen, so a tap would do nothing.
     notification: { channel_id: 'announcements', ...(image ? { image } : {}) },
   },
   ...(action ? { data: { action } } : {}),
