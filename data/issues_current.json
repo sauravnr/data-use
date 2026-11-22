@@ -1,17 +1,17 @@
 {
   "source": "CDSC",
-  "updated_at": "2026-11-22T01:43:17Z",
+  "updated_at": "2026-11-22T08:55:29Z",
   "data": [
     {
       "company": "Citizens Super 50 - CTZSU50 (IPO - For General Public)",
       "manager": "CITIZENS CAPITAL LIMITED",
       "units": "100000000",
-      "applicants": "19359",
-      "appliedUnits": "52833530",
-      "amount": "528335300",
+      "applicants": "20669",
+      "appliedUnits": "53523200",
+      "amount": "535232000",
       "openingDate": "2026-11-18",
       "closingDate": "2026-11-23",
-      "lastUpdate": "2026-11-21 17:15:06"
+      "lastUpdate": "2026-11-22 09:15:08"
     }
   ]
 }
