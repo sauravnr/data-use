@@ -1,6 +1,6 @@
 {
   "currency": "NPR",
-  "as_of_date": "2026-11-22",
+  "as_of_date": "2026-11-23",
   "rates": [
     {
       "iso3": "INR",
@@ -26,8 +26,8 @@
       "name_ne": "युरो",
       "country": "EU",
       "unit": 1,
-      "buy": 162.41,
-      "sell": 163.07
+      "buy": 162.3,
+      "sell": 162.96
     },
     {
       "iso3": "GBP",
@@ -35,8 +35,8 @@
       "name_ne": "बेलायती पाउण्ड",
       "country": "GB",
       "unit": 1,
-      "buy": 193.96,
-      "sell": 194.75
+      "buy": 193.59,
+      "sell": 194.38
     },
     {
       "iso3": "CHF",
@@ -44,8 +44,8 @@
       "name_ne": "स्विस फ्रांक",
       "country": "CH",
       "unit": 1,
-      "buy": 175.88,
-      "sell": 176.6
+      "buy": 176.14,
+      "sell": 176.85
     },
     {
       "iso3": "AUD",
@@ -53,8 +53,8 @@
       "name_ne": "अष्ट्रेलियन डलर",
       "country": "AU",
       "unit": 1,
-      "buy": 98.55,
-      "sell": 98.95
+      "buy": 97.92,
+      "sell": 98.32
     },
     {
       "iso3": "CAD",
@@ -62,8 +62,8 @@
       "name_ne": "क्यानेडियन डलर",
       "country": "CA",
       "unit": 1,
-      "buy": 103.33,
-      "sell": 103.75
+      "buy": 103.18,
+      "sell": 103.59
     },
     {
       "iso3": "SGD",
@@ -71,8 +71,8 @@
       "name_ne": "सिंगापुरी डलर",
       "country": "SG",
       "unit": 1,
-      "buy": 114.77,
-      "sell": 115.24
+      "buy": 114.71,
+      "sell": 115.17
     },
     {
       "iso3": "JPY",
@@ -80,8 +80,8 @@
       "name_ne": "जापानी येन",
       "country": "JP",
       "unit": 10,
-      "buy": 9.32,
-      "sell": 9.36
+      "buy": 9.33,
+      "sell": 9.37
     },
     {
       "iso3": "CNY",
@@ -116,8 +116,8 @@
       "name_ne": "थाई बाहत",
       "country": "TH",
       "unit": 1,
-      "buy": 4.36,
-      "sell": 4.38
+      "buy": 4.35,
+      "sell": 4.37
     },
     {
       "iso3": "AED",
@@ -126,7 +126,7 @@
       "country": "AE",
       "unit": 1,
       "buy": 40.29,
-      "sell": 40.45
+      "sell": 40.46
     },
     {
       "iso3": "MYR",
@@ -143,8 +143,8 @@
       "name_ne": "कोरियन वोन",
       "country": "KR",
       "unit": 100,
-      "buy": 11.06,
-      "sell": 11.11
+      "buy": 10.99,
+      "sell": 11.04
     },
     {
       "iso3": "SEK",
@@ -152,8 +152,8 @@
       "name_ne": "स्विडिश क्रोनर",
       "country": "SE",
       "unit": 1,
-      "buy": 14.51,
-      "sell": 14.57
+      "buy": 14.47,
+      "sell": 14.53
     },
     {
       "iso3": "DKK",
@@ -161,8 +161,8 @@
       "name_ne": "डेनिस क्रोनर",
       "country": "DK",
       "unit": 1,
-      "buy": 21.73,
-      "sell": 21.82
+      "buy": 21.71,
+      "sell": 21.8
     },
     {
       "iso3": "HKD",
@@ -171,7 +171,7 @@
       "country": "HK",
       "unit": 1,
       "buy": 18.88,
-      "sell": 18.96
+      "sell": 18.95
     },
     {
       "iso3": "KWD",
@@ -188,8 +188,8 @@
       "name_ne": "बहरेनी दिनार",
       "country": "BH",
       "unit": 1,
-      "buy": 392.29,
-      "sell": 393.88
+      "buy": 392.31,
+      "sell": 393.9
     },
     {
       "iso3": "OMR",
@@ -197,10 +197,10 @@
       "name_ne": "ओमानी रियाल",
       "country": "OM",
       "unit": 1,
-      "buy": 384.36,
-      "sell": 385.92
+      "buy": 384.35,
+      "sell": 385.91
     }
   ],
   "source": "NRB",
-  "updated_at": "2026-11-22T22:52:33Z"
+  "updated_at": "2026-11-23T04:11:37Z"
 }

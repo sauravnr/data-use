@@ -743,7 +743,7 @@
         "units": "100000000",
         "price": "10",
         "openingDate": "2026-11-18",
-        "closingDate": "2026-11-23",
+        "closingDate": "2026-12-02",
         "status": "Open",
         "manager": "Citizens Capital Limited"
       },
@@ -1746,5 +1746,5 @@
     ]
   },
   "source": "ShareSansar",
-  "updated_at": "2026-11-22T22:52:35Z"
+  "updated_at": "2026-11-23T04:11:39Z"
 }
