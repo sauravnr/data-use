@@ -1,6 +1,6 @@
 {
-  "version": 12,
-  "updatedAt": "2026-11-13",
+  "version": 13,
+  "updatedAt": "2026-11-23",
   "festivals": [
     {
       "bsYear": 2081,
@@ -2592,7 +2592,8 @@
       "name": "गुरु नानक जयन्ती (सिख धर्मावलम्बीहरूलाई मात्र)",
       "type": "festival",
       "holiday": true,
-      "nameEn": "Guru Nanak Jayanti"
+      "nameEn": "Guru Nanak Jayanti (Sikhs only)",
+      "slug": "guru-nanak-jayanti"
     },
     {
       "bsYear": 2081,
@@ -6388,7 +6389,8 @@
       "name": "गुरु नानक जयन्ती (सिख धर्मावलम्बीहरूलाई मात्र)",
       "type": "festival",
       "holiday": true,
-      "nameEn": "Guru Nanak Jayanti"
+      "nameEn": "Guru Nanak Jayanti (Sikhs only)",
+      "slug": "guru-nanak-jayanti"
     },
     {
       "bsYear": 2082,
@@ -10485,7 +10487,8 @@
       "name": "गुरु नानक जयन्ती (सिख धर्मावलम्बीहरुलाई मात्र)",
       "type": "festival",
       "holiday": true,
-      "nameEn": "Guru Nanak Jayanti"
+      "nameEn": "Guru Nanak Jayanti (Sikhs only)",
+      "slug": "guru-nanak-jayanti"
     },
     {
       "bsYear": 2083,
