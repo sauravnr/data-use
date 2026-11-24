@@ -1,15 +1,18 @@
 {
-  "version": 3,
-  "updatedAt": "2026-05-25",
+  "version": 4,
+  "updatedAt": "2026-11-24",
   "stations": [
     {
       "id": "radio-nepal",
       "name": "Radio Nepal",
       "nepali": "रेडियो नेपाल",
       "frequency": "100 MHz",
-      "tags": ["news", "national"],
+      "tags": [
+        "news",
+        "national"
+      ],
       "stream": "https://stream1.radionepal.gov.np/live/",
-      "logo": null,
+      "logo": "https://cdn.jsdelivr.net/gh/sauravnr/data-use@c4f51bbe/images/radios/radio-nepal.webp",
       "website": "radionepal.gov.np",
       "codec": "mp3"
     },
@@ -18,9 +21,11 @@
       "name": "BBC Nepali",
       "nepali": "बीबीसी नेपाली",
       "frequency": "103 MHz",
-      "tags": ["news"],
+      "tags": [
+        "news"
+      ],
       "stream": "https://stream.live.vc.bbcmedia.co.uk/bbc_nepali_radio",
-      "logo": "https://static.files.bbci.co.uk/ws/simorgh-assets/public/nepali/images/icons/icon-128x128.png",
+      "logo": "https://cdn.jsdelivr.net/gh/sauravnr/data-use@c4f51bbe/images/radios/bbc-nepali.webp",
       "website": "bbc.com",
       "codec": "mp3"
     },
@@ -29,21 +34,13 @@
       "name": "Kantipur FM",
       "nepali": "कान्तिपुर एफएम",
       "frequency": "96.1 MHz",
-      "tags": ["news", "music"],
+      "tags": [
+        "news",
+        "music"
+      ],
       "stream": "https://radio-broadcast.ekantipur.com/stream",
-      "logo": "https://radio-jcss-cdn.ekantipur.com/images/kfm_logo.png",
-      "website": "ekantipur.com",
-      "codec": "mp3"
-    },
-    {
-      "id": "ujyaalo-90",
-      "name": "Ujyaalo 90 Network",
-      "nepali": "उज्यालो ९० नेटवर्क",
-      "frequency": "90 MHz",
-      "tags": ["news", "variety"],
-      "stream": "https://stream.zeno.fm/wtuvp08xq1duv",
-      "logo": null,
-      "website": "ujyaaloonline.com",
+      "logo": "https://cdn.jsdelivr.net/gh/sauravnr/data-use@c4f51bbe/images/radios/kantipur-fm.webp",
+      "website": "radiokantipur.com",
       "codec": "mp3"
     },
     {
@@ -51,9 +48,11 @@
       "name": "Hits FM",
       "nepali": "हिट्स एफएम",
       "frequency": "91.2 MHz",
-      "tags": ["music"],
+      "tags": [
+        "music"
+      ],
       "stream": "https://usa15.fastcast4u.com/proxy/hitsfm912?mp=/1",
-      "logo": null,
+      "logo": "https://cdn.jsdelivr.net/gh/sauravnr/data-use@c4f51bbe/images/radios/hits-fm.webp",
       "website": "hitsfm.com.np",
       "codec": "mp3"
     },
@@ -62,21 +61,13 @@
       "name": "Capital FM",
       "nepali": "क्यापिटल एफएम",
       "frequency": "92.4 MHz",
-      "tags": ["music", "news"],
+      "tags": [
+        "news",
+        "music"
+      ],
       "stream": "http://streaming.softnep.net:8037/;",
-      "logo": null,
-      "website": "capitalfm.com.np",
-      "codec": "mp3"
-    },
-    {
-      "id": "radio-audio",
-      "name": "Radio Audio",
-      "nepali": "रेडियो अडियो",
-      "frequency": "102.4 MHz",
-      "tags": ["music", "entertainment"],
-      "stream": "https://stream.zeno.fm/fvrx47wpg0quv",
-      "logo": null,
-      "website": "radioaudio.com.np",
+      "logo": "https://cdn.jsdelivr.net/gh/sauravnr/data-use@c4f51bbe/images/radios/capital-fm.webp",
+      "website": "cfmonair.com",
       "codec": "mp3"
     },
     {
@@ -84,10 +75,13 @@
       "name": "Kalika FM",
       "nepali": "कालिका एफएम",
       "frequency": "95.2 MHz",
-      "tags": ["regional"],
+      "tags": [
+        "news",
+        "regional"
+      ],
       "stream": "http://kalika-stream.softnep.com:7740/;",
-      "logo": "https://www.kalikanews.com/themes/kalikanews/images/favicon.png",
-      "website": "kalikanews.com",
+      "logo": "https://cdn.jsdelivr.net/gh/sauravnr/data-use@c4f51bbe/images/radios/kalika-fm.webp",
+      "website": "kalikafm.com.np",
       "codec": "mp3"
     },
     {
@@ -95,20 +89,24 @@
       "name": "Radio Himalaya",
       "nepali": "रेडियो हिमालय",
       "frequency": "104 MHz",
-      "tags": ["music"],
+      "tags": [
+        "music"
+      ],
       "stream": "https://live.itech.host/himalayaradio",
-      "logo": null,
-      "website": "radiohimalaya.com.np",
+      "logo": "https://cdn.jsdelivr.net/gh/sauravnr/data-use@c4f51bbe/images/radios/radio-himalaya.webp",
+      "website": null,
       "codec": "mp3"
     },
     {
       "id": "kool-fm",
       "name": "KOOL FM",
-      "nepali": "कुल एफएम",
+      "nepali": "कूल एफएम",
       "frequency": "90.3 MHz",
-      "tags": ["music"],
+      "tags": [
+        "music"
+      ],
       "stream": "https://streaming.softnep.net:10944/;stream.nsv&type=mp3",
-      "logo": "https://www.kool903.com/themes/kool903/images/logo.png?v=1.1",
+      "logo": "https://cdn.jsdelivr.net/gh/sauravnr/data-use@c4f51bbe/images/radios/kool-fm.webp",
       "website": "kool903.com",
       "codec": "mp3"
     },
@@ -116,10 +114,13 @@
       "id": "naya-radio",
       "name": "Naya Radio",
       "nepali": "नयाँ रेडियो",
-      "frequency": "FM",
-      "tags": ["news"],
+      "frequency": "87.6 MHz",
+      "tags": [
+        "music",
+        "regional"
+      ],
       "stream": "http://live.itech.host:1110/;",
-      "logo": "https://www.nayafm.com.np/style/icon2.png",
+      "logo": "https://cdn.jsdelivr.net/gh/sauravnr/data-use@c4f51bbe/images/radios/naya-radio.webp",
       "website": "nayafm.com.np",
       "codec": "mp3"
     },
@@ -128,76 +129,188 @@
       "name": "Swadesh FM",
       "nepali": "स्वदेश एफएम",
       "frequency": "93.2 MHz",
-      "tags": ["music", "regional"],
+      "tags": [
+        "news"
+      ],
       "stream": "http://216.55.141.189:8653/stream",
-      "logo": null,
-      "website": "swadeshfm.com.np",
+      "logo": "https://cdn.jsdelivr.net/gh/sauravnr/data-use@c4f51bbe/images/radios/swadesh-fm.webp",
+      "website": "swadeshfm.com",
       "codec": "mp3"
     },
     {
       "id": "cin-khabar",
       "name": "CIN Khabar",
-      "nepali": "सीआईएन खबर",
-      "frequency": "FM",
-      "tags": ["news", "talk"],
+      "nepali": "सिआईएन खबर",
+      "frequency": "Network",
+      "tags": [
+        "news"
+      ],
       "stream": "https://streaming.softnep.net:10996/;stream.nsv&type=mp3",
-      "logo": "https://www.cinkhabar.com/themes/cinkhabar/images/favicon.png",
+      "logo": "https://cdn.jsdelivr.net/gh/sauravnr/data-use@c4f51bbe/images/radios/cin-khabar.webp",
       "website": "cinkhabar.com",
-      "codec": "aac"
+      "codec": "mp3"
     },
     {
       "id": "radio-sagar",
       "name": "Radio Sagar",
       "nepali": "रेडियो सागर",
-      "frequency": "FM",
-      "tags": ["music"],
+      "frequency": "Online",
+      "tags": [
+        "music"
+      ],
       "stream": "https://eu1.fastcast4u.com/proxy/radiosag?mp=/stream/1/",
-      "logo": null,
-      "website": "radiosagar.com.np",
+      "logo": "https://cdn.jsdelivr.net/gh/sauravnr/data-use@c4f51bbe/images/radios/radio-sagar.webp",
+      "website": null,
       "codec": "mp3"
     },
     {
       "id": "jayaprithvi-fm",
       "name": "Jayaprithvi FM",
       "nepali": "जयपृथ्वी एफएम",
-      "frequency": "FM",
-      "tags": ["regional", "classical"],
-      "stream": "https://streaming.softnep.net:10824/",
-      "logo": "https://cdn-profiles.tunein.com/s343823/images/logod.jpg",
-      "website": "jayaprithvifm.com.np",
-      "codec": "mp3"
-    },
-    {
-      "id": "napho-radio",
-      "name": "Napho Radio FM",
-      "nepali": "नफो रेडियो एफएम",
-      "frequency": "88.25 MHz",
-      "tags": ["regional"],
-      "stream": "https://radio11.plathong.net/7136/;stream.mp3",
-      "logo": null,
-      "website": "naphoradio.com",
+      "frequency": "96.3 MHz",
+      "tags": [
+        "news",
+        "regional"
+      ],
+      "stream": "https://streaming.softnep.net:10824/;",
+      "logo": "https://cdn.jsdelivr.net/gh/sauravnr/data-use@c4f51bbe/images/radios/jayaprithvi-fm.webp",
+      "website": "thejpdaily.com",
       "codec": "mp3"
     },
     {
       "id": "thaha-sanchar",
       "name": "Radio Thaha Sanchar",
       "nepali": "रेडियो थाहा सञ्चार",
-      "frequency": "FM",
-      "tags": ["news", "regional"],
+      "frequency": "99.4 MHz",
+      "tags": [
+        "news"
+      ],
       "stream": "https://streaming.softnep.net:10988/;stream.nsv&type=mp3",
-      "logo": null,
-      "website": "thahasanchar.com",
+      "logo": "https://cdn.jsdelivr.net/gh/sauravnr/data-use@c4f51bbe/images/radios/thaha-sanchar.webp",
+      "website": "thahakhabar.com",
+      "codec": "mp3"
+    },
+    {
+      "id": "radio-nepal-koshi",
+      "name": "Radio Nepal Koshi",
+      "nepali": "रेडियो नेपाल कोशी",
+      "frequency": "Koshi",
+      "tags": [
+        "news",
+        "regional"
+      ],
+      "stream": "https://stream1.radionepal.gov.np/live/?station=pradesh1",
+      "logo": "https://cdn.jsdelivr.net/gh/sauravnr/data-use@c4f51bbe/images/radios/radio-nepal-koshi.webp",
+      "website": "radionepal.gov.np",
+      "codec": "mp3"
+    },
+    {
+      "id": "radio-nepal-madhesh",
+      "name": "Radio Nepal Madhesh",
+      "nepali": "रेडियो नेपाल मधेस",
+      "frequency": "Madhesh",
+      "tags": [
+        "news",
+        "regional"
+      ],
+      "stream": "https://stream1.radionepal.gov.np/live/?station=pradesh2",
+      "logo": "https://cdn.jsdelivr.net/gh/sauravnr/data-use@c4f51bbe/images/radios/radio-nepal-madhesh.webp",
+      "website": "radionepal.gov.np",
+      "codec": "mp3"
+    },
+    {
+      "id": "radio-nepal-gandaki",
+      "name": "Radio Nepal Gandaki",
+      "nepali": "रेडियो नेपाल गण्डकी",
+      "frequency": "Gandaki",
+      "tags": [
+        "news",
+        "regional"
+      ],
+      "stream": "https://stream1.radionepal.gov.np/live/?station=pradesh4",
+      "logo": "https://cdn.jsdelivr.net/gh/sauravnr/data-use@c4f51bbe/images/radios/radio-nepal-gandaki.webp",
+      "website": "radionepal.gov.np",
+      "codec": "mp3"
+    },
+    {
+      "id": "radio-nepal-lumbini",
+      "name": "Radio Nepal Lumbini",
+      "nepali": "रेडियो नेपाल लुम्बिनी",
+      "frequency": "Lumbini",
+      "tags": [
+        "news",
+        "regional"
+      ],
+      "stream": "https://stream1.radionepal.gov.np/live/?station=pradesh5",
+      "logo": "https://cdn.jsdelivr.net/gh/sauravnr/data-use@c4f51bbe/images/radios/radio-nepal-lumbini.webp",
+      "website": "radionepal.gov.np",
+      "codec": "mp3"
+    },
+    {
+      "id": "radio-nepal-karnali",
+      "name": "Radio Nepal Karnali",
+      "nepali": "रेडियो नेपाल कर्णाली",
+      "frequency": "Karnali",
+      "tags": [
+        "news",
+        "regional"
+      ],
+      "stream": "https://stream1.radionepal.gov.np/live/?station=pradesh6",
+      "logo": "https://cdn.jsdelivr.net/gh/sauravnr/data-use@c4f51bbe/images/radios/radio-nepal-karnali.webp",
+      "website": "radionepal.gov.np",
+      "codec": "mp3"
+    },
+    {
+      "id": "radio-nepal-sudurpaschim",
+      "name": "Radio Nepal Sudurpaschim",
+      "nepali": "रेडियो नेपाल सुदूरपश्चिम",
+      "frequency": "Sudurpaschim",
+      "tags": [
+        "news",
+        "regional"
+      ],
+      "stream": "https://stream1.radionepal.gov.np/live/?station=pradesh7",
+      "logo": "https://cdn.jsdelivr.net/gh/sauravnr/data-use@c4f51bbe/images/radios/radio-nepal-sudurpaschim.webp",
+      "website": "radionepal.gov.np",
+      "codec": "mp3"
+    },
+    {
+      "id": "metro-traffic-fm",
+      "name": "Metro Traffic FM",
+      "nepali": "मेट्रो ट्राफिक एफएम",
+      "frequency": "95.5 MHz",
+      "tags": [
+        "news"
+      ],
+      "stream": "https://centova1.toofancom.com/proxy/trafficradio?mp=/stream",
+      "logo": "https://cdn.jsdelivr.net/gh/sauravnr/data-use@c4f51bbe/images/radios/metro-traffic-fm.webp",
+      "website": "traffic.nepalpolice.gov.np",
+      "codec": "mp3"
+    },
+    {
+      "id": "artha-sarokar",
+      "name": "Radio Artha Sarokar",
+      "nepali": "रेडियो अर्थ सरोकार",
+      "frequency": "90.5 MHz",
+      "tags": [
+        "news"
+      ],
+      "stream": "http://live.itech.host:2430/stream",
+      "logo": "https://cdn.jsdelivr.net/gh/sauravnr/data-use@c4f51bbe/images/radios/artha-sarokar.webp",
+      "website": "radio.arthasarokar.com",
       "codec": "mp3"
     },
     {
       "id": "bfbs-gurkha",
       "name": "BFBS Gurkha Radio",
       "nepali": "बीएफबीएस गोर्खा रेडियो",
-      "frequency": "FM",
-      "tags": ["music", "diaspora"],
+      "frequency": "Online",
+      "tags": [
+        "music"
+      ],
       "stream": "https://listen-ssvcbfbs.sharp-stream.com/ssvcbfbs3.aac",
-      "logo": "https://radio.bfbs.com/icons/icon-512x512.png",
-      "website": "bfbs.com",
+      "logo": "https://cdn.jsdelivr.net/gh/sauravnr/data-use@c4f51bbe/images/radios/bfbs-gurkha.webp",
+      "website": "radio.bfbs.com",
       "codec": "aac"
     },
     {
@@ -205,21 +318,12 @@
       "name": "Khozee Radio",
       "nepali": "खोजी रेडियो",
       "frequency": "Online",
-      "tags": ["music", "talk"],
+      "tags": [
+        "music"
+      ],
       "stream": "http://216.55.141.189:8060/stream/1/",
-      "logo": null,
-      "website": "khozeeradio.com",
-      "codec": "aac"
-    },
-    {
-      "id": "hand-of-jesus-nepali",
-      "name": "Hand of Jesus Nepali",
-      "nepali": "ह्यान्ड अफ जिसस नेपाली",
-      "frequency": "Online",
-      "tags": ["religious", "talk"],
-      "stream": "https://dc1.serverse.com/proxy/hojnepali/stream",
-      "logo": null,
-      "website": "handofjesus.org",
+      "logo": "https://cdn.jsdelivr.net/gh/sauravnr/data-use@c4f51bbe/images/radios/khozee-radio.webp",
+      "website": null,
       "codec": "mp3"
     },
     {
@@ -227,9 +331,11 @@
       "name": "NBC FM 90.1 Narwee",
       "nepali": "एनबीसी एफएम ९०.१",
       "frequency": "90.1 MHz",
-      "tags": ["diaspora", "community"],
+      "tags": [
+        "music"
+      ],
       "stream": "https://studio.901nbcfm.com.au:8902/newstream",
-      "logo": "https://i.ibb.co/L683p7B/147954-d2e590e6ccda4d25a7213e2565ed7274-mv2.png",
+      "logo": "https://cdn.jsdelivr.net/gh/sauravnr/data-use@c4f51bbe/images/radios/nbc-fm-narwee.webp",
       "website": "901nbcfm.com.au",
       "codec": "mp3"
     },
@@ -238,10 +344,737 @@
       "name": "Quran - Abdulbasit",
       "nepali": "कुरान - अब्दुलबासित",
       "frequency": "Online",
-      "tags": ["religious"],
+      "tags": [],
       "stream": "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3",
-      "logo": null,
-      "website": "mp3islam.com",
+      "logo": "https://cdn.jsdelivr.net/gh/sauravnr/data-use@c4f51bbe/images/radios/abdulbasit.webp",
+      "website": null,
+      "codec": "mp3"
+    },
+    {
+      "id": "annapurna-nepal",
+      "name": "Radio Annapurna Nepal",
+      "nepali": "रेडियो अन्नपूर्ण नेपाल",
+      "frequency": "94 MHz",
+      "tags": [
+        "news",
+        "regional"
+      ],
+      "stream": "https://shoutcast.prixa.live/annapurna",
+      "logo": "https://cdn.jsdelivr.net/gh/sauravnr/data-use@c4f51bbe/images/radios/annapurna-nepal.webp",
+      "website": "radioannapurnanepal.com",
+      "codec": "mp3"
+    },
+    {
+      "id": "radio-annapurna",
+      "name": "Radio Annapurna",
+      "nepali": "रेडियो अन्नपूर्ण",
+      "frequency": "93.4 MHz",
+      "tags": [
+        "news",
+        "regional"
+      ],
+      "stream": "http://live.itechnepal.com:8964/stream",
+      "logo": "https://cdn.jsdelivr.net/gh/sauravnr/data-use@c4f51bbe/images/radios/radio-annapurna.webp",
+      "website": null,
+      "codec": "mp3"
+    },
+    {
+      "id": "bhorukawa-fm",
+      "name": "Radio Bhorukawa",
+      "nepali": "रेडियो भोरुकवा",
+      "frequency": "92.8 MHz",
+      "tags": [
+        "news",
+        "regional"
+      ],
+      "stream": "https://live.itech.host:8379/stream",
+      "logo": "https://cdn.jsdelivr.net/gh/sauravnr/data-use@c4f51bbe/images/radios/bhorukawa-fm.webp",
+      "website": "bhorukawafm.org.np",
+      "codec": "mp3"
+    },
+    {
+      "id": "bhojpuriya-fm",
+      "name": "Bhojpuriya FM",
+      "nepali": "भोजपुरिया एफएम",
+      "frequency": "92.8 MHz",
+      "tags": [
+        "music",
+        "regional"
+      ],
+      "stream": "http://streaming.softnep.net:8143/;stream.nsv&type=mp3",
+      "logo": "https://cdn.jsdelivr.net/gh/sauravnr/data-use@c4f51bbe/images/radios/bhojpuriya-fm.webp",
+      "website": null,
+      "codec": "mp3"
+    },
+    {
+      "id": "sky-fm",
+      "name": "Sky FM",
+      "nepali": "स्काई एफएम",
+      "frequency": "106.6 MHz",
+      "tags": [
+        "news",
+        "regional"
+      ],
+      "stream": "https://onlineradio.websoftitnepal.com/8002/stream",
+      "logo": "https://cdn.jsdelivr.net/gh/sauravnr/data-use@c4f51bbe/images/radios/sky-fm.webp",
+      "website": "skyfm.com.np",
+      "codec": "mp3"
+    },
+    {
+      "id": "radio-amargadhi",
+      "name": "Radio Amargadhi",
+      "nepali": "रेडियो अमरगढी",
+      "frequency": "97.4 MHz",
+      "tags": [
+        "news",
+        "regional"
+      ],
+      "stream": "https://live.itech.host:8927/stream",
+      "logo": "https://cdn.jsdelivr.net/gh/sauravnr/data-use@c4f51bbe/images/radios/radio-amargadhi.webp",
+      "website": "radioamargadhi.org",
+      "codec": "mp3"
+    },
+    {
+      "id": "galyang-fm",
+      "name": "Galyang FM",
+      "nepali": "गल्याङ एफएम",
+      "frequency": "92.2 MHz",
+      "tags": [
+        "news",
+        "regional"
+      ],
+      "stream": "https://live.itech.host:9107/stream",
+      "logo": "https://cdn.jsdelivr.net/gh/sauravnr/data-use@c4f51bbe/images/radios/galyang-fm.webp",
+      "website": "galyangfm.com",
+      "codec": "mp3"
+    },
+    {
+      "id": "saptakoshi-fm",
+      "name": "Saptakoshi FM",
+      "nepali": "सप्तकोशी एफएम",
+      "frequency": "90 MHz",
+      "tags": [
+        "news",
+        "regional"
+      ],
+      "stream": "https://live.itech.host:4535/stream",
+      "logo": "https://cdn.jsdelivr.net/gh/sauravnr/data-use@c4f51bbe/images/radios/saptakoshi-fm.webp",
+      "website": "skonline.com.np",
+      "codec": "mp3"
+    },
+    {
+      "id": "radio-rudraksha",
+      "name": "Radio Rudraksha",
+      "nepali": "रेडियो रुद्राक्ष",
+      "frequency": "98.8 MHz",
+      "tags": [
+        "news",
+        "regional"
+      ],
+      "stream": "https://streaming.softnep.net:10874/;stream.nsv&type=mp3",
+      "logo": "https://cdn.jsdelivr.net/gh/sauravnr/data-use@c4f51bbe/images/radios/radio-rudraksha.webp",
+      "website": "radiorudraksha.com.np",
+      "codec": "mp3"
+    },
+    {
+      "id": "radio-resunga",
+      "name": "Radio Resunga",
+      "nepali": "रेडियो रेसुङ्गा",
+      "frequency": "106.2 MHz",
+      "tags": [
+        "music",
+        "regional"
+      ],
+      "stream": "https://live.itech.host:3260/stream",
+      "logo": "https://cdn.jsdelivr.net/gh/sauravnr/data-use@c4f51bbe/images/radios/radio-resunga.webp",
+      "website": "radioresunga.com.np",
+      "codec": "mp3"
+    },
+    {
+      "id": "radio-syangja",
+      "name": "Radio Syangja",
+      "nepali": "रेडियो स्याङ्जा",
+      "frequency": "89.6 MHz",
+      "tags": [
+        "news",
+        "regional"
+      ],
+      "stream": "http://live.itechnepal.com:8886/stream",
+      "logo": "https://cdn.jsdelivr.net/gh/sauravnr/data-use@c4f51bbe/images/radios/radio-syangja.webp",
+      "website": "radiosyangja.org",
+      "codec": "mp3"
+    },
+    {
+      "id": "radio-bheri",
+      "name": "Radio Bheri",
+      "nepali": "रेडियो भेरी",
+      "frequency": "98.6 MHz",
+      "tags": [
+        "news",
+        "regional"
+      ],
+      "stream": "https://live.itech.host:9065/stream",
+      "logo": "https://cdn.jsdelivr.net/gh/sauravnr/data-use@c4f51bbe/images/radios/radio-bheri.webp",
+      "website": "radiobheri.com.np",
+      "codec": "mp3"
+    },
+    {
+      "id": "krishnasar-fm",
+      "name": "Krishnasar FM",
+      "nepali": "कृष्णसार एफएम",
+      "frequency": "94 MHz",
+      "tags": [
+        "news",
+        "regional"
+      ],
+      "stream": "https://live.itech.host:8434/stream",
+      "logo": "https://cdn.jsdelivr.net/gh/sauravnr/data-use@c4f51bbe/images/radios/krishnasar-fm.webp",
+      "website": "krishnasarfm.org.np",
+      "codec": "mp3"
+    },
+    {
+      "id": "b-fm",
+      "name": "B FM",
+      "nepali": "बी एफएम",
+      "frequency": "91.2 MHz",
+      "tags": [
+        "music",
+        "regional"
+      ],
+      "stream": "https://onlineradio.websoftitnepal.com:7011/stream",
+      "logo": "https://cdn.jsdelivr.net/gh/sauravnr/data-use@c4f51bbe/images/radios/b-fm.webp",
+      "website": "bfm912.com",
+      "codec": "mp3"
+    },
+    {
+      "id": "radio-prakriti",
+      "name": "Radio Prakriti",
+      "nepali": "रेडियो प्रकृति",
+      "frequency": "93.4 MHz",
+      "tags": [
+        "news",
+        "regional"
+      ],
+      "stream": "https://live.itech.host:8939/stream",
+      "logo": "https://cdn.jsdelivr.net/gh/sauravnr/data-use@c4f51bbe/images/radios/radio-prakriti.webp",
+      "website": "radioprakriti.com",
+      "codec": "mp3"
+    },
+    {
+      "id": "pradesh-fm",
+      "name": "Pradesh FM",
+      "nepali": "प्रदेश एफएम",
+      "frequency": "105 MHz",
+      "tags": [
+        "news",
+        "regional"
+      ],
+      "stream": "http://live.itechnepal.com:8021/stream",
+      "logo": "https://cdn.jsdelivr.net/gh/sauravnr/data-use@c4f51bbe/images/radios/pradesh-fm.webp",
+      "website": "pradeshfm.com",
+      "codec": "mp3"
+    },
+    {
+      "id": "vijaya-fm",
+      "name": "Vijaya FM",
+      "nepali": "विजया एफएम",
+      "frequency": "101.6 MHz",
+      "tags": [
+        "news",
+        "regional"
+      ],
+      "stream": "https://live.itech.host:3320/stream",
+      "logo": "https://cdn.jsdelivr.net/gh/sauravnr/data-use@c4f51bbe/images/radios/vijaya-fm.webp",
+      "website": "vijayafm.org.np",
+      "codec": "mp3"
+    },
+    {
+      "id": "radio-surkhet",
+      "name": "Radio Surkhet",
+      "nepali": "रेडियो सुर्खेत",
+      "frequency": "90.2 MHz",
+      "tags": [
+        "news",
+        "regional"
+      ],
+      "stream": "https://live.itech.host:3830/stream",
+      "logo": "https://cdn.jsdelivr.net/gh/sauravnr/data-use@c4f51bbe/images/radios/radio-surkhet.webp",
+      "website": "radiosurkhet.org.np",
+      "codec": "mp3"
+    },
+    {
+      "id": "butwal-fm",
+      "name": "Butwal FM",
+      "nepali": "बुटवल एफएम",
+      "frequency": "94.4 MHz",
+      "tags": [
+        "music",
+        "regional"
+      ],
+      "stream": "http://streaming.softnep.net:8003/;",
+      "logo": "https://cdn.jsdelivr.net/gh/sauravnr/data-use@c4f51bbe/images/radios/butwal-fm.webp",
+      "website": "butwaldiary.com",
+      "codec": "mp3"
+    },
+    {
+      "id": "radio-menchhyayem",
+      "name": "Radio Menchhyayem",
+      "nepali": "रेडियो मेन्छेयाम",
+      "frequency": "103.4 MHz",
+      "tags": [
+        "news",
+        "regional"
+      ],
+      "stream": "http://live.itechnepal.com:9090/stream",
+      "logo": "https://cdn.jsdelivr.net/gh/sauravnr/data-use@c4f51bbe/images/radios/radio-menchhyayem.webp",
+      "website": "mfm.com.np",
+      "codec": "mp3"
+    },
+    {
+      "id": "hamro-radio",
+      "name": "Hamro Radio",
+      "nepali": "हाम्रो रेडियो",
+      "frequency": "103.8 MHz",
+      "tags": [
+        "music",
+        "regional"
+      ],
+      "stream": "http://live.itechnepal.com:9551/stream",
+      "logo": "https://cdn.jsdelivr.net/gh/sauravnr/data-use@c4f51bbe/images/radios/hamro-radio.webp",
+      "website": "hamroradiofm.org.np",
+      "codec": "mp3"
+    },
+    {
+      "id": "radio-belauri",
+      "name": "Radio Belauri",
+      "nepali": "रेडियो बेलौरी",
+      "frequency": "105 MHz",
+      "tags": [
+        "news",
+        "regional"
+      ],
+      "stream": "http://live.itechnepal.com:9030/stream",
+      "logo": "https://cdn.jsdelivr.net/gh/sauravnr/data-use@c4f51bbe/images/radios/radio-belauri.webp",
+      "website": "radiobelauri.org.np",
+      "codec": "mp3"
+    },
+    {
+      "id": "radio-marsyangdi",
+      "name": "Radio Marsyangdi",
+      "nepali": "रेडियो मर्स्याङ्दी",
+      "frequency": "95 MHz",
+      "tags": [
+        "news",
+        "regional"
+      ],
+      "stream": "http://live.itechnepal.com:9120/stream",
+      "logo": "https://cdn.jsdelivr.net/gh/sauravnr/data-use@c4f51bbe/images/radios/radio-marsyangdi.webp",
+      "website": "radiomarsyangdi.org",
+      "codec": "mp3"
+    },
+    {
+      "id": "buddha-awaaz",
+      "name": "Radio Buddha Awaaz",
+      "nepali": "रेडियो बुद्ध आवाज",
+      "frequency": "89.6 MHz",
+      "tags": [
+        "news",
+        "regional"
+      ],
+      "stream": "https://live.itech.host:9358/stream",
+      "logo": "https://cdn.jsdelivr.net/gh/sauravnr/data-use@c4f51bbe/images/radios/buddha-awaaz.webp",
+      "website": "buddhaawaaz.com",
+      "codec": "mp3"
+    },
+    {
+      "id": "choice-fm",
+      "name": "Choice FM",
+      "nepali": "च्वाइस एफएम",
+      "frequency": "90.4 MHz",
+      "tags": [
+        "music",
+        "regional"
+      ],
+      "stream": "http://live.itechnepal.com:8466/stream",
+      "logo": "https://cdn.jsdelivr.net/gh/sauravnr/data-use@c4f51bbe/images/radios/choice-fm.webp",
+      "website": "choicefm.org",
+      "codec": "mp3"
+    },
+    {
+      "id": "radio-makwanpur",
+      "name": "Radio Makwanpur",
+      "nepali": "रेडियो मकवानपुर",
+      "frequency": "101.3 MHz",
+      "tags": [
+        "news",
+        "regional"
+      ],
+      "stream": "https://streaming.softnep.net:10984/;stream.nsv&type=mp3",
+      "logo": "https://cdn.jsdelivr.net/gh/sauravnr/data-use@c4f51bbe/images/radios/radio-makwanpur.webp",
+      "website": "radiomakawanpur.com",
+      "codec": "mp3"
+    },
+    {
+      "id": "radio-bheriganga",
+      "name": "Radio Bheriganga",
+      "nepali": "रेडियो भेरीगंगा",
+      "frequency": "91.4 MHz",
+      "tags": [
+        "news",
+        "regional"
+      ],
+      "stream": "http://live.itechnepal.com:8001/stream",
+      "logo": "https://cdn.jsdelivr.net/gh/sauravnr/data-use@c4f51bbe/images/radios/radio-bheriganga.webp",
+      "website": "radiobheriganga.com.np",
+      "codec": "mp3"
+    },
+    {
+      "id": "radio-dhorbarahi",
+      "name": "Radio Dhorbarahi",
+      "nepali": "रेडियो ढोरबराही",
+      "frequency": "103.8 MHz",
+      "tags": [
+        "news",
+        "regional"
+      ],
+      "stream": "http://live.itechnepal.com:9491/stream",
+      "logo": "https://cdn.jsdelivr.net/gh/sauravnr/data-use@c4f51bbe/images/radios/radio-dhorbarahi.webp",
+      "website": "radiodhorbarahi.com.np",
+      "codec": "mp3"
+    },
+    {
+      "id": "radio-sanobheri",
+      "name": "Radio Sanobheri",
+      "nepali": "रेडियो सानोभेरी",
+      "frequency": "100.8 MHz",
+      "tags": [
+        "news",
+        "regional"
+      ],
+      "stream": "http://live.itechnepal.com:9425/stream",
+      "logo": "https://cdn.jsdelivr.net/gh/sauravnr/data-use@c4f51bbe/images/radios/radio-sanobheri.webp",
+      "website": "radiosanobheri.com",
+      "codec": "mp3"
+    },
+    {
+      "id": "radio-birat",
+      "name": "Radio Birat",
+      "nepali": "रेडियो विराट",
+      "frequency": "88.5 MHz",
+      "tags": [
+        "music",
+        "regional"
+      ],
+      "stream": "http://live.itechnepal.com:9168/stream",
+      "logo": "https://cdn.jsdelivr.net/gh/sauravnr/data-use@c4f51bbe/images/radios/radio-birat.webp",
+      "website": "radiobirat.com",
+      "codec": "mp3"
+    },
+    {
+      "id": "khandbari-fm",
+      "name": "Khandbari FM",
+      "nepali": "खाँदबारी एफएम",
+      "frequency": "105.8 MHz",
+      "tags": [
+        "news",
+        "regional"
+      ],
+      "stream": "http://live.itechnepal.com:8286/stream",
+      "logo": "https://cdn.jsdelivr.net/gh/sauravnr/data-use@c4f51bbe/images/radios/khandbari-fm.webp",
+      "website": "kfm.com.np",
+      "codec": "mp3"
+    },
+    {
+      "id": "radio-vision",
+      "name": "Radio Vision",
+      "nepali": "रेडियो भिजन",
+      "frequency": "91.6 MHz",
+      "tags": [
+        "music",
+        "regional"
+      ],
+      "stream": "https://live.itech.host:3765/stream",
+      "logo": "https://cdn.jsdelivr.net/gh/sauravnr/data-use@c4f51bbe/images/radios/radio-vision.webp",
+      "website": "radiovision.com.np",
+      "codec": "mp3"
+    },
+    {
+      "id": "nepaliko-radio",
+      "name": "Nepaliko Radio",
+      "nepali": "नेपालीको रेडियो",
+      "frequency": "88.8 MHz",
+      "tags": [
+        "music"
+      ],
+      "stream": "http://streaming.webhostnepal.com:9888/;",
+      "logo": "https://cdn.jsdelivr.net/gh/sauravnr/data-use@c4f51bbe/images/radios/nepaliko-radio.webp",
+      "website": "nepalikoradio.com.np",
+      "codec": "mp3"
+    },
+    {
+      "id": "nagarik-fm",
+      "name": "Nagarik FM",
+      "nepali": "नागरिक एफएम",
+      "frequency": "107.5 MHz",
+      "tags": [
+        "music",
+        "regional"
+      ],
+      "stream": "https://live.itech.host:4675/stream",
+      "logo": "https://cdn.jsdelivr.net/gh/sauravnr/data-use@c4f51bbe/images/radios/nagarik-fm.webp",
+      "website": "nagarikfm.com.np",
+      "codec": "mp3"
+    },
+    {
+      "id": "radio-harpal",
+      "name": "Radio Harpal",
+      "nepali": "रेडियो हरपल",
+      "frequency": "90.9 MHz",
+      "tags": [
+        "news",
+        "regional"
+      ],
+      "stream": "https://online.net.np/8040/stream",
+      "logo": "https://cdn.jsdelivr.net/gh/sauravnr/data-use@c4f51bbe/images/radios/radio-harpal.webp",
+      "website": "radioharpal.com",
+      "codec": "mp3"
+    },
+    {
+      "id": "tilottama-fm",
+      "name": "Tilottama FM",
+      "nepali": "तिलोत्तमा एफएम",
+      "frequency": "96.4 MHz",
+      "tags": [
+        "news",
+        "regional"
+      ],
+      "stream": "https://live.itech.host:4585/stream",
+      "logo": "https://cdn.jsdelivr.net/gh/sauravnr/data-use@c4f51bbe/images/radios/tilottama-fm.webp",
+      "website": "tilottamafm.com",
+      "codec": "mp3"
+    },
+    {
+      "id": "radio-mukti",
+      "name": "Radio Mukti",
+      "nepali": "रेडियो मुक्ति",
+      "frequency": "95.5 MHz",
+      "tags": [
+        "news",
+        "regional"
+      ],
+      "stream": "http://live.itechnepal.com:9156/stream",
+      "logo": "https://cdn.jsdelivr.net/gh/sauravnr/data-use@c4f51bbe/images/radios/radio-mukti.webp",
+      "website": "radiomukti.org",
+      "codec": "mp3"
+    },
+    {
+      "id": "radio-sunwal",
+      "name": "Radio Sunwal",
+      "nepali": "रेडियो सुनवल",
+      "frequency": "90.7 MHz",
+      "tags": [
+        "news",
+        "regional"
+      ],
+      "stream": "http://live.itechnepal.com:8810/stream",
+      "logo": "https://cdn.jsdelivr.net/gh/sauravnr/data-use@c4f51bbe/images/radios/radio-sunwal.webp",
+      "website": "radiosunwal.com.np",
+      "codec": "mp3"
+    },
+    {
+      "id": "radio-gurbaba",
+      "name": "Radio Gurbaba",
+      "nepali": "रेडियो गुर्बाबा",
+      "frequency": "106.4 MHz",
+      "tags": [
+        "news",
+        "regional"
+      ],
+      "stream": "http://live.itechnepal.com:8658/stream",
+      "logo": "https://cdn.jsdelivr.net/gh/sauravnr/data-use@c4f51bbe/images/radios/radio-gurbaba.webp",
+      "website": "radiogurbaba.org.np",
+      "codec": "mp3"
+    },
+    {
+      "id": "navajyoti-fm",
+      "name": "Navajyoti FM",
+      "nepali": "नवज्योति एफएम",
+      "frequency": "88.2 MHz",
+      "tags": [
+        "music",
+        "regional"
+      ],
+      "stream": "http://live.itechnepal.com:8288/stream",
+      "logo": "https://cdn.jsdelivr.net/gh/sauravnr/data-use@c4f51bbe/images/radios/navajyoti-fm.webp",
+      "website": "navajyotifm.com.np",
+      "codec": "mp3"
+    },
+    {
+      "id": "radio-chimteshwor",
+      "name": "Radio Chimteshwor",
+      "nepali": "रेडियो चिम्तेश्वर",
+      "frequency": "90.9 MHz",
+      "tags": [
+        "music",
+        "regional"
+      ],
+      "stream": "http://live.itechnepal.com:8974/stream",
+      "logo": "https://cdn.jsdelivr.net/gh/sauravnr/data-use@c4f51bbe/images/radios/radio-chimteshwor.webp",
+      "website": "friendsfm.com.np",
+      "codec": "mp3"
+    },
+    {
+      "id": "dhurbatara-fm",
+      "name": "Radio Dhurbatara",
+      "nepali": "रेडियो ध्रुवतारा",
+      "frequency": "89.8 MHz",
+      "tags": [
+        "news",
+        "regional"
+      ],
+      "stream": "http://live.itechnepal.com:8834/stream",
+      "logo": "https://cdn.jsdelivr.net/gh/sauravnr/data-use@c4f51bbe/images/radios/dhurbatara-fm.webp",
+      "website": "dtfm.org",
+      "codec": "mp3"
+    },
+    {
+      "id": "radio-safalta",
+      "name": "Radio Safalta",
+      "nepali": "रेडियो सफलता",
+      "frequency": "103.4 MHz",
+      "tags": [
+        "news",
+        "regional"
+      ],
+      "stream": "http://live.itechnepal.com:9144/stream",
+      "logo": "https://cdn.jsdelivr.net/gh/sauravnr/data-use@c4f51bbe/images/radios/radio-safalta.webp",
+      "website": "radiosafalta.com",
+      "codec": "mp3"
+    },
+    {
+      "id": "saptarangi-fm",
+      "name": "Saptarangi FM",
+      "nepali": "सप्तरंगी एफएम",
+      "frequency": "101.6 MHz",
+      "tags": [
+        "news",
+        "regional"
+      ],
+      "stream": "https://streaming.softnep.net:10818/;stream.nsv&type=mp3",
+      "logo": "https://cdn.jsdelivr.net/gh/sauravnr/data-use@c4f51bbe/images/radios/saptarangi-fm.webp",
+      "website": "saptarangifm.com.np",
+      "codec": "mp3"
+    },
+    {
+      "id": "radio-tharuhat",
+      "name": "Radio Tharuhat",
+      "nepali": "रेडियो थरुहट",
+      "frequency": "FM",
+      "tags": [
+        "music",
+        "regional"
+      ],
+      "stream": "https://streaming.webhostnepal.com/8014/stream",
+      "logo": "https://cdn.jsdelivr.net/gh/sauravnr/data-use@c4f51bbe/images/radios/radio-tharuhat.webp",
+      "website": "radiotharuhat.com",
+      "codec": "mp3"
+    },
+    {
+      "id": "radio-madhyabindu",
+      "name": "Radio Madhyabindu",
+      "nepali": "रेडियो मध्यबिन्दु",
+      "frequency": "101 MHz",
+      "tags": [
+        "news",
+        "regional"
+      ],
+      "stream": "http://streaming.softnep.net:8077/;stream.nsv&type=mp3",
+      "logo": "https://cdn.jsdelivr.net/gh/sauravnr/data-use@c4f51bbe/images/radios/radio-madhyabindu.webp",
+      "website": "madhyabindufm.org.np",
+      "codec": "mp3"
+    },
+    {
+      "id": "unique-fm",
+      "name": "Unique FM",
+      "nepali": "युनिक एफएम",
+      "frequency": "97.6 MHz",
+      "tags": [
+        "music",
+        "regional"
+      ],
+      "stream": "https://onlineradio.websoftitnepal.com/8054/stream",
+      "logo": "https://cdn.jsdelivr.net/gh/sauravnr/data-use@c4f51bbe/images/radios/unique-fm.webp",
+      "website": "uniquefm.com.np",
+      "codec": "mp3"
+    },
+    {
+      "id": "radio-taplejung",
+      "name": "Radio Taplejung",
+      "nepali": "रेडियो ताप्लेजुङ",
+      "frequency": "94 MHz",
+      "tags": [
+        "news",
+        "regional"
+      ],
+      "stream": "http://live.itechnepal.com:9012/stream",
+      "logo": "https://cdn.jsdelivr.net/gh/sauravnr/data-use@c4f51bbe/images/radios/radio-taplejung.webp",
+      "website": "radiotaplejung.com",
+      "codec": "mp3"
+    },
+    {
+      "id": "ninglasaini-fm",
+      "name": "Ninglasaini FM",
+      "nepali": "निङ्लाशैनी एफएम",
+      "frequency": "94 MHz",
+      "tags": [
+        "news",
+        "regional"
+      ],
+      "stream": "https://streaming.softnep.net:10908/;stream.nsv&type=mp3",
+      "logo": "https://cdn.jsdelivr.net/gh/sauravnr/data-use@c4f51bbe/images/radios/ninglasaini-fm.webp",
+      "website": "ninglashainionline.com",
+      "codec": "mp3"
+    },
+    {
+      "id": "itahari-fm",
+      "name": "Itahari FM",
+      "nepali": "इटहरी एफएम",
+      "frequency": "92.5 MHz",
+      "tags": [
+        "music",
+        "regional"
+      ],
+      "stream": "https://live.itech.host:2880/stream",
+      "logo": "https://cdn.jsdelivr.net/gh/sauravnr/data-use@c4f51bbe/images/radios/itahari-fm.webp",
+      "website": "itaharifm.com.np",
+      "codec": "mp3"
+    },
+    {
+      "id": "radio-chautari",
+      "name": "Radio Chautari",
+      "nepali": "रेडियो चौतारी",
+      "frequency": "91.4 MHz",
+      "tags": [
+        "music",
+        "regional"
+      ],
+      "stream": "http://live.itechnepal.com:9383/stream",
+      "logo": "https://cdn.jsdelivr.net/gh/sauravnr/data-use@c4f51bbe/images/radios/radio-chautari.webp",
+      "website": "chautarilive.com",
+      "codec": "mp3"
+    },
+    {
+      "id": "tinau-fm",
+      "name": "Tinau FM",
+      "nepali": "तिनाउ एफएम",
+      "frequency": "98.2 MHz",
+      "tags": [
+        "news",
+        "regional"
+      ],
+      "stream": "https://streaming.softnep.net:10854/;stream.nsv&type=mp3",
+      "logo": "https://cdn.jsdelivr.net/gh/sauravnr/data-use@c4f51bbe/images/radios/tinau-fm.webp",
+      "website": "tinaufm.com.np",
       "codec": "mp3"
     }
   ]
