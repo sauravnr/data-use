@@ -2,6 +2,16 @@
   "categories": {
     "ipo": [
       {
+        "symbol": "HPHL",
+        "company": "Him Parbat Hydropower Limited",
+        "units": "3464500",
+        "price": "100",
+        "openingDate": "2026-12-04",
+        "closingDate": "2026-12-09",
+        "status": "Coming Soon",
+        "manager": "Citizens Capital Limited"
+      },
+      {
         "symbol": "BENH",
         "company": "Beni Hydropower Project Limited",
         "units": "863200",
@@ -240,16 +250,6 @@
         "closingDate": "2025-10-15",
         "status": "Closed",
         "manager": "Nabil Investment Banking Limited"
-      },
-      {
-        "symbol": "SAGAR",
-        "company": "Sagar Distillery Limited",
-        "units": "1190640",
-        "price": "100",
-        "openingDate": "2025-09-15",
-        "closingDate": "2025-09-21",
-        "status": "Closed",
-        "manager": "Muktinath Capital Limited"
       }
     ],
     "fpo": [
@@ -738,6 +738,16 @@
     ],
     "mutualfund": [
       {
+        "symbol": "NGF",
+        "company": "Nabil Growth Fund",
+        "units": "100000000",
+        "price": "10",
+        "openingDate": "2026-11-25",
+        "closingDate": "2026-11-30",
+        "status": "Open",
+        "manager": "Nabil Investment Banking Limited"
+      },
+      {
         "symbol": "C50MF",
         "company": "Citizens Super 50",
         "units": "100000000",
@@ -976,16 +986,6 @@
         "closingDate": "2024-12-10",
         "status": "Closed",
         "manager": "Muktinath Capital Limited"
-      },
-      {
-        "symbol": "KSY",
-        "company": "Kumari Sabal Yojana",
-        "units": "100000000",
-        "price": "10",
-        "openingDate": "2024-02-11",
-        "closingDate": "2024-02-25",
-        "status": "Closed",
-        "manager": "Kumari Capital Ltd"
       }
     ],
     "ipolocal": [
@@ -1746,5 +1746,5 @@
     ]
   },
   "source": "ShareSansar",
-  "updated_at": "2026-11-25T00:10:45Z"
+  "updated_at": "2026-11-25T10:34:21Z"
 }
