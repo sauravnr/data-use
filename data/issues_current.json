@@ -1,28 +1,28 @@
 {
   "source": "CDSC",
-  "updated_at": "2026-11-28T09:41:24Z",
+  "updated_at": "2026-11-28T14:36:26Z",
   "data": [
     {
       "company": "Citizens Super 50 - CTZSU50 (IPO - For General Public)",
       "manager": "CITIZENS CAPITAL LIMITED",
       "units": "100000000",
-      "applicants": "34216",
-      "appliedUnits": "105586780",
-      "amount": "1055867800",
+      "applicants": "34813",
+      "appliedUnits": "105769130",
+      "amount": "1057691300",
       "openingDate": "2026-11-18",
       "closingDate": "2026-12-02",
-      "lastUpdate": "2026-11-28 09:15:04"
+      "lastUpdate": "2026-11-28 17:15:03"
     },
     {
       "company": "Kantipur Pharmaceuticals  Lab Limited - KPLL (RESERVED - FOREIGN EMPLOYMENT)",
       "manager": "MUKTINATH CAPITAL LIMITED",
       "units": "90000",
-      "applicants": "47123",
-      "appliedUnits": "753210",
-      "amount": "75321000",
+      "applicants": "50322",
+      "appliedUnits": "805130",
+      "amount": "80513000",
       "openingDate": "2026-11-26",
       "closingDate": "2026-12-01",
-      "lastUpdate": "2026-11-28 09:15:04"
+      "lastUpdate": "2026-11-28 17:15:03"
     },
     {
       "company": "Kantipur Pharmaceuticals  Lab Limited - KPLL (RESERVED - Project Affected Area)",
@@ -39,12 +39,12 @@
       "company": "Nabil Growth Fund - NABILGF (IPO - For General Public)",
       "manager": "NABIL INVESTMENT BANKING LIMITED",
       "units": "100000000",
-      "applicants": "21704",
-      "appliedUnits": "46469870",
-      "amount": "464698700",
+      "applicants": "23051",
+      "appliedUnits": "46980810",
+      "amount": "469808100",
       "openingDate": "2026-11-25",
       "closingDate": "2026-11-30",
-      "lastUpdate": "2026-11-28 09:15:04"
+      "lastUpdate": "2026-11-28 17:15:03"
     }
   ]
 }
